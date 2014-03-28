@@ -69,21 +69,19 @@
 
   <!-- fcd1, 03/26/14: MODS <topic> -->
   <xsl:template name="Topic">
-    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Subject')]">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Subject]">
       <xsl:if test=" . != '' ">
 	<topic><xsl:value-of select="."/></topic>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
 
-  <!-- fcd1, 03/26/14: MODS <originInfo> ?? is this repeatable ?? -->
-  <!-- Even if it is, should/can I include all subelements in just one instance? -->
-  <!-- That is what I will do for now -->
-  <!-- contains <topic>, <???> -->
+  <!-- fcd1, 03/26/14: MODS <subject> -->
+  <!-- <subject> can contain <topic>, as well as <geographic> and <temporal> -->
+  <!-- we will create just one <subject> to contain all the subelements. -->
+  <!-- Contains <topic>, <???> -->
   <xsl:template name="Subject">
     <subject>
-      <!-- fcd1, 03/26/14: Code assumes there is only one start date (the keyDate) -->
-      <!-- and, if present, only one end date -->
       <xsl:call-template name="Topic"/>
     </subject>
   </xsl:template>
