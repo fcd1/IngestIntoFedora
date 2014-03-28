@@ -1,0 +1,9 @@
+# exclude everything except:
+# .gitignore
+# xslt directory
+# RemediatedMetadataPreppedXml
+/*
+*~
+!.gitignore
+!/xslt/
+!/RemediatedMetadataPreppedXml/
