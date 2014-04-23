@@ -69,7 +69,7 @@
 
   <!-- fcd1, 03/26/14: MODS <topic> -->
   <xsl:template name="Topic">
-    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Subject]">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Subject')]">
       <xsl:if test=" . != '' ">
 	<topic><xsl:value-of select="."/></topic>
       </xsl:if>
