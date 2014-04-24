@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:output method="xml" indent = "yes" />
+  <xsl:output method="xml" indent = "yes" encoding="UTF-8"/>
   <xsl:template match="/">
-    <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <xsl:text disable-output-escaping="yes">&lt;modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+</xsl:text>
       <xsl:apply-templates select="root/row"/>
-    </modsCollection>
+      <xsl:text disable-output-escaping="yes">
+	&lt;/modsCollection>
+      </xsl:text>
   </xsl:template>
   <xsl:template match="row">
     <mods>
@@ -19,7 +20,6 @@
       <xsl:call-template name="Location"/>
       <xsl:call-template name="RelatedItemTitleInfoTitle"/>
       <xsl:call-template name="Note"/>
-      <xsl:call-template name="NameNameTerm"/>
       <xsl:call-template name="NameNamePart"/>
       <xsl:call-template name="Subject"/>
       <xsl:call-template name="Abstract"/>
@@ -85,12 +85,12 @@
   <xsl:template name="NameNamePart">
     <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Creator')]">
       <xsl:if test=" . != '' ">
-	<name><namePart type="text"><xsl:value-of select="."/></namePart></name>
+	<name><namePart><xsl:value-of select="."/></namePart></name>
       </xsl:if>
     </xsl:for-each>
     <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Contributor')]">
       <xsl:if test=" . != '' ">
-	<name><namePart type="text"><xsl:value-of select="."/></namePart></name>
+	<name><namePart><xsl:value-of select="."/></namePart></name>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
@@ -194,7 +194,7 @@
 
   <!-- fcd1, 04/23/14: MODS <recordOrigin> Hard-coded -->
   <xsl:template name="RecordOrigin">
-    <recordOrigin authority="marcorg">Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <recordInfo> Not repeatable -->
