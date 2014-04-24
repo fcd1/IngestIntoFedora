@@ -280,12 +280,26 @@
     </copyInformation></holdingSimple>
   </xsl:template>
 
+  <!-- fcd1, 04/24/14: MODS <url>, -->
+  <!-- contains item-in-context url, points to an exhibition page containing item -->
+  <xsl:template name="Url">
+    <xsl:variable name="itemID" select="item_-_itemId/."/>
+    <xsl:for-each select="/root/ItemInContext">
+      <xsl:if test="@id=$itemID">
+	<url access="object in context" usage="primary display">
+	  <xsl:value-of select="." />
+	</url>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+
   <!-- fcd1, 03/26/14: MODS <location>, -->
   <!-- fcd1, 03/26/14: contains <holdingSimple><shelfLocator> -->
   <!-- fcd1, 04/23/14: contains <physicalLocation> -->
   <xsl:template name="Location">
     <location>
       <xsl:apply-templates select="item_-_MODS_-_RepositoryName_-_code"/>
+      <xsl:call-template name="Url"/>
       <xsl:call-template name="HoldingSimpleCopyInformation"/>
     </location>
   </xsl:template>
