@@ -283,9 +283,9 @@
   <!-- fcd1, 04/24/14: MODS <url>, -->
   <!-- contains item-in-context url, points to an exhibition page containing item -->
   <xsl:template name="Url">
-    <xsl:variable name="itemID" select="item_-_itemId/."/>
+    <xsl:variable name="varItemID" select="item_-_itemId/."/>
     <xsl:for-each select="/root/ItemInContext">
-      <xsl:if test="@id=$itemID">
+      <xsl:if test="@itemID=$varItemID">
 	<url access="object in context" usage="primary display">
 	  <xsl:value-of select="." />
 	</url>
