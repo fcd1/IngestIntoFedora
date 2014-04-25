@@ -319,13 +319,24 @@
   <!-- fcd1, 03/26/14: MODS <note> -->
   <xsl:template name="Note">
     <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Notes')]">
-      <xsl:if test=" . != '' ">
+      <!-- fcd1, 04/25/14: Do not process an item_-_MODS_-_Notes that -->
+      <!-- contains "Original filename", since we are getting the origina -->
+      <!-- filename from item_-_OriginalFileLoadedIntoOmeka_ -->
+      <xsl:if test=" . != '' and not(contains(.,'Original filename:'))">
 	<note><xsl:value-of select="."/></note>
       </xsl:if>
     </xsl:for-each>
     <xsl:for-each select="*[starts-with(name(), 'item_-_AdditionalItemMetadata_-_Provenance')]">
       <xsl:if test=" . != '' ">
 	<note type="ownership"><xsl:value-of select="."/></note>
+      </xsl:if>
+    </xsl:for-each>
+    <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka_')]">
+      <xsl:if test=" . != '' ">
+	<!-- fcd1, 04/25/14: assume content already contains "original filename: " -->
+	<!-- which is the case for the Frances Perkins remediated data -->
+	<note><xsl:value-of select="."/></note>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
