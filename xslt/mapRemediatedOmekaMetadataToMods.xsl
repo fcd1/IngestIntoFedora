@@ -211,7 +211,12 @@
   <!-- fcd1, 03/26/14: code assumes the date is already in the correct format in the remediated metadata> -->
   <xsl:template match="item_-_MODS_-_KeyDate_-_Single_Start">
     <xsl:if test=" . != '' ">
-      <dateCreated encoding="w3cdtf" point="start" keyDate="yes" >
+      <!-- fcd1, 04/29/14: move point="start" attribute to <xsl:if ... > -->
+      <!-- because we do not want to include it if there is no end date> -->
+      <dateCreated encoding="w3cdtf" keyDate="yes" >
+	<xsl:if test=" ../item_-_MODS_-_KeyDate_-_End != '' ">
+	  <xsl:attribute name="point">start</xsl:attribute>
+	</xsl:if>
 	<xsl:if test=" ../item_-_MODS_-_TypeofDate != '' ">
 	  <xsl:attribute name="qualifier"><xsl:value-of select="../item_-_MODS_-_TypeofDate"/></xsl:attribute>
 	</xsl:if>
