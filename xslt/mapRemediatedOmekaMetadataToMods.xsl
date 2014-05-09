@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
-                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+		xmlns:xlink="http://www.w3.org/1999/xlink"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <xsl:output method="xml" indent = "yes" encoding="UTF-8"/>
   <xsl:template match="/">
-    <xsl:text disable-output-escaping="yes">&lt;modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-</xsl:text>
+    <modsCollection>
+      <xsl:attribute name="xmlns">http://www.loc.gov/mods/v3</xsl:attribute>
+      <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd</xsl:attribute>
       <xsl:apply-templates select="root/row"/>
-      <xsl:text disable-output-escaping="yes">
-	&lt;/modsCollection>
-      </xsl:text>
+    </modsCollection>
   </xsl:template>
   <xsl:template match="row">
     <mods>
