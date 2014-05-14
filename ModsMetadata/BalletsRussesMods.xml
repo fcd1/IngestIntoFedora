@@ -1,0 +1,4507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <mods>
+    <identifier>1858</identifier>
+    <titleInfo>
+      <title>Dvadt︠s︡atai︠a︡ godovshchina smerti S.P. Di︠a︡gileva</title>
+    </titleInfo>
+    <titleInfo>
+      <title>Twentieth anniversary of Sergei Diaghilev's death</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1949-04-19</dateCreated>
+      <place>
+        <placeTerm type="text">Russia</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Adamovich, Georgiĭ</namePart>
+    </name>
+    <subject>
+      <topic>Diaghilev, Serge, 1872-1929</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001858</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1857</identifier>
+    <titleInfo>
+      <title>Preliminary sketch for set of La Muette de Portici Act IV</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/urban</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Urban, Josef, 1872-1933</namePart>
+    </name>
+    <subject/>
+    <abstract>watercolor.</abstract>
+    <identifier type="Omeka ID">omeka_001857</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1856</identifier>
+    <titleInfo>
+      <title>Production of  La Muette de Portici</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1915</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/urban</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date guessed from date of Joseph Urban's production set sketches for  La Muette de Portici, (Dumb Girl of Portici), created in 1915. The set sketches are in the Joseph Urban Papers at the Rare Books and Manuscripts Library, Columbia University.</note>
+    <name>
+      <namePart>Urban, Josef, 1872-1933</namePart>
+    </name>
+    <subject/>
+    <abstract>Photograph of a production of  La Muette de Portici (Dumb Girl from Portici)</abstract>
+    <identifier type="Omeka ID">omeka_001856</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1855</identifier>
+    <titleInfo>
+      <title>Preliminary sketch for set of La Muette de Portici Act II</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/urban</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Urban, Josef, 1872-1933</namePart>
+    </name>
+    <subject/>
+    <abstract>watercolor.</abstract>
+    <identifier type="Omeka ID">omeka_001855</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1854</identifier>
+    <titleInfo>
+      <title>Production of  La Muette de Portici</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1915</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/urban</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date guessed from date of Joseph Urban's production set sketches for La Muette de Portici, (Dumb Girl of Portici), created in 1915. The set sketches are in the Joseph Urban Papers at the Rare Books and Manuscripts Library, Columbia University.</note>
+    <name>
+      <namePart>Urban, Josef, 1872-1933</namePart>
+    </name>
+    <subject/>
+    <abstract>Photograph of a production of  La Muette de Portici (Dumb Girl from Portici)</abstract>
+    <identifier type="Omeka ID">omeka_001854</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1853</identifier>
+    <titleInfo>
+      <title>Preliminary sketch for set of La Muette de Portici</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/urban</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Urban, Josef, 1872-1933</namePart>
+    </name>
+    <subject/>
+    <abstract>watercolor.</abstract>
+    <identifier type="Omeka ID">omeka_001853</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1852</identifier>
+    <titleInfo>
+      <title>Print of drawing by Aleksandr Benois sent to Simon Lissim</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>prints</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1926</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation>
+          <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Simon Lissim Papers</title>
+      </titleInfo>
+    </relatedItem>
+    <note type="ownership">Gift of Simon Lissim, 1981 and Dorothea Waples Lissim, 1982</note>
+    <name>
+      <namePart>Benois, Alexandre, 1870-1960</namePart>
+    </name>
+    <name>
+      <namePart>Lissim, Simon, 1900-1981</namePart>
+    </name>
+    <subject/>
+    <abstract>Print of a stage drawing, created in 1914 by Aleksandr Benois, sent from the artist to Simon Lissim with an inscription at the bottom.</abstract>
+    <identifier type="Omeka ID">omeka_001852</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1851</identifier>
+    <titleInfo>
+      <title>Ballets Russes: Direction W. De Basil souvenir program, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1935</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1936</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Lissim, Simon, 1900-1981</namePart>
+    </name>
+    <name>
+      <namePart>Ballets russes du Col. W. de Basil</namePart>
+    </name>
+    <name>
+      <namePart>Ballets russes de Monte Carlo</namePart>
+    </name>
+    <subject/>
+    <abstract>Souvenir program for Tour of Colonel W. de Basil's Ballets Russes de Monte-Carlo in the U.S.A.</abstract>
+    <identifier type="Omeka ID">omeka_001851</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1850</identifier>
+    <titleInfo>
+      <title>Costume drawing by Mikhail Larionov sent to Simon Lissim</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>prints</form>
+      <form>drawings</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1922-10-17</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation>
+          <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Simon Lissim Papers</title>
+      </titleInfo>
+    </relatedItem>
+    <note type="ownership">Gift of Simon Lissim, 1981 and Dorothea Waples Lissim, 1982</note>
+    <name>
+      <namePart>Larionov, Mikhail Fedorovich, 1881-1964</namePart>
+    </name>
+    <name>
+      <namePart>Lissim, Simon, 1900-1981</namePart>
+    </name>
+    <subject/>
+    <abstract>Print of a drawing by Mikhail Larionov of man in costume, sent to Simon Lissim. Writing in Russian at bottom of print gives date, message to Lissim.</abstract>
+    <identifier type="Omeka ID">omeka_001850</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1849</identifier>
+    <titleInfo>
+      <title>Ballets Russes de Serge de Diaghilew XIXe Saison Carte de Circulation, délivrée à M. Prince Schervachidze</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1926-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1926-06</dateCreated>
+      <place>
+        <placeTerm type="text">Paris, France</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
+    </name>
+    <name>
+      <namePart>Théâtre Sarah Bernhardt (Paris, France)</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Invitation, Ballets Russes de Monte Carlo.</abstract>
+    <identifier type="Omeka ID">omeka_001849</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1848</identifier>
+    <titleInfo>
+      <title>Ballets Russes de Monte-Carlo: Event Seating Price List</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1926</dateCreated>
+      <place>
+        <placeTerm type="text">Paris, France</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Théâtre de la gaîté (Paris, France)</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes de Monte Carlo</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001848</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1847</identifier>
+    <titleInfo>
+      <title>Theatre de Monte Carlo: Ballets Russes de Serge de Diaghilew ticket</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1926-05-06</dateCreated>
+      <place>
+        <placeTerm type="text">Monte Carlo, Monaco</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Théâtre de Monte-Carlo</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001847</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1846</identifier>
+    <titleInfo>
+      <title>Théâtre National de l'Opéra 1919 - 1920 Saison des Ballets Russes, Serge de Diaghilew, Carte d'Entrée for M. le Prince Schervachidze</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1919</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1922</dateCreated>
+      <place>
+        <placeTerm type="text">Paris, France</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Opéra de Paris</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+      <topic>Shervashidze, Aleksandr, 1867-1968</topic>
+    </subject>
+    <abstract>Ballet Russes, carte d'entree or entrance card belonging to Prince "Schervachidze" (Shervashidze)</abstract>
+    <identifier type="Omeka ID">omeka_001846</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1845</identifier>
+    <titleInfo>
+      <title>Metropolitan Opera Company Presents Serge de Diaghileff's Ballet Russe: Prospectus, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+      <place>
+        <placeTerm type="text">New York, New York (State)</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Metropolitan Opera (New York, N.Y.)</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Prospectus, "The Metropolitan Opera Company presents Serge de Diaghileff's Ballet Russe."</abstract>
+    <identifier type="Omeka ID">omeka_001845</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1844</identifier>
+    <titleInfo>
+      <title>Calendar '79 Nureyev, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1978</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/nureyev</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Vollmer, Jurgen</namePart>
+    </name>
+    <subject>
+      <topic>Nureyev, Rudolf, 1938-1993</topic>
+    </subject>
+    <abstract>Wall Calendar for 1979; "International dance superstar Rudolf Nureyev in thirteen previously unpublished photographs by Jurgen Vollmer." Two photographs of Rudolf Nureyev on front cover.</abstract>
+    <identifier type="Omeka ID">omeka_001844</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1843</identifier>
+    <titleInfo>
+      <title>Rudolf Nureyev with Merle Park in La Bayadère</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1963</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/intro</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <subject>
+      <topic>Nureyev, Rudolf, 1938-1993</topic>
+      <topic>Park, Merle</topic>
+    </subject>
+    <abstract>Production photograph/portrait</abstract>
+    <identifier type="Omeka ID">omeka_001843</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1842</identifier>
+    <titleInfo>
+      <title>Rudolf Nureyev in Romeo and Juliet</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1958</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1993</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/nureyev</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from subject's life dates.</note>
+    <subject>
+      <topic>Nureyev, Rudolf, 1938-1993</topic>
+    </subject>
+    <abstract>Production photograph of Rudolf Nureyev with others in Romeo and Juliet</abstract>
+    <identifier type="Omeka ID">omeka_001842</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1841</identifier>
+    <titleInfo>
+      <title>Royal Opera House, Convent Garden, LTD. Presents the Royal Ballet, program, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1963</dateCreated>
+      <place>
+        <placeTerm type="text">London, England</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/nureyev</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Royal Opera House (London, England)</namePart>
+    </name>
+    <subject>
+      <topic>Stravinsky, Igor, 1882-1971</topic>
+      <topic>Nureyev, Rudolf, 1938-1993</topic>
+      <topic>Rite of spring (Choreographic work)</topic>
+    </subject>
+    <abstract>The Royal Ballet program commemorating the 50th Anniversary of The Rite of Spring by Igor Stravinsky.</abstract>
+    <identifier type="Omeka ID">omeka_001841</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1840</identifier>
+    <titleInfo>
+      <title>Anna Udal'tsova in Ballet Pose and Outfit</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/udaltsova</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <subject>
+      <topic>Udal'tsova, Anna</topic>
+    </subject>
+    <abstract>Portrait of Anna Udal'tsova as ballerina</abstract>
+    <identifier type="Omeka ID">omeka_001840</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1839</identifier>
+    <titleInfo>
+      <title>Dutch National Ballet and Rudolf Nureyev Program, unnumbered page</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>photographs</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1978</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/nureyev</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Nationale Ballet (Netherlands)</namePart>
+    </name>
+    <name>
+      <namePart>Nureyev, Rudolf, 1938-1993</namePart>
+    </name>
+    <subject>
+      <topic>Nureyev, Rudolf, 1938-1993</topic>
+    </subject>
+    <abstract>This page of the program includes photograph of Rudolf Nureyev dancing, with his autograph on the image.</abstract>
+    <identifier type="Omeka ID">omeka_001839</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1838</identifier>
+    <titleInfo>
+      <title>Anna Udal'tsova at Kitchen Table</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1979</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/udaltsova</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <subject>
+      <topic>Udal'tsova, Anna</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001838</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1837</identifier>
+    <titleInfo>
+      <title>Nureyev and the Joffrey Ballet in Homage to Diaghilev, cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1979</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/nureyev</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Foundation for the Joffrey Ballet, Inc.</namePart>
+    </name>
+    <name>
+      <namePart>Nederlander, James</namePart>
+    </name>
+    <name>
+      <namePart>Gorlinsky, S. A.</namePart>
+    </name>
+    <subject>
+      <topic>Nureyev, Rudolf, 1938-1993</topic>
+      <topic>Joffrey Ballet</topic>
+      <topic>Diaghilev, Serge, 1872-1929</topic>
+    </subject>
+    <abstract>Souvenir Program of Rudolf Nureyev and the Joffrey Ballet in Homage to Diaghilev. Includes production photograph on front cover.</abstract>
+    <identifier type="Omeka ID">omeka_001837</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1836</identifier>
+    <titleInfo>
+      <title>Letter from Colonel W. de Basil to Prince Alexander Shervashidze</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1933-01-10</dateCreated>
+      <place>
+        <placeTerm type="text">Parizh</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/basil</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Basil, W. de</namePart>
+    </name>
+    <name>
+      <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
+    </name>
+    <subject/>
+    <abstract>Colonel W. de Basil, typed and signed, letter to Prince Alexander Shervashidze in Neuilly in Russian and on Ballets Russes de Monte-Carlo letterhead.</abstract>
+    <identifier type="Omeka ID">omeka_001836</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1835</identifier>
+    <titleInfo>
+      <title>Colonel W. de Basil Autographed Program, page 3</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>photographs</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1947</dateCreated>
+      <place>
+        <placeTerm type="text">London, England</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/basil</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Seymour, Maurice, 1904-</namePart>
+    </name>
+    <name>
+      <namePart>Basil, W. de</namePart>
+    </name>
+    <subject>
+      <topic>Basil, W. de</topic>
+    </subject>
+    <abstract>Colonel W. de Basil, inscribed photograph in an unnamed program. Page 3 has portrait and autograph of Colonel W. de Basil.</abstract>
+    <identifier type="Omeka ID">omeka_001835</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1834</identifier>
+    <titleInfo>
+      <title>Ballet Russe, Col. W. de Basil, General Director: Program, front page</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1951</dateCreated>
+      <place>
+        <placeTerm type="text">New York, New York (State)</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/basil</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from the life dates of Col. W. de Basil (general director of the production for which the program was created)</note>
+    <name>
+      <namePart>Hurok, Sol, 1888-1974</namePart>
+    </name>
+    <name>
+      <namePart>51st St. Theatre on Broadway</namePart>
+    </name>
+    <subject>
+      <topic>Basil, W. de</topic>
+      <topic>Ballets russes du Col. W. de Basil</topic>
+    </subject>
+    <abstract>Program of Ballet Russe, Colonel W. de Basil.</abstract>
+    <identifier type="Omeka ID">omeka_001834</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1833</identifier>
+    <titleInfo>
+      <title>Letter from Leonide Massine to Francis Steegmüller Concerning an Interview</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1967-02-18</dateCreated>
+      <place>
+        <placeTerm type="text">Hôtel de Paris, Monte-Carlo</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/massine</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Massine, Leonide, 1896-1979</namePart>
+    </name>
+    <name>
+      <namePart>Steegmuller, Francis, 1906-1994</namePart>
+    </name>
+    <subject/>
+    <abstract>Dictated, typed and then signed letter from Leonide Massine to Francis Steegmüller.</abstract>
+    <identifier type="Omeka ID">omeka_001833</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1832</identifier>
+    <titleInfo>
+      <title>Basil's Ballets Russes program, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>prints</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1937</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1938</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/basil</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Briand?</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes du Col. W. de Basil</topic>
+    </subject>
+    <abstract>Program of Colonel W. de Basil's Ballets Russes. Front cover includes print of art by Briand? - artist's signature is unclear.</abstract>
+    <identifier type="Omeka ID">omeka_001832</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1831</identifier>
+    <titleInfo>
+      <title>Faun in "L'Après-Midi d'un Faune"</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>prints</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1916</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/nijinsky</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from date of original work of art, held by the Wadsworth Atheneum Museum of Art in Hartford, Connecticut</note>
+    <name>
+      <namePart>Bakst, Léon, 1866-1924</namePart>
+    </name>
+    <subject>
+      <topic>Nijinsky, Waslaw, 1890-1950</topic>
+      <topic>Afternoon of a faun (Choreographic work : Nijinsky)</topic>
+    </subject>
+    <abstract>Costume design for Vaslav Nijinsky as the Faun from "The Afternoon of a Faun"</abstract>
+    <identifier type="Omeka ID">omeka_001831</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1830</identifier>
+    <titleInfo>
+      <title>Serge De Diaghileff's Ballet Russe: Mme. F. Revalles, M. Grigoriew, Sheherazade</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/intro</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Flore Revalles' life and performance dates.</note>
+    <name>
+      <namePart>Strelecki, Jean de, count</namePart>
+    </name>
+    <subject>
+      <topic>Revalles, Flore</topic>
+      <topic>Grigoriew</topic>
+      <topic>Schéhérazade (Choreographic work)</topic>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Production photograph of F. Revalles and Grigoriew (unknown first name), dancers in Schéhérazade of the Ballets Russes.</abstract>
+    <identifier type="Omeka ID">omeka_001830</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1829</identifier>
+    <titleInfo>
+      <title>Nijinsky: Kaiserl. russischer Ballett Tänzer</title>
+    </titleInfo>
+    <titleInfo>
+      <title>Nijinsky: Imperial Russian Ballet Dancer</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1905</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>Berlin</dateCreated>
+      <publisher>Verl. Herm. Leiser</publisher>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/nijinsky</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from subject's life dates.</note>
+    <name>
+      <namePart>Phot. Bert. Paris</namePart>
+    </name>
+    <subject>
+      <topic>Nijinsky, Waslaw, 1890-1950</topic>
+    </subject>
+    <abstract>Dance portrait of Nijinsky in costume</abstract>
+    <identifier type="Omeka ID">omeka_001829</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1828</identifier>
+    <titleInfo>
+      <title>Postcard from Bronislava Nijinska to M. Doboujinsky</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1944-11</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/nijinska</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Nijinska, Bronislava, 1891-1972</namePart>
+    </name>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Holograph postcard to "M. Doboujinsky" (Mstislav Dobuzhinskiĭ)</abstract>
+    <identifier type="Omeka ID">omeka_001828</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1827</identifier>
+    <titleInfo>
+      <title>Réception que Donneront Les Archives Internationales de la Danse (A.I.D.) en l'Honneur de l'Éminent Créateur de la Chorégraphie Moderne, M. Michel Fokine: Invitation</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1933-12-21</dateCreated>
+      <place>
+        <placeTerm type="text">Passy, Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/fokine</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Archives internationales de la danse</namePart>
+    </name>
+    <subject>
+      <topic>Fokine, Michel, 1880-1942</topic>
+    </subject>
+    <abstract>Invitation to a reception</abstract>
+    <identifier type="Omeka ID">omeka_001827</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1826</identifier>
+    <titleInfo>
+      <title>Portrait of Mikhail Fokine inscribed to Vladimir Zeeler</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1937</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/fokine</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Fokine, Michel, 1880-1942</namePart>
+    </name>
+    <subject>
+      <topic>Fokine, Michel, 1880-1942</topic>
+      <topic>Zeeler, Vladimir Feofilovich, 1874-1954</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001826</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1825</identifier>
+    <titleInfo>
+      <title>Holograph letter from Tamara Karsavina to Robert Brussel, page 2</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1978</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/karsavina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from writer's life dates.</note>
+    <name>
+      <namePart>Karsavina, Tamara</namePart>
+    </name>
+    <name>
+      <namePart>Brussel, Robert</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001825</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1824</identifier>
+    <titleInfo>
+      <title>Holograph letter from Tamara Karsavina to Robert Brussel, page 1</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1978</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/karsavina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from writer's life dates.</note>
+    <name>
+      <namePart>Karsavina, Tamara</namePart>
+    </name>
+    <name>
+      <namePart>Brussel, Robert</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001824</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1823</identifier>
+    <titleInfo>
+      <title>Serg De Diaghileff's Ballet Russe: Petrouchka</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1916</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/strelecki</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Strelecki, Jean de, count</namePart>
+    </name>
+    <subject>
+      <topic>Petrouchka (Choreographic work)</topic>
+    </subject>
+    <abstract>J. de Strelecki photograph of three dancers in a scene from Petrushka by Igor Stravinskii.</abstract>
+    <identifier type="Omeka ID">omeka_001823</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1822</identifier>
+    <titleInfo>
+      <title>Serge De Diaghileff's Ballet Russe: Mme. L. Lopokowa</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1916</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/strelecki</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Strelecki, Jean de, count</namePart>
+    </name>
+    <subject>
+      <topic>Lopokova, Lydia, 1892-1981</topic>
+    </subject>
+    <abstract>J. de Strelecki's photograph of L. Lopokowa and another dancer in costume and dance poses.</abstract>
+    <identifier type="Omeka ID">omeka_001822</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1821</identifier>
+    <titleInfo>
+      <title>Tamara Karsavina's List of Telephone Contacts</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1978</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/karsavina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from creator's life dates.</note>
+    <name>
+      <namePart>Karsavina, Tamara</namePart>
+    </name>
+    <subject/>
+    <abstract>Telephone numbers in Tamara Karsavina's telephone book</abstract>
+    <identifier type="Omeka ID">omeka_001821</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1820</identifier>
+    <titleInfo>
+      <title>Letter from Serge Lifar to Prince Chervachidzé</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1932-06-17</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/lifar</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Lifar, Serge, 1905-1986</namePart>
+    </name>
+    <name>
+      <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed letter from Serge Lifar to Prince Alexander "Chervachidzé" (Shervashidze), signed</abstract>
+    <identifier type="Omeka ID">omeka_001820</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1819</identifier>
+    <titleInfo>
+      <title>Et voici de nouveau les Ballets Russes...</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">France</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/lifar</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Dates inferred from existence dates of Ballets russes de Sergei Diaghilev.</note>
+    <subject>
+      <topic>Ballets russes</topic>
+      <topic>Lifar, Serge, 1905-1986</topic>
+      <topic>Spessivtzeva, Olga, 1895-1991</topic>
+    </subject>
+    <abstract>Clipping from unknown French newspaper, page number unknown</abstract>
+    <identifier type="Omeka ID">omeka_001819</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1818</identifier>
+    <titleInfo>
+      <title>Anna Pavlova and Mikhail Mordkin in Costume and Dance Poses</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1921</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/costume</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Anna Pavlova's life dates.</note>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+      <topic>Mordkin, Mikhail, 1881-1944</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001818</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1817</identifier>
+    <titleInfo>
+      <title>Brightest Constellation of Star Attractions in the Concert and Operatic Firmament</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1911-05-27</dateCreated>
+      <publisher>Musical American Corp.</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Rabinoff, Max</namePart>
+    </name>
+    <subject>
+      <topic>Balalaika Orchestra</topic>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+      <topic>Mordkin, Mikhail, 1881-1944</topic>
+      <topic>Ballets russes</topic>
+      <topic>Smirnov, Dmitriĭ Alekseevich, 1882-1944</topic>
+      <topic>Janpolski, Albert G. (Albert Gregorowich)</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001817</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1816</identifier>
+    <titleInfo>
+      <title>Uncle Sam and Pavlowa as Moscow Artist sees them</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1911-06-17</dateCreated>
+      <publisher>Musical America Corp.</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001816</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1815</identifier>
+    <titleInfo>
+      <title>By Permission of H. I. M. the Czar of Russia and Special Arrangement with the Leading Opera Houses: World Tour of Anna Pavlowa</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1910</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Saint Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Metropolitan Opera (New York, N.Y.)</namePart>
+    </name>
+    <name>
+      <namePart>Russia. Sovereign (1894-1917 : Nicholas II)</namePart>
+    </name>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <abstract>Permission to go on a world tour for Anna Pavlova.</abstract>
+    <identifier type="Omeka ID">omeka_001815</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1814</identifier>
+    <titleInfo>
+      <title>Anna Pavlova, Artiste des Théâtres Impériaux</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersbourg, Russie</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Anna Pavlova's life dates.</note>
+    <name>
+      <namePart>Pavlova, Anna, 1881-1931</namePart>
+    </name>
+    <subject/>
+    <abstract>Anna Pavlova's business card</abstract>
+    <identifier type="Omeka ID">omeka_001814</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1813</identifier>
+    <titleInfo>
+      <title>Anna Pavlova's Autograph</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1909</dateCreated>
+      <place>
+        <placeTerm type="text">Warsaw</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Pavlova, Anna, 1881-1931</namePart>
+    </name>
+    <subject/>
+    <abstract>Page 9 of unknown book</abstract>
+    <identifier type="Omeka ID">omeka_001813</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1812</identifier>
+    <titleInfo>
+      <title>Anna Pavlova portrait</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1921</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/costume</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Anna Pavlova's life dates.</note>
+    <name>
+      <namePart>Mishkin, Herman</namePart>
+    </name>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001812</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1811</identifier>
+    <titleInfo>
+      <title>Souvenir program of Anna Pavlova's American tour, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <publisher>A. Klar</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Brander Mathews Dramatic Museum records</title>
+      </titleInfo>
+    </relatedItem>
+    <note>Date inferred from Anna Pavlova's tour dates.</note>
+    <name>
+      <namePart>Hurok, Sol, 1888-1974</namePart>
+    </name>
+    <name>
+      <namePart>Pavlova, Anna, 1881-1931</namePart>
+    </name>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <abstract>Portrait of Anna Pavlova in ballet costume on front cover.</abstract>
+    <identifier type="Omeka ID">omeka_001811</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1810</identifier>
+    <titleInfo>
+      <title>Programme: Boston Grand Opera Company in Conjunction with the Pavlowa Imperial Ballet Russe, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1915</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1916</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Boston Grand Opera Company</namePart>
+    </name>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+      <topic>Imperial Russian Ballet</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001810</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1809</identifier>
+    <titleInfo>
+      <title>Mme. Anna Pavlowa, Imperial Russian Ballet</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/intro</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Anna Pavlova's life dates.</note>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <abstract>Portrait of Anna Pavlova in ballet outfit and pose</abstract>
+    <identifier type="Omeka ID">omeka_001809</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1808</identifier>
+    <titleInfo>
+      <title>Anna Pavlova in Costume Beside a Lake in England</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <place>
+        <placeTerm type="text">England</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/costume</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Anna Pavlova's life dates.</note>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001808</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1807</identifier>
+    <titleInfo>
+      <title>Anna Pavlova Posing in Theater Costume</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1910</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/costume</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001807</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1806</identifier>
+    <titleInfo>
+      <title>Anna Pavlova Posing as the Swan</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/costume</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from Anna Pavlova's life dates.</note>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001806</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1805</identifier>
+    <titleInfo>
+      <title>Anna Pavlova: Cynge Immortel</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>drawings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/costume</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+    <abstract>Tribute to Anna Pavlova</abstract>
+    <identifier type="Omeka ID">omeka_001805</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1804</identifier>
+    <titleInfo>
+      <title>Observer Diaghilev Exhibition Invitation for Monsieur Matislav Dobuzinsky</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954-11-02</dateCreated>
+      <place>
+        <placeTerm type="text">22, Tudor Street, London, E.C. 4</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <name>
+      <namePart>Observer</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001804</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1803</identifier>
+    <titleInfo>
+      <title>Observer Diaghilev Exhibition Menu, unnumbered page 4</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Fortnum &amp; Mason (Firm)</namePart>
+    </name>
+    <name>
+      <namePart>Observer</namePart>
+    </name>
+    <subject/>
+    <abstract>Cover artwork by Charo or Zharo- cannot determine first letter.</abstract>
+    <identifier type="Omeka ID">omeka_001803</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1802</identifier>
+    <titleInfo>
+      <title>Observer Diaghilev Exhibition Menu, unnumbered page 3</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Fortnum &amp; Mason (Firm)</namePart>
+    </name>
+    <name>
+      <namePart>Observer</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001802</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1801</identifier>
+    <titleInfo>
+      <title>Observer Diaghilev Exhibition Menu, unnumbered page 2</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Fortnum &amp; Mason (Firm)</namePart>
+    </name>
+    <name>
+      <namePart>Observer</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001801</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1800</identifier>
+    <titleInfo>
+      <title>Observer Diaghilev Exhibition Menu, unnumbered page 1</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Fortnum &amp; Mason (Firm)</namePart>
+    </name>
+    <name>
+      <namePart>Observer</namePart>
+    </name>
+    <subject/>
+    <abstract>Cover artwork by Charo or Zharo- cannot determine first letter.</abstract>
+    <identifier type="Omeka ID">omeka_001800</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1799</identifier>
+    <titleInfo>
+      <title>Typed letter from Alexander Gourvitch to M. V. Dobujinsky</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954-12-08</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Gourvitch, Alexander</namePart>
+    </name>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Alexander Gourvitch, typed letter to Mstislav Dobujinksy, signed.
+
+
+
+London, 1954</abstract>
+    <identifier type="Omeka ID">omeka_001799</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1798</identifier>
+    <titleInfo>
+      <title>Typed letter from Richard Buckle to M. Dobujinsky</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954-05-24</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Buckle, Richard</namePart>
+    </name>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Richard Buckle, typed letter to Mstislav Dobujinksy, signed.</abstract>
+    <identifier type="Omeka ID">omeka_001798</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1797</identifier>
+    <titleInfo>
+      <title>Edinburg [sic] Festival 1954: Diaghilev Exhibition Aug. 22 - Sept. 11</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <place>
+        <placeTerm type="text">Edinburgh, Scotland</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Mstislav Dobujinksy' notes on Diaghilev Exhibition at the Edinburgh Festival</abstract>
+    <identifier type="Omeka ID">omeka_001797</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1796</identifier>
+    <titleInfo>
+      <title>Typed Speech Script for Diaghilev Exhibition with Holograph Corrections</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001796</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1795</identifier>
+    <titleInfo>
+      <title>Unknown Scrapbook, page 21</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>scrapbooks</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Page 8 of "catalogue" that is page 21 in an unknown scrapbook</abstract>
+    <identifier type="Omeka ID">omeka_001795</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1794</identifier>
+    <titleInfo>
+      <title>Unknown Scrapbook, page 20</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>scrapbooks</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Page 7 of "catalogue" that is page 20 in an unknown scrapbook</abstract>
+    <identifier type="Omeka ID">omeka_001794</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1793</identifier>
+    <titleInfo>
+      <title>Stage Sets and Costumes by Dobujinsky Program, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1941-04-21</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1941-05-03</dateCreated>
+      <place>
+        <placeTerm type="text">New York City</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/lettersprints</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Marie Sterner Galleries</namePart>
+    </name>
+    <subject>
+      <topic>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</topic>
+    </subject>
+    <abstract>Program for an exhibition of stage sets and costumes by Mstislav Dobujinsky</abstract>
+    <identifier type="Omeka ID">omeka_001793</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1792</identifier>
+    <titleInfo>
+      <title>Sketch of a Ballroom for Eugene Onegin</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1931</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/drawings</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001792</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1791</identifier>
+    <titleInfo>
+      <title>Sketch of Ballerinas</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1885</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1957</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/drawings</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from artist's life dates.</note>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001791</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1790</identifier>
+    <titleInfo>
+      <title>Sketch of a Program Cover for Colonel W. de Basil's Ballets Russes de Monte Carlo</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+      <form>drawings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/drawings</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes du Col. W. de Basil</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001790</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1789</identifier>
+    <titleInfo>
+      <title>Sketch of a Program for Colonel W. de Basil's Ballets Russes de Monte Carlo</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/drawings</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes du Col. W. de Basil</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001789</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1788</identifier>
+    <titleInfo>
+      <title>Sketch of a Program for Colonel W. de Basil's Ballets Russes de Monte Carlo</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+      <form>drawings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/intro</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes du Col. W. de Basil</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001788</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1787</identifier>
+    <titleInfo>
+      <title>Composition Sketch for Eugene Onegin Set</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>paintings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1931</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case3/drawings</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001787</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1786</identifier>
+    <titleInfo>
+      <title>Engraved Bronze Plate for the Illustration of the Polyphemus Episode in James Joyce's Ulysses</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>objects</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <publisher>New York Limited Edition Club</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/souvenirs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Matisse, Henri, 1869-1954</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001786</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1785</identifier>
+    <titleInfo>
+      <title>Ballet Russe de Monte Carlo, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1939</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/souvenirs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Matisse, Henri, 1869-1954</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes de Monte Carlo</topic>
+    </subject>
+    <abstract>Ballets Russes de Monte Carlo Souvenir Program</abstract>
+    <identifier type="Omeka ID">omeka_001785</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1784</identifier>
+    <titleInfo>
+      <title>Letter from Joan Miró to Prince Aleksandr Shervashidze</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1933-03-21</dateCreated>
+      <place>
+        <placeTerm type="text">Barcelona</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/souvenirs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Miró, Joan, 1893-1983</namePart>
+    </name>
+    <name>
+      <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
+    </name>
+    <subject/>
+    <abstract>One page.</abstract>
+    <identifier type="Omeka ID">omeka_001784</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1783</identifier>
+    <titleInfo>
+      <title>Ballets Russes de Serge de Diaghilev Programme, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1921-05</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/souvenirs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Picasso, Pablo, 1881-1973</namePart>
+    </name>
+    <name>
+      <namePart>Théâtre de la gaîté (Paris, France)</namePart>
+    </name>
+    <name>
+      <namePart>Brunoff, Maurice de</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Souvenir program. Front cover has artwork by Pablo Picasso. The program was edited by M. De Brunoff.</abstract>
+    <identifier type="Omeka ID">omeka_001783</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1782</identifier>
+    <titleInfo>
+      <title>Ballets Russes Programme Officiel, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1914-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1914-06</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/intro</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Hugo, Valentine, 1887-1968</namePart>
+    </name>
+    <name>
+      <namePart>Comœdia illustré</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Program for the 9th season of the Ballets Russes. Michel Fokine, choreographic director, and Vera Fokina, lead in Schéhérazade. Costumes by Leon Bakst. Watercolor on cover by Valentine Gross (Hugo). Program edited by the Comœdia illustré.</abstract>
+    <identifier type="Omeka ID">omeka_001782</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1781</identifier>
+    <titleInfo>
+      <title>Poisson d'Or, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>music</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/souvenirs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Goncharova, Natalii︠a︡ Sergeevna, 1881-1962</namePart>
+    </name>
+    <name>
+      <namePart>Berners, Gerald Hugh Tyrwhitt-Wilson, Baron, 1883-1950</namePart>
+    </name>
+    <subject/>
+    <abstract>This image is from a Poisson d'Or souvenir music score. The musical composition is by Lord Berners (Gerald Hugh Tyrwhitt-Wilson); the cover artwork for the score is by N. Goncharowa.</abstract>
+    <identifier type="Omeka ID">omeka_001781</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1780</identifier>
+    <titleInfo>
+      <title>Headshot of Igor Stravinsky</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1912</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1971</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Dates inferred from subject's life dates.</note>
+    <subject>
+      <topic>Stravinsky, Igor, 1882-1971</topic>
+    </subject>
+    <abstract>Portrait of Igor Stravinsky. Possible photographer signature in bottom left corner is illegible.</abstract>
+    <identifier type="Omeka ID">omeka_001780</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1779</identifier>
+    <titleInfo>
+      <title>Telegram from "Diaghileur" to Nicolas Roerich</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1919</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/stravinskii</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <name>
+      <namePart>Roerich, Nicholas, 1874-1947</namePart>
+    </name>
+    <subject/>
+    <abstract>Telegram from Sergei Diaghilev ("Diaghileur") to Nicholas Roerich</abstract>
+    <identifier type="Omeka ID">omeka_001779</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1778</identifier>
+    <titleInfo>
+      <title>Kiss to the Earth</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>drawings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1909</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/stravinskii</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Roerich, Nicholas, 1874-1947</namePart>
+    </name>
+    <subject/>
+    <abstract>Composition sketch for Igor Stravinskii's ballet La Sacred du Printemps.</abstract>
+    <identifier type="Omeka ID">omeka_001778</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1777</identifier>
+    <titleInfo>
+      <title>Scenery Sketch for Nikolai Rimsky-Korsakov's the Maid of Pskov</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>drawings</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1909</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/rimskiikorsakov</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Roerich, Nicholas, 1874-1947</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001777</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1776</identifier>
+    <titleInfo>
+      <title>Nikolai Rimskii-Korsakov Portrait Inscribed to Fiodor Chaliapin</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1907</dateCreated>
+      <place>
+        <placeTerm type="text">Moscow</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/rimskiikorsakov</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Rimsky-Korsakov, Nikolay, 1844-1908</namePart>
+    </name>
+    <name>
+      <namePart>Chaliapin, Fyodor Ivanovich, 1873-1938</namePart>
+    </name>
+    <subject>
+      <topic>Rimsky-Korsakov, Nikolay, 1844-1908</topic>
+    </subject>
+    <abstract>Photograph from Nikolai Rimskii-Korsakov inscribed to Fiodor Chaliapin: "As a keepsake to Fiodor Chaliapin, a Varangian visitor and a great Ivan the Terrible in the Maid of Pskov."</abstract>
+    <identifier type="Omeka ID">omeka_001776</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1775</identifier>
+    <titleInfo>
+      <title>Fiodor Chaliapin as Ivan the Terrible from the Maid of Pskov by Nikolai Rimskii-Korsakov</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1899</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1942</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/rimskiikorsakov</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from subject's life dates.</note>
+    <subject>
+      <topic>Chaliapin, Fyodor Ivanovich, 1873-1938</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001775</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1774</identifier>
+    <titleInfo>
+      <title>Letter from Mikhail Larionov to Prince Aleksandr Shervashidze, page 2</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1929-08-21</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/larionov</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Larionov, Mikhail Fedorovich, 1881-1964</namePart>
+    </name>
+    <name>
+      <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001774</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1773</identifier>
+    <titleInfo>
+      <title>Letter from Mikhail Larionov to Prince Aleksandr Shervashidze, page 1</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1929-08-21</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/larionov</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Larionov, Mikhail Fedorovich, 1881-1964</namePart>
+    </name>
+    <name>
+      <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
+    </name>
+    <subject/>
+    <identifier type="Omeka ID">omeka_001773</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1772</identifier>
+    <titleInfo>
+      <title>Grande Saison de Paris: Six Représentations de Gala: Hélène de Sparte; Six Représentations de Gala: Salomé, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1912-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1912-06</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/programs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Brunoff, Maurice de</namePart>
+    </name>
+    <name>
+      <namePart>Bakst, Léon, 1866-1924</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Les Ballet Russes Souvenir Program. Also the program for the 1912 season of Théâtre du Chatelet. Program designed by Leon Bakst and edited by M. de Brunoff, director of Comoedia Illustré.</abstract>
+    <identifier type="Omeka ID">omeka_001772</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1771</identifier>
+    <titleInfo>
+      <title>Ballets Russes Programme, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1910</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/programs</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Bakst, Léon, 1866-1924</namePart>
+    </name>
+    <name>
+      <namePart>Comœdia illustré</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Souvenir Program for les Ballets Russes at the Théâtre National de l'Opéra. Program edited by Comœdia illustré. Front cover of the program features artwork by Bakst.</abstract>
+    <identifier type="Omeka ID">omeka_001771</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1770</identifier>
+    <titleInfo>
+      <title>Reglamentʺ, unnumbered page 6</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed Agreement with the Russian Ballet Dancers.</abstract>
+    <identifier type="Omeka ID">omeka_001770</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1769</identifier>
+    <titleInfo>
+      <title>Reglamentʺ, unnumbered page 5</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed Agreement with the Russian Ballet Dancers.</abstract>
+    <identifier type="Omeka ID">omeka_001769</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1768</identifier>
+    <titleInfo>
+      <title>Reglamentʺ, unnumbered page 4</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed Agreement with the Russian Ballet Dancers.</abstract>
+    <identifier type="Omeka ID">omeka_001768</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1767</identifier>
+    <titleInfo>
+      <title>Reglamentʺ, unnumbered page 3</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed Agreement with the Russian Ballet Dancers.</abstract>
+    <identifier type="Omeka ID">omeka_001767</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1766</identifier>
+    <titleInfo>
+      <title>Reglamentʺ, unnumbered page 2</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed Agreement with the Russian Ballet Dancers.</abstract>
+    <identifier type="Omeka ID">omeka_001766</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1765</identifier>
+    <titleInfo>
+      <title>Reglamentʺ, unnumbered page 1</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Typed Agreement with the Russian Ballet Dancers.</abstract>
+    <identifier type="Omeka ID">omeka_001765</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1764</identifier>
+    <titleInfo>
+      <title>Draft of a contract, unnumbered page 2</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1911-02-10</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Ballets russes dancers contract draft.</abstract>
+    <identifier type="Omeka ID">omeka_001764</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1763</identifier>
+    <titleInfo>
+      <title>Draft of a contract, unnumbered page 1</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1911-02-10</dateCreated>
+      <place>
+        <placeTerm type="text">St. Petersburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/contracts</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Ballets russes dancers contract draft.</abstract>
+    <identifier type="Omeka ID">omeka_001763</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1762</identifier>
+    <titleInfo>
+      <title>Olga Spessivtzeva as Giselle in ballet by Adolphe Adam</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1937</dateCreated>
+      <place>
+        <placeTerm type="text">Buenos Aires</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/spesivtseva</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Lipnitzki</namePart>
+    </name>
+    <subject>
+      <topic>Spessivtzeva, Olga, 1895-1991</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001762</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1761</identifier>
+    <titleInfo>
+      <title>Mstislav Dobujinsky  Business Card</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1939</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1957</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/business</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <note>Dates inferred from Dobujinsky's dates of residence in New York (date of emigration to date of death).</note>
+    <name>
+      <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
+    </name>
+    <subject/>
+    <abstract>Business card with New York City address</abstract>
+    <identifier type="Omeka ID">omeka_001761</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1760</identifier>
+    <titleInfo>
+      <title>Alexandre Benois Business Card, back</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1923-11-26</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/business</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Benois, Alexandre, 1870-1960</namePart>
+    </name>
+    <subject>
+      <topic>Shervashidze, Aleksandr, 1867-1968</topic>
+    </subject>
+    <abstract>Back (recto) of Alexander Benois' business or calling card, with handwriting in French. Writing mentions "M' le Prince Chervachidze"</abstract>
+    <identifier type="Omeka ID">omeka_001760</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1759</identifier>
+    <titleInfo>
+      <title>Alexandre Benois Business Card, front</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1923-11-26</dateCreated>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/business</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Benois, Alexandre, 1870-1960</namePart>
+    </name>
+    <subject/>
+    <abstract>Back (recto) of this business or calling card has writing in French that mentions "M' le Prince Chervachidze" and the date.</abstract>
+    <identifier type="Omeka ID">omeka_001759</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1758</identifier>
+    <titleInfo>
+      <title>Affidavit about Work by Madame de Holstein for Le Monde Artiste</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1900-12-27</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1901-01-03</dateCreated>
+      <place>
+        <placeTerm type="text">St. Pétersbourg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/business</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject>
+      <topic>Holstein, Madame de</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001758</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1757</identifier>
+    <titleInfo>
+      <title>Mir Iskusstva, numbers 8-9, front cover</title>
+    </titleInfo>
+    <titleInfo>
+      <title>World of Art, numbers 8-9, front cover</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1901</dateCreated>
+      <place>
+        <placeTerm type="text">S. Peterburg</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/miriskusstva</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Diaghilev, Serge, 1872-1929</namePart>
+    </name>
+    <subject/>
+    <abstract>Periodical edited by Serge Diaghilev et al.</abstract>
+    <identifier type="Omeka ID">omeka_001757</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1756</identifier>
+    <titleInfo>
+      <title>Almanach de St.-Pétersbourg, 1913-1914, pages 180 and 181</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1913</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1914</dateCreated>
+      <publisher>Verlagbuchhandlung</publisher>
+      <place>
+        <placeTerm type="text">Leipzig</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/addressbook</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <subject>
+      <topic>Diaghilev, Serge, 1872-1929</topic>
+    </subject>
+    <abstract>Address Book or Almanac of St.-Petersburg. Serge Diaghilev's entry is marked with red arrow.</abstract>
+    <identifier type="Omeka ID">omeka_001756</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1755</identifier>
+    <titleInfo>
+      <title>Souvenir: Serge de Diaghileff's Ballet Russe, title page</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1916</dateCreated>
+      <publisher>Metropolitan Ballet Company, Inc.</publisher>
+      <place>
+        <placeTerm type="text">New York, NY</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/portrait</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Bakst, Léon, 1866-1924</namePart>
+    </name>
+    <subject>
+      <topic>Ballets russes</topic>
+    </subject>
+    <abstract>Page 3 of "Souvenir: Serge de Diaghileff's Ballet Russe" is the title page for the work. On the title page is artwork by Leon Bakst.</abstract>
+    <identifier type="Omeka ID">omeka_001755</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+  <mods>
+    <identifier>1754</identifier>
+    <titleInfo>
+      <title>Souvenir: Serge de Diaghileff's Ballet Russe, unnumbered page 2</title>
+    </titleInfo>
+    <titleInfo>
+      <title>Serge de Diaghileff Et Sa Vielle Bonne</title>
+    </titleInfo>
+    <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+      <form>prints</form>
+    </physicalDescription>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1916</dateCreated>
+      <publisher>Metropolitan Ballet Company, Inc.</publisher>
+      <place>
+        <placeTerm type="text">New York, NY</placeTerm>
+      </place>
+    </originInfo>
+    <location>
+      <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/intro</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+    <relatedItem displayLabel="Project" type="host"/>
+    <name>
+      <namePart>Bakst, Léon, 1866-1924</namePart>
+    </name>
+    <subject>
+      <topic>Diaghilev, Serge, 1872-1929</topic>
+    </subject>
+    <identifier type="Omeka ID">omeka_001754</identifier>
+    <typeOfResource>still image</typeOfResource>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+  </mods>
+</modsCollection>
