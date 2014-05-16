@@ -313,7 +313,7 @@
   <!-- fcd1, 03/26/14: MODS <relatedItem<titleIfo><title> -->
   <!-- Handles the collection name, as stored in Omeka -->
   <xsl:template name="RelatedItemTitleInfoTitle">
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Collection')]">
 	<xsl:if test=" . != '' ">
 	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
