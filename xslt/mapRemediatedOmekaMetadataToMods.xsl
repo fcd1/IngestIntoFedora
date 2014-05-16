@@ -13,8 +13,8 @@
   </xsl:template>
   <xsl:template match="row">
     <mods>
-      <xsl:apply-templates select="item_-_itemId"/>
       <!-- fcd1, 03/26/14: name of template is based on the MODS element it creates -->
+      <xsl:call-template name="Identifier"/>
       <xsl:call-template name="TitleInfo"/>
       <xsl:call-template name="PhysicalDescription"/>
       <xsl:call-template name="OriginInfo"/>
@@ -24,16 +24,11 @@
       <xsl:call-template name="NameNamePart"/>
       <xsl:call-template name="Subject"/>
       <xsl:call-template name="Abstract"/>
-      <xsl:call-template name="Identifier"/>
       <xsl:call-template name="TypeOfResource"/>
       <xsl:call-template name="Language"/>
       <xsl:call-template name="RecordInfo"/>
       <xsl:call-template name="AccessCondition"/>
     </mods>
-  </xsl:template>
-  
-  <xsl:template match="item_-_itemId">
-    <identifier><xsl:value-of select="."/></identifier>
   </xsl:template>
   
   <xsl:template match="*[starts-with(name(), 'item_-_DublinCore_-_Title')]">
@@ -358,14 +353,14 @@
 
   <!-- fcd1, 04/23/14: MODS <identifier> -->
   <xsl:template name="Identifier">
-    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Identifier')]">
-      <xsl:if test=" . != '' ">
-	<identifier><xsl:value-of select="."/></identifier>
-      </xsl:if>
-    </xsl:for-each>
     <xsl:for-each select="*[starts-with(name(), 'item_-_itemId')]">
       <xsl:if test=" . != '' ">
 	<identifier type="Omeka ID"> <xsl:value-of select='concat("omeka_",format-number(., "000000") )' /></identifier>
+      </xsl:if>
+    </xsl:for-each>
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Identifier')]">
+      <xsl:if test=" . != '' ">
+	<identifier><xsl:value-of select="."/></identifier>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
