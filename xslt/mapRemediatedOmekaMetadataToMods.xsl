@@ -306,15 +306,27 @@
   </xsl:template>
 
   <!-- fcd1, 03/26/14: MODS <relatedItem<titleIfo><title> -->
-  <!-- Handles the collection name, as stored in Omeka -->
+  <!-- Handles the collection name, as stored in Omeka, as well as -->
+  <!-- the MODS Collection field -->
+  <!-- fcd1, 05/16/14: need to fix the MODS Collection part, do not want -->
+  <!-- to create an empty <relatedItem/> if there is not MODS Collection value -->
+  <!-- maybe I can move the <relatedItem> into the for-each loop, like I -->
+  <!-- did the Omeka Collection (should only be one, so makes no difference -->
   <xsl:template name="RelatedItemTitleInfoTitle">
-    <relatedItem displayLabel="Collection" type="host">
-      <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Collection')]">
-	<xsl:if test=" . != '' ">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Collection')]">
+      <xsl:if test=" . != '' ">
+	<relatedItem displayLabel="Collection" type="host">
 	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
-	</xsl:if>
-      </xsl:for-each>
-    </relatedItem>
+	</relatedItem>
+      </xsl:if>
+    </xsl:for-each>
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OmekaCollection')]">
+      <xsl:if test=" . != '' ">
+	<relatedItem displayLabel="Project" type="host">
+	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
+	</relatedItem>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
   
   <!-- fcd1, 03/26/14: MODS <note> -->
