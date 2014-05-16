@@ -25,7 +25,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Adamovich, Georgiĭ</namePart>
     </name>
@@ -64,7 +64,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Urban, Josef, 1872-1933</namePart>
     </name>
@@ -102,7 +102,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date guessed from date of Joseph Urban's production set sketches for  La Muette de Portici, (Dumb Girl of Portici), created in 1915. The set sketches are in the Joseph Urban Papers at the Rare Books and Manuscripts Library, Columbia University.</note>
     <name>
       <namePart>Urban, Josef, 1872-1933</namePart>
@@ -141,7 +141,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Urban, Josef, 1872-1933</namePart>
     </name>
@@ -179,7 +179,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date guessed from date of Joseph Urban's production set sketches for La Muette de Portici, (Dumb Girl of Portici), created in 1915. The set sketches are in the Joseph Urban Papers at the Rare Books and Manuscripts Library, Columbia University.</note>
     <name>
       <namePart>Urban, Josef, 1872-1933</namePart>
@@ -218,7 +218,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Urban, Josef, 1872-1933</namePart>
     </name>
@@ -259,7 +259,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Simon Lissim Papers</title>
       </titleInfo>
@@ -306,7 +306,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
@@ -354,7 +354,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Simon Lissim Papers</title>
       </titleInfo>
@@ -404,7 +404,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Shervashidze, Aleksandr, 1867-1968</namePart>
     </name>
@@ -450,7 +450,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Théâtre de la gaîté (Paris, France)</namePart>
     </name>
@@ -492,7 +492,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Théâtre de Monte-Carlo</namePart>
     </name>
@@ -535,7 +535,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Opéra de Paris</namePart>
     </name>
@@ -579,7 +579,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Metropolitan Opera (New York, N.Y.)</namePart>
     </name>
@@ -620,7 +620,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Vollmer, Jurgen</namePart>
     </name>
@@ -660,7 +660,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <subject>
       <topic>Nureyev, Rudolf, 1938-1993</topic>
       <topic>Park, Merle</topic>
@@ -699,7 +699,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from subject's life dates.</note>
     <subject>
       <topic>Nureyev, Rudolf, 1938-1993</topic>
@@ -740,7 +740,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Royal Opera House (London, England)</namePart>
     </name>
@@ -782,7 +782,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <subject>
       <topic>Udal'tsova, Anna</topic>
     </subject>
@@ -821,7 +821,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Nationale Ballet (Netherlands)</namePart>
     </name>
@@ -864,7 +864,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <subject>
       <topic>Udal'tsova, Anna</topic>
     </subject>
@@ -901,7 +901,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Foundation for the Joffrey Ballet, Inc.</namePart>
     </name>
@@ -955,7 +955,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Basil, W. de</namePart>
     </name>
@@ -1004,7 +1004,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Seymour, Maurice, 1904-</namePart>
     </name>
@@ -1051,7 +1051,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from the life dates of Col. W. de Basil (general director of the production for which the program was created)</note>
     <name>
       <namePart>Hurok, Sol, 1888-1974</namePart>
@@ -1099,7 +1099,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Massine, Leonide, 1896-1979</namePart>
     </name>
@@ -1145,7 +1145,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Briand?</namePart>
     </name>
@@ -1185,7 +1185,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from date of original work of art, held by the Wadsworth Atheneum Museum of Art in Hartford, Connecticut</note>
     <name>
       <namePart>Bakst, Léon, 1866-1924</namePart>
@@ -1231,7 +1231,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Flore Revalles' life and performance dates.</note>
     <name>
       <namePart>Strelecki, Jean de, count</namePart>
@@ -1287,7 +1287,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from subject's life dates.</note>
     <name>
       <namePart>Phot. Bert. Paris</namePart>
@@ -1328,7 +1328,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Nijinska, Bronislava, 1891-1972</namePart>
     </name>
@@ -1375,7 +1375,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Archives internationales de la danse</namePart>
     </name>
@@ -1419,7 +1419,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Fokine, Michel, 1880-1942</namePart>
     </name>
@@ -1463,7 +1463,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from writer's life dates.</note>
     <name>
       <namePart>Karsavina, Tamara</namePart>
@@ -1508,7 +1508,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from writer's life dates.</note>
     <name>
       <namePart>Karsavina, Tamara</namePart>
@@ -1552,7 +1552,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Strelecki, Jean de, count</namePart>
     </name>
@@ -1595,7 +1595,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Strelecki, Jean de, count</namePart>
     </name>
@@ -1639,7 +1639,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from creator's life dates.</note>
     <name>
       <namePart>Karsavina, Tamara</namePart>
@@ -1681,7 +1681,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Lifar, Serge, 1905-1986</namePart>
     </name>
@@ -1726,7 +1726,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Dates inferred from existence dates of Ballets russes de Sergei Diaghilev.</note>
     <subject>
       <topic>Ballets russes</topic>
@@ -1767,7 +1767,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Anna Pavlova's life dates.</note>
     <subject>
       <topic>Pavlova, Anna, 1881-1931</topic>
@@ -1809,7 +1809,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Rabinoff, Max</namePart>
     </name>
@@ -1857,7 +1857,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <subject>
       <topic>Pavlova, Anna, 1881-1931</topic>
     </subject>
@@ -1899,7 +1899,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Metropolitan Opera (New York, N.Y.)</namePart>
     </name>
@@ -1946,7 +1946,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Anna Pavlova's life dates.</note>
     <name>
       <namePart>Pavlova, Anna, 1881-1931</namePart>
@@ -1989,7 +1989,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Pavlova, Anna, 1881-1931</namePart>
     </name>
@@ -2031,7 +2031,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Anna Pavlova's life dates.</note>
     <name>
       <namePart>Mishkin, Herman</namePart>
@@ -2076,7 +2076,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Brander Mathews Dramatic Museum records</title>
       </titleInfo>
@@ -2125,7 +2125,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Boston Grand Opera Company</namePart>
     </name>
@@ -2166,7 +2166,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Anna Pavlova's life dates.</note>
     <subject>
       <topic>Pavlova, Anna, 1881-1931</topic>
@@ -2208,7 +2208,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Anna Pavlova's life dates.</note>
     <subject>
       <topic>Pavlova, Anna, 1881-1931</topic>
@@ -2245,7 +2245,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <subject>
       <topic>Pavlova, Anna, 1881-1931</topic>
     </subject>
@@ -2282,7 +2282,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from Anna Pavlova's life dates.</note>
     <subject>
       <topic>Pavlova, Anna, 1881-1931</topic>
@@ -2319,7 +2319,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2362,7 +2362,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2405,7 +2405,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Fortnum &amp; Mason (Firm)</namePart>
     </name>
@@ -2449,7 +2449,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Fortnum &amp; Mason (Firm)</namePart>
     </name>
@@ -2492,7 +2492,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Fortnum &amp; Mason (Firm)</namePart>
     </name>
@@ -2535,7 +2535,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Fortnum &amp; Mason (Firm)</namePart>
     </name>
@@ -2579,7 +2579,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Gourvitch, Alexander</namePart>
     </name>
@@ -2627,7 +2627,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Buckle, Richard</namePart>
     </name>
@@ -2671,7 +2671,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2712,7 +2712,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2748,7 +2748,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2786,7 +2786,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2828,7 +2828,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Marie Sterner Galleries</namePart>
     </name>
@@ -2868,7 +2868,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2906,7 +2906,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from artist's life dates.</note>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
@@ -2948,7 +2948,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -2990,7 +2990,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -3033,7 +3033,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -3072,7 +3072,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
     </name>
@@ -3113,7 +3113,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Matisse, Henri, 1869-1954</namePart>
     </name>
@@ -3154,7 +3154,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Matisse, Henri, 1869-1954</namePart>
     </name>
@@ -3197,7 +3197,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Miró, Joan, 1893-1983</namePart>
     </name>
@@ -3241,7 +3241,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Picasso, Pablo, 1881-1973</namePart>
     </name>
@@ -3291,7 +3291,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Hugo, Valentine, 1887-1968</namePart>
     </name>
@@ -3334,7 +3334,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Goncharova, Natalii︠a︡ Sergeevna, 1881-1962</namePart>
     </name>
@@ -3378,7 +3378,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Dates inferred from subject's life dates.</note>
     <subject>
       <topic>Stravinsky, Igor, 1882-1971</topic>
@@ -3416,7 +3416,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
     </name>
@@ -3460,7 +3460,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Roerich, Nicholas, 1874-1947</namePart>
     </name>
@@ -3498,7 +3498,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Roerich, Nicholas, 1874-1947</namePart>
     </name>
@@ -3539,7 +3539,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Rimsky-Korsakov, Nikolay, 1844-1908</namePart>
     </name>
@@ -3583,7 +3583,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from subject's life dates.</note>
     <subject>
       <topic>Chaliapin, Fyodor Ivanovich, 1873-1938</topic>
@@ -3623,7 +3623,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Larionov, Mikhail Fedorovich, 1881-1964</namePart>
     </name>
@@ -3666,7 +3666,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Larionov, Mikhail Fedorovich, 1881-1964</namePart>
     </name>
@@ -3710,7 +3710,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Brunoff, Maurice de</namePart>
     </name>
@@ -3756,7 +3756,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Bakst, Léon, 1866-1924</namePart>
     </name>
@@ -3803,7 +3803,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
@@ -3846,7 +3846,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
@@ -3889,7 +3889,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
@@ -3932,7 +3932,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
@@ -3975,7 +3975,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
@@ -4018,7 +4018,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Date inferred from existence dates of Ballets russes de Sergei Diaghilev</note>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
@@ -4060,7 +4060,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
     </name>
@@ -4101,7 +4101,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
     </name>
@@ -4142,7 +4142,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Lipnitzki</namePart>
     </name>
@@ -4185,7 +4185,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Dates inferred from Dobujinsky's dates of residence in New York (date of emigration to date of death).</note>
     <name>
       <namePart>Dobuzhinskiĭ, Mstislav Valerianovich, 1875-1957</namePart>
@@ -4225,7 +4225,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Benois, Alexandre, 1870-1960</namePart>
     </name>
@@ -4265,7 +4265,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Benois, Alexandre, 1870-1960</namePart>
     </name>
@@ -4307,7 +4307,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
     </name>
@@ -4352,7 +4352,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Diaghilev, Serge, 1872-1929</namePart>
     </name>
@@ -4395,7 +4395,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <subject>
       <topic>Diaghilev, Serge, 1872-1929</topic>
     </subject>
@@ -4436,7 +4436,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Bakst, Léon, 1866-1924</namePart>
     </name>
@@ -4484,7 +4484,7 @@ London, 1954</abstract>
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <name>
       <namePart>Bakst, Léon, 1866-1924</namePart>
     </name>

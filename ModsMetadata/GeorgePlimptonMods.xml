@@ -23,7 +23,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -83,7 +83,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -134,7 +134,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -189,7 +189,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -244,7 +244,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -298,7 +298,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -350,7 +350,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -399,7 +399,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -458,7 +458,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -514,7 +514,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -567,7 +567,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -622,7 +622,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -679,7 +679,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -729,7 +729,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -773,7 +773,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -828,7 +828,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -880,7 +880,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -932,7 +932,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -984,7 +984,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -1039,7 +1039,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1093,7 +1093,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1146,7 +1146,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -1197,7 +1197,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -1248,7 +1248,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George Washington Papers</title>
       </titleInfo>
@@ -1303,7 +1303,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1364,7 +1364,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1415,7 +1415,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1468,7 +1468,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1520,7 +1520,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -1569,7 +1569,7 @@
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -1625,7 +1625,7 @@
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Oriental Manuscripts</title>
       </titleInfo>
@@ -1697,7 +1697,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -1749,7 +1749,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -1800,7 +1800,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note>Plimpton Coll File Folder</note>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_119_001.tif</note>
@@ -1847,7 +1847,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -1899,7 +1899,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1955,7 +1955,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -1999,7 +1999,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -2054,7 +2054,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Reference</title>
       </titleInfo>
@@ -2109,7 +2109,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Smith Japanese</title>
       </titleInfo>
@@ -2160,7 +2160,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2212,7 +2212,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2270,7 +2270,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2323,7 +2323,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -2375,7 +2375,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2424,7 +2424,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -2479,7 +2479,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2532,7 +2532,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Hornbooks</title>
       </titleInfo>
@@ -2582,7 +2582,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -2631,7 +2631,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -2683,7 +2683,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2736,7 +2736,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2789,7 +2789,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2841,7 +2841,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2889,7 +2889,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -2944,7 +2944,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -2997,7 +2997,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -3045,7 +3045,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -3094,7 +3094,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -3149,7 +3149,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3200,7 +3200,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -3250,7 +3250,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -3305,7 +3305,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3359,7 +3359,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3411,7 +3411,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3462,7 +3462,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -3520,7 +3520,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3569,7 +3569,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -3619,7 +3619,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3671,7 +3671,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -3725,7 +3725,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3778,7 +3778,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3833,7 +3833,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3882,7 +3882,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3934,7 +3934,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -3981,7 +3981,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -4031,7 +4031,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -4087,7 +4087,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4140,7 +4140,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4192,7 +4192,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4244,7 +4244,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4291,7 +4291,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -4343,7 +4343,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -4398,7 +4398,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4453,7 +4453,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Oriental Manuscripts</title>
       </titleInfo>
@@ -4497,7 +4497,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -4552,7 +4552,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -4604,7 +4604,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4662,7 +4662,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4717,7 +4717,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4766,7 +4766,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4820,7 +4820,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Hornbooks</title>
       </titleInfo>
@@ -4870,7 +4870,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -4923,7 +4923,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -4978,7 +4978,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5034,7 +5034,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5078,7 +5078,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5129,7 +5129,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5181,7 +5181,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -5234,7 +5234,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5290,7 +5290,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5343,7 +5343,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5396,7 +5396,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5449,7 +5449,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5501,7 +5501,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5556,7 +5556,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5608,7 +5608,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5666,7 +5666,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Hornbooks</title>
       </titleInfo>
@@ -5714,7 +5714,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host"/>
+    <relatedItem displayLabel="Collection" type="host"/>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_098_001.tif</note>
     <note>PLMPTN_098_002.tif</note>
@@ -5774,7 +5774,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5826,7 +5826,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5879,7 +5879,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -5932,7 +5932,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Reference</title>
       </titleInfo>
@@ -5984,7 +5984,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6037,7 +6037,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -6090,7 +6090,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6140,7 +6140,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -6191,7 +6191,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6245,7 +6245,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Hornbooks</title>
       </titleInfo>
@@ -6292,7 +6292,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6344,7 +6344,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -6397,7 +6397,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
@@ -6451,7 +6451,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6507,7 +6507,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Collection File</title>
       </titleInfo>
@@ -6556,7 +6556,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6609,7 +6609,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -6666,7 +6666,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6722,7 +6722,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6777,7 +6777,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6830,7 +6830,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -6885,7 +6885,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6937,7 +6937,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -6989,7 +6989,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7042,7 +7042,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7097,7 +7097,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7148,7 +7148,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -7202,7 +7202,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -7260,7 +7260,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7315,7 +7315,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7368,7 +7368,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -7419,7 +7419,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Cuneiform</title>
       </titleInfo>
@@ -7468,7 +7468,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7521,7 +7521,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Incunabula</title>
       </titleInfo>
@@ -7578,7 +7578,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
       </titleInfo>
@@ -7629,7 +7629,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Hornbooks</title>
       </titleInfo>
@@ -7673,7 +7673,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton Family Papers</title>
       </titleInfo>
@@ -7723,7 +7723,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         </copyInformation>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Smith Instruments</title>
       </titleInfo>
@@ -7765,7 +7765,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <copyInformation/>
       </holdingSimple>
     </location>
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
       </titleInfo>
