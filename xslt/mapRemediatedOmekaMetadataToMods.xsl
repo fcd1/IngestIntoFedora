@@ -366,10 +366,18 @@
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <typeOfResource> -->
-  <!-- fcd1, 03/24/14: for now, hard coded to still image, since Omeka collection to be processed -->
-  <!-- via this xslt only have jpg -->
+  <!-- use the value in itemType, but make it all lowercase -->
+  <!-- fcd1, 05/16/14: CUL specs specify that, if no itemType is given in the metadata, -->
+  <!-- then generate one based on the file type of the associated loaded files. THIS IS NOT IMPLEMENTED -->
+  <!-- It is probably easier to put in the itemType in the remediated data, based on the file type -->
   <xsl:template name="TypeOfResource">
-    <typeOfResource>still image</typeOfResource>
+    <xsl:for-each select="*[starts-with(name(), 'item_-_ItemType')]">
+      <xsl:if test=" . != '' ">
+	<xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
+	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
+	<typeOfResource><xsl:value-of select="translate(.,$uppercase,$smallcase)"/></typeOfResource>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <language> -->
