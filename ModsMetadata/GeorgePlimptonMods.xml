@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods>
-    <identifier>1</identifier>
+    <identifier type="Omeka ID">omeka_000001</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton regarding honorary degree, March 4, 1929</title>
     </titleInfo>
@@ -41,7 +41,6 @@
     <subject>
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000001</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -55,7 +54,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>2</identifier>
+    <identifier type="Omeka ID">omeka_000002</identifier>
+    <identifier>CLIO id: 2451401</identifier>
     <titleInfo>
       <title>Of the Advancement and Proficience of Learning, or, the Partitions of Sciences</title>
     </titleInfo>
@@ -96,8 +96,6 @@
     <subject>
       <topic>Science</topic>
     </subject>
-    <identifier>CLIO id: 2451401</identifier>
-    <identifier type="Omeka ID">omeka_000002</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -111,7 +109,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>3</identifier>
+    <identifier type="Omeka ID">omeka_000003</identifier>
     <titleInfo>
       <title>Telegram to George Arthur Plimpton, October 22, 1922</title>
     </titleInfo>
@@ -150,7 +148,6 @@
     <subject>
       <topic>American Red Cross</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000003</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -164,7 +161,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>4</identifier>
+    <identifier type="Omeka ID">omeka_000004</identifier>
     <titleInfo>
       <title>Wellesley College Library Bookplate</title>
     </titleInfo>
@@ -205,7 +202,6 @@
     <subject>
       <topic>Wellesley College Library</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000004</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -219,7 +215,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>5</identifier>
+    <identifier type="Omeka ID">omeka_000005</identifier>
     <titleInfo>
       <title>Rhetorica ad Herennium</title>
     </titleInfo>
@@ -260,7 +256,6 @@
     <subject>
       <topic>Rhetoric</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000005</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -274,7 +269,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>6</identifier>
+    <identifier type="Omeka ID">omeka_000006</identifier>
     <titleInfo>
       <title>Amherst Class of 1876</title>
     </titleInfo>
@@ -311,7 +306,6 @@
     <subject>
       <topic>Amherst College</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000006</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -325,7 +319,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>7</identifier>
+    <identifier type="Omeka ID">omeka_000007</identifier>
     <titleInfo>
       <title>Liber mahometi de Algebra</title>
     </titleInfo>
@@ -363,7 +357,6 @@
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000007</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -377,7 +370,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>8</identifier>
+    <identifier type="Omeka ID">omeka_000008</identifier>
     <titleInfo>
       <title>Letter to George A. Plimpton, April 3, 1902</title>
     </titleInfo>
@@ -418,7 +411,6 @@
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000008</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -432,7 +424,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>9</identifier>
+    <identifier type="Omeka ID">omeka_000009</identifier>
+    <identifier>CLIO id: 1623605</identifier>
     <titleInfo>
       <title>Computus cum Commento</title>
     </titleInfo>
@@ -471,8 +464,6 @@
     <subject>
       <topic>Calendar</topic>
     </subject>
-    <identifier>CLIO id: 1623605</identifier>
-    <identifier type="Omeka ID">omeka_000009</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -486,7 +477,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>10</identifier>
+    <identifier type="Omeka ID">omeka_000010</identifier>
+    <identifier>CLIO id: 1982310</identifier>
     <titleInfo>
       <title>Arts Glory, or, The Pen-Mans Treasury</title>
     </titleInfo>
@@ -527,8 +519,6 @@
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1982310</identifier>
-    <identifier type="Omeka ID">omeka_000010</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -542,7 +532,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>11</identifier>
+    <identifier type="Omeka ID">omeka_000011</identifier>
+    <identifier>CLIO id: 1905301</identifier>
     <titleInfo>
       <title>Gaskell’s Complete Compendium of Elegant Writing</title>
     </titleInfo>
@@ -581,8 +572,6 @@
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1905301</identifier>
-    <identifier type="Omeka ID">omeka_000011</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -596,7 +585,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>13</identifier>
+    <identifier type="Omeka ID">omeka_000013</identifier>
     <titleInfo>
       <title>Gramaticall Cards, Comprising the Generall Rules of Lilley’s Gramer</title>
     </titleInfo>
@@ -640,7 +629,6 @@
       <topic>Latin language--Grammar</topic>
     </subject>
     <abstract>52 cards. Imperfect: 2 cards missing (10 of clubs; 8 of diamonds)</abstract>
-    <identifier type="Omeka ID">omeka_000013</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -654,7 +642,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>14</identifier>
+    <identifier type="Omeka ID">omeka_000014</identifier>
+    <identifier>CLIO id: 2428665</identifier>
     <titleInfo>
       <title>Margarita Philosophica</title>
     </titleInfo>
@@ -692,8 +681,6 @@
     <subject>
       <topic>Encyclopedias and dictionaries, Latin</topic>
     </subject>
-    <identifier>CLIO id: 2428665</identifier>
-    <identifier type="Omeka ID">omeka_000014</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -707,7 +694,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>15</identifier>
+    <identifier type="Omeka ID">omeka_000015</identifier>
     <titleInfo>
       <title>Lewis Farm</title>
     </titleInfo>
@@ -738,7 +725,6 @@
     <subject>
       <topic>Lewis Farm (Walpole, Mass.)</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000015</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -752,7 +738,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>16</identifier>
+    <identifier type="Omeka ID">omeka_000016</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, August 18th, 1926</title>
     </titleInfo>
@@ -789,7 +775,6 @@
     <subject>
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000016</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -803,7 +788,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>17</identifier>
+    <identifier type="Omeka ID">omeka_000017</identifier>
     <titleInfo>
       <title>De Institutione Musica</title>
     </titleInfo>
@@ -841,7 +826,6 @@
     <subject>
       <topic>Music theory</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000017</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -855,7 +839,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>18</identifier>
+    <identifier type="Omeka ID">omeka_000018</identifier>
     <titleInfo>
       <title>Latin Grammar</title>
     </titleInfo>
@@ -890,7 +874,6 @@
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000018</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -904,7 +887,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>19</identifier>
+    <identifier type="Omeka ID">omeka_000019</identifier>
     <titleInfo>
       <title>Orbis sensualium pictus</title>
     </titleInfo>
@@ -948,7 +931,6 @@
     <subject>
       <topic>Latin language</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000019</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -962,7 +944,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>20</identifier>
+    <identifier type="Omeka ID">omeka_000020</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, Dec. 16, 1935</title>
     </titleInfo>
@@ -1000,7 +982,6 @@
     <subject>
       <topic>Phillips Exeter Academy</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000020</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1014,7 +995,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>22</identifier>
+    <identifier type="Omeka ID">omeka_000022</identifier>
+    <identifier>CLIO id: 6196599</identifier>
     <titleInfo>
       <title>Boke Named the Governour</title>
     </titleInfo>
@@ -1053,8 +1035,6 @@
     <subject>
       <topic>Kings and rulers--Duties</topic>
     </subject>
-    <identifier>CLIO id: 6196599</identifier>
-    <identifier type="Omeka ID">omeka_000022</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1068,7 +1048,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>23</identifier>
+    <identifier type="Omeka ID">omeka_000023</identifier>
     <titleInfo>
       <title>American Geography: or, A View of the Present Situation of the United States of America. Containing Astronomical Geography. Geographical Definitions. Discovery, and General Description of America</title>
     </titleInfo>
@@ -1106,7 +1086,6 @@
     <subject>
       <topic>United States--Description and travel</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000023</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1120,7 +1099,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>24</identifier>
+    <identifier type="Omeka ID">omeka_000024</identifier>
+    <identifier>CLIO id: 1623592</identifier>
     <titleInfo>
       <title>Algorithmus Integrorum cum Probis Annexis</title>
     </titleInfo>
@@ -1159,8 +1139,6 @@
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier>CLIO id: 1623592</identifier>
-    <identifier type="Omeka ID">omeka_000024</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1174,7 +1152,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>25</identifier>
+    <identifier type="Omeka ID">omeka_000025</identifier>
     <titleInfo>
       <title>Telegram to George Arthur Plimpton, 9 January 1917</title>
     </titleInfo>
@@ -1213,7 +1191,6 @@
     <subject>
       <topic>Peace</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000025</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1227,7 +1204,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>26</identifier>
+    <identifier type="Omeka ID">omeka_000026</identifier>
     <titleInfo>
       <title>Autograph letter by George Washington, signed, to Nicholas Pike</title>
     </titleInfo>
@@ -1264,7 +1241,6 @@
       <topic>Pike, Nicolas, 1743-1819</topic>
       <topic>Education</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000026</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1278,7 +1254,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>27</identifier>
+    <identifier type="Omeka ID">omeka_000027</identifier>
     <titleInfo>
       <title>Chronique Universelle</title>
     </titleInfo>
@@ -1322,7 +1298,6 @@
     <subject>
       <topic>History</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000027</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -1336,7 +1311,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>28</identifier>
+    <identifier type="Omeka ID">omeka_000028</identifier>
     <titleInfo>
       <title>Sententiarum Libri IV</title>
     </titleInfo>
@@ -1377,7 +1352,6 @@
     <subject>
       <topic>Catholic Church</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000028</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1391,7 +1365,8 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>29</identifier>
+    <identifier type="Omeka ID">omeka_000029</identifier>
+    <identifier>CLIO id: 1367030</identifier>
     <titleInfo>
       <title>Arithmetiqve made easie</title>
     </titleInfo>
@@ -1428,8 +1403,6 @@
     <subject>
       <topic>Arithmetic</topic>
     </subject>
-    <identifier>CLIO id: 1367030</identifier>
-    <identifier type="Omeka ID">omeka_000029</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1443,7 +1416,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>30</identifier>
+    <identifier type="Omeka ID">omeka_000030</identifier>
     <titleInfo>
       <title>Rudiments of Latin Prosody</title>
     </titleInfo>
@@ -1481,7 +1454,6 @@
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000030</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1495,7 +1467,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>31</identifier>
+    <identifier type="Omeka ID">omeka_000031</identifier>
     <titleInfo>
       <title>Account book of slave trading expedition, 1791-1792</title>
     </titleInfo>
@@ -1533,7 +1505,6 @@
     <subject>
       <topic>Slavery</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000031</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1547,7 +1518,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>32</identifier>
+    <identifier type="Omeka ID">omeka_000032</identifier>
     <titleInfo>
       <title>Letter to George A. Plimpton regarding new building and collection</title>
     </titleInfo>
@@ -1584,7 +1555,6 @@
     <subject>
       <topic>Butler Library</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000032</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1598,7 +1568,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>33</identifier>
+    <identifier type="Omeka ID">omeka_000033</identifier>
     <titleInfo>
       <title>Risālah fī al-ʻamal bi'l-asṭurlāb</title>
     </titleInfo>
@@ -1658,7 +1628,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <topic>Astrolabes</topic>
       <geographic>Arab provinces of the Ottoman Empire</geographic>
     </subject>
-    <identifier type="Omeka ID">omeka_000033</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
@@ -1672,7 +1641,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>34</identifier>
+    <identifier type="Omeka ID">omeka_000034</identifier>
     <titleInfo>
       <title>Introduction to the facsimile of of the John Johnston account book</title>
     </titleInfo>
@@ -1710,7 +1679,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Slavery</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000034</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1724,7 +1692,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>35</identifier>
+    <identifier type="Omeka ID">omeka_000035</identifier>
+    <identifier>CLIO id: 1079623</identifier>
     <titleInfo>
       <title>Quadripartitum</title>
     </titleInfo>
@@ -1762,8 +1731,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Astrology, Greek</topic>
     </subject>
-    <identifier>CLIO id: 1079623</identifier>
-    <identifier type="Omeka ID">omeka_000035</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1777,7 +1744,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>36</identifier>
+    <identifier type="Omeka ID">omeka_000036</identifier>
+    <identifier>CLIO id: 3402156</identifier>
     <titleInfo>
       <title>Bibliotheca Columbiana, Number 4, August 1937</title>
     </titleInfo>
@@ -1810,8 +1778,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Friends of the Columbia Libraries</topic>
     </subject>
-    <identifier>CLIO id: 3402156</identifier>
-    <identifier type="Omeka ID">omeka_000036</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1825,7 +1791,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>37</identifier>
+    <identifier type="Omeka ID">omeka_000037</identifier>
     <titleInfo>
       <title>Fifty Years as a Publisher</title>
     </titleInfo>
@@ -1860,7 +1826,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000037</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1874,7 +1839,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>38</identifier>
+    <identifier type="Omeka ID">omeka_000038</identifier>
+    <identifier>CLIO id: 5551593</identifier>
     <titleInfo>
       <title>Elements of Geometrie of the most auncient philosopher Euclide of Megara</title>
     </titleInfo>
@@ -1915,8 +1881,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Geometry</topic>
     </subject>
-    <identifier>CLIO id: 5551593</identifier>
-    <identifier type="Omeka ID">omeka_000038</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1930,7 +1894,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>40</identifier>
+    <identifier type="Omeka ID">omeka_000040</identifier>
     <titleInfo>
       <title>Student Notes on Aristotle’s Logical Works</title>
     </titleInfo>
@@ -1966,7 +1930,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Aristotle</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000040</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -1980,7 +1943,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>41</identifier>
+    <identifier type="Omeka ID">omeka_000041</identifier>
     <titleInfo>
       <title>Letter to Caroline Hazard</title>
     </titleInfo>
@@ -2015,7 +1978,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Wellesley College Library</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000041</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2029,7 +1991,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>42</identifier>
+    <identifier type="Omeka ID">omeka_000042</identifier>
+    <identifier>CLIO id: 384621</identifier>
     <titleInfo>
       <title>Education of Chaucer Illustrated from the Schoolbooks in Use in His Time</title>
     </titleInfo>
@@ -2066,8 +2029,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Chaucer, Geoffrey, d. 1400</topic>
     </subject>
-    <identifier>CLIO id: 384621</identifier>
-    <identifier type="Omeka ID">omeka_000042</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2081,7 +2042,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>43</identifier>
+    <identifier type="Omeka ID">omeka_000043</identifier>
     <titleInfo>
       <title>Oranda tensetsu</title>
     </titleInfo>
@@ -2122,7 +2083,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Astronomy</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000043</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">jpn</languageTerm>
@@ -2136,7 +2096,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>44</identifier>
+    <identifier type="Omeka ID">omeka_000044</identifier>
     <titleInfo>
       <title>Arithmetic Exercises from Manuscript Sum Book</title>
     </titleInfo>
@@ -2173,7 +2133,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Lincoln, Abraham, 1809-1865</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000044</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2187,7 +2146,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>45</identifier>
+    <identifier type="Omeka ID">omeka_000045</identifier>
+    <identifier>CLIO id: 5535825</identifier>
     <titleInfo>
       <title>Journal of an African Slaver, 1789-1792</title>
     </titleInfo>
@@ -2228,8 +2188,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Slavery</topic>
     </subject>
-    <identifier>CLIO id: 5535825</identifier>
-    <identifier type="Omeka ID">omeka_000045</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2243,7 +2201,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>46</identifier>
+    <identifier type="Omeka ID">omeka_000046</identifier>
+    <identifier>CLIO id: 1930859</identifier>
     <titleInfo>
       <title>Ginn &amp; Company's writing books</title>
     </titleInfo>
@@ -2282,8 +2241,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1930859</identifier>
-    <identifier type="Omeka ID">omeka_000046</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2297,7 +2254,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>47</identifier>
+    <identifier type="Omeka ID">omeka_000047</identifier>
+    <identifier>CLIO id: 1637759</identifier>
     <titleInfo>
       <title>Ars Grammatica</title>
     </titleInfo>
@@ -2336,8 +2294,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier>CLIO id: 1637759</identifier>
-    <identifier type="Omeka ID">omeka_000047</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -2351,7 +2307,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>48</identifier>
+    <identifier type="Omeka ID">omeka_000048</identifier>
     <titleInfo>
       <title>Gradual</title>
     </titleInfo>
@@ -2385,7 +2341,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Epiphany music</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000048</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2399,7 +2354,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>50</identifier>
+    <identifier type="Omeka ID">omeka_000050</identifier>
     <titleInfo>
       <title>David Eugene Smith</title>
     </titleInfo>
@@ -2440,7 +2395,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Smith, David Eugene, 1860-1944</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000050</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2454,7 +2408,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>51</identifier>
+    <identifier type="Omeka ID">omeka_000051</identifier>
+    <identifier>CLIO id: 6182028</identifier>
     <titleInfo>
       <title>Strictures on the Modern System of Female Education</title>
     </titleInfo>
@@ -2492,8 +2447,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier>CLIO id: 6182028</identifier>
-    <identifier type="Omeka ID">omeka_000051</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2507,7 +2460,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>52</identifier>
+    <identifier type="Omeka ID">omeka_000052</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
@@ -2543,7 +2496,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>St. Paul's Infant School (London, England)</namePart>
     </name>
     <subject/>
-    <identifier type="Omeka ID">omeka_000052</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2557,7 +2509,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>53</identifier>
+    <identifier type="Omeka ID">omeka_000053</identifier>
+    <identifier>CLIO id: 1623900</identifier>
     <titleInfo>
       <title>De Institutione Arithmetica</title>
     </titleInfo>
@@ -2595,8 +2548,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Arithmetic</topic>
     </subject>
-    <identifier>CLIO id: 1623900</identifier>
-    <identifier type="Omeka ID">omeka_000053</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -2610,7 +2561,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>54</identifier>
+    <identifier type="Omeka ID">omeka_000054</identifier>
     <titleInfo>
       <title>Portrait of George Arthur Plimptom as YounGerman Man</title>
     </titleInfo>
@@ -2644,7 +2595,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000054</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2658,7 +2608,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>56</identifier>
+    <identifier type="Omeka ID">omeka_000056</identifier>
+    <identifier>CLIO id: 6196727</identifier>
     <titleInfo>
       <title>Learned Maid, or Whether a Maid may be a Scholar?</title>
     </titleInfo>
@@ -2696,8 +2647,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier>CLIO id: 6196727</identifier>
-    <identifier type="Omeka ID">omeka_000056</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2711,7 +2660,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>57</identifier>
+    <identifier type="Omeka ID">omeka_000057</identifier>
+    <identifier>CLIO id: 6183070</identifier>
     <titleInfo>
       <title>Universal Penman</title>
     </titleInfo>
@@ -2749,8 +2699,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 6183070</identifier>
-    <identifier type="Omeka ID">omeka_000057</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2764,7 +2712,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>58</identifier>
+    <identifier type="Omeka ID">omeka_000058</identifier>
     <titleInfo>
       <title>Grammatica Latina Philippi Melanchthonis</title>
     </titleInfo>
@@ -2802,7 +2750,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000058</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -2816,7 +2763,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>59</identifier>
+    <identifier type="Omeka ID">omeka_000059</identifier>
     <titleInfo>
       <title>Vindication of the Rights of Women</title>
     </titleInfo>
@@ -2854,7 +2801,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women's rights</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000059</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2868,7 +2814,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>60</identifier>
+    <identifier type="Omeka ID">omeka_000060</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, April 24, 1926</title>
     </titleInfo>
@@ -2905,7 +2851,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Photography</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000060</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2919,7 +2864,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>61</identifier>
+    <identifier type="Omeka ID">omeka_000061</identifier>
     <titleInfo>
       <title>Etymologiarum Libri</title>
     </titleInfo>
@@ -2957,7 +2902,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000061</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -2971,7 +2915,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>62</identifier>
+    <identifier type="Omeka ID">omeka_000062</identifier>
     <titleInfo>
       <title>Ars Minor, fragment</title>
     </titleInfo>
@@ -3011,7 +2955,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000062</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3025,7 +2968,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>63</identifier>
+    <identifier type="Omeka ID">omeka_000063</identifier>
     <titleInfo>
       <title>Photograph of Frances T.P. and George A. Plimpton</title>
     </titleInfo>
@@ -3061,7 +3004,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton family</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000063</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3075,7 +3017,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>64</identifier>
+    <identifier type="Omeka ID">omeka_000064</identifier>
     <titleInfo>
       <title>Letter To The Independent, 11 January 1917 (carbon)</title>
     </titleInfo>
@@ -3110,7 +3052,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Church Peace Union</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000064</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3124,7 +3065,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>66</identifier>
+    <identifier type="Omeka ID">omeka_000066</identifier>
+    <identifier>CLIO id: 6204041</identifier>
     <titleInfo>
       <title>Familiarium Colloquiorum Formulae, in Graciam Juventutis Recognite ab Erasmo Roterdamo</title>
     </titleInfo>
@@ -3162,8 +3104,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Dialogues, Latin</topic>
     </subject>
-    <identifier>CLIO id: 6204041</identifier>
-    <identifier type="Omeka ID">omeka_000066</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3177,7 +3117,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>67</identifier>
+    <identifier type="Omeka ID">omeka_000067</identifier>
     <titleInfo>
       <title>Thanksgiving 1934</title>
     </titleInfo>
@@ -3214,7 +3154,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton family</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000067</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3228,7 +3167,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>68</identifier>
+    <identifier type="Omeka ID">omeka_000068</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton regarding  Friends of the Library</title>
     </titleInfo>
@@ -3266,7 +3205,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Friends of the Columbia Libraries</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000068</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3280,7 +3218,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>69</identifier>
+    <identifier type="Omeka ID">omeka_000069</identifier>
     <titleInfo>
       <title>De Sphaera Mundi</title>
     </titleInfo>
@@ -3318,7 +3256,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Astronomy</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000069</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3332,7 +3269,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>70</identifier>
+    <identifier type="Omeka ID">omeka_000070</identifier>
     <titleInfo>
       <title>Nichomachean Ethics, Politics</title>
     </titleInfo>
@@ -3372,7 +3309,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Ethics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000070</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3386,7 +3322,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>72</identifier>
+    <identifier type="Omeka ID">omeka_000072</identifier>
     <titleInfo>
       <title>Elementa</title>
     </titleInfo>
@@ -3424,7 +3360,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Geometry</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000072</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3438,7 +3373,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>73</identifier>
+    <identifier type="Omeka ID">omeka_000073</identifier>
     <titleInfo>
       <title>Letter to Francis T. P. Plimpton, August 17, 1904</title>
     </titleInfo>
@@ -3481,7 +3416,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton family</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000073</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3495,7 +3429,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>74</identifier>
+    <identifier type="Omeka ID">omeka_000074</identifier>
     <titleInfo>
       <title>Course of Elementary Reading in Science and Literature</title>
     </titleInfo>
@@ -3534,7 +3468,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Science</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000074</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3548,7 +3481,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>75</identifier>
+    <identifier type="Omeka ID">omeka_000075</identifier>
     <titleInfo>
       <title>Bookplate of George Arthur Plimpton</title>
     </titleInfo>
@@ -3580,7 +3513,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
     <subject/>
-    <identifier type="Omeka ID">omeka_000075</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3594,7 +3526,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>76</identifier>
+    <identifier type="Omeka ID">omeka_000076</identifier>
+    <identifier>CLIO id: 6766017</identifier>
     <titleInfo>
       <title>Writing Tables with a Kalender for xxiiii. yeeres, with sundry necessarye rules</title>
     </titleInfo>
@@ -3630,8 +3563,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 6766017</identifier>
-    <identifier type="Omeka ID">omeka_000076</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3645,7 +3576,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>77</identifier>
+    <identifier type="Omeka ID">omeka_000077</identifier>
+    <identifier>CLIO id: 1637767</identifier>
     <titleInfo>
       <title>Ars Minor</title>
     </titleInfo>
@@ -3684,8 +3616,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier>CLIO id: 1637767</identifier>
-    <identifier type="Omeka ID">omeka_000077</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3699,7 +3629,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>78</identifier>
+    <identifier type="Omeka ID">omeka_000078</identifier>
+    <identifier>CLIO id: 6196507</identifier>
     <titleInfo>
       <title>New Dictionary of the Terms Ancient and Modern of the Canting Crew in its several tribes, of gypsies, beggars, thieves, cheats, &amp;c.</title>
     </titleInfo>
@@ -3738,8 +3669,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>English language--Slang</topic>
     </subject>
-    <identifier>CLIO id: 6196507</identifier>
-    <identifier type="Omeka ID">omeka_000078</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3753,7 +3682,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>79</identifier>
+    <identifier type="Omeka ID">omeka_000079</identifier>
     <titleInfo>
       <title>Summa Arismetice</title>
     </titleInfo>
@@ -3791,7 +3720,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Business mathematics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000079</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3805,7 +3733,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>80</identifier>
+    <identifier type="Omeka ID">omeka_000080</identifier>
     <titleInfo>
       <title>Description of and Instructions for the Operation of an Astronomical Clock with an Armillary Sphere</title>
     </titleInfo>
@@ -3843,7 +3771,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Astronomical clocks</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000080</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3857,7 +3784,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>81</identifier>
+    <identifier type="Omeka ID">omeka_000081</identifier>
     <titleInfo>
       <title>De Verborum Copia</title>
     </titleInfo>
@@ -3895,7 +3822,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Rhetoric</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000081</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -3909,7 +3835,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>82</identifier>
+    <identifier type="Omeka ID">omeka_000082</identifier>
     <titleInfo>
       <title>Short Introduction of Grammar Generally to be used: Compiled and set forth for the bringing up of all those that intend to attain to the knowledge of the Latine tongue</title>
     </titleInfo>
@@ -3947,7 +3873,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000082</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3961,7 +3886,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>84</identifier>
+    <identifier type="Omeka ID">omeka_000084</identifier>
     <titleInfo>
       <title>Speech at Wellesley Club</title>
     </titleInfo>
@@ -3997,7 +3922,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000084</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4011,7 +3935,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>85</identifier>
+    <identifier type="Omeka ID">omeka_000085</identifier>
     <titleInfo>
       <title>Ruth and Calvin Plimpton 50th wedding anniversary</title>
     </titleInfo>
@@ -4048,7 +3972,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton family</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000085</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4062,7 +3985,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>86</identifier>
+    <identifier type="Omeka ID">omeka_000086</identifier>
+    <identifier>CLIO id: 2428598</identifier>
     <titleInfo>
       <title>Aepitoma Omnis Phylosophiae, Alias, Margarita Phylosophica</title>
     </titleInfo>
@@ -4100,8 +4024,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
     </subject>
-    <identifier>CLIO id: 2428598</identifier>
-    <identifier type="Omeka ID">omeka_000086</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -4115,7 +4037,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>87</identifier>
+    <identifier type="Omeka ID">omeka_000087</identifier>
     <titleInfo>
       <title>Commentarius in Ciceronis pro Milone</title>
     </titleInfo>
@@ -4153,7 +4075,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Milo, Titus Annius, d. 48 B.C</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000087</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -4167,7 +4088,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>89</identifier>
+    <identifier type="Omeka ID">omeka_000089</identifier>
     <titleInfo>
       <title>Geometrical Practical Treatize Named Pantometria</title>
     </titleInfo>
@@ -4205,7 +4126,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Geometry</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000089</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4219,7 +4139,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>90</identifier>
+    <identifier type="Omeka ID">omeka_000090</identifier>
     <titleInfo>
       <title>Child’s Primer</title>
     </titleInfo>
@@ -4254,7 +4174,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Readers</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000090</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -4268,7 +4187,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>91</identifier>
+    <identifier type="Omeka ID">omeka_000091</identifier>
     <titleInfo>
       <title>Friends of the Library of Columbia University</title>
     </titleInfo>
@@ -4307,7 +4226,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Friends of the Columbia Libraries</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000091</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4321,7 +4239,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>92</identifier>
+    <identifier type="Omeka ID">omeka_000092</identifier>
     <titleInfo>
       <title>Letter to George A. Plimpton, November 12, 1924</title>
     </titleInfo>
@@ -4359,7 +4277,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000092</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4373,7 +4290,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>93</identifier>
+    <identifier type="Omeka ID">omeka_000093</identifier>
     <titleInfo>
       <title>De Proprietatibus Rerum</title>
     </titleInfo>
@@ -4414,7 +4331,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000093</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4428,7 +4344,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>94</identifier>
+    <identifier type="Omeka ID">omeka_000094</identifier>
     <titleInfo>
       <title>Kitab al-Mutawassitat</title>
     </titleInfo>
@@ -4463,7 +4379,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000094</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
@@ -4477,7 +4392,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>95</identifier>
+    <identifier type="Omeka ID">omeka_000095</identifier>
     <titleInfo>
       <title>Photo of Pauline Ames and Francis T.P. Plimpton and children, 1937</title>
     </titleInfo>
@@ -4513,7 +4428,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton family</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000095</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4527,7 +4441,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>96</identifier>
+    <identifier type="Omeka ID">omeka_000096</identifier>
     <titleInfo>
       <title>On Collecting</title>
     </titleInfo>
@@ -4565,7 +4479,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Book collecting</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000096</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4579,7 +4492,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>97</identifier>
+    <identifier type="Omeka ID">omeka_000097</identifier>
     <titleInfo>
       <title>Very fruteful and pleasant boke called the Instruction of a christen woman</title>
     </titleInfo>
@@ -4620,7 +4533,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000097</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4634,7 +4546,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>99</identifier>
+    <identifier type="Omeka ID">omeka_000099</identifier>
     <titleInfo>
       <title>American Instructor: or, Young Man’s Best Companion</title>
     </titleInfo>
@@ -4675,7 +4587,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000099</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4689,7 +4600,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>100</identifier>
+    <identifier type="Omeka ID">omeka_000100</identifier>
     <titleInfo>
       <title>Abecedarium</title>
     </titleInfo>
@@ -4727,7 +4638,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Readers</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000100</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4741,7 +4651,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>102</identifier>
+    <identifier type="Omeka ID">omeka_000102</identifier>
+    <identifier>CLIO id: 2428025</identifier>
     <titleInfo>
       <title>Margarita Philosophica</title>
     </titleInfo>
@@ -4779,8 +4690,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
     </subject>
-    <identifier>CLIO id: 2428025</identifier>
-    <identifier type="Omeka ID">omeka_000102</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -4794,7 +4703,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>103</identifier>
+    <identifier type="Omeka ID">omeka_000103</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
@@ -4828,7 +4737,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_115_001.tif</note>
     <subject/>
-    <identifier type="Omeka ID">omeka_000103</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4842,7 +4750,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>104</identifier>
+    <identifier type="Omeka ID">omeka_000104</identifier>
     <titleInfo>
       <title>Tunaikeion, or, Nine Bookes of Various History Concerning Women</title>
     </titleInfo>
@@ -4883,7 +4791,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000104</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4897,7 +4804,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>105</identifier>
+    <identifier type="Omeka ID">omeka_000105</identifier>
     <titleInfo>
       <title>English language exhibition</title>
     </titleInfo>
@@ -4939,7 +4846,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>English language--History</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000105</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4953,7 +4859,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>106</identifier>
+    <identifier type="Omeka ID">omeka_000106</identifier>
+    <identifier>CLIO id: 1834578</identifier>
     <titleInfo>
       <title>Dean’s Recently Improved Analytical Guide, to the Art of Penmanship</title>
     </titleInfo>
@@ -4991,8 +4898,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1834578</identifier>
-    <identifier type="Omeka ID">omeka_000106</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5006,7 +4911,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>107</identifier>
+    <identifier type="Omeka ID">omeka_000107</identifier>
     <titleInfo>
       <title>Fonotipic instructur, or, Furst rediu buc for adults hw hav nevur ben tot tw red</title>
     </titleInfo>
@@ -5047,7 +4952,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Phonetics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000107</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5061,7 +4965,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>108</identifier>
+    <identifier type="Omeka ID">omeka_000108</identifier>
     <titleInfo>
       <title>Rechenbüchlein</title>
     </titleInfo>
@@ -5090,7 +4994,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000108</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
@@ -5104,7 +5007,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>109</identifier>
+    <identifier type="Omeka ID">omeka_000109</identifier>
     <titleInfo>
       <title>Writing exercise</title>
     </titleInfo>
@@ -5142,7 +5045,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000109</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -5156,7 +5058,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>110</identifier>
+    <identifier type="Omeka ID">omeka_000110</identifier>
+    <identifier>CLIO id: 1638085</identifier>
     <titleInfo>
       <title>Compendio de lo Abaco</title>
     </titleInfo>
@@ -5194,8 +5097,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier>CLIO id: 1638085</identifier>
-    <identifier type="Omeka ID">omeka_000110</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ita</languageTerm>
@@ -5209,7 +5110,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>111</identifier>
+    <identifier type="Omeka ID">omeka_000111</identifier>
+    <identifier>CLIO id: 6182997</identifier>
     <titleInfo>
       <title>Booke Containing Divers Sortes of Hands, as well the English as French Secretarie with the Italian, Roman, Chancelry &amp; Court Hands</title>
     </titleInfo>
@@ -5250,8 +5152,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 6182997</identifier>
-    <identifier type="Omeka ID">omeka_000111</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5265,7 +5165,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>112</identifier>
+    <identifier type="Omeka ID">omeka_000112</identifier>
+    <identifier>CLIO id: 1828250</identifier>
     <titleInfo>
       <title>Penmanship, or, The Beauties of Writing Exemplified in a Variety of Specimens, Practical and Ornamental</title>
     </titleInfo>
@@ -5303,8 +5204,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1828250</identifier>
-    <identifier type="Omeka ID">omeka_000112</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5318,7 +5217,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>113</identifier>
+    <identifier type="Omeka ID">omeka_000113</identifier>
+    <identifier>CLIO id: 1808875</identifier>
     <titleInfo>
       <title>Handwriting for the broad-edge pen : a teachers' manual</title>
     </titleInfo>
@@ -5356,8 +5256,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1808875</identifier>
-    <identifier type="Omeka ID">omeka_000113</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5371,7 +5269,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>114</identifier>
+    <identifier type="Omeka ID">omeka_000114</identifier>
+    <identifier>CLIO id: 6183006</identifier>
     <titleInfo>
       <title>Directions for Writing. Set Forth for the Benefit of Poore Schollers</title>
     </titleInfo>
@@ -5409,8 +5308,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 6183006</identifier>
-    <identifier type="Omeka ID">omeka_000114</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5424,7 +5321,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>115</identifier>
+    <identifier type="Omeka ID">omeka_000115</identifier>
     <titleInfo>
       <title>Trattato d’Aritmetica Mercantile</title>
     </titleInfo>
@@ -5459,7 +5356,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000115</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ita</languageTerm>
@@ -5473,7 +5369,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>117</identifier>
+    <identifier type="Omeka ID">omeka_000117</identifier>
+    <identifier>CLIO id: 1848589</identifier>
     <titleInfo>
       <title>Spencerian key to practical penmanship</title>
     </titleInfo>
@@ -5515,8 +5412,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1848589</identifier>
-    <identifier type="Omeka ID">omeka_000117</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5530,7 +5425,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>118</identifier>
+    <identifier type="Omeka ID">omeka_000118</identifier>
     <titleInfo>
       <title>Bust of Shakespeare</title>
     </titleInfo>
@@ -5566,7 +5461,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Shakespeare, William, 1564-1616</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000118</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5580,7 +5474,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>119</identifier>
+    <identifier type="Omeka ID">omeka_000119</identifier>
+    <identifier>CLIO id: 5529316</identifier>
     <titleInfo>
       <title>Rara arithmetica : a catalogue of the arithmetics written before the year MDCI</title>
     </titleInfo>
@@ -5622,8 +5517,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Arithmetic--Early works to 1900</topic>
     </subject>
-    <identifier>CLIO id: 5529316</identifier>
-    <identifier type="Omeka ID">omeka_000119</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5637,7 +5530,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>121</identifier>
+    <identifier type="Omeka ID">omeka_000121</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
@@ -5675,7 +5568,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note>PLMPTN_118_001.tif</note>
     <note>PLMPTN_118_002.tif</note>
     <subject/>
-    <identifier type="Omeka ID">omeka_000121</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5689,7 +5581,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>123</identifier>
+    <identifier type="Omeka ID">omeka_000123</identifier>
+    <identifier>CLIO id: 3402156</identifier>
     <titleInfo>
       <title>Bibliotheca Columbiana, Number 1, April 1933</title>
     </titleInfo>
@@ -5734,8 +5627,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Friends of the Columbia Libraries</topic>
     </subject>
-    <identifier>CLIO id: 3402156</identifier>
-    <identifier type="Omeka ID">omeka_000123</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5749,7 +5640,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>124</identifier>
+    <identifier type="Omeka ID">omeka_000124</identifier>
     <titleInfo>
       <title>Rudiments of Conchology</title>
     </titleInfo>
@@ -5787,7 +5678,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Mollusks</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000124</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5801,7 +5691,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>125</identifier>
+    <identifier type="Omeka ID">omeka_000125</identifier>
     <titleInfo>
       <title>American Preceptor; being a new Selection of Lessons for Reading and Speaking. Designed for the use of schools</title>
     </titleInfo>
@@ -5840,7 +5730,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Readers</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000125</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5854,7 +5743,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>126</identifier>
+    <identifier type="Omeka ID">omeka_000126</identifier>
+    <identifier>CLIO id: 6196599</identifier>
     <titleInfo>
       <title>Boke Named the Governour</title>
     </titleInfo>
@@ -5892,8 +5782,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Kings and rulers--Duties</topic>
     </subject>
-    <identifier>CLIO id: 6196599</identifier>
-    <identifier type="Omeka ID">omeka_000126</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5907,7 +5795,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>127</identifier>
+    <identifier type="Omeka ID">omeka_000127</identifier>
+    <identifier>CLIO id: 4587434</identifier>
     <titleInfo>
       <title>Education of Shakespeare:  Illustrated from the Schoolbooks in Use in his Time</title>
     </titleInfo>
@@ -5944,8 +5833,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Shakespeare, William, 1564-1616</topic>
     </subject>
-    <identifier>CLIO id: 4587434</identifier>
-    <identifier type="Omeka ID">omeka_000127</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5959,7 +5846,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>128</identifier>
+    <identifier type="Omeka ID">omeka_000128</identifier>
     <titleInfo>
       <title>Guillelmi Lilij Angli Rudimenta</title>
     </titleInfo>
@@ -5997,7 +5884,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000128</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -6011,7 +5897,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>129</identifier>
+    <identifier type="Omeka ID">omeka_000129</identifier>
     <titleInfo>
       <title>Education of Women: Earliest Period, c. 300-1450</title>
     </titleInfo>
@@ -6051,7 +5937,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000129</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6065,7 +5950,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>130</identifier>
+    <identifier type="Omeka ID">omeka_000130</identifier>
+    <identifier>CLIO id: 6182617</identifier>
     <titleInfo>
       <title>Principles of Musik, in Singing and Setting : vvith the Two-Fold Use Therof, Ecclesiasticall and Civil</title>
     </titleInfo>
@@ -6103,8 +5989,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Music theory</topic>
     </subject>
-    <identifier>CLIO id: 6182617</identifier>
-    <identifier type="Omeka ID">omeka_000130</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6118,7 +6002,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>131</identifier>
+    <identifier type="Omeka ID">omeka_000131</identifier>
     <titleInfo>
       <title>Lewis Farm Letterhead</title>
     </titleInfo>
@@ -6152,7 +6036,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Lewis Farm (Walpole, Mass.)</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000131</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6166,7 +6049,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>132</identifier>
+    <identifier type="Omeka ID">omeka_000132</identifier>
     <titleInfo>
       <title>De Constructione</title>
     </titleInfo>
@@ -6204,7 +6087,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000132</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -6218,7 +6100,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>133</identifier>
+    <identifier type="Omeka ID">omeka_000133</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
@@ -6253,7 +6135,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_116_001.tif</note>
     <subject/>
-    <identifier type="Omeka ID">omeka_000133</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
@@ -6267,7 +6148,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>134</identifier>
+    <identifier type="Omeka ID">omeka_000134</identifier>
     <titleInfo>
       <title>Dictionaire des Halles, ou,  Extrait du Dictionnaire de l’Academie Françoise</title>
     </titleInfo>
@@ -6305,7 +6186,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>French language--Slang</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000134</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -6319,7 +6199,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>135</identifier>
+    <identifier type="Omeka ID">omeka_000135</identifier>
+    <identifier>CLIO id: 1079741</identifier>
     <titleInfo>
       <title>Myrrour of the Worlde</title>
     </titleInfo>
@@ -6358,8 +6239,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Earth</topic>
     </subject>
-    <identifier>CLIO id: 1079741</identifier>
-    <identifier type="Omeka ID">omeka_000135</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6373,7 +6252,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>136</identifier>
+    <identifier type="Omeka ID">omeka_000136</identifier>
     <titleInfo>
       <title>Portrait of George Arthur Plimpton as older man</title>
     </titleInfo>
@@ -6409,7 +6288,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000136</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6423,7 +6301,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>138</identifier>
+    <identifier type="Omeka ID">omeka_000138</identifier>
+    <identifier>CLIO id: 6182023</identifier>
     <titleInfo>
       <title>Plan for the Conduct of Female Education in Boarding Schools</title>
     </titleInfo>
@@ -6465,8 +6344,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Women--Education</topic>
     </subject>
-    <identifier>CLIO id: 6182023</identifier>
-    <identifier type="Omeka ID">omeka_000138</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6480,7 +6357,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>140</identifier>
+    <identifier type="Omeka ID">omeka_000140</identifier>
+    <identifier>CLIO id: 3387765</identifier>
     <titleInfo>
       <title>Marks of Merit, Together with an article on Hornbooks and their use in America</title>
     </titleInfo>
@@ -6517,8 +6395,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
     <subject/>
-    <identifier>CLIO id: 3387765</identifier>
-    <identifier type="Omeka ID">omeka_000140</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6532,7 +6408,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>141</identifier>
+    <identifier type="Omeka ID">omeka_000141</identifier>
     <titleInfo>
       <title>Penmanship</title>
     </titleInfo>
@@ -6569,7 +6445,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000141</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6583,7 +6458,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>142</identifier>
+    <identifier type="Omeka ID">omeka_000142</identifier>
     <titleInfo>
       <title>Announcement of Education of Chaucer</title>
     </titleInfo>
@@ -6628,7 +6503,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
       <topic>Education--England--History</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000142</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6642,7 +6516,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>143</identifier>
+    <identifier type="Omeka ID">omeka_000143</identifier>
     <titleInfo>
       <title>Commentaries on Aristotle</title>
     </titleInfo>
@@ -6681,7 +6555,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <topic>Aristotle</topic>
       <topic>Philosophy</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000143</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -6695,7 +6568,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>144</identifier>
+    <identifier type="Omeka ID">omeka_000144</identifier>
+    <identifier>CLIO id: 4079845</identifier>
     <titleInfo>
       <title>Processional</title>
     </titleInfo>
@@ -6738,8 +6612,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Processions, Religious--Catholic Church</topic>
     </subject>
-    <identifier>CLIO id: 4079845</identifier>
-    <identifier type="Omeka ID">omeka_000144</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -6753,7 +6625,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>145</identifier>
+    <identifier type="Omeka ID">omeka_000145</identifier>
+    <identifier>CLIO id: 6191099</identifier>
     <titleInfo>
       <title>Operina di Ludouico Vicentino</title>
     </titleInfo>
@@ -6790,8 +6663,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 6191099</identifier>
-    <identifier type="Omeka ID">omeka_000145</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ita</languageTerm>
@@ -6805,7 +6676,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>146</identifier>
+    <identifier type="Omeka ID">omeka_000146</identifier>
+    <identifier>CLIO id: 1638076</identifier>
     <titleInfo>
       <title>Sententiarum Libri IV</title>
     </titleInfo>
@@ -6843,8 +6715,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Theology</topic>
     </subject>
-    <identifier>CLIO id: 1638076</identifier>
-    <identifier type="Omeka ID">omeka_000146</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -6858,7 +6728,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>147</identifier>
+    <identifier type="Omeka ID">omeka_000147</identifier>
     <titleInfo>
       <title>Gruenndtlich Formular manncherley Art Lateinischer unnd Teutscher Handschrifften</title>
     </titleInfo>
@@ -6898,7 +6768,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Calligraphy</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000147</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
@@ -6912,7 +6781,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>148</identifier>
+    <identifier type="Omeka ID">omeka_000148</identifier>
     <titleInfo>
       <title>Latin Grammar</title>
     </titleInfo>
@@ -6950,7 +6819,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Latin language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000148</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -6964,7 +6832,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>149</identifier>
+    <identifier type="Omeka ID">omeka_000149</identifier>
     <titleInfo>
       <title>Trésor</title>
     </titleInfo>
@@ -7002,7 +6870,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Encyclopedias and dictionaries, French</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000149</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -7016,7 +6883,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>150</identifier>
+    <identifier type="Omeka ID">omeka_000150</identifier>
     <titleInfo>
       <title>De Rhetorica Seu de Arte Dicendi Libri Tres, Graecolat</title>
     </titleInfo>
@@ -7055,7 +6922,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Rhetoric, Ancient</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000150</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -7069,7 +6935,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>152</identifier>
+    <identifier type="Omeka ID">omeka_000152</identifier>
     <titleInfo>
       <title>Atlas des Enfans, ou, Nouvelle Méthode pour Apprendre la Géographie</title>
     </titleInfo>
@@ -7109,7 +6975,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Geography</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000152</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -7123,7 +6988,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>153</identifier>
+    <identifier type="Omeka ID">omeka_000153</identifier>
+    <identifier>CLIO id: 1638086</identifier>
     <titleInfo>
       <title>De Educatione Puerorum ad Regem Bohemiae Ladislaum</title>
     </titleInfo>
@@ -7164,8 +7030,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Education</topic>
     </subject>
-    <identifier>CLIO id: 1638086</identifier>
-    <identifier type="Omeka ID">omeka_000153</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -7179,7 +7043,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>154</identifier>
+    <identifier type="Omeka ID">omeka_000154</identifier>
     <titleInfo>
       <title>This office will be closed…on account of the death of Mrs. George A. Plimpton</title>
     </titleInfo>
@@ -7218,7 +7082,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton, Frances Taylor Pearsons, 1861-1900</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000154</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7232,7 +7095,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>155</identifier>
+    <identifier type="Omeka ID">omeka_000155</identifier>
     <titleInfo>
       <title>Young Lady's Accidence, or, A short and easy introduction to English grammar</title>
     </titleInfo>
@@ -7273,7 +7136,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>English language--Grammar</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000155</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7287,7 +7149,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>156</identifier>
+    <identifier type="Omeka ID">omeka_000156</identifier>
+    <identifier>CLIO id: 1808636</identifier>
     <titleInfo>
       <title>American Penman, Comprising the Art of Writing, Plain and Ornamental</title>
     </titleInfo>
@@ -7328,8 +7191,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Penmanship</topic>
     </subject>
-    <identifier>CLIO id: 1808636</identifier>
-    <identifier type="Omeka ID">omeka_000156</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7343,7 +7204,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>157</identifier>
+    <identifier type="Omeka ID">omeka_000157</identifier>
+    <identifier>CLIO id: 1079995</identifier>
     <titleInfo>
       <title>Elementa Geometriae</title>
     </titleInfo>
@@ -7381,8 +7243,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Geometry</topic>
     </subject>
-    <identifier>CLIO id: 1079995</identifier>
-    <identifier type="Omeka ID">omeka_000157</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -7396,7 +7256,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>158</identifier>
+    <identifier type="Omeka ID">omeka_000158</identifier>
     <titleInfo>
       <title>Cuneiform tablet</title>
     </titleInfo>
@@ -7429,7 +7289,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Mathematics</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000158</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7443,7 +7302,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>159</identifier>
+    <identifier type="Omeka ID">omeka_000159</identifier>
+    <identifier>CLIO id: 3188778</identifier>
     <titleInfo>
       <title>Cherokee alphabet</title>
     </titleInfo>
@@ -7481,8 +7341,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Cherokee language--Alphabet</topic>
     </subject>
-    <identifier>CLIO id: 3188778</identifier>
-    <identifier type="Omeka ID">omeka_000159</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7496,7 +7354,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>160</identifier>
+    <identifier type="Omeka ID">omeka_000160</identifier>
+    <identifier>CLIO id: 1623898</identifier>
     <titleInfo>
       <title>De Disciplina Scholarium</title>
     </titleInfo>
@@ -7537,8 +7396,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Education</topic>
     </subject>
-    <identifier>CLIO id: 1623898</identifier>
-    <identifier type="Omeka ID">omeka_000160</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -7552,7 +7409,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>161</identifier>
+    <identifier type="Omeka ID">omeka_000161</identifier>
+    <identifier>CLIO id: 3036072</identifier>
     <titleInfo>
       <title>Tabvlae Abcdariae Pveriles</title>
     </titleInfo>
@@ -7589,8 +7447,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Platearus, Petrus, 16th cent.</namePart>
     </name>
     <subject/>
-    <identifier>CLIO id: 3036072</identifier>
-    <identifier type="Omeka ID">omeka_000161</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -7604,7 +7460,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>162</identifier>
+    <identifier type="Omeka ID">omeka_000162</identifier>
     <titleInfo>
       <title>Hornbook mould</title>
     </titleInfo>
@@ -7637,7 +7493,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_114_001.tif</note>
     <subject/>
-    <identifier type="Omeka ID">omeka_000162</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7651,7 +7506,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>173</identifier>
+    <identifier type="Omeka ID">omeka_000173</identifier>
     <titleInfo>
       <title>Honorary Degree given to George A. Plimpton</title>
     </titleInfo>
@@ -7688,7 +7543,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <subject>
       <topic>Plimpton, George A. (George Arthur), 1855-1936</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000173</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7702,7 +7556,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>176</identifier>
+    <identifier type="Omeka ID">omeka_000176</identifier>
     <titleInfo>
       <title>George A. Plimpton's astrolabe</title>
     </titleInfo>
@@ -7730,7 +7584,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </relatedItem>
     <note>PLMPTN_081_001.tif</note>
     <subject/>
-    <identifier type="Omeka ID">omeka_000176</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7744,7 +7597,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier>6135</identifier>
+    <identifier type="Omeka ID">omeka_006135</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, May 8, 1933</title>
     </titleInfo>
@@ -7779,7 +7632,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
     <subject/>
-    <identifier type="Omeka ID">omeka_006135</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

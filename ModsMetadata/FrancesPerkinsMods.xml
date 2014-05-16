@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods>
-    <identifier>1310</identifier>
+    <identifier type="Omeka ID">omeka_001310</identifier>
     <titleInfo>
       <title>Triangle Fire Photograph Caption, number 7</title>
     </titleInfo>
@@ -35,7 +35,6 @@
       <topic>Triangle Shirtwaist Company--Fire, 1911</topic>
     </subject>
     <abstract>Photos Triangle Fire</abstract>
-    <identifier type="Omeka ID">omeka_001310</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -49,7 +48,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>1309</identifier>
+    <identifier type="Omeka ID">omeka_001309</identifier>
     <titleInfo>
       <title>Triangle Fire, number 6</title>
     </titleInfo>
@@ -83,7 +82,6 @@
       <topic>Triangle Shirtwaist Company--Fire, 1911</topic>
     </subject>
     <abstract>Photos Triangle Fire</abstract>
-    <identifier type="Omeka ID">omeka_001309</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -97,7 +95,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>1308</identifier>
+    <identifier type="Omeka ID">omeka_001308</identifier>
     <titleInfo>
       <title>Triangle Fire Photograph Caption, number 5</title>
     </titleInfo>
@@ -130,7 +128,6 @@
       <topic>Triangle Shirtwaist Company--Fire, 1911</topic>
     </subject>
     <abstract>Photos Triangle Fire</abstract>
-    <identifier type="Omeka ID">omeka_001308</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -144,7 +141,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>1307</identifier>
+    <identifier type="Omeka ID">omeka_001307</identifier>
     <titleInfo>
       <title>Triangle Fire, number 4</title>
     </titleInfo>
@@ -178,7 +175,6 @@
       <topic>Triangle Shirtwaist Company--Fire, 1911</topic>
     </subject>
     <abstract>Photos Triangle Fire</abstract>
-    <identifier type="Omeka ID">omeka_001307</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -192,7 +188,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>1306</identifier>
+    <identifier type="Omeka ID">omeka_001306</identifier>
     <titleInfo>
       <title>Triangle Fire, number 3</title>
     </titleInfo>
@@ -226,7 +222,6 @@
       <topic>Triangle Shirtwaist Company--Fire, 1911</topic>
     </subject>
     <abstract>Photos Triangle Fire</abstract>
-    <identifier type="Omeka ID">omeka_001306</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -240,7 +235,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>1305</identifier>
+    <identifier type="Omeka ID">omeka_001305</identifier>
     <titleInfo>
       <title>Triangle Fire, number 2</title>
     </titleInfo>
@@ -270,7 +265,6 @@
       <topic>Triangle Shirtwaist Company--Fire, 1911</topic>
     </subject>
     <abstract>Photos Triangle Fire</abstract>
-    <identifier type="Omeka ID">omeka_001305</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -284,7 +278,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>447</identifier>
+    <identifier type="Omeka ID">omeka_000447</identifier>
     <titleInfo>
       <title>Invitation to the Inauguration of President Kennedy sent to Frances Perkins</title>
     </titleInfo>
@@ -324,7 +318,6 @@
     <subject>
       <topic>United States. President (1961-1963 : Kennedy)</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000447</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -338,7 +331,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>446</identifier>
+    <identifier type="Omeka ID">omeka_000446</identifier>
     <titleInfo>
       <title>Frances Perkins Washington speech on exits in public buildings, first page</title>
     </titleInfo>
@@ -373,7 +366,6 @@
       <namePart>Perkins, Frances, 1880-1965</namePart>
     </name>
     <subject/>
-    <identifier type="Omeka ID">omeka_000446</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -387,7 +379,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>445</identifier>
+    <identifier type="Omeka ID">omeka_000445</identifier>
     <titleInfo>
       <title>Statement by Mount Holyoke President Mary Wooley on Secretary of Labor Frances Perkins' ancestry and marriage</title>
     </titleInfo>
@@ -426,7 +418,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Mount Holyoke President Mary Wooley presented this statement, probably to the House Judiciary Committee, writing: “As a believer in fair play I respectfully request that your committee investigate … who is responsible for the widespread distribution of these false and evidently maliciously intended statements, which for some unknown reason have been directed at an able, honorable and patriotic public official who has made an exceptional record as an administrator and is generally recognized as the most capable Secretary of Labor in the history of that department.”</abstract>
-    <identifier type="Omeka ID">omeka_000445</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -440,7 +431,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>444</identifier>
+    <identifier type="Omeka ID">omeka_000444</identifier>
     <titleInfo>
       <title>House Resolution 67: Resolution for the impeachment of Frances Perkins, Secretary of Labor, page 56</title>
     </titleInfo>
@@ -482,7 +473,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>The formal charge for the impeachment of Frances Perkins, along with two other Labor Department employees, was made by Mr. Thomas of New Jersey, on grounds that they “have failed, neglected, and refused to enforce the … immigration laws of the United States; and have conspired together to violate the immigration laws of the United States; and have defrauded the United States by coddling and protecting from deportation certain aliens illegally within the United States in violation of the statues in such cases made and provided.” First and foremost in the charge is the case of Harry Bridges, here accused of being a member of the Communist Party with intent to overthrow the Government of the United States. This pamphlet contains Perkins’s marginal notes and underlining throughout.</abstract>
-    <identifier type="Omeka ID">omeka_000444</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -496,7 +486,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>443</identifier>
+    <identifier type="Omeka ID">omeka_000443</identifier>
     <titleInfo>
       <title>Statement before the House Judiciary Committee in reply to House Resolution 67, Impeachment of Frances Perkins, pages 1 to 3</title>
     </titleInfo>
@@ -537,7 +527,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>This eight-page typescript appears to be the copy that Perkins used in her hearing before the House Judiciary Committee. In conclusion, she stated: “It is because I share the confidence of other Americans in the capacity of our institutions to protect me against injustice that I have satisfaction in the consideration of these charges, and my denial of them … This faith exists and must be confirmed daily by those of us who hold high office so that liberty may not perish from the land.”</abstract>
-    <identifier type="Omeka ID">omeka_000443</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -551,7 +540,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>442</identifier>
+    <identifier type="Omeka ID">omeka_000442</identifier>
     <titleInfo>
       <title>Dismissal of Impeachment Proceedings Against Frances Perkins, Secretary of Labor, cover and envelope</title>
     </titleInfo>
@@ -593,7 +582,6 @@
     <subject>
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000442</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -607,7 +595,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>441</identifier>
+    <identifier type="Omeka ID">omeka_000441</identifier>
     <titleInfo>
       <title>Letter from Martin Dies, Chairman of the Special Committee on Un-American Activities, to Frances Perkins, requesting Harry Bridges case file</title>
     </titleInfo>
@@ -651,7 +639,6 @@
       <topic>Bridges, Harry, 1901-1990</topic>
     </subject>
     <abstract>Martin Dies, Chairman, House of Representatives Special Committee on Un-American Activities, wrote to Frances Perkins, then Labor Secretary, requesting the file on the Harry Bridges case.</abstract>
-    <identifier type="Omeka ID">omeka_000441</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -665,7 +652,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>440</identifier>
+    <identifier type="Omeka ID">omeka_000440</identifier>
     <titleInfo>
       <title>Letter, with clipping, sent from Felix Frankfurter to Frances Perkins about visa for German Jewish refugees</title>
     </titleInfo>
@@ -705,7 +692,6 @@
     </name>
     <subject/>
     <abstract>Letter with attached newspaper clipping: "Germany Is Too Easy on Jews, Goebbels Asks Stronger Attack" reported by the Jewish Telegraphic Agency and written in Cologne on April 25 [1933?]. Source publication of clipping unknown.</abstract>
-    <identifier type="Omeka ID">omeka_000440</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -719,7 +705,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>439</identifier>
+    <identifier type="Omeka ID">omeka_000439</identifier>
     <titleInfo>
       <title>Letter from Edwin I. Stearns to Secretary of Labor Frances Perkins on the Whispering Campaign against Perkins</title>
     </titleInfo>
@@ -760,7 +746,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>In this “Personally Written” letter to Perkins, the Pastor of the First Presbyterian Church of Caldwell, New Jersey, asks “Why have you stopped alien deportations?” calling for her to give a “full biographical statement,” and asking “Why is your official family so filled with subversive jewish personalities?”</abstract>
-    <identifier type="Omeka ID">omeka_000439</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -774,7 +759,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>438</identifier>
+    <identifier type="Omeka ID">omeka_000438</identifier>
     <titleInfo>
       <title>Anonymous letter sent to Secretary of Labor Frances Perkins about antisemitism</title>
     </titleInfo>
@@ -812,7 +797,6 @@
       <topic>Antisemitism--United States</topic>
     </subject>
     <abstract>An anonymous letter to Perkins concerning antisemitism and the whispering campaign against her, sent “from one who knows.”</abstract>
-    <identifier type="Omeka ID">omeka_000438</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -826,7 +810,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>437</identifier>
+    <identifier type="Omeka ID">omeka_000437</identifier>
     <titleInfo>
       <title>Letter from George Rosenberger to Secretary of Labor Frances Perkins about Emma Goldman</title>
     </titleInfo>
@@ -866,7 +850,6 @@
       <topic>Goldman, Emma, 1869-1940</topic>
     </subject>
     <abstract>George Rosenberger wrote to then Secretary of Labor Frances Perkins to express his opinion that Emma Goldman should not be allowed into the United States.</abstract>
-    <identifier type="Omeka ID">omeka_000437</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -880,7 +863,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>436</identifier>
+    <identifier type="Omeka ID">omeka_000436</identifier>
     <titleInfo>
       <title>Telegram to Secretary of Labor Frances Perkins concerning Emma Goldman's admittance into the United States</title>
     </titleInfo>
@@ -958,7 +941,6 @@
       <topic>Goldman, Emma, 1869-1940</topic>
     </subject>
     <abstract>A telegram in favor of extending Emma Goldman's visa, signed by many members of the University of Chicago faculty and religious leaders around Chicago. The name of Edith Abbott, professor at the School of Social Administration at the University of Chicago, is spelled "Abbot" in the telegram.</abstract>
-    <identifier type="Omeka ID">omeka_000436</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -972,7 +954,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>435</identifier>
+    <identifier type="Omeka ID">omeka_000435</identifier>
     <titleInfo>
       <title>Bailey telegram to President Franklin Delano Roosevelt about Secretary of Labor Frances Perkins</title>
     </titleInfo>
@@ -1011,7 +993,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Bailey telegram to FDR</abstract>
-    <identifier type="Omeka ID">omeka_000435</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1025,7 +1006,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>434</identifier>
+    <identifier type="Omeka ID">omeka_000434</identifier>
     <titleInfo>
       <title>President Franklin Delano Rooselvet memo to Frances Perkins about Bailey's telegram</title>
     </titleInfo>
@@ -1064,7 +1045,6 @@
       <topic>Bailey, C. H.</topic>
     </subject>
     <abstract>FDR memo to Frances Perkins re Bailey tel.</abstract>
-    <identifier type="Omeka ID">omeka_000434</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1078,7 +1058,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>433</identifier>
+    <identifier type="Omeka ID">omeka_000433</identifier>
     <titleInfo>
       <title>Letter from H. L. Mennerick, Secretary of the Junior Order of United American Mechanics State Council of Maryland, to President Franklin Delano Roosevelt about Secretary of Labor Perkins</title>
     </titleInfo>
@@ -1120,7 +1100,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>State Council of Maryland letter to FDR</abstract>
-    <identifier type="Omeka ID">omeka_000433</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1134,7 +1113,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>432</identifier>
+    <identifier type="Omeka ID">omeka_000432</identifier>
     <titleInfo>
       <title>President Franklin Delano Roosevelt letter to Frances Perkins about United American Mechanics State Council of Maryland</title>
     </titleInfo>
@@ -1173,7 +1152,6 @@
       <topic>Junior Order United American Mechanics. State Council of Maryland</topic>
     </subject>
     <abstract>FDR letter to Frances Perkins re State Council of Maryland</abstract>
-    <identifier type="Omeka ID">omeka_000432</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1187,7 +1165,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>431</identifier>
+    <identifier type="Omeka ID">omeka_000431</identifier>
     <titleInfo>
       <title>Statement for Newsreel</title>
     </titleInfo>
@@ -1223,7 +1201,6 @@
       <topic>Congress of Industrial Organizations (U.S.)</topic>
     </subject>
     <abstract>This was the Secretary of Labor’s statement on the meeting of the American Federation of Labor and the Congress of Industrial Organizations officials.</abstract>
-    <identifier type="Omeka ID">omeka_000431</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1237,7 +1214,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>430</identifier>
+    <identifier type="Omeka ID">omeka_000430</identifier>
     <titleInfo>
       <title>Outline of Frances Perkins statement on AFL-CIO meeting</title>
     </titleInfo>
@@ -1270,7 +1247,6 @@
       <topic>AFL-CIO</topic>
     </subject>
     <abstract>Frances Perkins statement on CIO-AFL meeting</abstract>
-    <identifier type="Omeka ID">omeka_000430</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1284,7 +1260,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>429</identifier>
+    <identifier type="Omeka ID">omeka_000429</identifier>
     <titleInfo>
       <title>President Franklin Delano Roosevelt speech on Industry and Labor written by Frances Perkins</title>
     </titleInfo>
@@ -1320,7 +1296,6 @@
     </name>
     <subject/>
     <abstract>FDR speech by Frances Perkins on Industry &amp; Labor</abstract>
-    <identifier type="Omeka ID">omeka_000429</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1334,7 +1309,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>428</identifier>
+    <identifier type="Omeka ID">omeka_000428</identifier>
     <titleInfo>
       <title>Letter from President Franklin Delano Roosevelt to Secretary of Labor Frances Perkins about the Committee on Economic Security</title>
     </titleInfo>
@@ -1373,7 +1348,6 @@
       <topic>United States. Committee on Economic Security</topic>
     </subject>
     <abstract>FDR letter to Frances Perkins re Comm on Eco Security</abstract>
-    <identifier type="Omeka ID">omeka_000428</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1387,7 +1361,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>427</identifier>
+    <identifier type="Omeka ID">omeka_000427</identifier>
     <titleInfo>
       <title>Proposed Statement for President Franklin Delano Roosevelt</title>
     </titleInfo>
@@ -1426,7 +1400,6 @@
     </name>
     <subject/>
     <abstract>Proposed speech for FDR</abstract>
-    <identifier type="Omeka ID">omeka_000427</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1440,7 +1413,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>426</identifier>
+    <identifier type="Omeka ID">omeka_000426</identifier>
     <titleInfo>
       <title>Letter to Secretary of Labor Frances Perkins on behalf of President Franklin Roosevelt concerning the attached telegram sent to the President</title>
     </titleInfo>
@@ -1489,7 +1462,6 @@
       <topic>President Hoover (Steamship)</topic>
     </subject>
     <abstract>Stephen Early, secretary to President Franklin Roosevelt, forwarded to Secretary of Labor Frances Perkins a telegram from the passengers of the SS President Hoover. The ship was unable to land in San Francisco due to the Pacific Coast Longshoremen's Strike of 1936. In Early's memo to Perkins, on behalf of the president, Perkins is asked to give the telegram and the situation 'consideration and appropriate action'.</abstract>
-    <identifier type="Omeka ID">omeka_000426</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1503,7 +1475,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>425</identifier>
+    <identifier type="Omeka ID">omeka_000425</identifier>
     <titleInfo>
       <title>Copy of telegram from President Franklin Roosevelt to Secretary of Labor Frances Perkins about Pacific Coast Strike</title>
     </titleInfo>
@@ -1544,7 +1516,6 @@
       <topic>Pacific Coast Longshoremen's Strike, 1934</topic>
     </subject>
     <abstract>During the Pacific Coast strike of 1934, that began on May 9, Roosevelt was vacationing on the USS Houston, sailing from Norfolk to Hawaii via the Panama Canal. Here he sends Perkins instructions, writing: “If you think advisable you can issue any statement or offer as coming from me or with my approval.” Although there were calls for him to return to Washington, as he notes here, “it is at present best for me not to consider change my itinerary.”</abstract>
-    <identifier type="Omeka ID">omeka_000425</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1558,7 +1529,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>424</identifier>
+    <identifier type="Omeka ID">omeka_000424</identifier>
     <titleInfo>
       <title>Draft of statement on strikes, with particular reference to San Francisco</title>
     </titleInfo>
@@ -1596,7 +1567,6 @@
       <topic>Strikes and lockouts</topic>
     </subject>
     <abstract>In this statement, Perkins makes clear the position of the government that strikes are “not a blow or a threat to organized government,” that they are instead “an economic tool or method of workers to insure that their employers agree to carry out their demand in regard to conditions and terms of work.”</abstract>
-    <identifier type="Omeka ID">omeka_000424</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1610,7 +1580,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>423</identifier>
+    <identifier type="Omeka ID">omeka_000423</identifier>
     <titleInfo>
       <title>True measure of a man's greatness, first page</title>
     </titleInfo>
@@ -1648,7 +1618,6 @@
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
     </subject>
     <abstract>Statement on the death of President Franklin Roosevelt, written by his Labor of Secretary and personal friend Frances Perkins. Frances Perkins wrote: “We in the Department of labor have a feeling of keen and personal sadness for we, with our hands and minds, were privileged to carry forward some of the work that had always lain closest to his heart … We knew, perhaps better than any, how kind and good he was, and how ever thoughtful of those in need of support and help.”</abstract>
-    <identifier type="Omeka ID">omeka_000423</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1662,7 +1631,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>422</identifier>
+    <identifier type="Omeka ID">omeka_000422</identifier>
     <titleInfo>
       <title>List of Accomplishments for Franklin Delano Roosevelt</title>
     </titleInfo>
@@ -1703,7 +1672,6 @@
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
     </subject>
     <abstract>With Frances Perkins initials at end</abstract>
-    <identifier type="Omeka ID">omeka_000422</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1717,7 +1685,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>421</identifier>
+    <identifier type="Omeka ID">omeka_000421</identifier>
     <titleInfo>
       <title>Copy of Telegram to Boston Globe from Frances Perkins, Industrial Commissioner New York</title>
     </titleInfo>
@@ -1753,7 +1721,6 @@
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
     </subject>
     <abstract>Copy of Telegram to Boston Globe</abstract>
-    <identifier type="Omeka ID">omeka_000421</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1767,7 +1734,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>420</identifier>
+    <identifier type="Omeka ID">omeka_000420</identifier>
     <titleInfo>
       <title>Roosevelt’s Supreme Council: An “Alien-Star” Revolutionary-Power in Control of Washington New Deal Political Policies</title>
     </titleInfo>
@@ -1809,7 +1776,6 @@
       <topic>New Deal, 1933-1939</topic>
     </subject>
     <abstract>In this broadside, Perkins is one of five members of “America’s Invisible Governors,” named with thirty other “alien-minded New Dealer ‘advisors’ … all owing allegiance to the Frankfurter-Brandeis-Baruch-Morgenthau Monopoly … directed by Professor Felix Frankfurter.” Note that Perkins’s long-time secretary, Frances Jerkowitz, is included in her triangle headed “Friend of Aliens.”</abstract>
-    <identifier type="Omeka ID">omeka_000420</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1823,7 +1789,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>419</identifier>
+    <identifier type="Omeka ID">omeka_000419</identifier>
     <titleInfo>
       <title>1938th Psalm</title>
     </titleInfo>
@@ -1856,7 +1822,6 @@
       <topic>New Deal, 1933-1939</topic>
     </subject>
     <abstract>President Franklin Roosevelt, his administration, and The New Deal were not without enemies. This anti-psalm states “Mr. Roosevelt is my shepherd / I am in want, / He maketh me to lie down on park benches, / He destroyeth my soul … Surely unemployment and poverty shall follow me all the days of my life; / And I shall dwell in a mortgaged house forever.”</abstract>
-    <identifier type="Omeka ID">omeka_000419</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1870,7 +1835,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>418</identifier>
+    <identifier type="Omeka ID">omeka_000418</identifier>
     <titleInfo>
       <title>Working Woman and Marriage Talk Draft</title>
     </titleInfo>
@@ -1913,7 +1878,6 @@
     </name>
     <subject/>
     <abstract>Draft of talk on The Working Woman &amp; Marriage</abstract>
-    <identifier type="Omeka ID">omeka_000418</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1927,7 +1891,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>417</identifier>
+    <identifier type="Omeka ID">omeka_000417</identifier>
     <titleInfo>
       <title>Impact of the Employment of Women on Industry and Business, page 17</title>
     </titleInfo>
@@ -1958,7 +1922,6 @@
     </name>
     <subject/>
     <abstract>Impact of employment of women; written by Frances Perkins while she was a visiting lecturer at the New York States School of Industrial and Labor Relations at Cornell University</abstract>
-    <identifier type="Omeka ID">omeka_000417</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1972,7 +1935,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>416</identifier>
+    <identifier type="Omeka ID">omeka_000416</identifier>
     <titleInfo>
       <title>Notes on Modern Women</title>
     </titleInfo>
@@ -2003,7 +1966,6 @@
     </name>
     <subject/>
     <abstract>Notes on Modern Women, for talk or publication at Cornell University</abstract>
-    <identifier type="Omeka ID">omeka_000416</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2017,7 +1979,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>415</identifier>
+    <identifier type="Omeka ID">omeka_000415</identifier>
     <titleInfo>
       <title>Statement on resignation of Grace Abbott</title>
     </titleInfo>
@@ -2052,7 +2014,6 @@
       <topic>United States. Children's Bureau.</topic>
     </subject>
     <abstract>Statement on resignation of Grace Abbott</abstract>
-    <identifier type="Omeka ID">omeka_000415</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2066,7 +2027,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>414</identifier>
+    <identifier type="Omeka ID">omeka_000414</identifier>
     <titleInfo>
       <title>Letter from Bergen Evans to Jay</title>
     </titleInfo>
@@ -2102,7 +2063,6 @@
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Evans to Jay</abstract>
-    <identifier type="Omeka ID">omeka_000414</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2116,7 +2076,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>413</identifier>
+    <identifier type="Omeka ID">omeka_000413</identifier>
     <titleInfo>
       <title>Memorandum on Modern Culture and its Failure to Absorb the Machine, which is the Modern Characteristic of Modern Economic Life and Effort, pages 1-3</title>
     </titleInfo>
@@ -2149,7 +2109,6 @@
     </name>
     <subject/>
     <abstract>Memo on modern culture</abstract>
-    <identifier type="Omeka ID">omeka_000413</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2163,7 +2122,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>412</identifier>
+    <identifier type="Omeka ID">omeka_000412</identifier>
     <titleInfo>
       <title>What constitutes a good job</title>
     </titleInfo>
@@ -2202,7 +2161,6 @@
       <topic>Work environment</topic>
     </subject>
     <abstract>Frances Perkins' hand-written notes for a lecture on what constitutes a good job</abstract>
-    <identifier type="Omeka ID">omeka_000412</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2216,7 +2174,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>411</identifier>
+    <identifier type="Omeka ID">omeka_000411</identifier>
     <titleInfo>
       <title>What constitutes a good job</title>
     </titleInfo>
@@ -2252,7 +2210,6 @@
       <topic>Work environment</topic>
     </subject>
     <abstract>Frances Perkin's outline of aspects of work environment that constitute a good job, used for a speech made one month after taking office as Secretary of Labor.</abstract>
-    <identifier type="Omeka ID">omeka_000411</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2266,7 +2223,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>410</identifier>
+    <identifier type="Omeka ID">omeka_000410</identifier>
     <titleInfo>
       <title>Why we need a minimum wage law, pages 23-24, 56, and 59</title>
     </titleInfo>
@@ -2307,7 +2264,6 @@
     <subject>
       <topic>Minimum wage</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000410</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2321,7 +2277,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>409</identifier>
+    <identifier type="Omeka ID">omeka_000409</identifier>
     <titleInfo>
       <title>Cost of a Five-Dollar Dress, pages 75 through 78</title>
     </titleInfo>
@@ -2356,7 +2312,6 @@
       <namePart>Perkins, Frances, 1880-1965</namePart>
     </name>
     <subject/>
-    <identifier type="Omeka ID">omeka_000409</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2370,7 +2325,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>408</identifier>
+    <identifier type="Omeka ID">omeka_000408</identifier>
     <titleInfo>
       <title>Memo for Miss Swartz</title>
     </titleInfo>
@@ -2401,7 +2356,6 @@
     </name>
     <subject/>
     <abstract>Memo for Miss Swartz</abstract>
-    <identifier type="Omeka ID">omeka_000408</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2415,7 +2369,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>407</identifier>
+    <identifier type="Omeka ID">omeka_000407</identifier>
     <titleInfo>
       <title>Having been appointed to the Industrial Commission by the Governor...</title>
     </titleInfo>
@@ -2452,7 +2406,6 @@
       <topic>New York (State). Industrial Commission</topic>
     </subject>
     <abstract>Typescript of Perkins' acceptance letter for an appointment to the New York state Industrial Commission</abstract>
-    <identifier type="Omeka ID">omeka_000407</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2466,7 +2419,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>406</identifier>
+    <identifier type="Omeka ID">omeka_000406</identifier>
     <titleInfo>
       <title>Statement by the President of the United States of America Outlining Policies of the National Recovery Administration, cover</title>
     </titleInfo>
@@ -2509,7 +2462,6 @@
       <topic>United States. National Recovery Administration</topic>
     </subject>
     <abstract>NRA Bulletin No. 1</abstract>
-    <identifier type="Omeka ID">omeka_000406</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2523,7 +2475,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier>405</identifier>
+    <identifier type="Omeka ID">omeka_000405</identifier>
     <titleInfo>
       <title>National Industrial Recovery Act, chart 1</title>
     </titleInfo>
@@ -2566,7 +2518,6 @@
     <abstract>This chart of Senate Bill No. 1712 and HR Bill No. 5664, 73rd Congress, 1st Session, shows clearly the two-part nature of the “National Industrial Recovery Act:” the “Mobilization of Industry into Trade Associations,” and “A Huge $3,300,000,000 Program of Public-Works Construction.” The program would be administered by the National Recovery Administration (NRA) and the Public Works Administration (PWA).
 
 Statement of responsibility in bottom left corner of chart #1 is illegible.</abstract>
-    <identifier type="Omeka ID">omeka_000405</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2580,7 +2531,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>404</identifier>
+    <identifier type="Omeka ID">omeka_000404</identifier>
     <titleInfo>
       <title>Speech of Secretary of Labor Perkins on Planned Recovery, pages 1 through 4</title>
     </titleInfo>
@@ -2620,7 +2571,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <topic>United States. President (1933-1945 : Roosevelt)</topic>
     </subject>
     <abstract>Radio address on NRA - first draft</abstract>
-    <identifier type="Omeka ID">omeka_000404</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2634,7 +2584,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>403</identifier>
+    <identifier type="Omeka ID">omeka_000403</identifier>
     <titleInfo>
       <title>Section 24 of the Immigration Act</title>
     </titleInfo>
@@ -2668,7 +2618,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </name>
     <subject/>
     <abstract>Section 24 Doc in Shaw, John Arthur folder</abstract>
-    <identifier type="Omeka ID">omeka_000403</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2682,7 +2631,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>402</identifier>
+    <identifier type="Omeka ID">omeka_000402</identifier>
     <titleInfo>
       <title>Notes on Industrial Disease</title>
     </titleInfo>
@@ -2724,7 +2673,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Frances Perkins notes on industrial disease (3 pages)</abstract>
-    <identifier type="Omeka ID">omeka_000402</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2738,7 +2686,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>401</identifier>
+    <identifier type="Omeka ID">omeka_000401</identifier>
     <titleInfo>
       <title>State of New York Department of Labor Industrial Board Letterhead</title>
     </titleInfo>
@@ -2771,7 +2719,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </name>
     <subject/>
     <abstract>NY Dept. of Labor; Letterhead blank</abstract>
-    <identifier type="Omeka ID">omeka_000401</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2785,7 +2732,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>400</identifier>
+    <identifier type="Omeka ID">omeka_000400</identifier>
     <titleInfo>
       <title>Study of Malnutrition in 107 Children from Public School 51, cover letter, pages 1 through 4</title>
     </titleInfo>
@@ -2828,7 +2775,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Excerpt of Frances Perkins' Masters Thesis submitted to the Department of Political Science at Columbia University</abstract>
-    <identifier type="Omeka ID">omeka_000400</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2842,7 +2788,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>399</identifier>
+    <identifier type="Omeka ID">omeka_000399</identifier>
     <titleInfo>
       <title>I thought I ought to give my life to the poor..., first page</title>
     </titleInfo>
@@ -2878,7 +2824,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Washington</geographic>
     </subject>
     <abstract>Frances Perkins' notes on life ambitions, written on note paper with the heading Department of Labor.</abstract>
-    <identifier type="Omeka ID">omeka_000399</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2892,7 +2837,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>398</identifier>
+    <identifier type="Omeka ID">omeka_000398</identifier>
     <titleInfo>
       <title>Thank you for the years of grace dear soul</title>
     </titleInfo>
@@ -2930,7 +2875,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Frances Perkins' poem written for her husband, Paul Wilson</abstract>
-    <identifier type="Omeka ID">omeka_000398</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2944,7 +2888,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>397</identifier>
+    <identifier type="Omeka ID">omeka_000397</identifier>
     <titleInfo>
       <title>Registration Book of Miss F. Perkins</title>
     </titleInfo>
@@ -2990,7 +2934,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <topic>Columbia University. Faculty of Political Science</topic>
     </subject>
     <abstract>Frances Perkins' Columbia registration book</abstract>
-    <identifier type="Omeka ID">omeka_000397</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3004,7 +2947,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>396</identifier>
+    <identifier type="Omeka ID">omeka_000396</identifier>
     <titleInfo>
       <title>Accident prevention, notes</title>
     </titleInfo>
@@ -3041,7 +2984,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Frances Perkins notes on accident prevention</abstract>
-    <identifier type="Omeka ID">omeka_000396</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3055,7 +2997,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>395</identifier>
+    <identifier type="Omeka ID">omeka_000395</identifier>
     <titleInfo>
       <title>Holy Trinity</title>
     </titleInfo>
@@ -3092,7 +3034,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Poem written by Frances Perkins on motherhood and family</abstract>
-    <identifier type="Omeka ID">omeka_000395</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3106,7 +3047,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>394</identifier>
+    <identifier type="Omeka ID">omeka_000394</identifier>
     <titleInfo>
       <title>Fire Prevention and Life Protection: Research, first page</title>
     </titleInfo>
@@ -3143,7 +3084,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Frances Perkins' notes on research into fire prevention in the United States</abstract>
-    <identifier type="Omeka ID">omeka_000394</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3157,7 +3097,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>393</identifier>
+    <identifier type="Omeka ID">omeka_000393</identifier>
     <titleInfo>
       <title>Outline of Lectures on the Fiscal and Industrial History of the United States by Professor Edwin R. A. Seligman</title>
     </titleInfo>
@@ -3203,7 +3143,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Seligman Economics 107 : Fiscal History printed syllabus, with manuscript notes by Frances Perkins</abstract>
-    <identifier type="Omeka ID">omeka_000393</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3217,7 +3156,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>392</identifier>
+    <identifier type="Omeka ID">omeka_000392</identifier>
     <titleInfo>
       <title>Fiscal History</title>
     </titleInfo>
@@ -3256,7 +3195,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Frances Perkins' class notes for Economics 107 : Fiscal History, taught by Edwin Seligman at Columbia University</abstract>
-    <identifier type="Omeka ID">omeka_000392</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3270,7 +3208,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>391</identifier>
+    <identifier type="Omeka ID">omeka_000391</identifier>
     <titleInfo>
       <title>Photos and printed captions of the Triangle Shirtwaist Company Fire</title>
     </titleInfo>
@@ -3309,7 +3247,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Includes photographs of the building after the fire, persons deceased in the fire, and lines of people waiting to identify the deceased at the New York City morgue</abstract>
-    <identifier type="Omeka ID">omeka_000391</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3323,7 +3260,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>390</identifier>
+    <identifier type="Omeka ID">omeka_000390</identifier>
     <titleInfo>
       <title>Draft for address by Frances Perkins at Cornell on the fiftieth anniversary of the Triangle Shirtwaist Fire</title>
     </titleInfo>
@@ -3367,7 +3304,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Ithaca</geographic>
     </subject>
     <abstract>Frances Perkins' notebook with a draft of a talk discussing the Triangle Shirtwaist Fire</abstract>
-    <identifier type="Omeka ID">omeka_000390</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3381,7 +3317,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>389</identifier>
+    <identifier type="Omeka ID">omeka_000389</identifier>
     <titleInfo>
       <title>Memorandum for Frances Perkins, from Governor Franklin Roosevelt, with Felix Frankfurter document attached</title>
     </titleInfo>
@@ -3426,7 +3362,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Albany, New York</geographic>
     </subject>
     <abstract>Felix Frankfurter here sends Governor Franklin Roosevelt the draft of a challenge to President Hoover on the country’s unemployment situation, writing: “The latest official utterance on unemployment from the White House … follows out the prediction made two months earlier and assures the country that the crises is virtually passed. The President’s informants are ‘governors and mayors all over the country,’ who ‘with one exception,’ are agreed that the worst is over. That exception obviously is the State of New York.” Roosevelt forwards this draft on to Frances Perkins.</abstract>
-    <identifier type="Omeka ID">omeka_000389</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3440,7 +3375,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>388</identifier>
+    <identifier type="Omeka ID">omeka_000388</identifier>
     <titleInfo>
       <title>Typed letter to Frances Perkins from Governor Franklin Roosevelt, with autograph note by Perkins</title>
     </titleInfo>
@@ -3479,7 +3414,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
       <geographic>Albany, New York</geographic>
     </subject>
-    <identifier type="Omeka ID">omeka_000388</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3493,7 +3427,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>387</identifier>
+    <identifier type="Omeka ID">omeka_000387</identifier>
     <titleInfo>
       <title>Governor addressed a communication to Chambers of Commerce and Labor Leaders all over the State with reference to unemployment conditions.</title>
     </titleInfo>
@@ -3539,7 +3473,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Albany</geographic>
     </subject>
     <abstract>Governor Franklin Roosevelt here appoints a special committee to address the issues of unemployment in New York State, with the Industrial Commissioner, Frances Perkins, to serve as an ex-officio member, working toward industrial stabilization and the prevention of unemployment.</abstract>
-    <identifier type="Omeka ID">omeka_000387</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3553,7 +3486,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>386</identifier>
+    <identifier type="Omeka ID">omeka_000386</identifier>
     <titleInfo>
       <title>Dinner invitation from Governor Franklin Roosevelt to Frances Perkins and her husband</title>
     </titleInfo>
@@ -3588,7 +3521,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Albany</geographic>
     </subject>
     <abstract>"Governor and Mrs. Franklin Delano Roosevelt request the pleasure of Mr. and Mrs. Wilson's company at dinner on Saturday, March twenty-third at eight o'clock, Executive Mansion"</abstract>
-    <identifier type="Omeka ID">omeka_000386</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3602,7 +3534,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>385</identifier>
+    <identifier type="Omeka ID">omeka_000385</identifier>
     <titleInfo>
       <title>Luncheon of the Consumers' League of New York</title>
     </titleInfo>
@@ -3651,7 +3583,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>Typescript of the speeches given at a meeting of the Consumers' League of New York City, held at the Hotel Commodore. Then New York State Governor Franklin Roosevelt and New York State Industrial Commissioner Frances Perkins spoke at the event.</abstract>
-    <identifier type="Omeka ID">omeka_000385</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3665,7 +3596,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>384</identifier>
+    <identifier type="Omeka ID">omeka_000384</identifier>
     <titleInfo>
       <title>Frances Perkins, Secretary of Labor, explains the New Deal, proof, first page</title>
     </titleInfo>
@@ -3704,7 +3635,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <topic>Perkins, Frances, 1880-1965</topic>
       <topic>New Deal, 1933-1939</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000384</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3718,7 +3648,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>383</identifier>
+    <identifier type="Omeka ID">omeka_000383</identifier>
     <titleInfo>
       <title>Radio Address of Secretary of Labor Frances Perkins</title>
     </titleInfo>
@@ -3753,7 +3683,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Washington</geographic>
     </subject>
     <abstract>Frances Perkins Radio address</abstract>
-    <identifier type="Omeka ID">omeka_000383</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3767,7 +3696,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>382</identifier>
+    <identifier type="Omeka ID">omeka_000382</identifier>
     <titleInfo>
       <title>Letter from Felix Frankfurter to Frances Perkins on her job as Secretary of Labor</title>
     </titleInfo>
@@ -3808,7 +3737,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Washington</geographic>
     </subject>
     <abstract>After Truman accepted her resignation, along with those of most of the FDR cabinet who had stayed to help in the transition to the new administration, Felix Frankfurter sent Perkins this graceful letter of congratulations for a job well done.</abstract>
-    <identifier type="Omeka ID">omeka_000382</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3822,7 +3750,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>381</identifier>
+    <identifier type="Omeka ID">omeka_000381</identifier>
     <titleInfo>
       <title>President Franklin Delano Roosevelt Diagram</title>
     </titleInfo>
@@ -3855,7 +3783,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Washington</geographic>
     </subject>
     <abstract>Diagram drawn by FDR on White House stationery, sent to Frances Perkins</abstract>
-    <identifier type="Omeka ID">omeka_000381</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3869,7 +3796,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>380</identifier>
+    <identifier type="Omeka ID">omeka_000380</identifier>
     <titleInfo>
       <title>Letter from Edwin Seligman to Frances Perkins</title>
     </titleInfo>
@@ -3908,7 +3835,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>New York</geographic>
     </subject>
     <abstract>ERA Seligman to Frances Perkins, congratulating her on her appointment to Secretary of the Labor Department</abstract>
-    <identifier type="Omeka ID">omeka_000380</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3922,7 +3848,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>379</identifier>
+    <identifier type="Omeka ID">omeka_000379</identifier>
     <titleInfo>
       <title>Letter from Frances Perkins to Edwin Seligman</title>
     </titleInfo>
@@ -3958,7 +3884,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       <geographic>Washington</geographic>
     </subject>
     <abstract>Frances Perkins to E. Seligman</abstract>
-    <identifier type="Omeka ID">omeka_000379</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3972,7 +3897,7 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
     </recordInfo>
   </mods>
   <mods>
-    <identifier>378</identifier>
+    <identifier type="Omeka ID">omeka_000378</identifier>
     <titleInfo>
       <title>Letter with Attached Document from Felix Frankfurter to Labor Secretary Frances Perkins</title>
     </titleInfo>
@@ -4016,7 +3941,6 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
 
 
 Letter includes "The Government's Right to Condition the Purchase of Its Supplies and the Rendering of SErvices to It Upon the Observance of Decent Labor Standards", written by Felix Frankfurter</abstract>
-    <identifier type="Omeka ID">omeka_000378</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4030,7 +3954,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>377</identifier>
+    <identifier type="Omeka ID">omeka_000377</identifier>
     <titleInfo>
       <title>Draft of Speech by President Franklin Delano Roosevelt</title>
     </titleInfo>
@@ -4067,7 +3991,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Washington</geographic>
     </subject>
     <abstract>FDR speech draft</abstract>
-    <identifier type="Omeka ID">omeka_000377</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4081,7 +4004,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>376</identifier>
+    <identifier type="Omeka ID">omeka_000376</identifier>
     <titleInfo>
       <title>Presentation American Woman's Association 1933 Award by Miss Ida Tarbell, Acceptance by Honorable Frances Perkins</title>
     </titleInfo>
@@ -4124,7 +4047,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <topic>American Woman's Association</topic>
       <geographic>New York</geographic>
     </subject>
-    <identifier type="Omeka ID">omeka_000376</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4138,7 +4060,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>375</identifier>
+    <identifier type="Omeka ID">omeka_000375</identifier>
     <titleInfo>
       <title>Roosevelt I Knew</title>
     </titleInfo>
@@ -4174,7 +4096,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Advertisement for "The Roosevelt I knew", book on Franklin Delano Roosevelt, written by Frances Perkins and published by Viking Press</abstract>
-    <identifier type="Omeka ID">omeka_000375</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4188,7 +4109,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>374</identifier>
+    <identifier type="Omeka ID">omeka_000374</identifier>
     <titleInfo>
       <title>Order of Service at Saint John's Church on the Ninth Anniversary of the Inauguration of Franklin Delano Roosevelt as President of the United States</title>
     </titleInfo>
@@ -4227,7 +4148,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Washington</geographic>
     </subject>
     <abstract>FDR 9th anniv. Church service</abstract>
-    <identifier type="Omeka ID">omeka_000374</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4241,7 +4161,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>373</identifier>
+    <identifier type="Omeka ID">omeka_000373</identifier>
     <titleInfo>
       <title>Inauguration Ceremonies Program, front cover</title>
     </titleInfo>
@@ -4275,7 +4195,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Washington</geographic>
     </subject>
     <abstract>Front cover of the Inauguration Ceremonies Program for President Franklin Roosevelt's first term in office.</abstract>
-    <identifier type="Omeka ID">omeka_000373</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4289,7 +4208,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>372</identifier>
+    <identifier type="Omeka ID">omeka_000372</identifier>
     <titleInfo>
       <title>Invitation to the first presidential inauguration of Franklin Delano Roosevelt</title>
     </titleInfo>
@@ -4323,7 +4242,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
       <geographic>Washington (D.C.)</geographic>
     </subject>
-    <identifier type="Omeka ID">omeka_000372</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4337,7 +4255,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>371</identifier>
+    <identifier type="Omeka ID">omeka_000371</identifier>
     <titleInfo>
       <title>Testimonial Dinner to Honor Frances Perkins, cover and table of contents</title>
     </titleInfo>
@@ -4408,7 +4326,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York City</geographic>
     </subject>
     <abstract>"Testimonial Dinner to Hon. Frances Perkins, Secretary of Labor or the United States, given by labor organizations, women's clubs, civic and social groups of New York City; Hotel Commodore, New York City" taken from cover.</abstract>
-    <identifier type="Omeka ID">omeka_000371</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4422,7 +4339,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>370</identifier>
+    <identifier type="Omeka ID">omeka_000370</identifier>
     <titleInfo>
       <title>Letter from Sinclair Lewis to Frances Perkins</title>
     </titleInfo>
@@ -4461,7 +4378,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Bronxville, NY</geographic>
     </subject>
     <abstract>Letter from Sinclair Lewis to Frances Perkins. 2 pages</abstract>
-    <identifier type="Omeka ID">omeka_000370</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4475,7 +4391,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>369</identifier>
+    <identifier type="Omeka ID">omeka_000369</identifier>
     <titleInfo>
       <title>How the Other Half Lives, cover</title>
     </titleInfo>
@@ -4510,7 +4426,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York</geographic>
     </subject>
     <abstract>How the Other Half Lives by Jacob A. Riis</abstract>
-    <identifier type="Omeka ID">omeka_000369</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4524,7 +4439,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>368</identifier>
+    <identifier type="Omeka ID">omeka_000368</identifier>
     <titleInfo>
       <title>Llamarada, volume the sixth, cover</title>
     </titleInfo>
@@ -4563,7 +4478,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Mount Holyoke</geographic>
     </subject>
     <abstract>Mount Holyoke Student Yearbook</abstract>
-    <identifier type="Omeka ID">omeka_000368</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4577,7 +4491,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>367</identifier>
+    <identifier type="Omeka ID">omeka_000367</identifier>
     <titleInfo>
       <title>New York State Workmen’s Compensation Law and Industrial Board Rules, cover</title>
     </titleInfo>
@@ -4619,7 +4533,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <topic>Workers' compensation--Law and legislation--New York (State)</topic>
       <geographic>New York</geographic>
     </subject>
-    <identifier type="Omeka ID">omeka_000367</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4633,7 +4546,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>366</identifier>
+    <identifier type="Omeka ID">omeka_000366</identifier>
     <titleInfo>
       <title>Annual Report of the Secretary of Labor, front cover</title>
     </titleInfo>
@@ -4667,7 +4580,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Washington</geographic>
     </subject>
     <abstract>Annual Report of the Secretary of Labor</abstract>
-    <identifier type="Omeka ID">omeka_000366</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4681,7 +4593,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>365</identifier>
+    <identifier type="Omeka ID">omeka_000365</identifier>
     <titleInfo>
       <title>Addresses of Alfred E. Smith delivered at the meetings of the Society of the Friendly Sons of St. Patrick, 1922-1944, cover</title>
     </titleInfo>
@@ -4727,7 +4639,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York</geographic>
     </subject>
     <abstract>Addresses of Alfred Smith delivered at the meetings of the Society of the Friendly Sons of Saint Patrick, 1922-1944. This volume also contains transcripts of the memorial addresses delivered after Smith's death.</abstract>
-    <identifier type="Omeka ID">omeka_000365</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4741,7 +4652,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>364</identifier>
+    <identifier type="Omeka ID">omeka_000364</identifier>
     <titleInfo>
       <title>American Labor Legislation Review: Labor Law Administration in New York, front cover</title>
     </titleInfo>
@@ -4777,7 +4688,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York</geographic>
     </subject>
     <abstract>Labor Law Admin. NY</abstract>
-    <identifier type="Omeka ID">omeka_000364</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4791,7 +4701,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>363</identifier>
+    <identifier type="Omeka ID">omeka_000363</identifier>
     <titleInfo>
       <title>Social security in America, cover</title>
     </titleInfo>
@@ -4831,7 +4741,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>Washington</geographic>
     </subject>
     <abstract>Social security in America; the factual background of the Social security act as summarized from staff reports to the Committee on Economic Security.</abstract>
-    <identifier type="Omeka ID">omeka_000363</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4845,7 +4754,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>362</identifier>
+    <identifier type="Omeka ID">omeka_000362</identifier>
     <titleInfo>
       <title>Ann Vickers, front cover</title>
     </titleInfo>
@@ -4878,7 +4787,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York</geographic>
     </subject>
     <abstract>Lewis, Sinclair; Ann Vickers</abstract>
-    <identifier type="Omeka ID">omeka_000362</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4892,7 +4800,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>352</identifier>
+    <identifier type="Omeka ID">omeka_000352</identifier>
     <titleInfo>
       <title>New York’s Worst Fire, unnumbered page</title>
     </titleInfo>
@@ -4930,7 +4838,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York</geographic>
     </subject>
     <abstract>Harper’s Weekly printed many photographs from “New York’s Worst Fire”, the Triangle Shirtwaist Fire; a copy was kept by Frances Perkins</abstract>
-    <identifier type="Omeka ID">omeka_000352</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4944,7 +4851,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>351</identifier>
+    <identifier type="Omeka ID">omeka_000351</identifier>
     <titleInfo>
       <title>Al Smith speaking into an NBC microphone</title>
     </titleInfo>
@@ -4979,7 +4886,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <geographic>New York</geographic>
     </subject>
     <abstract>Perkins gathered these and other photographs of Al Smith for her unpublished biography. Some of them were used by Matthew and Hannah Josephson in their 1969 biography of Smith.</abstract>
-    <identifier type="Omeka ID">omeka_000351</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4993,7 +4899,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>350</identifier>
+    <identifier type="Omeka ID">omeka_000350</identifier>
     <titleInfo>
       <title>Al Smith and then New York governor Franklin Delano Roosevelt</title>
     </titleInfo>
@@ -5025,7 +4931,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
       <temporal>Albany, New York</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000350</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5039,7 +4944,7 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
     </recordInfo>
   </mods>
   <mods>
-    <identifier>349</identifier>
+    <identifier type="Omeka ID">omeka_000349</identifier>
     <titleInfo>
       <title>Governor Franklin Roosevelt with New York State Departmental Heads</title>
     </titleInfo>
@@ -5081,7 +4986,6 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
 
 
 Includes creator's name in bottom right corner, but the name is illegible.</abstract>
-    <identifier type="Omeka ID">omeka_000349</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5095,7 +4999,7 @@ Includes creator's name in bottom right corner, but the name is illegible.</abst
     </recordInfo>
   </mods>
   <mods>
-    <identifier>348</identifier>
+    <identifier type="Omeka ID">omeka_000348</identifier>
     <titleInfo>
       <title>President Franklin Delano Roosevelt with Frances Perkins and Other on a Train</title>
     </titleInfo>
@@ -5131,7 +5035,6 @@ Includes creator's name in bottom right corner, but the name is illegible.</abst
       <temporal>1938-08-12</temporal>
     </subject>
     <abstract>FDR w/ Frances Perkins and others</abstract>
-    <identifier type="Omeka ID">omeka_000348</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5145,7 +5048,7 @@ Includes creator's name in bottom right corner, but the name is illegible.</abst
     </recordInfo>
   </mods>
   <mods>
-    <identifier>347</identifier>
+    <identifier type="Omeka ID">omeka_000347</identifier>
     <titleInfo>
       <title>Fala, President Franklin Roosevelt's Dog, Listening to a Radio, photograph and two captions</title>
     </titleInfo>
@@ -5181,7 +5084,6 @@ Includes creator's name in bottom right corner, but the name is illegible.</abst
       <temporal>Los Angeles</temporal>
     </subject>
     <abstract>In this photograph of Fala, kept by Perkins, President Roosevelt’s Scotty “bends an attentive ear to a portable radio on a railroad station platform at a Pacific Coast naval base as he listens to his master accepting a fourth term nomination.” Includes two captions.</abstract>
-    <identifier type="Omeka ID">omeka_000347</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5195,7 +5097,7 @@ Includes creator's name in bottom right corner, but the name is illegible.</abst
     </recordInfo>
   </mods>
   <mods>
-    <identifier>346</identifier>
+    <identifier type="Omeka ID">omeka_000346</identifier>
     <titleInfo>
       <title>President Franklin Delano Roosevelt signing the Social Security Bill, photograph and caption</title>
     </titleInfo>
@@ -5245,7 +5147,6 @@ Includes creator's name in bottom right corner, but the name is illegible.</abst
     <abstract>Photograph and caption of President Franklin Delano Roosevelt signing the Social Security Act.
 
 Caption gives date of "3-14-35" for signing of the Act, although President Roosevelt signed the Act on 9-15-35</abstract>
-    <identifier type="Omeka ID">omeka_000346</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5259,7 +5160,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>345</identifier>
+    <identifier type="Omeka ID">omeka_000345</identifier>
     <titleInfo>
       <title>Secretary Perkins Investigates Mining Area, photograph and caption</title>
     </titleInfo>
@@ -5296,7 +5197,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Vinita, Oklahoma</temporal>
     </subject>
     <abstract>The caption for this photograph is as follows: “Conflicting reports of housing and labor conditions in Oklahoma and Missouri mining areas brought Secretary of labor Frances Perkins to the district on a tour of inspection. She is shown [here] as she entered a mine shaft near here to examine working conditions under ground.”</abstract>
-    <identifier type="Omeka ID">omeka_000345</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5310,7 +5210,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>344</identifier>
+    <identifier type="Omeka ID">omeka_000344</identifier>
     <titleInfo>
       <title>Labor Dept 25th Anniversary Celebration, photograph and caption</title>
     </titleInfo>
@@ -5345,7 +5245,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Washington</temporal>
     </subject>
     <abstract>Labor Dept 25th</abstract>
-    <identifier type="Omeka ID">omeka_000344</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5359,7 +5258,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>343</identifier>
+    <identifier type="Omeka ID">omeka_000343</identifier>
     <titleInfo>
       <title>Frances Perkins shakes hands with workers at Todd Shipyards</title>
     </titleInfo>
@@ -5396,7 +5295,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Todd Shipyards Richmond, CA</temporal>
     </subject>
     <abstract>Frances Perkins wrote on the verso of the photograph above left: “The first view of Henry Kaiser’s latest Mud &amp; hope.” His Richmond shipyard became famous for producing cargo ships, known as Liberty ships, on the average of one every 45 days, and by November, 1942, production had been cut to just 14 and ½ days.</abstract>
-    <identifier type="Omeka ID">omeka_000343</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5410,7 +5308,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>342</identifier>
+    <identifier type="Omeka ID">omeka_000342</identifier>
     <titleInfo>
       <title>Frances Perkins visit to the Todd Shipyards</title>
     </titleInfo>
@@ -5446,7 +5344,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Todd Shipyards Corporation</topic>
       <temporal>Todd Shipyards Richmond, CA</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000342</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5460,7 +5357,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>341</identifier>
+    <identifier type="Omeka ID">omeka_000341</identifier>
     <titleInfo>
       <title>President Harry Truman takes the Oath of Office</title>
     </titleInfo>
@@ -5495,7 +5392,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>United States. President (1945-1953 : Truman)</topic>
       <temporal>Washington</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000341</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5509,7 +5405,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>340</identifier>
+    <identifier type="Omeka ID">omeka_000340</identifier>
     <titleInfo>
       <title>Wives of President Franklin Delano Roosevelt's Cabinet Members at Table</title>
     </titleInfo>
@@ -5540,7 +5436,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     <note>original filename: 090074025.tif</note>
     <subject/>
     <abstract>Cabinet wives at table</abstract>
-    <identifier type="Omeka ID">omeka_000340</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5554,7 +5449,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>339</identifier>
+    <identifier type="Omeka ID">omeka_000339</identifier>
     <titleInfo>
       <title>Photograph of the Cabinet Wives, Eleanor Roosevelt, and Frances Perkins</title>
     </titleInfo>
@@ -5591,7 +5486,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Roosevelt, Eleanor, 1884-1962</topic>
       <temporal>Washington (District of Columbia)</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000339</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5605,7 +5499,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>338</identifier>
+    <identifier type="Omeka ID">omeka_000338</identifier>
     <titleInfo>
       <title>Photograph of Frances Perkins at Safety Costumes Conference</title>
     </titleInfo>
@@ -5637,7 +5531,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Frances Perkins photographed with female workers in various protective gear</abstract>
-    <identifier type="Omeka ID">omeka_000338</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5651,7 +5544,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>337</identifier>
+    <identifier type="Omeka ID">omeka_000337</identifier>
     <titleInfo>
       <title>Franklin Delano Roosevelt delivering State of the Union</title>
     </titleInfo>
@@ -5687,7 +5580,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
       <temporal>Washington</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000337</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5701,7 +5593,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>336</identifier>
+    <identifier type="Omeka ID">omeka_000336</identifier>
     <titleInfo>
       <title>Frances Perkins at Lockheed</title>
     </titleInfo>
@@ -5732,7 +5624,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Frances Perkins at Lockheed</abstract>
-    <identifier type="Omeka ID">omeka_000336</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5746,7 +5637,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>335</identifier>
+    <identifier type="Omeka ID">omeka_000335</identifier>
     <titleInfo>
       <title>Frances Perkins with Pen and Papers</title>
     </titleInfo>
@@ -5780,7 +5671,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>New York</temporal>
     </subject>
     <abstract>Frances Perkins w/ pen &amp; papers</abstract>
-    <identifier type="Omeka ID">omeka_000335</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5794,7 +5684,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>334</identifier>
+    <identifier type="Omeka ID">omeka_000334</identifier>
     <titleInfo>
       <title>Frances Perkins and NBC microphone</title>
     </titleInfo>
@@ -5827,7 +5717,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Sent to Perkins in an envelope postmarked 28 February 1933, this photograph would have been taken just as her appointment as Secretary for Labor was announced</abstract>
-    <identifier type="Omeka ID">omeka_000334</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5841,7 +5730,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>333</identifier>
+    <identifier type="Omeka ID">omeka_000333</identifier>
     <titleInfo>
       <title>Photograph of Frances Perkins and President Franklin Delano Roosevelt</title>
     </titleInfo>
@@ -5875,7 +5764,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
       <temporal>Washington (District of Columbia)</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000333</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5889,7 +5777,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>332</identifier>
+    <identifier type="Omeka ID">omeka_000332</identifier>
     <titleInfo>
       <title>Frances Perkins with Portfolio</title>
     </titleInfo>
@@ -5921,7 +5809,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Washington</temporal>
     </subject>
     <abstract>Frances Perkins w/ portfolio</abstract>
-    <identifier type="Omeka ID">omeka_000332</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5935,7 +5822,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>331</identifier>
+    <identifier type="Omeka ID">omeka_000331</identifier>
     <titleInfo>
       <title>Frances Perkins</title>
     </titleInfo>
@@ -5968,7 +5855,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Washington?</temporal>
     </subject>
     <abstract>Portrait of Frances Perkins</abstract>
-    <identifier type="Omeka ID">omeka_000331</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5982,7 +5868,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>330</identifier>
+    <identifier type="Omeka ID">omeka_000330</identifier>
     <titleInfo>
       <title>Frances Jurkowitz</title>
     </titleInfo>
@@ -6014,7 +5900,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Jurkowitz, Frances</topic>
     </subject>
     <abstract>When Perkins was appointed Secretary of Labor, she asked her loyal secretary, Frances Jurkowitz, known as Miss Jay, to come to Washington with her. A dedicated and very hard worker, Jay was sometimes over-protective of Perkins, resulting in feelings of resentment against her boss.</abstract>
-    <identifier type="Omeka ID">omeka_000330</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6028,7 +5913,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>329</identifier>
+    <identifier type="Omeka ID">omeka_000329</identifier>
     <titleInfo>
       <title>Frances Perkins with telephone</title>
     </titleInfo>
@@ -6060,7 +5945,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
       <temporal>New York</temporal>
     </subject>
-    <identifier type="Omeka ID">omeka_000329</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6074,7 +5958,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>328</identifier>
+    <identifier type="Omeka ID">omeka_000328</identifier>
     <titleInfo>
       <title>Mary Rumsey</title>
     </titleInfo>
@@ -6106,7 +5990,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     <subject>
       <topic>Rumsey, Mary Harriman, 1881-1934</topic>
     </subject>
-    <identifier type="Omeka ID">omeka_000328</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6120,7 +6003,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>327</identifier>
+    <identifier type="Omeka ID">omeka_000327</identifier>
     <titleInfo>
       <title>Photograph of Frances Perkins at Golden Gate Bridge</title>
     </titleInfo>
@@ -6157,7 +6040,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>San Francisco</temporal>
     </subject>
     <abstract>Frances Perkins is seen here inspecting the construction of the Golden Gate Bridge project in San Francisco, March 27, 1935.</abstract>
-    <identifier type="Omeka ID">omeka_000327</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6171,7 +6053,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>326</identifier>
+    <identifier type="Omeka ID">omeka_000326</identifier>
     <titleInfo>
       <title>Frances Perkins as a child with her sister</title>
     </titleInfo>
@@ -6210,7 +6092,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Ethel</topic>
     </subject>
     <abstract>Photograph of Fanny at five years old, and her sister Ethel at four months old</abstract>
-    <identifier type="Omeka ID">omeka_000326</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6224,7 +6105,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>325</identifier>
+    <identifier type="Omeka ID">omeka_000325</identifier>
     <titleInfo>
       <title>Young Frances Perkins photograph</title>
     </titleInfo>
@@ -6257,7 +6138,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Mount Holyoke</temporal>
     </subject>
     <abstract>Frances Perkins in hat with feather</abstract>
-    <identifier type="Omeka ID">omeka_000325</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6271,7 +6151,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>324</identifier>
+    <identifier type="Omeka ID">omeka_000324</identifier>
     <titleInfo>
       <title>Frances Perkins Standing by Car</title>
     </titleInfo>
@@ -6303,7 +6183,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Frances Perkins w/ polka dots suit</abstract>
-    <identifier type="Omeka ID">omeka_000324</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6317,7 +6196,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>323</identifier>
+    <identifier type="Omeka ID">omeka_000323</identifier>
     <titleInfo>
       <title>Paul Wilson</title>
     </titleInfo>
@@ -6352,7 +6231,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Maine</temporal>
     </subject>
     <abstract>Photograph of Paul Wilson, Frances Perkins' husband</abstract>
-    <identifier type="Omeka ID">omeka_000323</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6366,7 +6244,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>322</identifier>
+    <identifier type="Omeka ID">omeka_000322</identifier>
     <titleInfo>
       <title>Frances Perkins after Speech</title>
     </titleInfo>
@@ -6398,7 +6276,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>1938</temporal>
     </subject>
     <abstract>Frances Perkins after speech</abstract>
-    <identifier type="Omeka ID">omeka_000322</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6412,7 +6289,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>321</identifier>
+    <identifier type="Omeka ID">omeka_000321</identifier>
     <titleInfo>
       <title>Frances Perkins with other delegates to the International Labor Organization</title>
     </titleInfo>
@@ -6449,7 +6326,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <temporal>Geneva</temporal>
     </subject>
     <abstract>In 1945, Perkins listed as one of her accomplishments her role in helping the U.S. to enter “into full membership and participation in” the ILO, “now so important for future international cooperation in this field.” She attended the ILO conferences in 1935, 1944, 1945, 1946, 1948 and 1952. She is shown here with a Mr. Van Haustein of Germany and a Mr. John of Sweden.</abstract>
-    <identifier type="Omeka ID">omeka_000321</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6463,7 +6339,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>320</identifier>
+    <identifier type="Omeka ID">omeka_000320</identifier>
     <titleInfo>
       <title>Frances Perkins at Tea</title>
     </titleInfo>
@@ -6495,7 +6371,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Frances Perkins, PW, SW tea</abstract>
-    <identifier type="Omeka ID">omeka_000320</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6509,7 +6384,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>319</identifier>
+    <identifier type="Omeka ID">omeka_000319</identifier>
     <titleInfo>
       <title>Frances Perkins on Raft</title>
     </titleInfo>
@@ -6541,7 +6416,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Perkins, Frances, 1880-1965</topic>
     </subject>
     <abstract>Frances Perkins on raft</abstract>
-    <identifier type="Omeka ID">omeka_000319</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6555,7 +6429,7 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
     </recordInfo>
   </mods>
   <mods>
-    <identifier>318</identifier>
+    <identifier type="Omeka ID">omeka_000318</identifier>
     <titleInfo>
       <title>Photograph of Frances Perkins, Paul Wilson, and Susanna Perkins Wilson with a horse</title>
     </titleInfo>
@@ -6589,7 +6463,6 @@ Caption gives date of "3-14-35" for signing of the Act, although President Roose
       <topic>Wilson, Susanna Perkins</topic>
     </subject>
     <abstract>Photograph of the Perkins/Wilson family - Frances, her husband, and her daughter - with Susanna's pony, Elsie</abstract>
-    <identifier type="Omeka ID">omeka_000318</identifier>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
