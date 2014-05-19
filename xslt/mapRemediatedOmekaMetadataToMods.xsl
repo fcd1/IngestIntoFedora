@@ -19,7 +19,7 @@
       <xsl:call-template name="PhysicalDescription"/>
       <xsl:call-template name="OriginInfo"/>
       <xsl:call-template name="Location"/>
-      <xsl:call-template name="RelatedItemTitleInfoTitle"/>
+      <xsl:call-template name="RelatedItem"/>
       <xsl:call-template name="Note"/>
       <xsl:call-template name="NameNamePart"/>
       <xsl:call-template name="Subject"/>
@@ -326,7 +326,7 @@
   <!-- fcd1, 03/26/14: MODS <relatedItem<titleIfo><title> -->
   <!-- Handles the collection name, as stored in Omeka, as well as -->
   <!-- as the project URL, and the MODS Collection field -->
-  <xsl:template name="RelatedItemTitleInfoTitle">
+  <xsl:template name="RelatedItem">
     <relatedItem displayLabel="Project" type="host">
       <xsl:apply-templates select="item_-_OmekaCollection"/>
       <xsl:apply-templates select="project_URL"/>
