@@ -338,6 +338,13 @@
 	</relatedItem>
       </xsl:if>
     </xsl:for-each>
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Source')]">
+      <xsl:if test=" . != '' ">
+	<relatedItem type="original">
+	  <xsl:value-of select="."/>
+	</relatedItem>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
   
   <!-- fcd1, 03/26/14: MODS <note> -->
