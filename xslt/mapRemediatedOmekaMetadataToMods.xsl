@@ -305,24 +305,35 @@
     </location>
   </xsl:template>
 
+  <!-- fcd1, 05/19/14: Following is used to populate subelements of -->
+  <!-- <relatedItem type="host" displayLabel="Project" -->
+  <!-- containing the Omeka Collection information. -->
+  <xsl:template match="item_-_OmekaCollection">
+    <xsl:if test=" . != '' ">
+	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
+    </xsl:if>
+  </xsl:template>
+
+  <!-- fcd1, 05/19/14: Following is used to populate subelements of -->
+  <!-- <relatedItem type="host" displayLabel="Project" -->
+  <!-- containig the project URL -->
+  <xsl:template match="project_URL">
+    <xsl:if test=" . != '' ">
+	  <location><url><xsl:value-of select="."/></url></location>
+    </xsl:if>
+  </xsl:template>
+
   <!-- fcd1, 03/26/14: MODS <relatedItem<titleIfo><title> -->
   <!-- Handles the collection name, as stored in Omeka, as well as -->
-  <!-- the MODS Collection field -->
-  <!-- fcd1, 05/16/14: need to fix the MODS Collection part, do not want -->
-  <!-- to create an empty <relatedItem/> if there is not MODS Collection value -->
-  <!-- maybe I can move the <relatedItem> into the for-each loop, like I -->
-  <!-- did the Omeka Collection (should only be one, so makes no difference -->
+  <!-- as the project URL, and the MODS Collection field -->
   <xsl:template name="RelatedItemTitleInfoTitle">
+    <relatedItem displayLabel="Project" type="host">
+      <xsl:apply-templates select="item_-_OmekaCollection"/>
+      <xsl:apply-templates select="project_URL"/>
+    </relatedItem>
     <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Collection')]">
       <xsl:if test=" . != '' ">
 	<relatedItem displayLabel="Collection" type="host">
-	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
-	</relatedItem>
-      </xsl:if>
-    </xsl:for-each>
-    <xsl:for-each select="*[starts-with(name(), 'item_-_OmekaCollection')]">
-      <xsl:if test=" . != '' ">
-	<relatedItem displayLabel="Project" type="host">
 	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
 	</relatedItem>
       </xsl:if>
