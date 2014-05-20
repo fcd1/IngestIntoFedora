@@ -98,15 +98,15 @@
 	<topic><xsl:value-of select="."/></topic>
       </xsl:if>
     </xsl:for-each>
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Coverage')]">
+      <xsl:if test=" . != '' ">
+	<topic><xsl:value-of select="."/></topic>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <temporal> -->
   <xsl:template name="Temporal">
-    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Coverage')]">
-      <xsl:if test=" . != '' ">
-	<temporal><xsl:value-of select="."/></temporal>
-      </xsl:if>
-    </xsl:for-each>
     <xsl:for-each select="*[starts-with(name(), 'item_-_AdditionalItemMetadata_-_TemporalCoverage')]">
       <xsl:if test=" . != '' ">
 	<temporal><xsl:value-of select="."/></temporal>
