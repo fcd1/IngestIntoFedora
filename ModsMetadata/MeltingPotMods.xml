@@ -639,7 +639,7 @@ Gift of Allen Ginsberg, 1993</note>
     <subject>
       <topic>Boys</topic>
       <topic>Children</topic>
-      <temporal>New York (N.Y.)</temporal>
+      <topic>New York (N.Y.)</topic>
     </subject>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -747,7 +747,7 @@ Gift of Allen Ginsberg, 1993</note>
       <topic>Children</topic>
       <topic>Tenement houses</topic>
       <topic>Stairs</topic>
-      <temporal>New York (N.Y.)</temporal>
+      <topic>New York (N.Y.)</topic>
     </subject>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1127,8 +1127,8 @@ Gift of Allen Ginsberg, 1993</note>
     <note>original filename: 6_03_01.tif</note>
     <subject>
       <topic>School children</topic>
-      <temporal>Lower East Side (New York, N.Y.)</temporal>
-      <temporal>New York (N.Y.)</temporal>
+      <topic>Lower East Side (New York, N.Y.)</topic>
+      <topic>New York (N.Y.)</topic>
     </subject>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1229,8 +1229,8 @@ Gift of Allen Ginsberg, 1993</note>
     </relatedItem>
     <note>original filename: 6_01_01.tif</note>
     <subject>
-      <temporal>Lower East Side (New York, N.Y.)</temporal>
-      <temporal>New York (N.Y.)</temporal>
+      <topic>Lower East Side (New York, N.Y.)</topic>
+      <topic>New York (N.Y.)</topic>
     </subject>
     <abstract>Photograph of Orchard Street from 1905. Title based on caption used in the "Report of the Mayor's Push-Cart Commission," City of New York, 1906. Facing first page of text, top.</abstract>
     <language>
