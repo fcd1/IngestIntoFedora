@@ -12,6 +12,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1968</dateCreated>
+      <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -67,6 +68,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1968</dateCreated>
+      <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -122,6 +124,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1990</dateCreated>
+      <dateCreated>Between 1950 and 1990</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -174,6 +177,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>Between 1914 and 1931</dateCreated>
       <publisher>A. Klar</publisher>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
@@ -234,6 +238,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1909-09-06</dateCreated>
+      <dateCreated>September 6, 1909</dateCreated>
       <place>
         <placeTerm type="text">New York City, New York</placeTerm>
       </place>
@@ -282,6 +287,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">2000</dateCreated>
+      <dateCreated>Between 1950 and 2000</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -352,6 +358,7 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1964</dateCreated>
+      <dateCreated>1964</dateCreated>
       <publisher>City Lights Books</publisher>
       <place>
         <placeTerm type="text">San Francisco</placeTerm>
@@ -400,6 +407,7 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1964</dateCreated>
+      <dateCreated>1964</dateCreated>
       <publisher>City Lights Books</publisher>
       <place>
         <placeTerm type="text">San Francisco</placeTerm>
@@ -448,6 +456,7 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1972-06-02</dateCreated>
+      <dateCreated>June 2, 1972</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -510,6 +519,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1976</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1977</dateCreated>
+      <dateCreated>Between 1976 and 1977</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -563,6 +573,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1970</dateCreated>
+      <dateCreated>1970</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -612,6 +623,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1902</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1909</dateCreated>
+      <dateCreated>between 1902 and 1909</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -665,6 +677,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1951</dateCreated>
+      <dateCreated>1951</dateCreated>
       <publisher>Random House</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -719,6 +732,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1902</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1909</dateCreated>
+      <dateCreated>between 1902 and 1909</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -773,6 +787,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1979</dateCreated>
+      <dateCreated>1979</dateCreated>
       <publisher>Simon and Schuster</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -826,6 +841,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1957</dateCreated>
+      <dateCreated>1957</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -882,6 +898,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1928</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1961</dateCreated>
+      <dateCreated>between 1928 and 1961</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -939,6 +956,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1942</dateCreated>
+      <dateCreated>circa 1942</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -991,6 +1009,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1942</dateCreated>
+      <dateCreated>circa 1942</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1044,6 +1063,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1928</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1961</dateCreated>
+      <dateCreated>between 1928 and 1961</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1101,6 +1121,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1905</dateCreated>
+      <dateCreated>circa 1905</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1153,6 +1174,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1920</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1950</dateCreated>
+      <dateCreated>between 1920 and 1950</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1204,6 +1226,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1905</dateCreated>
+      <dateCreated>1905</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1255,6 +1278,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1961-02-21</dateCreated>
+      <dateCreated>February 21, 1961</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1318,6 +1342,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1961-02-21</dateCreated>
+      <dateCreated>February 21, 1961</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1375,6 +1400,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1961-02-21</dateCreated>
+      <dateCreated>February 21, 1961</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1433,6 +1459,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1961-02-21</dateCreated>
+      <dateCreated>February 21, 1961</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1491,6 +1518,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1960-09-18</dateCreated>
+      <dateCreated>September 18, 1960</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1547,6 +1575,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1960-09-18</dateCreated>
+      <dateCreated>September 18, 1960</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1606,6 +1635,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1941</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1941 and 1981</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1660,6 +1690,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1946</dateCreated>
+      <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1713,6 +1744,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1946</dateCreated>
+      <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1766,6 +1798,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1946</dateCreated>
+      <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1822,6 +1855,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1946</dateCreated>
+      <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1878,6 +1912,7 @@ Gift of Allen Ginsberg, 1993</note>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1946</dateCreated>
+      <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1935,6 +1970,7 @@ Gift of Allen Ginsberg, 1993</note>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1942-01-16</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1942-01-31</dateCreated>
+      <dateCreated>January 16th to 31st, 1942</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -1997,6 +2033,7 @@ Held at the Board of Education of New York City.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1941-10-27</dateCreated>
+      <dateCreated>October 27, 1941</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -2053,6 +2090,7 @@ Held at the Board of Education of New York City.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1941-09-19</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1941-10-03</dateCreated>
+      <dateCreated>September 19 to October 3, 1941</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -2113,6 +2151,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1941-09-19</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1941-10-03</dateCreated>
+      <dateCreated>September 19 to October 3, 1941</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -2169,6 +2208,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1941</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1941 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2224,6 +2264,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1946</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1946 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2279,6 +2320,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1948</dateCreated>
+      <dateCreated>1948</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -2341,6 +2383,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1940-12-16</dateCreated>
+      <dateCreated>December 16, 1940</dateCreated>
       <place>
         <placeTerm type="text">Marseille, France</placeTerm>
       </place>
@@ -2400,6 +2443,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1940-10-11</dateCreated>
+      <dateCreated>October 11, 1940</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -2463,6 +2507,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1942</dateCreated>
+      <dateCreated>1942</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -2523,6 +2568,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1939</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <dateCreated>between 1939 and 1940</dateCreated>
       <place>
         <placeTerm type="text">France</placeTerm>
       </place>
@@ -2576,6 +2622,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1940-06-07</dateCreated>
+      <dateCreated>June 7, 1940</dateCreated>
       <place>
         <placeTerm type="text">Éauze, France</placeTerm>
       </place>
@@ -2635,6 +2682,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1937</dateCreated>
+      <dateCreated>1937</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -2693,6 +2741,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1922-10-17</dateCreated>
+      <dateCreated>October 17, 1922</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2748,6 +2797,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1923</dateCreated>
+      <dateCreated>1923</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -2804,6 +2854,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1926</dateCreated>
+      <dateCreated>1926</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2859,6 +2910,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1938</dateCreated>
+      <dateCreated>1938</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -2916,6 +2968,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1924</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1941</dateCreated>
+      <dateCreated>between 1924 and 1941</dateCreated>
       <place>
         <placeTerm type="text">France</placeTerm>
       </place>
@@ -2970,6 +3023,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1924</dateCreated>
+      <dateCreated>1924</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -3027,6 +3081,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1919</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1941</dateCreated>
+      <dateCreated>between 1919 and 1941</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -3084,6 +3139,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1924</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1941</dateCreated>
+      <dateCreated>between 1924 and 1941</dateCreated>
       <place>
         <placeTerm type="text">France</placeTerm>
       </place>
@@ -3143,6 +3199,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -3200,6 +3257,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1934</dateCreated>
+      <dateCreated>1934</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -3257,6 +3315,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1924</dateCreated>
+      <dateCreated>1924</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -3313,6 +3372,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1923</dateCreated>
+      <dateCreated>1923</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -3370,6 +3430,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1919-10-08</dateCreated>
+      <dateCreated>October 8, 1919</dateCreated>
       <place>
         <placeTerm type="text">Kiev, Ukraine</placeTerm>
       </place>
@@ -3428,6 +3489,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1919-09-16</dateCreated>
+      <dateCreated>September 16, 1919</dateCreated>
       <place>
         <placeTerm type="text">Kiev, Ukraine</placeTerm>
       </place>
@@ -3487,6 +3549,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3542,6 +3605,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3597,6 +3661,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3652,6 +3717,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3707,6 +3773,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3762,6 +3829,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3817,6 +3885,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1960</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1981</dateCreated>
+      <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3867,6 +3936,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1937-07-16</dateCreated>
+      <dateCreated>July 16, 1937</dateCreated>
       <place>
         <placeTerm type="text">Salzburg</placeTerm>
       </place>
@@ -3922,6 +3992,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1907</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1938</dateCreated>
+      <dateCreated>between 1907 and 1938</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3976,6 +4047,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1974</dateCreated>
+      <dateCreated>between 1950 and 1974</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4023,6 +4095,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>Between 1914 and 1931</dateCreated>
       <publisher>A. Elar</publisher>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
@@ -4083,6 +4156,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>Between 1914 and 1931</dateCreated>
       <publisher>A. Elar</publisher>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
@@ -4141,6 +4215,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1938-10-18</dateCreated>
+      <dateCreated>October 18, 1938</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -4206,6 +4281,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1939</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <dateCreated>1939-1940</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4255,6 +4331,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1939</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <dateCreated>1939-1940</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4303,6 +4380,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1923-05-14</dateCreated>
+      <dateCreated>May 14, 1923</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -4359,6 +4437,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1990</dateCreated>
+      <dateCreated>Between 1950 and 1990</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4411,6 +4490,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1927</dateCreated>
+      <dateCreated>1927</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4463,6 +4543,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1939-11-21</dateCreated>
+      <dateCreated>November 21, 1939</dateCreated>
       <place>
         <placeTerm type="text">New York City</placeTerm>
       </place>
@@ -4519,6 +4600,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1940-02-15</dateCreated>
+      <dateCreated>February 15, 1940</dateCreated>
       <place>
         <placeTerm type="text">New York City</placeTerm>
       </place>
@@ -4574,6 +4656,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1911</dateCreated>
+      <dateCreated>1911</dateCreated>
       <publisher>Ted Snyder Co. Music Publishing</publisher>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
@@ -4636,6 +4719,7 @@ Sheet music.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1940-02-14</dateCreated>
+      <dateCreated>February 14, 1940</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -4691,6 +4775,7 @@ Sheet music.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1932</dateCreated>
+      <dateCreated>1932</dateCreated>
       <publisher>Irving Berlin Inc.</publisher>
       <place>
         <placeTerm type="text">New York City</placeTerm>
@@ -4749,6 +4834,7 @@ Sheet music.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
       <place>
         <placeTerm type="text">United States</placeTerm>
       </place>
@@ -4850,6 +4936,7 @@ Sheet music.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1962-02-05</dateCreated>
+      <dateCreated>February 5, 1962</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -4907,6 +4994,7 @@ Sheet music.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1925</dateCreated>
+      <dateCreated>1925</dateCreated>
       <publisher>Ager, Yellen &amp; Bornstein</publisher>
       <place>
         <placeTerm type="text">New York City</placeTerm>
@@ -4968,6 +5056,7 @@ Sheet music.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1968</dateCreated>
+      <dateCreated>between 1900 and 1968</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -5023,6 +5112,7 @@ Sheet music.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1933</dateCreated>
+      <dateCreated>1933</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -5081,6 +5171,7 @@ Sheet music.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1875</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1926</dateCreated>
+      <dateCreated>Between 1875 and 1926</dateCreated>
       <publisher>Falk</publisher>
       <publisher>Waldorf-Astoria Hotel (New York, N.Y.)</publisher>
       <place>
@@ -5135,6 +5226,7 @@ Sheet music.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1911</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1953</dateCreated>
+      <dateCreated>Between 1911 and 1953</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -5193,6 +5285,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1904</dateCreated>
+      <dateCreated>1904</dateCreated>
       <place>
         <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
@@ -5243,6 +5336,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1991</dateCreated>
+      <dateCreated>between 1950 and 1991</dateCreated>
       <place>
         <placeTerm type="text">Oberlin, Ohio</placeTerm>
       </place>
@@ -5300,6 +5394,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1965-07-12</dateCreated>
+      <dateCreated>July 12, 1965</dateCreated>
       <place>
         <placeTerm type="text">Athens, Ohio</placeTerm>
       </place>
@@ -5359,6 +5454,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1967</dateCreated>
+      <dateCreated>1967</dateCreated>
       <place>
         <placeTerm type="text">New York City, New York</placeTerm>
       </place>
@@ -5413,6 +5509,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1965-10-04</dateCreated>
+      <dateCreated>October 4, 1965</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -5475,6 +5572,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1965-09-12</dateCreated>
+      <dateCreated>September 12, 1965</dateCreated>
       <place>
         <placeTerm type="text">Peredelkino, Moscow, Russia</placeTerm>
       </place>
@@ -5535,6 +5633,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1969-07-28</dateCreated>
+      <dateCreated>July 28, 1969</dateCreated>
       <place>
         <placeTerm type="text">Moscow</placeTerm>
       </place>
@@ -5596,6 +5695,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1968-05-12</dateCreated>
+      <dateCreated>May 12, 1968</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -5656,6 +5756,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1965</dateCreated>
       <dateCreated>1965</dateCreated>
+      <dateCreated>1965</dateCreated>
       <publisher>Macmillan</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -5715,6 +5816,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1960</dateCreated>
+      <dateCreated>1960</dateCreated>
       <publisher>Farrar, Straus and Giroux</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -5782,6 +5884,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <dateCreated>Between 1914 and 1940</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -5836,6 +5939,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">2000</dateCreated>
+      <dateCreated>Between 1950 and 2000</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -5895,6 +5999,7 @@ These authors started “talking” in English and became known among English-sp
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1973-11-03</dateCreated>
+      <dateCreated>November 3, 1973</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -5949,6 +6054,7 @@ These authors started “talking” in English and became known among English-sp
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1973-11-03</dateCreated>
+      <dateCreated>November 3, 1973</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -6003,6 +6109,7 @@ These authors started “talking” in English and became known among English-sp
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1973-11-03</dateCreated>
+      <dateCreated>November 3, 1973</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -6058,6 +6165,7 @@ These authors started “talking” in English and became known among English-sp
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1980</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1990</dateCreated>
+      <dateCreated>between 1980 and 1990</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6115,6 +6223,7 @@ These authors started “talking” in English and became known among English-sp
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1925</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1927</dateCreated>
+      <dateCreated>Between 1925 and 1927</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -6174,6 +6283,7 @@ These authors started “talking” in English and became known among English-sp
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1924</dateCreated>
+      <dateCreated>Approximately in 1924</dateCreated>
       <place>
         <placeTerm type="text">Libava, Latvia</placeTerm>
       </place>
@@ -6230,6 +6340,7 @@ These authors started “talking” in English and became known among English-sp
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1950</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">2000</dateCreated>
+      <dateCreated>Between 1950 and 2000</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6288,6 +6399,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1949-07-28</dateCreated>
+      <dateCreated>July 28, 1949</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6343,6 +6455,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1947-07-18</dateCreated>
+      <dateCreated>July 18, 1947</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6398,6 +6511,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1947-07-14</dateCreated>
+      <dateCreated>July 14, 1947</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6455,6 +6569,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1936</dateCreated>
+      <dateCreated>1936</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -6504,6 +6619,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1942-03-18</dateCreated>
+      <dateCreated>March 18, 1942</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6557,6 +6673,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1934-12-18</dateCreated>
+      <dateCreated>December 18, 1934</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6615,6 +6732,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1934</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1952</dateCreated>
+      <dateCreated>Between 1934 and 1952</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -6667,6 +6785,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1944-06-09</dateCreated>
+      <dateCreated>June 9, 1944</dateCreated>
       <place>
         <placeTerm type="text">New York, N.Y.</placeTerm>
       </place>
@@ -6727,6 +6846,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1952</dateCreated>
+      <dateCreated>1952</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6782,6 +6902,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1952-04-02</dateCreated>
+      <dateCreated>April 2, 1952</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6839,6 +6960,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1951-05-25</dateCreated>
+      <dateCreated>May 25, 1951</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -6897,6 +7019,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1941</dateCreated>
+      <dateCreated>1941</dateCreated>
       <place>
         <placeTerm type="text">New York, N.Y.</placeTerm>
       </place>
@@ -6968,6 +7091,7 @@ The invitation signed by the Organization Committee.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1951-05-01</dateCreated>
+      <dateCreated>May 1, 1951</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -7031,6 +7155,8 @@ The invitation signed by the Organization Committee.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1916</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1950-02-02</dateCreated>
+      <dateCreated>1916</dateCreated>
+      <dateCreated>February 2, 1950</dateCreated>
       <place>
         <placeTerm type="text">Zurich</placeTerm>
       </place>
@@ -7101,6 +7227,7 @@ The photo was taken in Zurich in 1916, the note was written in New York on Febru
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1930-05-20</dateCreated>
+      <dateCreated>May 20, 1930</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -7161,6 +7288,7 @@ She left Russia in 1922 and remained active, moving from country to country. She
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -7209,6 +7337,7 @@ She left Russia in 1922 and remained active, moving from country to country. She
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1910</dateCreated>
+      <dateCreated>1910</dateCreated>
       <publisher>Mother Earth Publishing Association</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7262,6 +7391,7 @@ She left Russia in 1922 and remained active, moving from country to country. She
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1937-07-28</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1937-08-12</dateCreated>
+      <dateCreated>July 28 - August 12 1937</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -7330,6 +7460,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -7379,6 +7510,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -7428,6 +7560,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -7479,6 +7612,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -7528,6 +7662,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -7576,6 +7711,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917-07</dateCreated>
+      <dateCreated>July, 1917</dateCreated>
       <publisher>Mother Earth Publishing Association</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7636,6 +7772,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917-02</dateCreated>
+      <dateCreated>February, 1917</dateCreated>
       <publisher>Mother Earth Publishing Association</publisher>
       <place>
         <placeTerm type="text">New York, N.Y.</placeTerm>
@@ -7688,6 +7825,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1913-09-18</dateCreated>
+      <dateCreated>December 18, 1913</dateCreated>
       <place>
         <placeTerm type="text">New York City</placeTerm>
       </place>
@@ -7743,6 +7881,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1910</dateCreated>
+      <dateCreated>1910</dateCreated>
       <publisher>Mother Earth Publishing Association</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7801,6 +7940,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917</dateCreated>
+      <dateCreated>1917</dateCreated>
       <place>
         <placeTerm type="text">Russia</placeTerm>
       </place>
@@ -7856,6 +7996,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
+      <dateCreated>1912</dateCreated>
       <place>
         <placeTerm type="text">Bukhara</placeTerm>
       </place>
@@ -7909,6 +8050,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1880</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1910</dateCreated>
+      <dateCreated>Between 1880 and 1910</dateCreated>
       <place>
         <placeTerm type="text">Berdichev, Ukraine</placeTerm>
       </place>
@@ -7966,6 +8108,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1905-10-22</dateCreated>
+      <dateCreated>October 22, 1905</dateCreated>
       <place>
         <placeTerm type="text">Odessa</placeTerm>
       </place>
@@ -8020,6 +8163,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1905-06-20</dateCreated>
+      <dateCreated>June 20, 1905</dateCreated>
       <place>
         <placeTerm type="text">Odessa</placeTerm>
       </place>
@@ -8078,6 +8222,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>between 1900 and 1920</dateCreated>
       <place>
         <placeTerm type="text">Uman, Ukraine</placeTerm>
       </place>
@@ -8132,6 +8277,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1906</dateCreated>
+      <dateCreated>Probably 1906</dateCreated>
       <place>
         <placeTerm type="text">Russia</placeTerm>
       </place>
@@ -8189,6 +8335,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1910</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>1910 to 1920</dateCreated>
       <place>
         <placeTerm type="text">Russia</placeTerm>
       </place>
@@ -8249,6 +8396,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>between 1900 and 1920</dateCreated>
       <place>
         <placeTerm type="text">Russia</placeTerm>
       </place>
@@ -8311,6 +8459,7 @@ The Protocols of the Elders of Zion is the infamous Russian literary hoax publis
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1910</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>Between 1910 and 1920</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -8367,6 +8516,7 @@ The Protocols of the Elders of Zion is the infamous Russian literary hoax publis
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1910</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>between 1910 and 1920</dateCreated>
       <place>
         <placeTerm type="text">Russia</placeTerm>
       </place>
@@ -8431,6 +8581,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1910</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>between 1910 and 1920</dateCreated>
       <place>
         <placeTerm type="text">Zaporozh'e, Ukraine</placeTerm>
       </place>
@@ -8492,6 +8643,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1928</dateCreated>
+      <dateCreated>1928</dateCreated>
       <publisher>Doloĭ zlo</publisher>
       <place>
         <placeTerm type="text">Russia</placeTerm>
@@ -8560,6 +8712,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1911</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1911 and 1929</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -8628,6 +8781,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1968</dateCreated>
+      <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -8686,6 +8840,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1921</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1951</dateCreated>
+      <dateCreated>between 1921 and 1951</dateCreated>
       <publisher>No place, no date</publisher>
     </originInfo>
     <location>

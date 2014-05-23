@@ -14,6 +14,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1949-04-19</dateCreated>
+      <dateCreated>April 19, 1949</dateCreated>
       <place>
         <placeTerm type="text">Russia</placeTerm>
       </place>
@@ -62,6 +63,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+      <dateCreated>1915</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -105,6 +107,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1915</dateCreated>
+      <dateCreated>around 1915</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -149,6 +152,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+      <dateCreated>1915</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -192,6 +196,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1915</dateCreated>
+      <dateCreated>around 1915</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -236,6 +241,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+      <dateCreated>1915</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -280,6 +286,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1926</dateCreated>
+      <dateCreated>1926</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -335,6 +342,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1935</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1936</dateCreated>
+      <dateCreated>1935 to 1936</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -386,6 +394,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1922-10-17</dateCreated>
+      <dateCreated>October 17, 1922</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -441,6 +450,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1926-05</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1926-06</dateCreated>
+      <dateCreated>May and June of 1926</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -492,6 +502,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1926</dateCreated>
+      <dateCreated>1926</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -539,6 +550,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1926-05-06</dateCreated>
+      <dateCreated>Jeudi 6 Mai 1926</dateCreated>
       <place>
         <placeTerm type="text">Monte Carlo, Monaco</placeTerm>
       </place>
@@ -587,6 +599,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1919</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1922</dateCreated>
+      <dateCreated>between 1919 and 1922</dateCreated>
       <place>
         <placeTerm type="text">Paris, France</placeTerm>
       </place>
@@ -636,6 +649,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1915</dateCreated>
+      <dateCreated>1915</dateCreated>
       <place>
         <placeTerm type="text">New York, New York (State)</placeTerm>
       </place>
@@ -685,6 +699,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1978</dateCreated>
+      <dateCreated>published in 1978</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -730,6 +745,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1963</dateCreated>
+      <dateCreated>1963</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -774,6 +790,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1958</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1993</dateCreated>
+      <dateCreated>Between 1958 and 1993</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -817,6 +834,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1963</dateCreated>
+      <dateCreated>1963</dateCreated>
       <place>
         <placeTerm type="text">London, England</placeTerm>
       </place>
@@ -867,6 +885,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
+      <dateCreated>1912</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -911,6 +930,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1978</dateCreated>
+      <dateCreated>1978</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -959,6 +979,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1979</dateCreated>
+      <dateCreated>1979</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1001,6 +1022,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1979</dateCreated>
+      <dateCreated>1979</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1054,6 +1076,8 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1933-01-10</dateCreated>
+      <dateCreated>10-go Janvara 1933 g</dateCreated>
+      <dateCreated>January 10th, 1933</dateCreated>
       <place>
         <placeTerm type="text">Parizh</placeTerm>
       </place>
@@ -1111,6 +1135,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1947</dateCreated>
+      <dateCreated>1947</dateCreated>
       <place>
         <placeTerm type="text">London, England</placeTerm>
       </place>
@@ -1163,6 +1188,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1951</dateCreated>
+      <dateCreated>Between 1900 and 1951</dateCreated>
       <place>
         <placeTerm type="text">New York, New York (State)</placeTerm>
       </place>
@@ -1216,6 +1242,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1967-02-18</dateCreated>
+      <dateCreated>February 18th, 1967</dateCreated>
       <place>
         <placeTerm type="text">Hôtel de Paris, Monte-Carlo</placeTerm>
       </place>
@@ -1267,6 +1294,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1937</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1938</dateCreated>
+      <dateCreated>1937 to 1938</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -1315,6 +1343,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1916</dateCreated>
+      <dateCreated>1916</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1363,6 +1392,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -1422,6 +1452,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1905</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>between 1905 and 1920</dateCreated>
       <dateCreated>Berlin</dateCreated>
       <publisher>Verl. Herm. Leiser</publisher>
       <place>
@@ -1473,6 +1504,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1944-11</dateCreated>
+      <dateCreated>November 1944</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -1522,6 +1554,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1933-12-21</dateCreated>
+      <dateCreated>Jeudi 21 Décembre 1933</dateCreated>
       <place>
         <placeTerm type="text">Passy, Paris</placeTerm>
       </place>
@@ -1571,6 +1604,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1937</dateCreated>
+      <dateCreated>1937</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -1620,6 +1654,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1978</dateCreated>
+      <dateCreated>between 1900 and 1978</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -1670,6 +1705,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1978</dateCreated>
+      <dateCreated>between 1900 and 1978</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -1719,6 +1755,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1916</dateCreated>
+      <dateCreated>1916</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -1767,6 +1804,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1916</dateCreated>
+      <dateCreated>1916</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -1816,6 +1854,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1900</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1978</dateCreated>
+      <dateCreated>between 1900 and 1978</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -1863,6 +1902,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1932-06-17</dateCreated>
+      <dateCreated>17 Juin 1932</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -1913,6 +1953,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">France</placeTerm>
       </place>
@@ -1963,6 +2004,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1921</dateCreated>
+      <dateCreated>between 1896 and 1921</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2006,6 +2048,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1911-05-27</dateCreated>
+      <dateCreated>May 27, 1911</dateCreated>
       <publisher>Musical American Corp.</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -2059,6 +2102,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1911-06-17</dateCreated>
+      <dateCreated>June 17, 1911</dateCreated>
       <publisher>Musical America Corp.</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -2104,6 +2148,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1910</dateCreated>
+      <dateCreated>1910</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -2159,6 +2204,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>between 1896 and 1931</dateCreated>
       <place>
         <placeTerm type="text">St. Petersbourg, Russie</placeTerm>
       </place>
@@ -2207,6 +2253,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1909</dateCreated>
+      <dateCreated>1909</dateCreated>
       <place>
         <placeTerm type="text">Warsaw</placeTerm>
       </place>
@@ -2254,6 +2301,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1921</dateCreated>
+      <dateCreated>Between 1896 and 1921</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -2303,6 +2351,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>Between 1914 and 1931</dateCreated>
       <publisher>A. Klar</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -2362,6 +2411,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1915</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1916</dateCreated>
+      <dateCreated>1915 to 1916</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2408,6 +2458,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>between 1896 and 1931</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2452,6 +2503,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>between 1896 and 1931</dateCreated>
       <place>
         <placeTerm type="text">England</placeTerm>
       </place>
@@ -2497,6 +2549,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1910</dateCreated>
+      <dateCreated>1910</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2539,6 +2592,7 @@
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1896</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>between 1896 and 1931</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2581,6 +2635,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -2626,6 +2681,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954-11-02</dateCreated>
+      <dateCreated>November 2nd, 1954</dateCreated>
       <place>
         <placeTerm type="text">22, Tudor Street, London, E.C. 4</placeTerm>
       </place>
@@ -2674,6 +2730,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <dateCreated>1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -2723,6 +2780,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <dateCreated>1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -2771,6 +2829,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <dateCreated>1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -2819,6 +2878,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <dateCreated>1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -2868,6 +2928,7 @@
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954-12-08</dateCreated>
+      <dateCreated>8th December, 1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -2921,6 +2982,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954-05-24</dateCreated>
+      <dateCreated>24th May, 1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -2970,6 +3032,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <dateCreated>1954</dateCreated>
       <place>
         <placeTerm type="text">Edinburgh, Scotland</placeTerm>
       </place>
@@ -3016,6 +3079,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1954</dateCreated>
+      <dateCreated>1954</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -3061,6 +3125,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1955</dateCreated>
+      <dateCreated>1955</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3103,6 +3168,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1955</dateCreated>
+      <dateCreated>1955</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3147,6 +3213,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1941-04-21</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1941-05-03</dateCreated>
+      <dateCreated>April 21st to May 3rd, 1941</dateCreated>
       <place>
         <placeTerm type="text">New York City</placeTerm>
       </place>
@@ -3195,6 +3262,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1931</dateCreated>
+      <dateCreated>1931</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3238,6 +3306,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1885</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1957</dateCreated>
+      <dateCreated>Between 1885 and 1957</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3282,6 +3351,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -3329,6 +3399,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -3377,6 +3448,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
       <place>
         <placeTerm type="text">London</placeTerm>
       </place>
@@ -3424,6 +3496,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1931</dateCreated>
+      <dateCreated>1931</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3466,6 +3539,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1935</dateCreated>
+      <dateCreated>1935</dateCreated>
       <publisher>New York Limited Edition Club</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -3513,6 +3587,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1939</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <dateCreated>between 1939 and 1940</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -3561,6 +3636,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1933-03-21</dateCreated>
+      <dateCreated>21 Mars 1933</dateCreated>
       <place>
         <placeTerm type="text">Barcelona</placeTerm>
       </place>
@@ -3610,6 +3686,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1921-05</dateCreated>
+      <dateCreated>Mai 1921</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -3665,6 +3742,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1914-05</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1914-06</dateCreated>
+      <dateCreated>Mai-Juin 1914</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -3716,6 +3794,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1914</dateCreated>
+      <dateCreated>1914</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3763,6 +3842,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1912</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1971</dateCreated>
+      <dateCreated>Between 1912 and 1971</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -3808,6 +3888,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1919</dateCreated>
+      <dateCreated>1919</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3857,6 +3938,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1909</dateCreated>
+      <dateCreated>1909</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3900,6 +3982,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1909</dateCreated>
+      <dateCreated>1909</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -3943,6 +4026,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1907</dateCreated>
+      <dateCreated>1907</dateCreated>
       <place>
         <placeTerm type="text">Moscow</placeTerm>
       </place>
@@ -3995,6 +4079,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1899</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1942</dateCreated>
+      <dateCreated>between 1899 and 1942</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4037,6 +4122,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1929-08-21</dateCreated>
+      <dateCreated>August 21, 1929</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -4085,6 +4171,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1929-08-21</dateCreated>
+      <dateCreated>August 21, 1929</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -4134,6 +4221,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1912-05</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1912-06</dateCreated>
+      <dateCreated>May and June 1912</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -4185,6 +4273,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1910</dateCreated>
+      <dateCreated>1910</dateCreated>
       <place>
         <placeTerm type="text">Paris</placeTerm>
       </place>
@@ -4237,6 +4326,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4285,6 +4375,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4333,6 +4424,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4381,6 +4473,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4429,6 +4522,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4477,6 +4571,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1909</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1909 and 1929</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4524,6 +4619,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1911-02-10</dateCreated>
+      <dateCreated>1911 February 10th</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4570,6 +4666,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1911-02-10</dateCreated>
+      <dateCreated>1911 February 10th</dateCreated>
       <place>
         <placeTerm type="text">St. Petersburg</placeTerm>
       </place>
@@ -4616,6 +4713,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1937</dateCreated>
+      <dateCreated>1937</dateCreated>
       <place>
         <placeTerm type="text">Buenos Aires</placeTerm>
       </place>
@@ -4664,6 +4762,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1939</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1957</dateCreated>
+      <dateCreated>between 1939 and 1957</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
       </place>
@@ -4712,6 +4811,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1923-11-26</dateCreated>
+      <dateCreated>26/XI 1923</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4757,6 +4857,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1923-11-26</dateCreated>
+      <dateCreated>26/XI 1923</dateCreated>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">nnc-rb</physicalLocation>
@@ -4801,6 +4902,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1900-12-27</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1901-01-03</dateCreated>
+      <dateCreated>27 Décembre (3. Janv.) 1900/1901</dateCreated>
       <place>
         <placeTerm type="text">St. Pétersbourg</placeTerm>
       </place>
@@ -4851,6 +4953,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1901</dateCreated>
+      <dateCreated>1901</dateCreated>
       <place>
         <placeTerm type="text">S. Peterburg</placeTerm>
       </place>
@@ -4898,6 +5001,7 @@ London, 1954</abstract>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1913</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1914</dateCreated>
+      <dateCreated>1913-1914</dateCreated>
       <publisher>Verlagbuchhandlung</publisher>
       <place>
         <placeTerm type="text">Leipzig</placeTerm>
@@ -4944,6 +5048,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1916</dateCreated>
+      <dateCreated>1916</dateCreated>
       <publisher>Metropolitan Ballet Company, Inc.</publisher>
       <place>
         <placeTerm type="text">New York, NY</placeTerm>
@@ -4997,6 +5102,7 @@ London, 1954</abstract>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1916</dateCreated>
+      <dateCreated>1916</dateCreated>
       <publisher>Metropolitan Ballet Company, Inc.</publisher>
       <place>
         <placeTerm type="text">New York, NY</placeTerm>
