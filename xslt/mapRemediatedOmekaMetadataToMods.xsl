@@ -176,8 +176,8 @@
       <!-- and, if present, only one end date -->
       <xsl:apply-templates select="item_-_MODS_-_KeyDate_-_Single_Start"/>
       <xsl:apply-templates select="item_-_MODS_-_KeyDate_-_End"/>
-      <xsl:apply-templates select="item_-_DublinCore_-_Date"/>
-      <xsl:apply-templates select="item_-_MODS_-_PublicationDate"/>
+      <xsl:call-template name="DublinCore_-_Date"/>
+      <xsl:call-template name="MODS_-_PublicationDate"/>
       <xsl:call-template name="Publisher"/>
       <xsl:call-template name="PlacePlaceTerm"/>
     </originInfo>
@@ -232,21 +232,25 @@
   </xsl:template>
 
   <!-- fcd1, 04/23/14: <dateCreated> for DC Date-->
-  <xsl:template match="item_-_DublinCore_-_Date">
-    <xsl:if test=" . != '' ">
-      <dateCreated>
-	<xsl:value-of select="."/>
-      </dateCreated>
-    </xsl:if>
+  <xsl:template name="DublinCore_-_Date">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Date')]">
+      <xsl:if test=" . != '' ">
+	<dateCreated>
+	  <xsl:value-of select="."/>
+	</dateCreated>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: <dateCreated> for MODS Publication Date -->
-  <xsl:template match="item_-_MODS_-_PublicationDate">
-    <xsl:if test=" . != '' ">
-      <dateCreated>
-	<xsl:value-of select="."/>
-      </dateCreated>
-    </xsl:if>
+  <xsl:template name="MODS_-_PublicationDate">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_PublicationDate')]">
+      <xsl:if test=" . != '' ">
+	<dateCreated>
+	  <xsl:value-of select="."/>
+	</dateCreated>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
 
   <!-- fcd1, 03/26/14: MODS <languageOfCatalogin>, auto-generate -->
