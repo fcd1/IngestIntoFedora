@@ -404,14 +404,34 @@
   <!-- fcd1, 05/16/14: CUL specs specify that, if no itemType is given in the metadata, -->
   <!-- then generate one based on the file type of the associated loaded files. THIS IS NOT IMPLEMENTED -->
   <!-- It is probably easier to put in the itemType in the remediated data, based on the file type -->
+  <!-- fcd1, 05/27/14: handle case where no item_-_ItemType exists, or it was empty -->
+  <!-- Note: to output the complete contents of a variable that may contains a node and children nodes, -->
+  <!-- use copy-of, not value-of -->
+  <!-- Frances Perkins: all items contain a populated <item_-_ItemType>, with content either -->
+  <!-- "Still Image" or "Document". So here, just lowercase the content and use it in a -->
+  <!-- <typeOfResource> -->
+  <!-- Melting Pot: most items have an empty <item_-_ItemType>, except for 3 items, with content -->
+  <!-- either "original format: photo" or "original format: magazine". My feeling is that these -->
+  <!-- should be mapped to a <physicalDescription>, however, will wait for clarification. For now, just -->
+  <!-- map to typeOfResource -->
   <xsl:template name="TypeOfResource">
-    <xsl:for-each select="*[starts-with(name(), 'item_-_ItemType')]">
-      <xsl:if test=" . != '' ">
-	<xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
-	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
-	<typeOfResource><xsl:value-of select="translate(.,$uppercase,$smallcase)"/></typeOfResource>
-      </xsl:if>
-    </xsl:for-each>
+    <xsl:variable name="givenTypeOfResource">
+      <xsl:for-each select="*[starts-with(name(), 'item_-_ItemType')]">
+	<xsl:if test=" . != '' ">
+	  <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
+	  <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
+	  <typeOfResource><xsl:value-of select="translate(.,$uppercase,$smallcase)"/></typeOfResource>
+	</xsl:if>
+      </xsl:for-each>
+    </xsl:variable>
+    <xsl:choose>
+      <xsl:when test="$givenTypeOfResource != '' ">
+	<xsl:copy-of select="$givenTypeOfResource"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<typeOfResource>still image</typeOfResource>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <language> -->
