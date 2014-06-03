@@ -34,7 +34,9 @@
         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10379406</url>
       </location>
     </relatedItem>
-    <relatedItem type="original">Russkie Novosti, No. 220</relatedItem>
+    <relatedItem type="original">
+      <note>Russkie Novosti, No. 220</note>
+    </relatedItem>
     <name>
       <namePart>Adamovich, Georgiĭ</namePart>
     </name>
@@ -2012,7 +2014,9 @@
         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10379406</url>
       </location>
     </relatedItem>
-    <relatedItem type="original">Unknown</relatedItem>
+    <relatedItem type="original">
+      <note>Unknown</note>
+    </relatedItem>
     <note>Dates inferred from existence dates of Ballets russes de Sergei Diaghilev.</note>
     <subject>
       <topic>Ballets russes</topic>
