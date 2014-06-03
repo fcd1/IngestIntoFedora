@@ -35,7 +35,9 @@
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Russkie Novosti, No. 220</note>
+      <titleInfo>
+        <title>Russkie Novosti, No. 220</title>
+      </titleInfo>
     </relatedItem>
     <name>
       <namePart>Adamovich, Georgiĭ</namePart>
@@ -2015,7 +2017,9 @@
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Unknown</note>
+      <titleInfo>
+        <title>Unknown</title>
+      </titleInfo>
     </relatedItem>
     <note>Dates inferred from existence dates of Ballets russes de Sergei Diaghilev.</note>
     <subject>

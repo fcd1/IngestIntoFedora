@@ -2099,7 +2099,9 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Plimpton Papers Old Box 37</note>
+      <titleInfo>
+        <title>Plimpton Papers Old Box 37</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_141_001.tif</note>
@@ -4292,7 +4294,9 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Plimpton MS 211</note>
+      <titleInfo>
+        <title>Plimpton MS 211</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_043_001.tif</note>
@@ -5298,7 +5302,9 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Plimpton A375 1748 F53 copy 1</note>
+      <titleInfo>
+        <title>Plimpton A375 1748 F53 copy 1</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_070_001.tif</note>
@@ -8241,7 +8247,9 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Plimpton A424 1792 B52</note>
+      <titleInfo>
+        <title>Plimpton A424 1792 B52</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_128_001.tif</note>
@@ -8770,7 +8778,9 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Astrolabe</note>
+      <titleInfo>
+        <title>Astrolabe</title>
+      </titleInfo>
     </relatedItem>
     <note>PLMPTN_081_001.tif</note>
     <subject/>

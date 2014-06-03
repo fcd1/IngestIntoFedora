@@ -2605,7 +2605,9 @@
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Nation's business</note>
+      <titleInfo>
+        <title>Nation's business</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Frances Perkins</note>
     <note>original filename: 090074152.tif</note>
@@ -2666,7 +2668,9 @@
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Survey Graphic</note>
+      <titleInfo>
+        <title>Survey Graphic</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Frances Perkins</note>
     <note>original filename: 090074148.tif</note>
@@ -2839,7 +2843,9 @@
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>National Recovery Administration Bulletin No. 1</note>
+      <titleInfo>
+        <title>National Recovery Administration Bulletin No. 1</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Frances Perkins</note>
     <note>original filename: 090074145.tif</note>
@@ -4188,7 +4194,9 @@ Statement of responsibility in bottom left corner of chart #1 is illegible.</abs
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Pictorial Review</note>
+      <titleInfo>
+        <title>Pictorial Review</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Frances Perkins</note>
     <note>original filename: 090074076.tif</note>
@@ -5577,7 +5585,9 @@ Letter includes "The Government's Right to Condition the Purchase of Its Supplie
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Harper's Weekly Magazine</note>
+      <titleInfo>
+        <title>Harper's Weekly Magazine</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Susanna Perkins Coggeshall, 1970</note>
     <note>original filename: 090074041.tif</note>

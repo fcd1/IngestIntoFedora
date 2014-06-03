@@ -490,7 +490,9 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>New York Times</note>
+      <titleInfo>
+        <title>New York Times</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of the Paterson NJ Public Library, 1974
 
@@ -1575,7 +1577,9 @@ Gift of Allen Ginsberg, 1993</note>
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>New York Times, page 16</note>
+      <titleInfo>
+        <title>New York Times, page 16</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Simon Lissim, 1981 and Dorothea Waples Lissim, 1982</note>
     <note>original filename: 5_28_01.tif</note>
@@ -5951,7 +5955,9 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
       </titleInfo>
     </relatedItem>
     <relatedItem type="original">
-      <note>Noonday</note>
+      <titleInfo>
+        <title>Noonday</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of Barbara Frenchi, 2002</note>
     <note>original filename: 3_08_01.tif</note>
@@ -7441,7 +7447,9 @@ She left Russia in 1922 and remained active, moving from country to country. She
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.)</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Rare Book &amp; Manuscript Library</note>
     <note>original filename: 2_04_08b.tif</note>
@@ -7618,7 +7626,9 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.)</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Rare Book &amp; Manuscript Library</note>
     <note>original filename: 2_04_07b.tif</note>
@@ -7671,7 +7681,9 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.)</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Rare Book &amp; Manuscript Library</note>
     <note>original filename: 2_04_06b.tif</note>
@@ -7777,7 +7789,9 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.)</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Rare Book &amp; Manuscript Library</note>
     <note>original filename: 2_04_04b.tif</note>
@@ -7830,7 +7844,9 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.)</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
     </relatedItem>
     <note type="ownership">Rare Book &amp; Manuscript Library</note>
     <note>original filename: 2_04_03b.tif</note>
@@ -7884,7 +7900,9 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.)</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
     </relatedItem>
     <note>original filename: 2_04_01b.tif</note>
     <note>original filename: 2_04_04.tif</note>
@@ -7948,7 +7966,9 @@ Published in Mother Earth, volume XII, number 5.</abstract>
       </location>
     </relatedItem>
     <relatedItem type="original">
-      <note>Mother earth (New York, N.Y.), volume XI, number 12</note>
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.), volume XI, number 12</title>
+      </titleInfo>
     </relatedItem>
     <note>original filename: 2_03_01b.tif</note>
     <name>
