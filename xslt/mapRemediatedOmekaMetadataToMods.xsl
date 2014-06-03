@@ -330,6 +330,7 @@
   <!-- fcd1, 03/26/14: MODS <relatedItem<titleIfo><title> -->
   <!-- Handles the collection name, as stored in Omeka, as well as -->
   <!-- as the project URL, and the MODS Collection field -->
+  <!-- fcd1, 06/03/14: also handles the DC Source field -->
   <xsl:template name="RelatedItem">
     <relatedItem displayLabel="Project" type="host">
       <xsl:apply-templates select="item_-_OmekaCollection"/>
@@ -345,9 +346,7 @@
     <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Source')]">
       <xsl:if test=" . != '' ">
 	<relatedItem type="original">
-	  <note>
-	    <xsl:value-of select="."/>
-	  </note>
+	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
 	</relatedItem>
       </xsl:if>
     </xsl:for-each>
