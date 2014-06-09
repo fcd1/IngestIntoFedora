@@ -262,7 +262,7 @@
   <xsl:template name="ShelfLocator">
     <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_ShelfLocation')]">
       <xsl:if test=" . != '' ">
-	<shelfLocator><xsl:value-of select="."/></shelfLocator>
+	<shelfLocator><xsl:value-of select="normalize-space(.)"/></shelfLocator>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
@@ -270,7 +270,7 @@
   <xsl:template name="SubLocation">
     <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Subrepository')]">
       <xsl:if test=" . != '' ">
-	<subLocation><xsl:value-of select="."/></subLocation>
+	<subLocation><xsl:value-of select="normalize-space(.)"/></subLocation>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
