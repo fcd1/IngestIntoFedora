@@ -209,7 +209,23 @@
     <xsl:if test=" . != '' ">
       <!-- fcd1, 04/29/14: move point="start" attribute to <xsl:if ... > -->
       <!-- because we do not want to include it if there is no end date> -->
-      <dateCreated encoding="w3cdtf" keyDate="yes" >
+      <dateCreated>
+	<!-- fcd1, 06/10/14: if negative date (i.e. BC), use the iso8601 encoding. -->
+	<!-- Else, use w3cdtf -->
+	<xsl:choose>
+	  <xsl:when test="starts-with(.,'-')">
+	    <xsl:attribute name="encoding">iso8601</xsl:attribute>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
+	  </xsl:otherwise>
+	</xsl:choose>
+	<!-- fcd1, 06/10/14: Moved the keyDate attribute here, instead of -->
+	<!-- hard-coding it in the dateCreated start tag above -->
+	<!-- only reason I did that is to keep the original ordering -->
+	<!-- of attributes I had before I made the encoding attribute change -->
+	<!-- to handle iso8601 encoding -->
+	<xsl:attribute name="keyDate">yes</xsl:attribute>
 	<xsl:if test=" ../item_-_MODS_-_KeyDate_-_End != '' ">
 	  <xsl:attribute name="point">start</xsl:attribute>
 	</xsl:if>
@@ -225,7 +241,23 @@
   <!-- fcd1, 03/26/14: code assumes the date is already in the correct format in the remediated metadata> -->
   <xsl:template match="item_-_MODS_-_KeyDate_-_End">
     <xsl:if test=" . != '' ">
-      <dateCreated encoding="w3cdtf" point="end">
+      <dateCreated>
+	<!-- fcd1, 06/10/14: if negative date (i.e. BC), use the iso8601 encoding. -->
+	<!-- Else, use w3cdtf -->
+	<xsl:choose>
+	  <xsl:when test="starts-with(.,'-')">
+	    <xsl:attribute name="encoding">iso8601</xsl:attribute>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
+	  </xsl:otherwise>
+	</xsl:choose>
+	<!-- fcd1, 06/10/14: Moved the point attribute here, instead of -->
+	<!-- hard-coding it in the dateCreated start tag above -->
+	<!-- only reason I did that is to keep the original ordering -->
+	<!-- of attributes I had before I made the encoding attribute change -->
+	<!-- to handle iso8601 encoding -->
+	<xsl:attribute name="point">end</xsl:attribute>
 	<xsl:value-of select="."/>
       </dateCreated>
     </xsl:if>
