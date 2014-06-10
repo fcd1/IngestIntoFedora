@@ -5019,13 +5019,13 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <item_-_MODS_-_FormGenre_1>manuscripts</item_-_MODS_-_FormGenre_1>
         <item_-_MODS_-_FormGenre_2></item_-_MODS_-_FormGenre_2>
         <item_-_MODS_-_Notes_2></item_-_MODS_-_Notes_2>
-        <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
+        <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
         <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
-        <item_-_MODS_-_KeyDate_-_Single_Start></item_-_MODS_-_KeyDate_-_Single_Start>
-        <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
+        <item_-_MODS_-_KeyDate_-_Single_Start>1492</item_-_MODS_-_KeyDate_-_Single_Start>
+        <item_-_MODS_-_KeyDate_-_End>1563</item_-_MODS_-_KeyDate_-_End>
         <item_-_MODS_-_PlaceofOrigin></item_-_MODS_-_PlaceofOrigin>
         <item_-_MODS_-_Collection>Plimpton</item_-_MODS_-_Collection>
         <item_-_MODS_-_ShelfLocation>Plimpton MS 209</item_-_MODS_-_ShelfLocation>
@@ -7312,8 +7312,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
         <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
-        <item_-_MODS_-_KeyDate_-_Single_Start></item_-_MODS_-_KeyDate_-_Single_Start>
-        <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
+        <item_-_MODS_-_KeyDate_-_Single_Start>-1819</item_-_MODS_-_KeyDate_-_Single_Start>
+        <item_-_MODS_-_KeyDate_-_End>-1761</item_-_MODS_-_KeyDate_-_End>
         <item_-_MODS_-_PlaceofOrigin>Larsa (Tell Senkereh), Iraq</item_-_MODS_-_PlaceofOrigin>
         <item_-_MODS_-_Collection>Cuneiform</item_-_MODS_-_Collection>
         <item_-_MODS_-_ShelfLocation>CULC 460 (Plimpton 322)</item_-_MODS_-_ShelfLocation>
@@ -7619,13 +7619,13 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <item_-_MODS_-_FormGenre_1>objects</item_-_MODS_-_FormGenre_1>
         <item_-_MODS_-_FormGenre_2></item_-_MODS_-_FormGenre_2>
         <item_-_MODS_-_Notes_2></item_-_MODS_-_Notes_2>
-        <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
+        <item_-_MODS_-_TypeofDate>questionable</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
         <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
-        <item_-_MODS_-_KeyDate_-_Single_Start></item_-_MODS_-_KeyDate_-_Single_Start>
-        <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
+        <item_-_MODS_-_KeyDate_-_Single_Start>1800</item_-_MODS_-_KeyDate_-_Single_Start>
+        <item_-_MODS_-_KeyDate_-_End>1900</item_-_MODS_-_KeyDate_-_End>
         <item_-_MODS_-_PlaceofOrigin></item_-_MODS_-_PlaceofOrigin>
         <item_-_MODS_-_Collection>Smith Instruments</item_-_MODS_-_Collection>
         <item_-_MODS_-_ShelfLocation>Smith Instruments 27-257a</item_-_MODS_-_ShelfLocation>
