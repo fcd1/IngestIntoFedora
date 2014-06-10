@@ -5756,7 +5756,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <digitalOrigin>reformatted digital</digitalOrigin>
       <form>manuscripts</form>
     </physicalDescription>
-    <originInfo/>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1492</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1563</dateCreated>
+    </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
@@ -8404,6 +8407,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <form>objects</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="iso8601" keyDate="yes" point="start" qualifier="approximate">-1819</dateCreated>
+      <dateCreated encoding="iso8601" point="end">-1761</dateCreated>
       <dateCreated>circa 1820-1762 BCE</dateCreated>
       <place>
         <placeTerm type="text">Larsa (Tell Senkereh), Iraq</placeTerm>
@@ -8754,7 +8759,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <digitalOrigin>reformatted digital</digitalOrigin>
       <form>objects</form>
     </physicalDescription>
-    <originInfo/>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1900</dateCreated>
+    </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
