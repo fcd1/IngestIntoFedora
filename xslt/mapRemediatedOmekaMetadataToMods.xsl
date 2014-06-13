@@ -190,7 +190,7 @@
 
   <!-- fcd1, 04/23/14: MODS <recordOrigin> Hard-coded -->
   <xsl:template name="RecordOrigin">
-    <recordOrigin>Human created, edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <recordInfo> Not repeatable -->
