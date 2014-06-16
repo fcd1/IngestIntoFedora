@@ -422,7 +422,7 @@
   <xsl:template name="Identifier">
     <xsl:for-each select="*[starts-with(name(), 'item_-_itemId')]">
       <xsl:if test=" . != '' ">
-	<identifier type="Omeka ID"> <xsl:value-of select='concat("omeka_",format-number(., "000000") )' /></identifier>
+	<identifier type="local"> <xsl:value-of select='concat("omeka_",format-number(., "000000") )' /></identifier>
       </xsl:if>
     </xsl:for-each>
     <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Identifier')]">
