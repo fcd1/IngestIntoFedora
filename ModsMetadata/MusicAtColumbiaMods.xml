@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods>
-    <identifier type="Omeka ID">omeka_007254</identifier>
+    <identifier type="local">omeka_007254</identifier>
     <titleInfo>
       <title>Jack Beeson delivering Music Centennial Luncheon address</title>
     </titleInfo>
@@ -45,7 +45,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007250</identifier>
+    <identifier type="local">omeka_007250</identifier>
     <titleInfo>
       <title>Lowell Pierson Beveridge</title>
     </titleInfo>
@@ -86,7 +86,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007249</identifier>
+    <identifier type="local">omeka_007249</identifier>
     <titleInfo>
       <title>Notes on Ampex 400 Tape Recorder</title>
     </titleInfo>
@@ -127,7 +127,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007248</identifier>
+    <identifier type="local">omeka_007248</identifier>
     <titleInfo>
       <title>Critical and Historical Essays: Lectures Delivered at Columbia University, Table of Contents</title>
     </titleInfo>
@@ -175,7 +175,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007247</identifier>
+    <identifier type="local">omeka_007247</identifier>
     <titleInfo>
       <title>Jack Beeson</title>
     </titleInfo>
@@ -215,7 +215,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007246</identifier>
+    <identifier type="local">omeka_007246</identifier>
     <titleInfo>
       <title>Calculating Tonal Tension, diagram</title>
     </titleInfo>
@@ -259,7 +259,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007245</identifier>
+    <identifier type="local">omeka_007245</identifier>
     <titleInfo>
       <title>Humanities MB1 RMB1</title>
     </titleInfo>
@@ -306,7 +306,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007244</identifier>
+    <identifier type="local">omeka_007244</identifier>
     <titleInfo>
       <title>Ussachevsky and Delegation of Russian Composers</title>
     </titleInfo>
@@ -349,7 +349,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007243</identifier>
+    <identifier type="local">omeka_007243</identifier>
     <titleInfo>
       <title>RCA Mark II Sound Synthesizer, Prentis Hall</title>
     </titleInfo>
@@ -387,7 +387,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007242</identifier>
+    <identifier type="local">omeka_007242</identifier>
     <titleInfo>
       <title>Professor George Herzog</title>
     </titleInfo>
@@ -433,7 +433,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007241</identifier>
+    <identifier type="local">omeka_007241</identifier>
     <titleInfo>
       <title>Fritz Reiner</title>
     </titleInfo>
@@ -478,7 +478,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007240</identifier>
+    <identifier type="local">omeka_007240</identifier>
     <titleInfo>
       <title>Music Centennial Concert: "Music at Columbia Today"</title>
     </titleInfo>
@@ -520,7 +520,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007239</identifier>
+    <identifier type="local">omeka_007239</identifier>
     <titleInfo>
       <title>Music Centennial Symposium: "Music After 2000"</title>
     </titleInfo>
@@ -562,7 +562,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007238</identifier>
+    <identifier type="local">omeka_007238</identifier>
     <titleInfo>
       <title>Music Centennial Orchestra Concert</title>
     </titleInfo>
@@ -604,7 +604,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007237</identifier>
+    <identifier type="local">omeka_007237</identifier>
     <titleInfo>
       <title>Michael and Zena Wiener at the Opening of the Gabe M. Wiener Music &amp; Arts Library</title>
     </titleInfo>
@@ -648,7 +648,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007034</identifier>
+    <identifier type="local">omeka_007034</identifier>
     <titleInfo>
       <title>Concert in Honor of Bela Bartok, Page 7</title>
     </titleInfo>
@@ -693,7 +693,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007033</identifier>
+    <identifier type="local">omeka_007033</identifier>
     <titleInfo>
       <title>Concert in Honor of Bela Bartok, Page 6</title>
     </titleInfo>
@@ -738,7 +738,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007032</identifier>
+    <identifier type="local">omeka_007032</identifier>
     <titleInfo>
       <title>Concert in Honor of Bela Bartok, Page 3</title>
     </titleInfo>
@@ -783,7 +783,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007031</identifier>
+    <identifier type="local">omeka_007031</identifier>
     <titleInfo>
       <title>Concert in Honor of Bela Bartok, Page 2</title>
     </titleInfo>
@@ -828,7 +828,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007029</identifier>
+    <identifier type="local">omeka_007029</identifier>
     <titleInfo>
       <title>Concert in Honor of Bela Bartok, Cover</title>
     </titleInfo>
@@ -873,7 +873,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007028</identifier>
+    <identifier type="local">omeka_007028</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, page 6</title>
     </titleInfo>
@@ -918,7 +918,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007027</identifier>
+    <identifier type="local">omeka_007027</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, page 5</title>
     </titleInfo>
@@ -963,7 +963,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007026</identifier>
+    <identifier type="local">omeka_007026</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, page 4</title>
     </titleInfo>
@@ -1008,7 +1008,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007025</identifier>
+    <identifier type="local">omeka_007025</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, page 3</title>
     </titleInfo>
@@ -1053,7 +1053,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007024</identifier>
+    <identifier type="local">omeka_007024</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, page 2</title>
     </titleInfo>
@@ -1098,7 +1098,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007023</identifier>
+    <identifier type="local">omeka_007023</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, page 1</title>
     </titleInfo>
@@ -1143,7 +1143,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007022</identifier>
+    <identifier type="local">omeka_007022</identifier>
     <titleInfo>
       <title>Agreement Between Elizabeth Mary Ludlow and The Trustees of Columbia College, cover</title>
     </titleInfo>
@@ -1188,7 +1188,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007021</identifier>
+    <identifier type="local">omeka_007021</identifier>
     <titleInfo>
       <title>Edward Alexander MacDowell</title>
     </titleInfo>
@@ -1232,7 +1232,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007020</identifier>
+    <identifier type="local">omeka_007020</identifier>
     <titleInfo>
       <title>Edward Alexander MacDowell</title>
     </titleInfo>
@@ -1271,7 +1271,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007019</identifier>
+    <identifier type="local">omeka_007019</identifier>
     <titleInfo>
       <title>Concert in Honor of Bela Bartok, Page 4-5</title>
     </titleInfo>
@@ -1316,7 +1316,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007017</identifier>
+    <identifier type="local">omeka_007017</identifier>
     <titleInfo>
       <title>Rumanian Folk Music</title>
     </titleInfo>
@@ -1361,7 +1361,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_007016</identifier>
+    <identifier type="local">omeka_007016</identifier>
     <titleInfo>
       <title>Carnegie Hall, 1899</title>
     </titleInfo>
@@ -1400,7 +1400,7 @@
     <accessCondition>Carnegie Hall Archives and Museum</accessCondition>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006854</identifier>
+    <identifier type="local">omeka_006854</identifier>
     <titleInfo>
       <title>Rachel Hadas and George Edwards</title>
     </titleInfo>
@@ -1442,7 +1442,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006853</identifier>
+    <identifier type="local">omeka_006853</identifier>
     <titleInfo>
       <title>Glee Club, Cover</title>
     </titleInfo>
@@ -1482,7 +1482,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006852</identifier>
+    <identifier type="local">omeka_006852</identifier>
     <titleInfo>
       <title>Opera Workshop rehearsal of Evangeline</title>
     </titleInfo>
@@ -1527,7 +1527,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006851</identifier>
+    <identifier type="local">omeka_006851</identifier>
     <titleInfo>
       <title>Howard Shanet Conducting University Orchestra</title>
     </titleInfo>
@@ -1565,7 +1565,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006850</identifier>
+    <identifier type="local">omeka_006850</identifier>
     <titleInfo>
       <title>Edgard Varese</title>
     </titleInfo>
@@ -1602,7 +1602,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006849</identifier>
+    <identifier type="local">omeka_006849</identifier>
     <titleInfo>
       <title>Otto Luening and Vladimir Ussachevsky in the Electronic Music Center</title>
     </titleInfo>
@@ -1640,7 +1640,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006848</identifier>
+    <identifier type="local">omeka_006848</identifier>
     <titleInfo>
       <title>Milton Babbitt, Peter Mauzey, and Vladimir Ussachevsky with the RCA Mark II Synthesizer</title>
     </titleInfo>
@@ -1681,7 +1681,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006847</identifier>
+    <identifier type="local">omeka_006847</identifier>
     <titleInfo>
       <title>Mario Davidovsky at the Electronic Music Center</title>
     </titleInfo>
@@ -1721,7 +1721,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006846</identifier>
+    <identifier type="local">omeka_006846</identifier>
     <titleInfo>
       <title>Daniel Gregory Mason</title>
     </titleInfo>
@@ -1756,7 +1756,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006845</identifier>
+    <identifier type="local">omeka_006845</identifier>
     <titleInfo>
       <title>Douglas Moore </title>
     </titleInfo>
@@ -1795,7 +1795,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006844</identifier>
+    <identifier type="local">omeka_006844</identifier>
     <titleInfo>
       <title>Douglas Moore at Desk</title>
     </titleInfo>
@@ -1835,7 +1835,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006843</identifier>
+    <identifier type="local">omeka_006843</identifier>
     <titleInfo>
       <title>Edward MacDowell</title>
     </titleInfo>
@@ -1879,7 +1879,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006842</identifier>
+    <identifier type="local">omeka_006842</identifier>
     <titleInfo>
       <title>Richard Rogers (CC 1923)</title>
     </titleInfo>
@@ -1914,7 +1914,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006841</identifier>
+    <identifier type="local">omeka_006841</identifier>
     <titleInfo>
       <title>Prospectus for Rumanian Folk Music</title>
     </titleInfo>
@@ -1958,7 +1958,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006840</identifier>
+    <identifier type="local">omeka_006840</identifier>
     <titleInfo>
       <title>Bela Bartok</title>
     </titleInfo>
@@ -1998,7 +1998,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006839</identifier>
+    <identifier type="local">omeka_006839</identifier>
     <titleInfo>
       <title>Leonard Bernstein Receiving Ditson Conducting Award</title>
     </titleInfo>
@@ -2040,7 +2040,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006838</identifier>
+    <identifier type="local">omeka_006838</identifier>
     <titleInfo>
       <title>Dean Dixon conducts CBS Symphony Orchestra</title>
     </titleInfo>
@@ -2081,7 +2081,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006837</identifier>
+    <identifier type="local">omeka_006837</identifier>
     <titleInfo>
       <title>Alice M. Ditson</title>
     </titleInfo>
@@ -2125,7 +2125,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006836</identifier>
+    <identifier type="local">omeka_006836</identifier>
     <titleInfo>
       <title>Turner Console, Aeolian-Skinner Organ, St. Paul's Chapel</title>
     </titleInfo>
@@ -2163,7 +2163,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006490</identifier>
+    <identifier type="local">omeka_006490</identifier>
     <titleInfo>
       <title>Second Suite for Orchestra, Op. 48, the Indian Suite</title>
     </titleInfo>
@@ -2207,7 +2207,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006489</identifier>
+    <identifier type="local">omeka_006489</identifier>
     <titleInfo>
       <title>Silver presentation cup</title>
     </titleInfo>
@@ -2252,7 +2252,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006488</identifier>
+    <identifier type="local">omeka_006488</identifier>
     <titleInfo>
       <title>Silver presentation cup</title>
     </titleInfo>
@@ -2292,7 +2292,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006487</identifier>
+    <identifier type="local">omeka_006487</identifier>
     <titleInfo>
       <title>Silver presentation cup</title>
     </titleInfo>
@@ -2337,7 +2337,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006486</identifier>
+    <identifier type="local">omeka_006486</identifier>
     <titleInfo>
       <title>Barnard-Columbia Chorus, St. Paul’s Chapel</title>
     </titleInfo>
@@ -2384,7 +2384,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006485</identifier>
+    <identifier type="local">omeka_006485</identifier>
     <titleInfo>
       <title>Barnard-Columbia Chorus - Annual Candlelight Concert, neg. 30</title>
     </titleInfo>
@@ -2429,7 +2429,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006484</identifier>
+    <identifier type="local">omeka_006484</identifier>
     <titleInfo>
       <title>Columbia University Orchestra - Conductor George Rothman, neg. 36</title>
     </titleInfo>
@@ -2474,7 +2474,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006483</identifier>
+    <identifier type="local">omeka_006483</identifier>
     <titleInfo>
       <title>Columbia University Orchestra - Conductor George Rothman, neg. 29</title>
     </titleInfo>
@@ -2519,7 +2519,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006482</identifier>
+    <identifier type="local">omeka_006482</identifier>
     <titleInfo>
       <title>Columbia University Orchestra - Conductor George Rothman, neg. 27</title>
     </titleInfo>
@@ -2561,7 +2561,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006481</identifier>
+    <identifier type="local">omeka_006481</identifier>
     <titleInfo>
       <title>Columbia University Orchestra - Conductor George Rothman, neg. 26</title>
     </titleInfo>
@@ -2606,7 +2606,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006480</identifier>
+    <identifier type="local">omeka_006480</identifier>
     <titleInfo>
       <title>Home Study Course in Harmony, Cover</title>
     </titleInfo>
@@ -2655,7 +2655,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006479</identifier>
+    <identifier type="local">omeka_006479</identifier>
     <titleInfo>
       <title>From Grieg to Brahms, Page 4</title>
     </titleInfo>
@@ -2707,7 +2707,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006478</identifier>
+    <identifier type="local">omeka_006478</identifier>
     <titleInfo>
       <title>From Grieg to Brahms, Page 3</title>
     </titleInfo>
@@ -2760,7 +2760,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006477</identifier>
+    <identifier type="local">omeka_006477</identifier>
     <titleInfo>
       <title>From Grieg to Brahms, Page 2</title>
     </titleInfo>
@@ -2813,7 +2813,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006476</identifier>
+    <identifier type="local">omeka_006476</identifier>
     <titleInfo>
       <title>From Grieg to Brahms, Page 1</title>
     </titleInfo>
@@ -2866,7 +2866,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006475</identifier>
+    <identifier type="local">omeka_006475</identifier>
     <titleInfo>
       <title>Music as College Study, first page [235]</title>
     </titleInfo>
@@ -2914,7 +2914,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006474</identifier>
+    <identifier type="local">omeka_006474</identifier>
     <titleInfo>
       <title>Musical America's Education Department--A Glimpse of a Modern Graduate Music Seminar</title>
     </titleInfo>
@@ -2965,7 +2965,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006473</identifier>
+    <identifier type="local">omeka_006473</identifier>
     <titleInfo>
       <title>Paul Henry Lang and seminar</title>
     </titleInfo>
@@ -3011,7 +3011,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006472</identifier>
+    <identifier type="local">omeka_006472</identifier>
     <titleInfo>
       <title>Paul Henry Lang, Photograph </title>
     </titleInfo>
@@ -3056,7 +3056,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006471</identifier>
+    <identifier type="local">omeka_006471</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 15 </title>
     </titleInfo>
@@ -3104,7 +3104,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006470</identifier>
+    <identifier type="local">omeka_006470</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 14 </title>
     </titleInfo>
@@ -3152,7 +3152,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006469</identifier>
+    <identifier type="local">omeka_006469</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 13 </title>
     </titleInfo>
@@ -3200,7 +3200,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006468</identifier>
+    <identifier type="local">omeka_006468</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 12 </title>
     </titleInfo>
@@ -3248,7 +3248,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006467</identifier>
+    <identifier type="local">omeka_006467</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 11</title>
     </titleInfo>
@@ -3296,7 +3296,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006466</identifier>
+    <identifier type="local">omeka_006466</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 10 </title>
     </titleInfo>
@@ -3344,7 +3344,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006465</identifier>
+    <identifier type="local">omeka_006465</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 9 </title>
     </titleInfo>
@@ -3392,7 +3392,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006464</identifier>
+    <identifier type="local">omeka_006464</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 8</title>
     </titleInfo>
@@ -3440,7 +3440,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006463</identifier>
+    <identifier type="local">omeka_006463</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 7 </title>
     </titleInfo>
@@ -3488,7 +3488,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006462</identifier>
+    <identifier type="local">omeka_006462</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 6 </title>
     </titleInfo>
@@ -3536,7 +3536,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006461</identifier>
+    <identifier type="local">omeka_006461</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 5 </title>
     </titleInfo>
@@ -3584,7 +3584,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006460</identifier>
+    <identifier type="local">omeka_006460</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 4 </title>
     </titleInfo>
@@ -3632,7 +3632,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006459</identifier>
+    <identifier type="local">omeka_006459</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 3 </title>
     </titleInfo>
@@ -3680,7 +3680,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006458</identifier>
+    <identifier type="local">omeka_006458</identifier>
     <titleInfo>
       <title>In Memoriam Otto Luening, Page 2 </title>
     </titleInfo>
@@ -3728,7 +3728,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006457</identifier>
+    <identifier type="local">omeka_006457</identifier>
     <titleInfo>
       <title>In Memoriam: Otto Luening, page 1 </title>
     </titleInfo>
@@ -3780,7 +3780,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006456</identifier>
+    <identifier type="local">omeka_006456</identifier>
     <titleInfo>
       <title>Music of Douglas Moore, Page 3 </title>
     </titleInfo>
@@ -3828,7 +3828,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006455</identifier>
+    <identifier type="local">omeka_006455</identifier>
     <titleInfo>
       <title>Music of Douglas Moore, Page 2 </title>
     </titleInfo>
@@ -3876,7 +3876,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006454</identifier>
+    <identifier type="local">omeka_006454</identifier>
     <titleInfo>
       <title>Music of Douglas Moore, Page 1 </title>
     </titleInfo>
@@ -3924,7 +3924,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006453</identifier>
+    <identifier type="local">omeka_006453</identifier>
     <titleInfo>
       <title>Photograph of Douglas Moore and Carlos Chavez</title>
     </titleInfo>
@@ -3970,7 +3970,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006452</identifier>
+    <identifier type="local">omeka_006452</identifier>
     <titleInfo>
       <title>Photograph of Henry Cowell with Cat</title>
     </titleInfo>
@@ -4013,7 +4013,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006451</identifier>
+    <identifier type="local">omeka_006451</identifier>
     <titleInfo>
       <title>Henry Cowell, Cover</title>
     </titleInfo>
@@ -4060,7 +4060,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006450</identifier>
+    <identifier type="local">omeka_006450</identifier>
     <titleInfo>
       <title>Performers' Committee for Twentieth-Century Music, Poster </title>
     </titleInfo>
@@ -4110,7 +4110,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006449</identifier>
+    <identifier type="local">omeka_006449</identifier>
     <titleInfo>
       <title>Performers' Committee for Twentieth- Century Music, Poster </title>
     </titleInfo>
@@ -4160,7 +4160,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006448</identifier>
+    <identifier type="local">omeka_006448</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 11 </title>
     </titleInfo>
@@ -4210,7 +4210,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006447</identifier>
+    <identifier type="local">omeka_006447</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 10 </title>
     </titleInfo>
@@ -4260,7 +4260,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006446</identifier>
+    <identifier type="local">omeka_006446</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 9 </title>
     </titleInfo>
@@ -4311,7 +4311,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006445</identifier>
+    <identifier type="local">omeka_006445</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 8 </title>
     </titleInfo>
@@ -4362,7 +4362,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006444</identifier>
+    <identifier type="local">omeka_006444</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 7 </title>
     </titleInfo>
@@ -4413,7 +4413,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006443</identifier>
+    <identifier type="local">omeka_006443</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 6 </title>
     </titleInfo>
@@ -4464,7 +4464,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006442</identifier>
+    <identifier type="local">omeka_006442</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 5 </title>
     </titleInfo>
@@ -4515,7 +4515,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006441</identifier>
+    <identifier type="local">omeka_006441</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 4 </title>
     </titleInfo>
@@ -4566,7 +4566,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006440</identifier>
+    <identifier type="local">omeka_006440</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 3 </title>
     </titleInfo>
@@ -4617,7 +4617,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006439</identifier>
+    <identifier type="local">omeka_006439</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 2 </title>
     </titleInfo>
@@ -4668,7 +4668,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006438</identifier>
+    <identifier type="local">omeka_006438</identifier>
     <titleInfo>
       <title>First Annual Festival of Contemporary Music, Page 1 </title>
     </titleInfo>
@@ -4719,7 +4719,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006437</identifier>
+    <identifier type="local">omeka_006437</identifier>
     <titleInfo>
       <title>Columbia University Orchestra Page 2</title>
     </titleInfo>
@@ -4766,7 +4766,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006436</identifier>
+    <identifier type="local">omeka_006436</identifier>
     <titleInfo>
       <title>Columbia University Orchestra Page 1 </title>
     </titleInfo>
@@ -4813,7 +4813,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006435</identifier>
+    <identifier type="local">omeka_006435</identifier>
     <titleInfo>
       <title>Barnard-Columbia Chorus Page 1 </title>
     </titleInfo>
@@ -4860,7 +4860,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006434</identifier>
+    <identifier type="local">omeka_006434</identifier>
     <titleInfo>
       <title>Columbia University Orchestra Program, April 29, 1973, Page 4</title>
     </titleInfo>
@@ -4914,7 +4914,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006433</identifier>
+    <identifier type="local">omeka_006433</identifier>
     <titleInfo>
       <title>Columbia University Orchestra Program, April 29, 1973, Page 3 </title>
     </titleInfo>
@@ -4968,7 +4968,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006432</identifier>
+    <identifier type="local">omeka_006432</identifier>
     <titleInfo>
       <title>Columbia University Orchestra Program, April 29, 1973, Page 2 </title>
     </titleInfo>
@@ -5022,7 +5022,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006431</identifier>
+    <identifier type="local">omeka_006431</identifier>
     <titleInfo>
       <title>Columbia University Orchestra Program, April 29, 1973, Page 1 </title>
     </titleInfo>
@@ -5076,7 +5076,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006430</identifier>
+    <identifier type="local">omeka_006430</identifier>
     <titleInfo>
       <title>For Columbia Theater, A Festive First Night</title>
     </titleInfo>
@@ -5128,7 +5128,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006429</identifier>
+    <identifier type="local">omeka_006429</identifier>
     <titleInfo>
       <title>Kathryn Bache Miller Theatre, Page 5</title>
     </titleInfo>
@@ -5176,7 +5176,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006428</identifier>
+    <identifier type="local">omeka_006428</identifier>
     <titleInfo>
       <title>Kathryn Bache Miller Theatre, Page 4</title>
     </titleInfo>
@@ -5224,7 +5224,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006427</identifier>
+    <identifier type="local">omeka_006427</identifier>
     <titleInfo>
       <title>Kathryn Bache Miller Theatre, Page 3</title>
     </titleInfo>
@@ -5272,7 +5272,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006426</identifier>
+    <identifier type="local">omeka_006426</identifier>
     <titleInfo>
       <title>Kathryn Bache Miller Theatre, Page 2 </title>
     </titleInfo>
@@ -5320,7 +5320,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006425</identifier>
+    <identifier type="local">omeka_006425</identifier>
     <titleInfo>
       <title>Kathryn Bache Miller Theatre, Page 1 </title>
     </titleInfo>
@@ -5368,7 +5368,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006424</identifier>
+    <identifier type="local">omeka_006424</identifier>
     <titleInfo>
       <title>Kathryn Bache Miller Theatre, Cover</title>
     </titleInfo>
@@ -5416,7 +5416,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006423</identifier>
+    <identifier type="local">omeka_006423</identifier>
     <titleInfo>
       <title>Otto Luening conducting rehearsal of "Evangeline," Photograph</title>
     </titleInfo>
@@ -5465,7 +5465,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006422</identifier>
+    <identifier type="local">omeka_006422</identifier>
     <titleInfo>
       <title>Otto Luening conducting rehearsal, Photograph </title>
     </titleInfo>
@@ -5514,7 +5514,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006421</identifier>
+    <identifier type="local">omeka_006421</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 197</title>
     </titleInfo>
@@ -5570,7 +5570,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006420</identifier>
+    <identifier type="local">omeka_006420</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 196</title>
     </titleInfo>
@@ -5626,7 +5626,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006419</identifier>
+    <identifier type="local">omeka_006419</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 195</title>
     </titleInfo>
@@ -5682,7 +5682,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006418</identifier>
+    <identifier type="local">omeka_006418</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 194</title>
     </titleInfo>
@@ -5738,7 +5738,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006417</identifier>
+    <identifier type="local">omeka_006417</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 193</title>
     </titleInfo>
@@ -5794,7 +5794,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006416</identifier>
+    <identifier type="local">omeka_006416</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 192</title>
     </titleInfo>
@@ -5850,7 +5850,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006415</identifier>
+    <identifier type="local">omeka_006415</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 191</title>
     </titleInfo>
@@ -5906,7 +5906,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006414</identifier>
+    <identifier type="local">omeka_006414</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 190</title>
     </titleInfo>
@@ -5962,7 +5962,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006413</identifier>
+    <identifier type="local">omeka_006413</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 189</title>
     </titleInfo>
@@ -6018,7 +6018,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006412</identifier>
+    <identifier type="local">omeka_006412</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 188</title>
     </titleInfo>
@@ -6074,7 +6074,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006411</identifier>
+    <identifier type="local">omeka_006411</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 187</title>
     </titleInfo>
@@ -6130,7 +6130,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006410</identifier>
+    <identifier type="local">omeka_006410</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 186</title>
     </titleInfo>
@@ -6186,7 +6186,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006409</identifier>
+    <identifier type="local">omeka_006409</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 185</title>
     </titleInfo>
@@ -6242,7 +6242,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006408</identifier>
+    <identifier type="local">omeka_006408</identifier>
     <titleInfo>
       <title>Brander Matthews Hall, Page 184</title>
     </titleInfo>
@@ -6298,7 +6298,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006407</identifier>
+    <identifier type="local">omeka_006407</identifier>
     <titleInfo>
       <title>Brander Matthews</title>
     </titleInfo>
@@ -6351,7 +6351,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006406</identifier>
+    <identifier type="local">omeka_006406</identifier>
     <titleInfo>
       <title>Brander Matthews Hall</title>
     </titleInfo>
@@ -6400,7 +6400,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006405</identifier>
+    <identifier type="local">omeka_006405</identifier>
     <titleInfo>
       <title>Service of Dedication of the New Organ in St. Paul's Chapel, Page 2</title>
     </titleInfo>
@@ -6447,7 +6447,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006404</identifier>
+    <identifier type="local">omeka_006404</identifier>
     <titleInfo>
       <title>Service of Dedication of the New Organ in St. Paul's Chapel, Page 1</title>
     </titleInfo>
@@ -6494,7 +6494,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006403</identifier>
+    <identifier type="local">omeka_006403</identifier>
     <titleInfo>
       <title>Morningside Heights, Plan of Buildings and Grounds</title>
     </titleInfo>
@@ -6544,7 +6544,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006402</identifier>
+    <identifier type="local">omeka_006402</identifier>
     <titleInfo>
       <title>Columbia Magazine, Winter 1993, Cover</title>
     </titleInfo>
@@ -6589,7 +6589,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006401</identifier>
+    <identifier type="local">omeka_006401</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 8</title>
     </titleInfo>
@@ -6640,7 +6640,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006400</identifier>
+    <identifier type="local">omeka_006400</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 7 </title>
     </titleInfo>
@@ -6691,7 +6691,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006399</identifier>
+    <identifier type="local">omeka_006399</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 6 </title>
     </titleInfo>
@@ -6742,7 +6742,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006398</identifier>
+    <identifier type="local">omeka_006398</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 4-5</title>
     </titleInfo>
@@ -6790,7 +6790,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006397</identifier>
+    <identifier type="local">omeka_006397</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 3</title>
     </titleInfo>
@@ -6841,7 +6841,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006396</identifier>
+    <identifier type="local">omeka_006396</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 2 </title>
     </titleInfo>
@@ -6892,7 +6892,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006395</identifier>
+    <identifier type="local">omeka_006395</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Page 1 </title>
     </titleInfo>
@@ -6945,7 +6945,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006394</identifier>
+    <identifier type="local">omeka_006394</identifier>
     <titleInfo>
       <title>1956 Alexander Hamilton Dinner, Cover</title>
     </titleInfo>
@@ -6995,7 +6995,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006393</identifier>
+    <identifier type="local">omeka_006393</identifier>
     <titleInfo>
       <title>Fly With Me, 1920 Columbia Varsity Show, Cover of Program </title>
     </titleInfo>
@@ -7041,7 +7041,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006392</identifier>
+    <identifier type="local">omeka_006392</identifier>
     <titleInfo>
       <title>Herbert Dittler, Photograph </title>
     </titleInfo>
@@ -7080,7 +7080,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006391</identifier>
+    <identifier type="local">omeka_006391</identifier>
     <titleInfo>
       <title>Annual Dinner of the University Glee Club, Hotel Astor--Belvedere Room, Thursday May 7th, 1914</title>
     </titleInfo>
@@ -7131,7 +7131,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006390</identifier>
+    <identifier type="local">omeka_006390</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 8 </title>
     </titleInfo>
@@ -7180,7 +7180,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006389</identifier>
+    <identifier type="local">omeka_006389</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 7</title>
     </titleInfo>
@@ -7231,7 +7231,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006388</identifier>
+    <identifier type="local">omeka_006388</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 6</title>
     </titleInfo>
@@ -7282,7 +7282,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006387</identifier>
+    <identifier type="local">omeka_006387</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 5</title>
     </titleInfo>
@@ -7333,7 +7333,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006386</identifier>
+    <identifier type="local">omeka_006386</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 4</title>
     </titleInfo>
@@ -7384,7 +7384,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006385</identifier>
+    <identifier type="local">omeka_006385</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 3</title>
     </titleInfo>
@@ -7434,7 +7434,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006384</identifier>
+    <identifier type="local">omeka_006384</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 2</title>
     </titleInfo>
@@ -7483,7 +7483,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006383</identifier>
+    <identifier type="local">omeka_006383</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, page 1</title>
     </titleInfo>
@@ -7533,7 +7533,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006382</identifier>
+    <identifier type="local">omeka_006382</identifier>
     <titleInfo>
       <title>Columbia Glee and Mandolin Clubs, Concert Program, Cover</title>
     </titleInfo>
@@ -7583,7 +7583,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006381</identifier>
+    <identifier type="local">omeka_006381</identifier>
     <titleInfo>
       <title>Interclass Song Contest </title>
     </titleInfo>
@@ -7631,7 +7631,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006380</identifier>
+    <identifier type="local">omeka_006380</identifier>
     <titleInfo>
       <title>Lorenz Hart</title>
     </titleInfo>
@@ -7676,7 +7676,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006379</identifier>
+    <identifier type="local">omeka_006379</identifier>
     <titleInfo>
       <title>Oscar Hammerstein II</title>
     </titleInfo>
@@ -7721,7 +7721,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006378</identifier>
+    <identifier type="local">omeka_006378</identifier>
     <titleInfo>
       <title>St. Paul's Chapel of Columbia University</title>
     </titleInfo>
@@ -7777,7 +7777,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006377</identifier>
+    <identifier type="local">omeka_006377</identifier>
     <titleInfo>
       <title>Three Cast Members of Isle of Illusia, Columbia Varsity Show</title>
     </titleInfo>
@@ -7826,7 +7826,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006376</identifier>
+    <identifier type="local">omeka_006376</identifier>
     <titleInfo>
       <title>Joseph Buhler in the Cast of The Isle of Illusia</title>
     </titleInfo>
@@ -7876,7 +7876,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006375</identifier>
+    <identifier type="local">omeka_006375</identifier>
     <titleInfo>
       <title>Philip Moeller in the Cast of The Isle of Illusia</title>
     </titleInfo>
@@ -7926,7 +7926,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006374</identifier>
+    <identifier type="local">omeka_006374</identifier>
     <titleInfo>
       <title>Cast of Isle of Illusia, Columbia Varsity Show</title>
     </titleInfo>
@@ -7975,7 +7975,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006373</identifier>
+    <identifier type="local">omeka_006373</identifier>
     <titleInfo>
       <title>Ticket for Varsity Show </title>
     </titleInfo>
@@ -8023,7 +8023,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006372</identifier>
+    <identifier type="local">omeka_006372</identifier>
     <titleInfo>
       <title>Columbia College Musical Clubs </title>
     </titleInfo>
@@ -8069,7 +8069,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006371</identifier>
+    <identifier type="local">omeka_006371</identifier>
     <titleInfo>
       <title>Banjo Club, 1894-95</title>
     </titleInfo>
@@ -8118,7 +8118,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006370</identifier>
+    <identifier type="local">omeka_006370</identifier>
     <titleInfo>
       <title>Bulletin of the American Composers Alliance, Cover Vol II, No. 1 </title>
     </titleInfo>
@@ -8162,7 +8162,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006369</identifier>
+    <identifier type="local">omeka_006369</identifier>
     <titleInfo>
       <title>Igor Stravinsky</title>
     </titleInfo>
@@ -8206,7 +8206,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006368</identifier>
+    <identifier type="local">omeka_006368</identifier>
     <titleInfo>
       <title>Etching of Richard Strauss</title>
     </titleInfo>
@@ -8248,7 +8248,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006367</identifier>
+    <identifier type="local">omeka_006367</identifier>
     <titleInfo>
       <title>Portrait of Béla Bartók</title>
     </titleInfo>
@@ -8292,7 +8292,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006366</identifier>
+    <identifier type="local">omeka_006366</identifier>
     <titleInfo>
       <title>Critical and Historical Essays: Lectures Delivered at Columbia University, Title page</title>
     </titleInfo>
@@ -8340,7 +8340,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006365</identifier>
+    <identifier type="local">omeka_006365</identifier>
     <titleInfo>
       <title>Critical and Historical Essays: Lectures Delivered at Columbia University, Cover</title>
     </titleInfo>
@@ -8388,7 +8388,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006364</identifier>
+    <identifier type="local">omeka_006364</identifier>
     <titleInfo>
       <title>Autograph letter, signed to Seth Low</title>
     </titleInfo>
@@ -8438,7 +8438,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006363</identifier>
+    <identifier type="local">omeka_006363</identifier>
     <titleInfo>
       <title>College Songs for Male Voices, Page 4, Columbia's Sons</title>
     </titleInfo>
@@ -8488,7 +8488,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006362</identifier>
+    <identifier type="local">omeka_006362</identifier>
     <titleInfo>
       <title>College Songs for Male Voices, Page 3, Columbia's Sons</title>
     </titleInfo>
@@ -8538,7 +8538,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006361</identifier>
+    <identifier type="local">omeka_006361</identifier>
     <titleInfo>
       <title>College Songs for Male Voices, Title page</title>
     </titleInfo>
@@ -8588,7 +8588,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006360</identifier>
+    <identifier type="local">omeka_006360</identifier>
     <titleInfo>
       <title>Pianoforte recital, page 2-3</title>
     </titleInfo>
@@ -8632,7 +8632,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006359</identifier>
+    <identifier type="local">omeka_006359</identifier>
     <titleInfo>
       <title>Pianoforte recital, Cover</title>
     </titleInfo>
@@ -8677,7 +8677,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006358</identifier>
+    <identifier type="local">omeka_006358</identifier>
     <titleInfo>
       <title>Autograph letter, signed to Brander Matthews, page 2</title>
     </titleInfo>
@@ -8726,7 +8726,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006357</identifier>
+    <identifier type="local">omeka_006357</identifier>
     <titleInfo>
       <title>Autograph letter, signed to Brander Matthews, page 1</title>
     </titleInfo>
@@ -8776,7 +8776,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006356</identifier>
+    <identifier type="local">omeka_006356</identifier>
     <titleInfo>
       <title>Program, concert at the Metropolitan Opera House, Page 2</title>
     </titleInfo>
@@ -8820,7 +8820,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006355</identifier>
+    <identifier type="local">omeka_006355</identifier>
     <titleInfo>
       <title>Program, concert at the Metropolitan Opera House</title>
     </titleInfo>
@@ -8864,7 +8864,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006354</identifier>
+    <identifier type="local">omeka_006354</identifier>
     <titleInfo>
       <title>Edward MacDowell</title>
     </titleInfo>
@@ -8903,7 +8903,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006353</identifier>
+    <identifier type="local">omeka_006353</identifier>
     <titleInfo>
       <title>Theater Associates Evangeline</title>
     </titleInfo>
@@ -8947,7 +8947,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006352</identifier>
+    <identifier type="local">omeka_006352</identifier>
     <titleInfo>
       <title>Theater Associates Evangeline</title>
     </titleInfo>
@@ -8991,7 +8991,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006351</identifier>
+    <identifier type="local">omeka_006351</identifier>
     <titleInfo>
       <title>Theater Associates Evangeline</title>
     </titleInfo>
@@ -9035,7 +9035,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006350</identifier>
+    <identifier type="local">omeka_006350</identifier>
     <titleInfo>
       <title>Theater Associates Evangeline</title>
     </titleInfo>
@@ -9079,7 +9079,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006349</identifier>
+    <identifier type="local">omeka_006349</identifier>
     <titleInfo>
       <title>Mother of Us All : an Opera, Page 3-4</title>
     </titleInfo>
@@ -9131,7 +9131,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006348</identifier>
+    <identifier type="local">omeka_006348</identifier>
     <titleInfo>
       <title>Mother of Us All : an Opera, Page 1-2</title>
     </titleInfo>
@@ -9183,7 +9183,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006347</identifier>
+    <identifier type="local">omeka_006347</identifier>
     <titleInfo>
       <title>Mother of Us All : an Opera, Page 5</title>
     </titleInfo>
@@ -9235,7 +9235,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006346</identifier>
+    <identifier type="local">omeka_006346</identifier>
     <titleInfo>
       <title>Mother of Us All : an Opera, Cover</title>
     </titleInfo>
@@ -9287,7 +9287,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006345</identifier>
+    <identifier type="local">omeka_006345</identifier>
     <titleInfo>
       <title>Theater Associates The Medium</title>
     </titleInfo>
@@ -9331,7 +9331,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006344</identifier>
+    <identifier type="local">omeka_006344</identifier>
     <titleInfo>
       <title>Theater Associates The Medium</title>
     </titleInfo>
@@ -9375,7 +9375,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006343</identifier>
+    <identifier type="local">omeka_006343</identifier>
     <titleInfo>
       <title>Theater Associates The Medium</title>
     </titleInfo>
@@ -9419,7 +9419,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006342</identifier>
+    <identifier type="local">omeka_006342</identifier>
     <titleInfo>
       <title>Theater Associates Paul Bunyan</title>
     </titleInfo>
@@ -9463,7 +9463,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006341</identifier>
+    <identifier type="local">omeka_006341</identifier>
     <titleInfo>
       <title>Theater Associates Paul Bunyan</title>
     </titleInfo>
@@ -9507,7 +9507,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006340</identifier>
+    <identifier type="local">omeka_006340</identifier>
     <titleInfo>
       <title>Theater Associates Paul Bunyan</title>
     </titleInfo>
@@ -9551,7 +9551,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006339</identifier>
+    <identifier type="local">omeka_006339</identifier>
     <titleInfo>
       <title>Theater Associates Paul Bunyan</title>
     </titleInfo>
@@ -9595,7 +9595,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006338</identifier>
+    <identifier type="local">omeka_006338</identifier>
     <titleInfo>
       <title>Opera Workshop</title>
     </titleInfo>
@@ -9639,7 +9639,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006337</identifier>
+    <identifier type="local">omeka_006337</identifier>
     <titleInfo>
       <title>Opera Workshop in Shakespeare in Opera, Page 1-2</title>
     </titleInfo>
@@ -9687,7 +9687,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006336</identifier>
+    <identifier type="local">omeka_006336</identifier>
     <titleInfo>
       <title>Opera Workshop in Shakespeare in Opera, Cover</title>
     </titleInfo>
@@ -9735,7 +9735,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006335</identifier>
+    <identifier type="local">omeka_006335</identifier>
     <titleInfo>
       <title>Opera Workshop in Scenes from Operas, Page 1-2</title>
     </titleInfo>
@@ -9783,7 +9783,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006334</identifier>
+    <identifier type="local">omeka_006334</identifier>
     <titleInfo>
       <title>Opera Workshop in Scenes from Operas, Cover</title>
     </titleInfo>
@@ -9831,7 +9831,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006333</identifier>
+    <identifier type="local">omeka_006333</identifier>
     <titleInfo>
       <title>Columbia Musical Scrap</title>
     </titleInfo>
@@ -9877,7 +9877,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006332</identifier>
+    <identifier type="local">omeka_006332</identifier>
     <titleInfo>
       <title>Program, Concert Philharmonic Society of Columbia, page 3</title>
     </titleInfo>
@@ -9924,7 +9924,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006331</identifier>
+    <identifier type="local">omeka_006331</identifier>
     <titleInfo>
       <title>Program, Concert Philharmonic Society of Columbia, Orchestra listing</title>
     </titleInfo>
@@ -9971,7 +9971,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006330</identifier>
+    <identifier type="local">omeka_006330</identifier>
     <titleInfo>
       <title>Program, Concert Philharmonic Society of Columbia, Cover</title>
     </titleInfo>
@@ -10018,7 +10018,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006329</identifier>
+    <identifier type="local">omeka_006329</identifier>
     <titleInfo>
       <title>Musical Society, Joan of Arc program, page 1</title>
     </titleInfo>
@@ -10065,7 +10065,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006328</identifier>
+    <identifier type="local">omeka_006328</identifier>
     <titleInfo>
       <title>Musical Society, Joan of Arc program, cover</title>
     </titleInfo>
@@ -10111,7 +10111,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006327</identifier>
+    <identifier type="local">omeka_006327</identifier>
     <titleInfo>
       <title>Banjo, Mandolin, and Glee Clubs</title>
     </titleInfo>
@@ -10157,7 +10157,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006326</identifier>
+    <identifier type="local">omeka_006326</identifier>
     <titleInfo>
       <title>View of Breaking ground for the School of Business, now Dodge Hall</title>
     </titleInfo>
@@ -10208,7 +10208,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006325</identifier>
+    <identifier type="local">omeka_006325</identifier>
     <titleInfo>
       <title>Columbia University, New York </title>
     </titleInfo>
@@ -10259,7 +10259,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006324</identifier>
+    <identifier type="local">omeka_006324</identifier>
     <titleInfo>
       <title>View of West Hall</title>
     </titleInfo>
@@ -10305,7 +10305,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006323</identifier>
+    <identifier type="local">omeka_006323</identifier>
     <titleInfo>
       <title>General View of Columbia University</title>
     </titleInfo>
@@ -10359,7 +10359,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006322</identifier>
+    <identifier type="local">omeka_006322</identifier>
     <titleInfo>
       <title>Exhibit Opens in Honor of Edward MacDowell</title>
     </titleInfo>
@@ -10411,7 +10411,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006321</identifier>
+    <identifier type="local">omeka_006321</identifier>
     <titleInfo>
       <title>Invitation to the Edward macDowell Commemorative Exhibition</title>
     </titleInfo>
@@ -10461,7 +10461,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006320</identifier>
+    <identifier type="local">omeka_006320</identifier>
     <titleInfo>
       <title>Invitation to the Edward macDowell Commemorative Exhibition</title>
     </titleInfo>
@@ -10511,7 +10511,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006319</identifier>
+    <identifier type="local">omeka_006319</identifier>
     <titleInfo>
       <title>Faculty of Philosophy, Department of Music, Announcement for 1897-98, page 6-7</title>
     </titleInfo>
@@ -10556,7 +10556,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006318</identifier>
+    <identifier type="local">omeka_006318</identifier>
     <titleInfo>
       <title>Faculty of Philosophy, Department of Music, Announcement for 1897-98, page 4-5</title>
     </titleInfo>
@@ -10601,7 +10601,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006317</identifier>
+    <identifier type="local">omeka_006317</identifier>
     <titleInfo>
       <title>Faculty of Philosophy, Department of Music, Announcement for 1897-98, page 2-3</title>
     </titleInfo>
@@ -10646,7 +10646,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_006316</identifier>
+    <identifier type="local">omeka_006316</identifier>
     <titleInfo>
       <title>Faculty of Philosophy, Department of Music, Announcement for 1897-98, Cover</title>
     </titleInfo>

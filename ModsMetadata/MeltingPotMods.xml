@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods>
-    <identifier type="Omeka ID">omeka_004181</identifier>
+    <identifier type="local">omeka_004181</identifier>
     <titleInfo>
       <title>Evr. obshchina v Rossii, page 3</title>
     </titleInfo>
@@ -58,7 +58,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_004180</identifier>
+    <identifier type="local">omeka_004180</identifier>
     <titleInfo>
       <title>Evr. obshchina v Rossii, page 2</title>
     </titleInfo>
@@ -115,7 +115,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_004179</identifier>
+    <identifier type="local">omeka_004179</identifier>
     <titleInfo>
       <title>Al Jolson, cover</title>
     </titleInfo>
@@ -169,7 +169,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_004174</identifier>
+    <identifier type="local">omeka_004174</identifier>
     <titleInfo>
       <title>Souvenir program of Anna Pavlova's American tour, cover, penultimate page</title>
     </titleInfo>
@@ -232,7 +232,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_004173</identifier>
+    <identifier type="local">omeka_004173</identifier>
     <titleInfo>
       <title>Melting Pot program</title>
     </titleInfo>
@@ -281,7 +281,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000855</identifier>
+    <identifier type="local">omeka_000855</identifier>
     <titleInfo>
       <title>Jewish Writer and a Yiddish Writer</title>
     </titleInfo>
@@ -353,7 +353,7 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000844</identifier>
+    <identifier type="local">omeka_000844</identifier>
     <identifier>CLIO id: 5559787</identifier>
     <titleInfo>
       <title>Kaddish, and other poems 1958-1960, title page with inscription</title>
@@ -403,7 +403,7 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000843</identifier>
+    <identifier type="local">omeka_000843</identifier>
     <identifier>CLIO id: 5559787</identifier>
     <titleInfo>
       <title>Kaddish, and other poems 1958-1960, page 7</title>
@@ -454,7 +454,7 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000842</identifier>
+    <identifier type="local">omeka_000842</identifier>
     <titleInfo>
       <title>Allen Ginsberg Remembers Mama, first page</title>
     </titleInfo>
@@ -521,7 +521,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000841</identifier>
+    <identifier type="local">omeka_000841</identifier>
     <titleInfo>
       <title>New York City NEEDS BELLA ABZUG for Mayor</title>
     </titleInfo>
@@ -576,7 +576,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000840</identifier>
+    <identifier type="local">omeka_000840</identifier>
     <identifier>CLIO id: 4078597</identifier>
     <titleInfo>
       <title>Louis Zukofsky</title>
@@ -627,7 +627,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000839</identifier>
+    <identifier type="local">omeka_000839</identifier>
     <titleInfo>
       <title>Boy with Package and Group of Children</title>
     </titleInfo>
@@ -681,7 +681,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000838</identifier>
+    <identifier type="local">omeka_000838</identifier>
     <identifier>CLIO id: 3158015</identifier>
     <titleInfo>
       <title>Troubled Air, back cover</title>
@@ -738,7 +738,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000837</identifier>
+    <identifier type="local">omeka_000837</identifier>
     <titleInfo>
       <title>Children on Tenement Stairs</title>
     </titleInfo>
@@ -793,7 +793,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000836</identifier>
+    <identifier type="local">omeka_000836</identifier>
     <identifier>CLIO id: 2347</identifier>
     <titleInfo>
       <title>Good as Gold, back cover</title>
@@ -850,7 +850,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000835</identifier>
+    <identifier type="local">omeka_000835</identifier>
     <titleInfo>
       <title>West Side Story program, cover</title>
     </titleInfo>
@@ -907,7 +907,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000834</identifier>
+    <identifier type="local">omeka_000834</identifier>
     <titleInfo>
       <title>George Gershwin</title>
     </titleInfo>
@@ -967,7 +967,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000833</identifier>
+    <identifier type="local">omeka_000833</identifier>
     <titleInfo>
       <title>Porgy and Bess program, frontispiece</title>
     </titleInfo>
@@ -1021,7 +1021,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000832</identifier>
+    <identifier type="local">omeka_000832</identifier>
     <titleInfo>
       <title>Porgy and Bess souvenir program, cover</title>
     </titleInfo>
@@ -1075,7 +1075,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000831</identifier>
+    <identifier type="local">omeka_000831</identifier>
     <titleInfo>
       <title>Ira Gershwin</title>
     </titleInfo>
@@ -1135,7 +1135,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000830</identifier>
+    <identifier type="local">omeka_000830</identifier>
     <titleInfo>
       <title>49 Pitt Street between Delancey and Rivington Streets</title>
     </titleInfo>
@@ -1188,7 +1188,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000829</identifier>
+    <identifier type="local">omeka_000829</identifier>
     <titleInfo>
       <title>Stella Adler</title>
     </titleInfo>
@@ -1242,7 +1242,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000828</identifier>
+    <identifier type="local">omeka_000828</identifier>
     <titleInfo>
       <title>Orchard Street As It Is Now</title>
     </titleInfo>
@@ -1295,7 +1295,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000822</identifier>
+    <identifier type="local">omeka_000822</identifier>
     <titleInfo>
       <title>Simon Lissim's speech at his testimonial luncheon by the American Fellows of the Royal Society of Arts</title>
     </titleInfo>
@@ -1360,7 +1360,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000815</identifier>
+    <identifier type="local">omeka_000815</identifier>
     <titleInfo>
       <title>Invitation to testimonial luncheon honoring Professor Simon Lissim, front</title>
     </titleInfo>
@@ -1419,7 +1419,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000813</identifier>
+    <identifier type="local">omeka_000813</identifier>
     <titleInfo>
       <title>1961 Royal Society of Arts Fellows Award program, cover</title>
     </titleInfo>
@@ -1479,7 +1479,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000814</identifier>
+    <identifier type="local">omeka_000814</identifier>
     <titleInfo>
       <title>1961 Royal Society of Arts Fellows Award program, inside pages</title>
     </titleInfo>
@@ -1539,7 +1539,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000812</identifier>
+    <identifier type="local">omeka_000812</identifier>
     <titleInfo>
       <title>City Professor Elected By British Art Society</title>
     </titleInfo>
@@ -1601,7 +1601,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000811</identifier>
+    <identifier type="local">omeka_000811</identifier>
     <titleInfo>
       <title>Press release from the City College, New York</title>
     </titleInfo>
@@ -1661,7 +1661,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000810</identifier>
+    <identifier type="local">omeka_000810</identifier>
     <titleInfo>
       <title>Flower drawing and teaching aid for Simon Lissim's design class</title>
     </titleInfo>
@@ -1718,7 +1718,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000809</identifier>
+    <identifier type="local">omeka_000809</identifier>
     <titleInfo>
       <title>Runaway Soldier and the Other: Tales of Old Russia, Smocking Animals illustration, verso</title>
     </titleInfo>
@@ -1773,7 +1773,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000808</identifier>
+    <identifier type="local">omeka_000808</identifier>
     <titleInfo>
       <title>Runaway Soldier and the Other: Tales of Old Russia,  Big Blue and White illustration, verso</title>
     </titleInfo>
@@ -1828,7 +1828,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000807</identifier>
+    <identifier type="local">omeka_000807</identifier>
     <titleInfo>
       <title>Runaway Soldier and the Other Tales of Old Russia, Fool illustration</title>
     </titleInfo>
@@ -1886,7 +1886,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000806</identifier>
+    <identifier type="local">omeka_000806</identifier>
     <titleInfo>
       <title>Runaway Soldier and the Other Tales of Old Russia, the Runaway Soldier, Horseman illustration</title>
     </titleInfo>
@@ -1944,7 +1944,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000805</identifier>
+    <identifier type="local">omeka_000805</identifier>
     <titleInfo>
       <title>Runaway Soldier and the Other Tales of Old Russia, Barber illustration</title>
     </titleInfo>
@@ -2002,7 +2002,7 @@ Gift of Allen Ginsberg, 1993</note>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000804</identifier>
+    <identifier type="local">omeka_000804</identifier>
     <titleInfo>
       <title>Invitations to an exhibition of designs made in connection with a course given by Simon Lissim</title>
     </titleInfo>
@@ -2067,7 +2067,7 @@ Held at the Board of Education of New York City.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000803</identifier>
+    <identifier type="local">omeka_000803</identifier>
     <titleInfo>
       <title>Notice of an exhibition of gouaches and decorative arts by Simon Lissim</title>
     </titleInfo>
@@ -2124,7 +2124,7 @@ Held at the Board of Education of New York City.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000802</identifier>
+    <identifier type="local">omeka_000802</identifier>
     <titleInfo>
       <title>Invitation to the Simon Lissim Exhibit in New York, inside</title>
     </titleInfo>
@@ -2186,7 +2186,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000801</identifier>
+    <identifier type="local">omeka_000801</identifier>
     <titleInfo>
       <title>Invitation to the Simon Lissim Exhibit in New York, cover</title>
     </titleInfo>
@@ -2244,7 +2244,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000800</identifier>
+    <identifier type="local">omeka_000800</identifier>
     <titleInfo>
       <title>Holiday card designed by Simon Lissim, front</title>
     </titleInfo>
@@ -2301,7 +2301,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000799</identifier>
+    <identifier type="local">omeka_000799</identifier>
     <titleInfo>
       <title>Merry Christmas and a very Happy New Year - the Lissims, front</title>
     </titleInfo>
@@ -2359,7 +2359,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000798</identifier>
+    <identifier type="local">omeka_000798</identifier>
     <titleInfo>
       <title>Citation, Golden Anniversary of the City of New York, to Simon Lissim</title>
     </titleInfo>
@@ -2423,7 +2423,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000795</identifier>
+    <identifier type="local">omeka_000795</identifier>
     <titleInfo>
       <title>Sauf-Conduit 395, with stamps of passage from France, Spain, Portugal</title>
     </titleInfo>
@@ -2484,7 +2484,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000794</identifier>
+    <identifier type="local">omeka_000794</identifier>
     <titleInfo>
       <title>Letter from Harry Miller Lydenberg to the Secretary of State</title>
     </titleInfo>
@@ -2549,7 +2549,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000792</identifier>
+    <identifier type="local">omeka_000792</identifier>
     <titleInfo>
       <title>Allied Veterans Legion Official Membership Card</title>
     </titleInfo>
@@ -2610,7 +2610,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000791</identifier>
+    <identifier type="local">omeka_000791</identifier>
     <titleInfo>
       <title>Simon Lissim in a French military uniform</title>
     </titleInfo>
@@ -2666,7 +2666,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000789</identifier>
+    <identifier type="local">omeka_000789</identifier>
     <titleInfo>
       <title>Centre de Démobilisation</title>
     </titleInfo>
@@ -2727,7 +2727,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000788</identifier>
+    <identifier type="local">omeka_000788</identifier>
     <titleInfo>
       <title>Paris 1937 Exposition Internationale Carte de Service, front</title>
     </titleInfo>
@@ -2785,7 +2785,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000787</identifier>
+    <identifier type="local">omeka_000787</identifier>
     <titleInfo>
       <title>Costume drawing by Mikhail Larionov sent to Simon Lissim</title>
     </titleInfo>
@@ -2844,7 +2844,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000785</identifier>
+    <identifier type="local">omeka_000785</identifier>
     <titleInfo>
       <title>Costume design for "The Happiness of Being Rich"</title>
     </titleInfo>
@@ -2901,7 +2901,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000786</identifier>
+    <identifier type="local">omeka_000786</identifier>
     <titleInfo>
       <title>Print of drawing by Aleksandr Benois sent to Simon Lissim</title>
     </titleInfo>
@@ -2959,7 +2959,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000784</identifier>
+    <identifier type="local">omeka_000784</identifier>
     <titleInfo>
       <title>Société Universelle du Théâtre : membership card, front</title>
     </titleInfo>
@@ -3017,7 +3017,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000783</identifier>
+    <identifier type="local">omeka_000783</identifier>
     <titleInfo>
       <title>Porcelain vase designed by Simon Lissim</title>
     </titleInfo>
@@ -3074,7 +3074,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000782</identifier>
+    <identifier type="local">omeka_000782</identifier>
     <titleInfo>
       <title>Société des Artistes Décorateurs : Carte de Sociétaire</title>
     </titleInfo>
@@ -3132,7 +3132,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000781</identifier>
+    <identifier type="local">omeka_000781</identifier>
     <titleInfo>
       <title>Société des Artistes Décorateurs: Carte de Sociétaire Membre Actif, front</title>
     </titleInfo>
@@ -3191,7 +3191,7 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000780</identifier>
+    <identifier type="local">omeka_000780</identifier>
     <titleInfo>
       <title>Paravent</title>
     </titleInfo>
@@ -3253,7 +3253,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000778</identifier>
+    <identifier type="local">omeka_000778</identifier>
     <titleInfo>
       <title>1935 Salon d'Automne Carte de Sociétaire</title>
     </titleInfo>
@@ -3312,7 +3312,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000777</identifier>
+    <identifier type="local">omeka_000777</identifier>
     <titleInfo>
       <title>Salon 1934 Carte d'Exposant, front</title>
     </titleInfo>
@@ -3371,7 +3371,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000776</identifier>
+    <identifier type="local">omeka_000776</identifier>
     <titleInfo>
       <title>1924 Salon d'Automne Carte d'Exposant, front</title>
     </titleInfo>
@@ -3429,7 +3429,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000775</identifier>
+    <identifier type="local">omeka_000775</identifier>
     <titleInfo>
       <title>1923 Salon d'Automne Carte d'Exposant, front</title>
     </titleInfo>
@@ -3488,7 +3488,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000773</identifier>
+    <identifier type="local">omeka_000773</identifier>
     <titleInfo>
       <title>Passport issued by Greek Consulate</title>
     </titleInfo>
@@ -3548,7 +3548,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000771</identifier>
+    <identifier type="local">omeka_000771</identifier>
     <titleInfo>
       <title>Passport issued by Norwegian Consulate, front and back cover, first two pages</title>
     </titleInfo>
@@ -3608,7 +3608,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000770</identifier>
+    <identifier type="local">omeka_000770</identifier>
     <titleInfo>
       <title>Kiev to New York, page 21</title>
     </titleInfo>
@@ -3665,7 +3665,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000769</identifier>
+    <identifier type="local">omeka_000769</identifier>
     <titleInfo>
       <title>Kiev to New York, page 20</title>
     </titleInfo>
@@ -3722,7 +3722,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000768</identifier>
+    <identifier type="local">omeka_000768</identifier>
     <titleInfo>
       <title>Kiev to New York, page 19</title>
     </titleInfo>
@@ -3779,7 +3779,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000767</identifier>
+    <identifier type="local">omeka_000767</identifier>
     <titleInfo>
       <title>Kiev to New York, page 18</title>
     </titleInfo>
@@ -3836,7 +3836,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000766</identifier>
+    <identifier type="local">omeka_000766</identifier>
     <titleInfo>
       <title>Kiev to New York, page 17</title>
     </titleInfo>
@@ -3893,7 +3893,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000765</identifier>
+    <identifier type="local">omeka_000765</identifier>
     <titleInfo>
       <title>Kiev to New York, page 16</title>
     </titleInfo>
@@ -3950,7 +3950,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000764</identifier>
+    <identifier type="local">omeka_000764</identifier>
     <titleInfo>
       <title>Simon Lissim sitting</title>
     </titleInfo>
@@ -4003,7 +4003,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000763</identifier>
+    <identifier type="local">omeka_000763</identifier>
     <titleInfo>
       <title>Letter from Sol Hurok to the Musicians Committee for Aid to Spanish Democracy</title>
     </titleInfo>
@@ -4059,7 +4059,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000761</identifier>
+    <identifier type="local">omeka_000761</identifier>
     <titleInfo>
       <title>Program of Fedor Shaliapin's American tour, pages 27 through 30</title>
     </titleInfo>
@@ -4115,7 +4115,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000760</identifier>
+    <identifier type="local">omeka_000760</identifier>
     <titleInfo>
       <title>Sol Hurok, right, with other man</title>
     </titleInfo>
@@ -4163,7 +4163,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000759</identifier>
+    <identifier type="local">omeka_000759</identifier>
     <titleInfo>
       <title>Souvenir program of Anna Pavlova's American tour, penultimate page</title>
     </titleInfo>
@@ -4225,7 +4225,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000758</identifier>
+    <identifier type="local">omeka_000758</identifier>
     <titleInfo>
       <title>Souvenir program of Anna Pavlova's American tour, cover page</title>
     </titleInfo>
@@ -4287,7 +4287,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000757</identifier>
+    <identifier type="local">omeka_000757</identifier>
     <titleInfo>
       <title>Ballet Russe de Monte Carlo program, cover</title>
     </titleInfo>
@@ -4353,7 +4353,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000756</identifier>
+    <identifier type="local">omeka_000756</identifier>
     <titleInfo>
       <title>List of artists and companies brought by Sol Hurok to the USA</title>
     </titleInfo>
@@ -4404,7 +4404,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000755</identifier>
+    <identifier type="local">omeka_000755</identifier>
     <titleInfo>
       <title>Sol Hurok Portrait</title>
     </titleInfo>
@@ -4455,7 +4455,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000754</identifier>
+    <identifier type="local">omeka_000754</identifier>
     <titleInfo>
       <title>Bombo program, front and back</title>
     </titleInfo>
@@ -4512,7 +4512,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000752</identifier>
+    <identifier type="local">omeka_000752</identifier>
     <titleInfo>
       <title>Al Jolson, front and back of cover</title>
     </titleInfo>
@@ -4567,7 +4567,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000751</identifier>
+    <identifier type="local">omeka_000751</identifier>
     <titleInfo>
       <title>Al Jolson in "the Jazz Singer" with May McAvoy</title>
     </titleInfo>
@@ -4621,7 +4621,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000750</identifier>
+    <identifier type="local">omeka_000750</identifier>
     <titleInfo>
       <title>Letter from Irving Berlin to Richard Simon</title>
     </titleInfo>
@@ -4679,7 +4679,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000749</identifier>
+    <identifier type="local">omeka_000749</identifier>
     <titleInfo>
       <title>Letter from Irving Berlin to Richard Simon</title>
     </titleInfo>
@@ -4736,7 +4736,7 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000744</identifier>
+    <identifier type="local">omeka_000744</identifier>
     <titleInfo>
       <title>Alexander's Ragtime Band</title>
     </titleInfo>
@@ -4800,7 +4800,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000743</identifier>
+    <identifier type="local">omeka_000743</identifier>
     <titleInfo>
       <title>Letter from Richard Simon to Irving Berlin</title>
     </titleInfo>
@@ -4857,7 +4857,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000738</identifier>
+    <identifier type="local">omeka_000738</identifier>
     <titleInfo>
       <title>God Bless America</title>
     </titleInfo>
@@ -4917,7 +4917,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000737</identifier>
+    <identifier type="local">omeka_000737</identifier>
     <titleInfo>
       <title>Irving Berlin at piano and Fred Astaire with accordion</title>
     </titleInfo>
@@ -4973,7 +4973,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000735</identifier>
+    <identifier type="local">omeka_000735</identifier>
     <titleInfo>
       <title>Some of these days: the Autobiography of Sophie Tucker, cover and frontispiece with inscription</title>
     </titleInfo>
@@ -5021,7 +5021,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000733</identifier>
+    <identifier type="local">omeka_000733</identifier>
     <titleInfo>
       <title>Letter from Sophie Tucker to Jane Howard</title>
     </titleInfo>
@@ -5080,7 +5080,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000729</identifier>
+    <identifier type="local">omeka_000729</identifier>
     <titleInfo>
       <title>Yiddishe Momme</title>
     </titleInfo>
@@ -5142,7 +5142,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000728</identifier>
+    <identifier type="local">omeka_000728</identifier>
     <titleInfo>
       <title>Sophie Tucker</title>
     </titleInfo>
@@ -5200,7 +5200,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000724</identifier>
+    <identifier type="local">omeka_000724</identifier>
     <titleInfo>
       <title>Yoshe Kalb, cast, synopsis, and playbill cover</title>
     </titleInfo>
@@ -5259,7 +5259,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000723</identifier>
+    <identifier type="local">omeka_000723</identifier>
     <titleInfo>
       <title>Jacob Adler</title>
     </titleInfo>
@@ -5315,7 +5315,7 @@ Sheet music.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000722</identifier>
+    <identifier type="local">omeka_000722</identifier>
     <titleInfo>
       <title>Kessler Second Avenue Theatre playbill, cover</title>
     </titleInfo>
@@ -5376,7 +5376,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000720</identifier>
+    <identifier type="local">omeka_000720</identifier>
     <titleInfo>
       <title>Front of Thalia Theatre</title>
     </titleInfo>
@@ -5427,7 +5427,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000719</identifier>
+    <identifier type="local">omeka_000719</identifier>
     <titleInfo>
       <title>Letter from Isaac B. Singer to Mirra Ginsburg</title>
     </titleInfo>
@@ -5487,7 +5487,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000718</identifier>
+    <identifier type="local">omeka_000718</identifier>
     <titleInfo>
       <title>Letter from Isaac B. Singer to Mirra Ginsburg, letter and envelope</title>
     </titleInfo>
@@ -5548,7 +5548,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000707</identifier>
+    <identifier type="local">omeka_000707</identifier>
     <titleInfo>
       <title>Isaac Bashevis Singer at work</title>
     </titleInfo>
@@ -5604,7 +5604,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000706</identifier>
+    <identifier type="local">omeka_000706</identifier>
     <titleInfo>
       <title>Letter from Mirra Ginsburg to Kornei Chukovskii</title>
     </titleInfo>
@@ -5668,7 +5668,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000703</identifier>
+    <identifier type="local">omeka_000703</identifier>
     <titleInfo>
       <title>Letter from Kornei Chukovskii to Mirra Ginsburg, two pages and envelope</title>
     </titleInfo>
@@ -5730,7 +5730,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000701</identifier>
+    <identifier type="local">omeka_000701</identifier>
     <titleInfo>
       <title>Letter from Elena Sergeevna Bulgakova to Mirra Ginsburg, letter and envelope</title>
     </titleInfo>
@@ -5793,7 +5793,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000699</identifier>
+    <identifier type="local">omeka_000699</identifier>
     <titleInfo>
       <title>Letter from Mirra Ginsburg to Elena Sergeevna Bulgakova</title>
     </titleInfo>
@@ -5854,7 +5854,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000698</identifier>
+    <identifier type="local">omeka_000698</identifier>
     <titleInfo>
       <title>Fatal eggs, and other Soviet satire, cover</title>
     </titleInfo>
@@ -5916,7 +5916,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000697</identifier>
+    <identifier type="local">omeka_000697</identifier>
     <titleInfo>
       <title>Noonday 3, cover</title>
     </titleInfo>
@@ -5988,7 +5988,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000696</identifier>
+    <identifier type="local">omeka_000696</identifier>
     <titleInfo>
       <title>Isaak Babel with his daughter</title>
     </titleInfo>
@@ -6044,7 +6044,7 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000695</identifier>
+    <identifier type="local">omeka_000695</identifier>
     <titleInfo>
       <title>List of authors translated</title>
     </titleInfo>
@@ -6106,7 +6106,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000694</identifier>
+    <identifier type="local">omeka_000694</identifier>
     <titleInfo>
       <title>Talk at American Translators Association Conference, page 2</title>
     </titleInfo>
@@ -6162,7 +6162,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000693</identifier>
+    <identifier type="local">omeka_000693</identifier>
     <titleInfo>
       <title>Talk at American Translators Association Conference, page 1</title>
     </titleInfo>
@@ -6218,7 +6218,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000692</identifier>
+    <identifier type="local">omeka_000692</identifier>
     <titleInfo>
       <title>Talk at American Translators Association Conference, introductory paragraph</title>
     </titleInfo>
@@ -6274,7 +6274,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000691</identifier>
+    <identifier type="local">omeka_000691</identifier>
     <titleInfo>
       <title>Mirra Ginsburg's Autobiography, first page</title>
     </titleInfo>
@@ -6333,7 +6333,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000689</identifier>
+    <identifier type="local">omeka_000689</identifier>
     <titleInfo>
       <title>Album of notes, greetings and drawings, three pages (unnumbered)</title>
     </titleInfo>
@@ -6395,7 +6395,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000686</identifier>
+    <identifier type="local">omeka_000686</identifier>
     <titleInfo>
       <title>Group of emigrants from Russia in Libava, Latvia, waiting for visas to America</title>
     </titleInfo>
@@ -6452,7 +6452,7 @@ These authors started “talking” in English and became known among English-sp
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000685</identifier>
+    <identifier type="local">omeka_000685</identifier>
     <titleInfo>
       <title>Mirra Ginsburg</title>
     </titleInfo>
@@ -6513,7 +6513,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000684</identifier>
+    <identifier type="local">omeka_000684</identifier>
     <titleInfo>
       <title>Telegram from David Dubinsky to Herbert Lehman</title>
     </titleInfo>
@@ -6570,7 +6570,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000683</identifier>
+    <identifier type="local">omeka_000683</identifier>
     <titleInfo>
       <title>Letter from David Dubinsky to Herbert Lehman</title>
     </titleInfo>
@@ -6627,7 +6627,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000682</identifier>
+    <identifier type="local">omeka_000682</identifier>
     <titleInfo>
       <title>Letter from Herbert Lehman to David Dubinsky</title>
     </titleInfo>
@@ -6686,7 +6686,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000681</identifier>
+    <identifier type="local">omeka_000681</identifier>
     <titleInfo>
       <title>Herbert Lehman buying benefit tickets from David Dubinsky</title>
     </titleInfo>
@@ -6737,7 +6737,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000679</identifier>
+    <identifier type="local">omeka_000679</identifier>
     <titleInfo>
       <title>Music Festival of Allied Nations</title>
     </titleInfo>
@@ -6792,7 +6792,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000678</identifier>
+    <identifier type="local">omeka_000678</identifier>
     <titleInfo>
       <title>Letter from David Dubinsky to William Lonsdale Taylor</title>
     </titleInfo>
@@ -6851,7 +6851,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000677</identifier>
+    <identifier type="local">omeka_000677</identifier>
     <titleInfo>
       <title>Photographs of the Members of the Jewish Labor Committee</title>
     </titleInfo>
@@ -6906,7 +6906,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000521</identifier>
+    <identifier type="local">omeka_000521</identifier>
     <titleInfo>
       <title>Letter from the Jewish Labor Committee to the Foreign Delegation of the Russian Social Democratic Party</title>
     </titleInfo>
@@ -6968,7 +6968,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000519</identifier>
+    <identifier type="local">omeka_000519</identifier>
     <titleInfo>
       <title>Note on the Resolution of the General Meeting of the RSDRP New York Group</title>
     </titleInfo>
@@ -7025,7 +7025,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000518</identifier>
+    <identifier type="local">omeka_000518</identifier>
     <titleInfo>
       <title>Ṅi︠u︡-Iorkskai︠a︡ gruppa R.S.D.R.P.</title>
     </titleInfo>
@@ -7084,7 +7084,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000517</identifier>
+    <identifier type="local">omeka_000517</identifier>
     <titleInfo>
       <title>Osoboe mnenie t. M. Peskina po organizat︠s︡ionnomu voprosu</title>
     </titleInfo>
@@ -7144,7 +7144,7 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000516</identifier>
+    <identifier type="local">omeka_000516</identifier>
     <titleInfo>
       <title>Invitation to celebration of the first anniversary of the publication of Sotsialisticheskii Vestnik</title>
     </titleInfo>
@@ -7214,7 +7214,7 @@ The invitation signed by the Organization Committee.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000515</identifier>
+    <identifier type="local">omeka_000515</identifier>
     <titleInfo>
       <title>Zadachi i taktiki RSDRP v e̋migrat︠s︡ii</title>
     </titleInfo>
@@ -7280,7 +7280,7 @@ The invitation signed by the Organization Committee.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000512</identifier>
+    <identifier type="local">omeka_000512</identifier>
     <titleInfo>
       <title>Pavel Akselrod, Iulii Martov, and Aleksandr Martynov, photograph with explanatory note</title>
     </titleInfo>
@@ -7355,7 +7355,7 @@ The photo was taken in Zurich in 1916, the note was written in New York on Febru
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000505</identifier>
+    <identifier type="local">omeka_000505</identifier>
     <titleInfo>
       <title>Letter from Emma Goldman to Lincoln Steffens</title>
     </titleInfo>
@@ -7416,7 +7416,7 @@ She left Russia in 1922 and remained active, moving from country to country. She
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000504</identifier>
+    <identifier type="local">omeka_000504</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, page 163</title>
     </titleInfo>
@@ -7471,7 +7471,7 @@ She left Russia in 1922 and remained active, moving from country to country. She
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000503</identifier>
+    <identifier type="local">omeka_000503</identifier>
     <titleInfo>
       <title>Anarchism and Other Essays, title page</title>
     </titleInfo>
@@ -7525,7 +7525,7 @@ She left Russia in 1922 and remained active, moving from country to country. She
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000500</identifier>
+    <identifier type="local">omeka_000500</identifier>
     <titleInfo>
       <title>Correspondence between Rafail Abramovich and Emma Goldman</title>
     </titleInfo>
@@ -7595,7 +7595,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000494</identifier>
+    <identifier type="local">omeka_000494</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, page 162</title>
     </titleInfo>
@@ -7650,7 +7650,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000493</identifier>
+    <identifier type="local">omeka_000493</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, page 161</title>
     </titleInfo>
@@ -7705,7 +7705,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000492</identifier>
+    <identifier type="local">omeka_000492</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, page 133</title>
     </titleInfo>
@@ -7758,7 +7758,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000491</identifier>
+    <identifier type="local">omeka_000491</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, page 132</title>
     </titleInfo>
@@ -7813,7 +7813,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000490</identifier>
+    <identifier type="local">omeka_000490</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, page 131</title>
     </titleInfo>
@@ -7868,7 +7868,7 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000488</identifier>
+    <identifier type="local">omeka_000488</identifier>
     <titleInfo>
       <title>Trial and Conviction of Emma Goldman and Alexander Berkman, pages 129 to 133, 161 to 163</title>
     </titleInfo>
@@ -7934,7 +7934,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000487</identifier>
+    <identifier type="local">omeka_000487</identifier>
     <titleInfo>
       <title>To Birth Control</title>
     </titleInfo>
@@ -7992,7 +7992,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000486</identifier>
+    <identifier type="local">omeka_000486</identifier>
     <titleInfo>
       <title>Letter from Emma Goldman to Edna Kenton</title>
     </titleInfo>
@@ -8049,7 +8049,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000485</identifier>
+    <identifier type="local">omeka_000485</identifier>
     <titleInfo>
       <title>Anarchism and Other Essays, frontispiece</title>
     </titleInfo>
@@ -8109,7 +8109,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000483</identifier>
+    <identifier type="local">omeka_000483</identifier>
     <titleInfo>
       <title>Robert Wittenberg, Belka's first husband (an army doctor)</title>
     </titleInfo>
@@ -8166,7 +8166,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000481</identifier>
+    <identifier type="local">omeka_000481</identifier>
     <titleInfo>
       <title>Yasha - a Jewish soldier from Bukhara</title>
     </titleInfo>
@@ -8220,7 +8220,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000478</identifier>
+    <identifier type="local">omeka_000478</identifier>
     <titleInfo>
       <title>Shlang, Second issue, cover page, pages 15-16, and back page</title>
     </titleInfo>
@@ -8276,7 +8276,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000477</identifier>
+    <identifier type="local">omeka_000477</identifier>
     <titleInfo>
       <title>Appeal to the Christians of the City of Odessa</title>
     </titleInfo>
@@ -8335,7 +8335,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000476</identifier>
+    <identifier type="local">omeka_000476</identifier>
     <titleInfo>
       <title>Odesski̋e dni: Razskazʺ ochevidt︠s︡a</title>
     </titleInfo>
@@ -8394,7 +8394,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000475</identifier>
+    <identifier type="local">omeka_000475</identifier>
     <titleInfo>
       <title>Vidozva</title>
     </titleInfo>
@@ -8451,7 +8451,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000474</identifier>
+    <identifier type="local">omeka_000474</identifier>
     <titleInfo>
       <title>Soi︠u︡zʺ Russkago Naroda</title>
     </titleInfo>
@@ -8509,7 +8509,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000473</identifier>
+    <identifier type="local">omeka_000473</identifier>
     <titleInfo>
       <title>Grazhdane Evrei</title>
     </titleInfo>
@@ -8568,7 +8568,7 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000472</identifier>
+    <identifier type="local">omeka_000472</identifier>
     <titleInfo>
       <title>Perevody "Protokolovʺ"</title>
     </titleInfo>
@@ -8635,7 +8635,7 @@ The Protocols of the Elders of Zion is the infamous Russian literary hoax publis
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000471</identifier>
+    <identifier type="local">omeka_000471</identifier>
     <titleInfo>
       <title>Anonymous letter to Pavel Miliukov</title>
     </titleInfo>
@@ -8690,7 +8690,7 @@ The Protocols of the Elders of Zion is the infamous Russian literary hoax publis
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000470</identifier>
+    <identifier type="local">omeka_000470</identifier>
     <titleInfo>
       <title>Glubokouvazhaemyĭ Pavelʺ Nikolaevichʺ</title>
     </titleInfo>
@@ -8759,7 +8759,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000469</identifier>
+    <identifier type="local">omeka_000469</identifier>
     <titleInfo>
       <title>Petition to Pavel Miliukov signed by "All residents of Zaporozh'e"</title>
     </titleInfo>
@@ -8822,7 +8822,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000468</identifier>
+    <identifier type="local">omeka_000468</identifier>
     <identifier>CLIO id: 3057659</identifier>
     <titleInfo>
       <title>Voĭny temnykhʺ silʺ, title page, frontispiece with inscription, pages 3 through 4, and pages 141 through 142</title>
@@ -8891,7 +8891,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000465</identifier>
+    <identifier type="local">omeka_000465</identifier>
     <titleInfo>
       <title>Poslednee slovo po Delu Beilisa, frontispiece and pages 1 through 13</title>
     </titleInfo>
@@ -8961,7 +8961,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000464</identifier>
+    <identifier type="local">omeka_000464</identifier>
     <titleInfo>
       <title>Evr. obshchina v Rossii, pages 1 to 3</title>
     </titleInfo>
@@ -9021,7 +9021,7 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_000164</identifier>
+    <identifier type="local">omeka_000164</identifier>
     <titleInfo>
       <title>Stella Adler</title>
     </titleInfo>

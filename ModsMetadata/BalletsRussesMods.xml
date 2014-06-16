@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods>
-    <identifier type="Omeka ID">omeka_001858</identifier>
+    <identifier type="local">omeka_001858</identifier>
     <titleInfo>
       <title>Dvadt︠s︡atai︠a︡ godovshchina smerti S.P. Di︠a︡gileva</title>
     </titleInfo>
@@ -58,7 +58,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001857</identifier>
+    <identifier type="local">omeka_001857</identifier>
     <titleInfo>
       <title>Preliminary sketch for set of La Muette de Portici Act IV</title>
     </titleInfo>
@@ -103,7 +103,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001856</identifier>
+    <identifier type="local">omeka_001856</identifier>
     <titleInfo>
       <title>Production of  La Muette de Portici</title>
     </titleInfo>
@@ -149,7 +149,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001855</identifier>
+    <identifier type="local">omeka_001855</identifier>
     <titleInfo>
       <title>Preliminary sketch for set of La Muette de Portici Act II</title>
     </titleInfo>
@@ -194,7 +194,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001854</identifier>
+    <identifier type="local">omeka_001854</identifier>
     <titleInfo>
       <title>Production of  La Muette de Portici</title>
     </titleInfo>
@@ -240,7 +240,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001853</identifier>
+    <identifier type="local">omeka_001853</identifier>
     <titleInfo>
       <title>Preliminary sketch for set of La Muette de Portici</title>
     </titleInfo>
@@ -285,7 +285,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001852</identifier>
+    <identifier type="local">omeka_001852</identifier>
     <titleInfo>
       <title>Print of drawing by Aleksandr Benois sent to Simon Lissim</title>
     </titleInfo>
@@ -342,7 +342,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001851</identifier>
+    <identifier type="local">omeka_001851</identifier>
     <titleInfo>
       <title>Ballets Russes: Direction W. De Basil souvenir program, front cover</title>
     </titleInfo>
@@ -394,7 +394,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001850</identifier>
+    <identifier type="local">omeka_001850</identifier>
     <titleInfo>
       <title>Costume drawing by Mikhail Larionov sent to Simon Lissim</title>
     </titleInfo>
@@ -452,7 +452,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001849</identifier>
+    <identifier type="local">omeka_001849</identifier>
     <titleInfo>
       <title>Ballets Russes de Serge de Diaghilew XIXe Saison Carte de Circulation, délivrée à M. Prince Schervachidze</title>
     </titleInfo>
@@ -506,7 +506,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001848</identifier>
+    <identifier type="local">omeka_001848</identifier>
     <titleInfo>
       <title>Ballets Russes de Monte-Carlo: Event Seating Price List</title>
     </titleInfo>
@@ -555,7 +555,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001847</identifier>
+    <identifier type="local">omeka_001847</identifier>
     <titleInfo>
       <title>Theatre de Monte Carlo: Ballets Russes de Serge de Diaghilew ticket</title>
     </titleInfo>
@@ -604,7 +604,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001846</identifier>
+    <identifier type="local">omeka_001846</identifier>
     <titleInfo>
       <title>Théâtre National de l'Opéra 1919 - 1920 Saison des Ballets Russes, Serge de Diaghilew, Carte d'Entrée for M. le Prince Schervachidze</title>
     </titleInfo>
@@ -656,7 +656,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001845</identifier>
+    <identifier type="local">omeka_001845</identifier>
     <titleInfo>
       <title>Metropolitan Opera Company Presents Serge de Diaghileff's Ballet Russe: Prospectus, front cover</title>
     </titleInfo>
@@ -706,7 +706,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001844</identifier>
+    <identifier type="local">omeka_001844</identifier>
     <titleInfo>
       <title>Calendar '79 Nureyev, front cover</title>
     </titleInfo>
@@ -754,7 +754,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001843</identifier>
+    <identifier type="local">omeka_001843</identifier>
     <titleInfo>
       <title>Rudolf Nureyev with Merle Park in La Bayadère</title>
     </titleInfo>
@@ -799,7 +799,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001842</identifier>
+    <identifier type="local">omeka_001842</identifier>
     <titleInfo>
       <title>Rudolf Nureyev in Romeo and Juliet</title>
     </titleInfo>
@@ -845,7 +845,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001841</identifier>
+    <identifier type="local">omeka_001841</identifier>
     <titleInfo>
       <title>Royal Opera House, Convent Garden, LTD. Presents the Royal Ballet, program, front cover</title>
     </titleInfo>
@@ -897,7 +897,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001840</identifier>
+    <identifier type="local">omeka_001840</identifier>
     <titleInfo>
       <title>Anna Udal'tsova in Ballet Pose and Outfit</title>
     </titleInfo>
@@ -941,7 +941,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001839</identifier>
+    <identifier type="local">omeka_001839</identifier>
     <titleInfo>
       <title>Dutch National Ballet and Rudolf Nureyev Program, unnumbered page</title>
     </titleInfo>
@@ -993,7 +993,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001838</identifier>
+    <identifier type="local">omeka_001838</identifier>
     <titleInfo>
       <title>Anna Udal'tsova at Kitchen Table</title>
     </titleInfo>
@@ -1036,7 +1036,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001837</identifier>
+    <identifier type="local">omeka_001837</identifier>
     <titleInfo>
       <title>Nureyev and the Joffrey Ballet in Homage to Diaghilev, cover</title>
     </titleInfo>
@@ -1092,7 +1092,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001836</identifier>
+    <identifier type="local">omeka_001836</identifier>
     <titleInfo>
       <title>Letter from Colonel W. de Basil to Prince Alexander Shervashidze</title>
     </titleInfo>
@@ -1150,7 +1150,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001835</identifier>
+    <identifier type="local">omeka_001835</identifier>
     <titleInfo>
       <title>Colonel W. de Basil Autographed Program, page 3</title>
     </titleInfo>
@@ -1205,7 +1205,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001834</identifier>
+    <identifier type="local">omeka_001834</identifier>
     <titleInfo>
       <title>Ballet Russe, Col. W. de Basil, General Director: Program, front page</title>
     </titleInfo>
@@ -1261,7 +1261,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001833</identifier>
+    <identifier type="local">omeka_001833</identifier>
     <titleInfo>
       <title>Letter from Leonide Massine to Francis Steegmüller Concerning an Interview</title>
     </titleInfo>
@@ -1312,7 +1312,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001832</identifier>
+    <identifier type="local">omeka_001832</identifier>
     <titleInfo>
       <title>Basil's Ballets Russes program, front cover</title>
     </titleInfo>
@@ -1364,7 +1364,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001831</identifier>
+    <identifier type="local">omeka_001831</identifier>
     <titleInfo>
       <title>Faun in "L'Après-Midi d'un Faune"</title>
     </titleInfo>
@@ -1413,7 +1413,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001830</identifier>
+    <identifier type="local">omeka_001830</identifier>
     <titleInfo>
       <title>Serge De Diaghileff's Ballet Russe: Mme. F. Revalles, M. Grigoriew, Sheherazade</title>
     </titleInfo>
@@ -1471,7 +1471,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001829</identifier>
+    <identifier type="local">omeka_001829</identifier>
     <titleInfo>
       <title>Nijinsky: Kaiserl. russischer Ballett Tänzer</title>
     </titleInfo>
@@ -1528,7 +1528,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001828</identifier>
+    <identifier type="local">omeka_001828</identifier>
     <titleInfo>
       <title>Postcard from Bronislava Nijinska to M. Doboujinsky</title>
     </titleInfo>
@@ -1579,7 +1579,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001827</identifier>
+    <identifier type="local">omeka_001827</identifier>
     <titleInfo>
       <title>Réception que Donneront Les Archives Internationales de la Danse (A.I.D.) en l'Honneur de l'Éminent Créateur de la Chorégraphie Moderne, M. Michel Fokine: Invitation</title>
     </titleInfo>
@@ -1629,7 +1629,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001826</identifier>
+    <identifier type="local">omeka_001826</identifier>
     <titleInfo>
       <title>Portrait of Mikhail Fokine inscribed to Vladimir Zeeler</title>
     </titleInfo>
@@ -1680,7 +1680,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001825</identifier>
+    <identifier type="local">omeka_001825</identifier>
     <titleInfo>
       <title>Holograph letter from Tamara Karsavina to Robert Brussel, page 2</title>
     </titleInfo>
@@ -1732,7 +1732,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001824</identifier>
+    <identifier type="local">omeka_001824</identifier>
     <titleInfo>
       <title>Holograph letter from Tamara Karsavina to Robert Brussel, page 1</title>
     </titleInfo>
@@ -1784,7 +1784,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001823</identifier>
+    <identifier type="local">omeka_001823</identifier>
     <titleInfo>
       <title>Serg De Diaghileff's Ballet Russe: Petrouchka</title>
     </titleInfo>
@@ -1834,7 +1834,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001822</identifier>
+    <identifier type="local">omeka_001822</identifier>
     <titleInfo>
       <title>Serge De Diaghileff's Ballet Russe: Mme. L. Lopokowa</title>
     </titleInfo>
@@ -1884,7 +1884,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001821</identifier>
+    <identifier type="local">omeka_001821</identifier>
     <titleInfo>
       <title>Tamara Karsavina's List of Telephone Contacts</title>
     </titleInfo>
@@ -1934,7 +1934,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001820</identifier>
+    <identifier type="local">omeka_001820</identifier>
     <titleInfo>
       <title>Letter from Serge Lifar to Prince Chervachidzé</title>
     </titleInfo>
@@ -1985,7 +1985,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001819</identifier>
+    <identifier type="local">omeka_001819</identifier>
     <titleInfo>
       <title>Et voici de nouveau les Ballets Russes...</title>
     </titleInfo>
@@ -2041,7 +2041,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001818</identifier>
+    <identifier type="local">omeka_001818</identifier>
     <titleInfo>
       <title>Anna Pavlova and Mikhail Mordkin in Costume and Dance Poses</title>
     </titleInfo>
@@ -2087,7 +2087,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001817</identifier>
+    <identifier type="local">omeka_001817</identifier>
     <titleInfo>
       <title>Brightest Constellation of Star Attractions in the Concert and Operatic Firmament</title>
     </titleInfo>
@@ -2142,7 +2142,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001816</identifier>
+    <identifier type="local">omeka_001816</identifier>
     <titleInfo>
       <title>Uncle Sam and Pavlowa as Moscow Artist sees them</title>
     </titleInfo>
@@ -2189,7 +2189,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001815</identifier>
+    <identifier type="local">omeka_001815</identifier>
     <titleInfo>
       <title>By Permission of H. I. M. the Czar of Russia and Special Arrangement with the Leading Opera Houses: World Tour of Anna Pavlowa</title>
     </titleInfo>
@@ -2245,7 +2245,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001814</identifier>
+    <identifier type="local">omeka_001814</identifier>
     <titleInfo>
       <title>Anna Pavlova, Artiste des Théâtres Impériaux</title>
     </titleInfo>
@@ -2295,7 +2295,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001813</identifier>
+    <identifier type="local">omeka_001813</identifier>
     <titleInfo>
       <title>Anna Pavlova's Autograph</title>
     </titleInfo>
@@ -2344,7 +2344,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001812</identifier>
+    <identifier type="local">omeka_001812</identifier>
     <titleInfo>
       <title>Anna Pavlova portrait</title>
     </titleInfo>
@@ -2395,7 +2395,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001811</identifier>
+    <identifier type="local">omeka_001811</identifier>
     <titleInfo>
       <title>Souvenir program of Anna Pavlova's American tour, front cover</title>
     </titleInfo>
@@ -2456,7 +2456,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001810</identifier>
+    <identifier type="local">omeka_001810</identifier>
     <titleInfo>
       <title>Programme: Boston Grand Opera Company in Conjunction with the Pavlowa Imperial Ballet Russe, front cover</title>
     </titleInfo>
@@ -2504,7 +2504,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001809</identifier>
+    <identifier type="local">omeka_001809</identifier>
     <titleInfo>
       <title>Mme. Anna Pavlowa, Imperial Russian Ballet</title>
     </titleInfo>
@@ -2550,7 +2550,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001808</identifier>
+    <identifier type="local">omeka_001808</identifier>
     <titleInfo>
       <title>Anna Pavlova in Costume Beside a Lake in England</title>
     </titleInfo>
@@ -2598,7 +2598,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001807</identifier>
+    <identifier type="local">omeka_001807</identifier>
     <titleInfo>
       <title>Anna Pavlova Posing in Theater Costume</title>
     </titleInfo>
@@ -2641,7 +2641,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001806</identifier>
+    <identifier type="local">omeka_001806</identifier>
     <titleInfo>
       <title>Anna Pavlova Posing as the Swan</title>
     </titleInfo>
@@ -2686,7 +2686,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001805</identifier>
+    <identifier type="local">omeka_001805</identifier>
     <titleInfo>
       <title>Anna Pavlova: Cynge Immortel</title>
     </titleInfo>
@@ -2733,7 +2733,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001804</identifier>
+    <identifier type="local">omeka_001804</identifier>
     <titleInfo>
       <title>Observer Diaghilev Exhibition Invitation for Monsieur Matislav Dobuzinsky</title>
     </titleInfo>
@@ -2783,7 +2783,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001803</identifier>
+    <identifier type="local">omeka_001803</identifier>
     <titleInfo>
       <title>Observer Diaghilev Exhibition Menu, unnumbered page 4</title>
     </titleInfo>
@@ -2834,7 +2834,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001802</identifier>
+    <identifier type="local">omeka_001802</identifier>
     <titleInfo>
       <title>Observer Diaghilev Exhibition Menu, unnumbered page 3</title>
     </titleInfo>
@@ -2884,7 +2884,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001801</identifier>
+    <identifier type="local">omeka_001801</identifier>
     <titleInfo>
       <title>Observer Diaghilev Exhibition Menu, unnumbered page 2</title>
     </titleInfo>
@@ -2934,7 +2934,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001800</identifier>
+    <identifier type="local">omeka_001800</identifier>
     <titleInfo>
       <title>Observer Diaghilev Exhibition Menu, unnumbered page 1</title>
     </titleInfo>
@@ -2985,7 +2985,7 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001799</identifier>
+    <identifier type="local">omeka_001799</identifier>
     <titleInfo>
       <title>Typed letter from Alexander Gourvitch to M. V. Dobujinsky</title>
     </titleInfo>
@@ -3040,7 +3040,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001798</identifier>
+    <identifier type="local">omeka_001798</identifier>
     <titleInfo>
       <title>Typed letter from Richard Buckle to M. Dobujinsky</title>
     </titleInfo>
@@ -3091,7 +3091,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001797</identifier>
+    <identifier type="local">omeka_001797</identifier>
     <titleInfo>
       <title>Edinburg [sic] Festival 1954: Diaghilev Exhibition Aug. 22 - Sept. 11</title>
     </titleInfo>
@@ -3139,7 +3139,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001796</identifier>
+    <identifier type="local">omeka_001796</identifier>
     <titleInfo>
       <title>Typed Speech Script for Diaghilev Exhibition with Holograph Corrections</title>
     </titleInfo>
@@ -3186,7 +3186,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001795</identifier>
+    <identifier type="local">omeka_001795</identifier>
     <titleInfo>
       <title>Unknown Scrapbook, page 21</title>
     </titleInfo>
@@ -3230,7 +3230,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001794</identifier>
+    <identifier type="local">omeka_001794</identifier>
     <titleInfo>
       <title>Unknown Scrapbook, page 20</title>
     </titleInfo>
@@ -3275,7 +3275,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001793</identifier>
+    <identifier type="local">omeka_001793</identifier>
     <titleInfo>
       <title>Stage Sets and Costumes by Dobujinsky Program, front cover</title>
     </titleInfo>
@@ -3326,7 +3326,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001792</identifier>
+    <identifier type="local">omeka_001792</identifier>
     <titleInfo>
       <title>Sketch of a Ballroom for Eugene Onegin</title>
     </titleInfo>
@@ -3370,7 +3370,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001791</identifier>
+    <identifier type="local">omeka_001791</identifier>
     <titleInfo>
       <title>Sketch of Ballerinas</title>
     </titleInfo>
@@ -3416,7 +3416,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001790</identifier>
+    <identifier type="local">omeka_001790</identifier>
     <titleInfo>
       <title>Sketch of a Program Cover for Colonel W. de Basil's Ballets Russes de Monte Carlo</title>
     </titleInfo>
@@ -3466,7 +3466,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001789</identifier>
+    <identifier type="local">omeka_001789</identifier>
     <titleInfo>
       <title>Sketch of a Program for Colonel W. de Basil's Ballets Russes de Monte Carlo</title>
     </titleInfo>
@@ -3515,7 +3515,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001788</identifier>
+    <identifier type="local">omeka_001788</identifier>
     <titleInfo>
       <title>Sketch of a Program for Colonel W. de Basil's Ballets Russes de Monte Carlo</title>
     </titleInfo>
@@ -3565,7 +3565,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001787</identifier>
+    <identifier type="local">omeka_001787</identifier>
     <titleInfo>
       <title>Composition Sketch for Eugene Onegin Set</title>
     </titleInfo>
@@ -3609,7 +3609,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001786</identifier>
+    <identifier type="local">omeka_001786</identifier>
     <titleInfo>
       <title>Engraved Bronze Plate for the Illustration of the Polyphemus Episode in James Joyce's Ulysses</title>
     </titleInfo>
@@ -3657,7 +3657,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001785</identifier>
+    <identifier type="local">omeka_001785</identifier>
     <titleInfo>
       <title>Ballet Russe de Monte Carlo, front cover</title>
     </titleInfo>
@@ -3708,7 +3708,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001784</identifier>
+    <identifier type="local">omeka_001784</identifier>
     <titleInfo>
       <title>Letter from Joan Miró to Prince Aleksandr Shervashidze</title>
     </titleInfo>
@@ -3759,7 +3759,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001783</identifier>
+    <identifier type="local">omeka_001783</identifier>
     <titleInfo>
       <title>Ballets Russes de Serge de Diaghilev Programme, front cover</title>
     </titleInfo>
@@ -3815,7 +3815,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001782</identifier>
+    <identifier type="local">omeka_001782</identifier>
     <titleInfo>
       <title>Ballets Russes Programme Officiel, front cover</title>
     </titleInfo>
@@ -3869,7 +3869,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001781</identifier>
+    <identifier type="local">omeka_001781</identifier>
     <titleInfo>
       <title>Poisson d'Or, front cover</title>
     </titleInfo>
@@ -3917,7 +3917,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001780</identifier>
+    <identifier type="local">omeka_001780</identifier>
     <titleInfo>
       <title>Headshot of Igor Stravinsky</title>
     </titleInfo>
@@ -3965,7 +3965,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001779</identifier>
+    <identifier type="local">omeka_001779</identifier>
     <titleInfo>
       <title>Telegram from "Diaghileur" to Nicolas Roerich</title>
     </titleInfo>
@@ -4016,7 +4016,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001778</identifier>
+    <identifier type="local">omeka_001778</identifier>
     <titleInfo>
       <title>Kiss to the Earth</title>
     </titleInfo>
@@ -4061,7 +4061,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001777</identifier>
+    <identifier type="local">omeka_001777</identifier>
     <titleInfo>
       <title>Scenery Sketch for Nikolai Rimsky-Korsakov's the Maid of Pskov</title>
     </titleInfo>
@@ -4105,7 +4105,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001776</identifier>
+    <identifier type="local">omeka_001776</identifier>
     <titleInfo>
       <title>Nikolai Rimskii-Korsakov Portrait Inscribed to Fiodor Chaliapin</title>
     </titleInfo>
@@ -4159,7 +4159,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001775</identifier>
+    <identifier type="local">omeka_001775</identifier>
     <titleInfo>
       <title>Fiodor Chaliapin as Ivan the Terrible from the Maid of Pskov by Nikolai Rimskii-Korsakov</title>
     </titleInfo>
@@ -4204,7 +4204,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001774</identifier>
+    <identifier type="local">omeka_001774</identifier>
     <titleInfo>
       <title>Letter from Mikhail Larionov to Prince Aleksandr Shervashidze, page 2</title>
     </titleInfo>
@@ -4254,7 +4254,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001773</identifier>
+    <identifier type="local">omeka_001773</identifier>
     <titleInfo>
       <title>Letter from Mikhail Larionov to Prince Aleksandr Shervashidze, page 1</title>
     </titleInfo>
@@ -4304,7 +4304,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001772</identifier>
+    <identifier type="local">omeka_001772</identifier>
     <titleInfo>
       <title>Grande Saison de Paris: Six Représentations de Gala: Hélène de Sparte; Six Représentations de Gala: Salomé, front cover</title>
     </titleInfo>
@@ -4358,7 +4358,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001771</identifier>
+    <identifier type="local">omeka_001771</identifier>
     <titleInfo>
       <title>Ballets Russes Programme, front cover</title>
     </titleInfo>
@@ -4411,7 +4411,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001770</identifier>
+    <identifier type="local">omeka_001770</identifier>
     <titleInfo>
       <title>Reglamentʺ, unnumbered page 6</title>
     </titleInfo>
@@ -4461,7 +4461,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001769</identifier>
+    <identifier type="local">omeka_001769</identifier>
     <titleInfo>
       <title>Reglamentʺ, unnumbered page 5</title>
     </titleInfo>
@@ -4511,7 +4511,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001768</identifier>
+    <identifier type="local">omeka_001768</identifier>
     <titleInfo>
       <title>Reglamentʺ, unnumbered page 4</title>
     </titleInfo>
@@ -4561,7 +4561,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001767</identifier>
+    <identifier type="local">omeka_001767</identifier>
     <titleInfo>
       <title>Reglamentʺ, unnumbered page 3</title>
     </titleInfo>
@@ -4611,7 +4611,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001766</identifier>
+    <identifier type="local">omeka_001766</identifier>
     <titleInfo>
       <title>Reglamentʺ, unnumbered page 2</title>
     </titleInfo>
@@ -4661,7 +4661,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001765</identifier>
+    <identifier type="local">omeka_001765</identifier>
     <titleInfo>
       <title>Reglamentʺ, unnumbered page 1</title>
     </titleInfo>
@@ -4711,7 +4711,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001764</identifier>
+    <identifier type="local">omeka_001764</identifier>
     <titleInfo>
       <title>Draft of a contract, unnumbered page 2</title>
     </titleInfo>
@@ -4759,7 +4759,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001763</identifier>
+    <identifier type="local">omeka_001763</identifier>
     <titleInfo>
       <title>Draft of a contract, unnumbered page 1</title>
     </titleInfo>
@@ -4807,7 +4807,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001762</identifier>
+    <identifier type="local">omeka_001762</identifier>
     <titleInfo>
       <title>Olga Spessivtzeva as Giselle in ballet by Adolphe Adam</title>
     </titleInfo>
@@ -4856,7 +4856,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001761</identifier>
+    <identifier type="local">omeka_001761</identifier>
     <titleInfo>
       <title>Mstislav Dobujinsky  Business Card</title>
     </titleInfo>
@@ -4906,7 +4906,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001760</identifier>
+    <identifier type="local">omeka_001760</identifier>
     <titleInfo>
       <title>Alexandre Benois Business Card, back</title>
     </titleInfo>
@@ -4954,7 +4954,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001759</identifier>
+    <identifier type="local">omeka_001759</identifier>
     <titleInfo>
       <title>Alexandre Benois Business Card, front</title>
     </titleInfo>
@@ -4999,7 +4999,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001758</identifier>
+    <identifier type="local">omeka_001758</identifier>
     <titleInfo>
       <title>Affidavit about Work by Madame de Holstein for Le Monde Artiste</title>
     </titleInfo>
@@ -5049,7 +5049,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001757</identifier>
+    <identifier type="local">omeka_001757</identifier>
     <titleInfo>
       <title>Mir Iskusstva, numbers 8-9, front cover</title>
     </titleInfo>
@@ -5100,7 +5100,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001756</identifier>
+    <identifier type="local">omeka_001756</identifier>
     <titleInfo>
       <title>Almanach de St.-Pétersbourg, 1913-1914, pages 180 and 181</title>
     </titleInfo>
@@ -5149,7 +5149,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001755</identifier>
+    <identifier type="local">omeka_001755</identifier>
     <titleInfo>
       <title>Souvenir: Serge de Diaghileff's Ballet Russe, title page</title>
     </titleInfo>
@@ -5200,7 +5200,7 @@ London, 1954</abstract>
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="Omeka ID">omeka_001754</identifier>
+    <identifier type="local">omeka_001754</identifier>
     <titleInfo>
       <title>Souvenir: Serge de Diaghileff's Ballet Russe, unnumbered page 2</title>
     </titleInfo>
