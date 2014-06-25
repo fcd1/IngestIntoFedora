@@ -17,9 +17,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/from-the-chair-of-the-centenni</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -99,11 +96,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/vladimir-ussachevsky</url>
-      <holdingSimple>
-        <copyInformation>
-          <subLocation>University Archives, Printed Catalog of Music Centennial</subLocation>
-        </copyInformation>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -113,7 +105,6 @@
     <name>
       <namePart>Ussachevsky, Vladimir, 1911-1990</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -144,9 +135,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/macdowell-era</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -161,7 +149,6 @@
     <name>
       <namePart>MacDowell, Edward, 1860-1908</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -188,9 +175,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/chairpersons/chairpersons</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -200,7 +184,6 @@
     <name>
       <namePart>Neel, Alice, 1900-1984</namePart>
     </name>
-    <subject/>
     <abstract>Oil painting</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -228,9 +211,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-theory/music-theory-today</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -245,7 +225,6 @@
     <name>
       <namePart>Lerdahl, Fred, 1943-</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -291,7 +270,6 @@
     <name>
       <namePart>Moore, Douglas, 1893-1969</namePart>
     </name>
-    <subject/>
     <abstract>Typescript with manuscript notes</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -322,9 +300,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/electronic-music-center</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -362,9 +337,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/electronic-music-center</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -449,9 +421,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -494,9 +463,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/centennial-festivities</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -506,7 +472,6 @@
     <name>
       <namePart>Winter, Damon</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -536,9 +501,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/centennial-festivities</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -548,7 +510,6 @@
     <name>
       <namePart>Winter, Damon</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -578,9 +539,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/centennial-festivities</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -590,7 +548,6 @@
     <name>
       <namePart>Winter, Damon</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -620,9 +577,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-library-milestones/music---arts-library</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -664,9 +618,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -709,9 +660,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -754,9 +702,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -799,9 +744,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -844,9 +786,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -903,7 +842,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>page 6</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -948,7 +886,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>page 5</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -993,7 +930,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>page 4</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1038,7 +974,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>page 3</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1083,7 +1018,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>page 2</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1128,7 +1062,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>page 1</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1173,7 +1106,6 @@
     <name>
       <namePart>Trustees of Columbia College</namePart>
     </name>
-    <subject/>
     <abstract>Cover</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1259,7 +1191,6 @@
     <name>
       <namePart>Simon, Howard</namePart>
     </name>
-    <subject/>
     <abstract>Reproduction of woodcut portrait</abstract>
     <typeOfResource>still image</typeOfResource>
     <recordInfo>
@@ -1287,9 +1218,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1329,9 +1257,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ethnomusicology/bela-bartok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1346,7 +1271,6 @@
     <name>
       <namePart>Bartók, Béla, 1881-1945</namePart>
     </name>
-    <subject/>
     <abstract>Autograph manuscript</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1374,9 +1298,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1416,9 +1337,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/from-the-chair</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1428,7 +1346,6 @@
     <name>
       <namePart>Winter, Damon</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1468,7 +1385,6 @@
     <name>
       <namePart>Columbia University. Glee Club</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1848,9 +1764,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/edward-macdowell</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1903,7 +1816,6 @@
         <title>Music at Columbia: The First 100 Years</title>
       </titleInfo>
     </relatedItem>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <recordInfo>
       <languageOfCataloging>
@@ -2094,9 +2006,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/alice-m-ditson</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2138,9 +2047,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/chapel-music</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2176,9 +2082,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/indian-suite</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2193,7 +2096,6 @@
     <name>
       <namePart>MacDowell, Edward, 1860-1908</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2220,9 +2122,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/online-catalog/mm-introduction</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2237,7 +2136,6 @@
     <name>
       <namePart>Tiffany and Company</namePart>
     </name>
-    <subject/>
     <abstract>Names list, end of alphabet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2265,9 +2163,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/online-catalog/mm-introduction</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2277,7 +2172,6 @@
     <name>
       <namePart>Tiffany and Company</namePart>
     </name>
-    <subject/>
     <abstract>Names list, beginning of alphabet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2305,9 +2199,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/online-catalog/mm-introduction</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2322,7 +2213,6 @@
     <name>
       <namePart>Tiffany and Company</namePart>
     </name>
-    <subject/>
     <abstract>Dedication</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2369,7 +2259,6 @@
     <name>
       <namePart>Pineiro, Joe</namePart>
     </name>
-    <subject/>
     <abstract>neg. 31</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2415,7 +2304,6 @@
     <name>
       <namePart>Pineiro, Joe</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2460,7 +2348,6 @@
     <name>
       <namePart>Pineiro, Joe</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2505,7 +2392,6 @@
     <name>
       <namePart>Pineiro, Joe</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2550,7 +2436,6 @@
     <name>
       <namePart>Pineiro, Joe</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <recordInfo>
       <languageOfCataloging>
@@ -2592,7 +2477,6 @@
     <name>
       <namePart>Pineiro, Joe</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2640,7 +2524,6 @@
     <name>
       <namePart>Columbia University. Home Study Department</namePart>
     </name>
-    <subject/>
     <abstract>First Course Exercises</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2883,9 +2766,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/music-as-a-college-study</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2900,7 +2780,6 @@
     <name>
       <namePart>Mason, Daniel Gregory, 1873-1953</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -3089,7 +2968,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3137,7 +3015,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3185,7 +3062,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3233,7 +3109,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3281,7 +3156,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3329,7 +3203,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3377,7 +3250,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3425,7 +3297,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3473,7 +3344,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3521,7 +3391,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3569,7 +3438,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3617,7 +3485,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3665,7 +3532,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3713,7 +3579,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program November 20, 1996</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3813,7 +3678,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 17, 1962</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3861,7 +3725,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 17, 1962</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3909,7 +3772,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 17, 1962</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4195,7 +4057,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4245,7 +4106,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4296,7 +4156,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4347,7 +4206,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4398,7 +4256,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4449,7 +4306,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4500,7 +4356,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4551,7 +4406,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4602,7 +4456,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4653,7 +4506,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4704,7 +4556,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program May 12, 13, 14, 1945</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4751,7 +4602,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <abstract>Program Dec 4, 1986</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4798,7 +4648,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <abstract>Program Dec 4, 1986</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4845,7 +4694,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Program April 15, 1975</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4899,7 +4747,6 @@
     <name>
       <namePart> Dedel, Peter</namePart>
     </name>
-    <subject/>
     <abstract>Program notes by Peter Dedel.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4953,7 +4800,6 @@
     <name>
       <namePart> Dedel, Peter</namePart>
     </name>
-    <subject/>
     <abstract>Program notes by Peter Dedel.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5007,7 +4853,6 @@
     <name>
       <namePart> Dedel, Peter</namePart>
     </name>
-    <subject/>
     <abstract>Program notes by Peter Dedel.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5061,7 +4906,6 @@
     <name>
       <namePart> Dedel, Peter</namePart>
     </name>
-    <subject/>
     <abstract>Program notes by Peter Dedel.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5113,7 +4957,6 @@
     <name>
       <namePart>Kozinn, Allan </namePart>
     </name>
-    <subject/>
     <abstract>Photocopy of clipping from New York Times</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5161,7 +5004,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Opening Night Program, September 15, 1988</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5209,7 +5051,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Opening Night Program, September 15, 1988</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5257,7 +5098,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Opening Night Program, September 15, 1988. Essay "Beginning a new chapter" by Peter Smith, Dean, Faculty of the Arts.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5305,7 +5145,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Opening Night Program, September 15, 1988</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5353,7 +5192,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Opening Night Program, September 15, 1988</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5401,7 +5239,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Opening Night Program, September 15, 1988</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5555,7 +5392,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5611,7 +5447,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5667,7 +5502,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5723,7 +5557,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5779,7 +5612,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5835,7 +5667,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5891,7 +5722,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5947,7 +5777,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6003,7 +5832,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6059,7 +5887,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6115,7 +5942,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6171,7 +5997,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6227,7 +6052,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6283,7 +6107,6 @@
     <name>
       <namePart>Smith, Milton Myers, 1890-1981</namePart>
     </name>
-    <subject/>
     <abstract>Offprint.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6336,7 +6159,6 @@
     <name>
       <namePart>Bachrach</namePart>
     </name>
-    <subject/>
     <abstract>Portrait of Brander Matthews</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6433,7 +6255,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6480,7 +6301,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6530,7 +6350,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6558,9 +6377,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6575,7 +6391,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6625,7 +6440,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <abstract>Program booklet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6676,7 +6490,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <abstract>Program booklet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6727,7 +6540,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <abstract>Program booklet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6775,7 +6587,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <abstract>Program booklet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6826,7 +6637,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <abstract>Program booklet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6877,7 +6687,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <abstract>Program booklet</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6931,7 +6740,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6981,7 +6789,6 @@
     <name>
       <namePart>Columbia College (New York, N.Y.). Association of the Alumni</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7027,7 +6834,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7116,7 +6922,6 @@
     <name>
       <namePart>Columbia University. University Glee Club</namePart>
     </name>
-    <subject/>
     <abstract>Announcement</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7166,7 +6971,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7216,7 +7020,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Concert program part 2</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7267,7 +7070,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Concert program part 1</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7318,7 +7120,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Roster</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7369,7 +7170,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Group portrait</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7419,7 +7219,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Menu</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7469,7 +7268,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7519,7 +7317,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7569,7 +7366,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7600,9 +7396,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7617,7 +7410,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7762,7 +7554,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Engraving</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7812,7 +7603,6 @@
     <name>
       <namePart>Pach Brothers</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7861,7 +7651,6 @@
     <name>
       <namePart>Pach Brothers</namePart>
     </name>
-    <subject/>
     <abstract>Columbia University Varsity Show, Spring 1904</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7911,7 +7700,6 @@
     <name>
       <namePart>Pach Brothers</namePart>
     </name>
-    <subject/>
     <abstract>Columbia University Varsity Show, Spring 1904</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7961,7 +7749,6 @@
     <name>
       <namePart>Pach Brothers</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8008,7 +7795,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <abstract>Isle of Illusia</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8055,7 +7841,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8104,7 +7889,6 @@
     <name>
       <namePart>Pach Brothers</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8175,9 +7959,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner-collection</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8217,11 +7998,7 @@
     <originInfo>
       <dateCreated>1915?</dateCreated>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8261,9 +8038,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner-collection</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8309,9 +8083,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/lectures</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8326,7 +8097,6 @@
     <name>
       <namePart>MacDowell, Edward, 1860-1908</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8357,9 +8127,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/lectures</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8374,7 +8141,6 @@
     <name>
       <namePart>MacDowell, Edward, 1860-1908</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8404,9 +8170,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-chair</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8424,7 +8187,6 @@
     <name>
       <namePart> Low, Seth, 1850-1916</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8455,9 +8217,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/compositions</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8505,9 +8264,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/compositions</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8555,9 +8311,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/compositions</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8601,9 +8354,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/performances</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8618,7 +8368,6 @@
     <name>
       <namePart>MacDowell, Edward, 1860-1908</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8645,9 +8394,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/performances</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8662,7 +8408,6 @@
     <name>
       <namePart>MacDowell, Edward, 1860-1908</namePart>
     </name>
-    <subject/>
     <abstract>Program</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8691,11 +8436,7 @@
         <placeTerm type="text">New York</placeTerm>
       </place>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8712,7 +8453,6 @@
     <name>
       <namePart> Matthews, Brander, 1852-1929</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8742,9 +8482,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-chair</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8762,7 +8499,6 @@
     <name>
       <namePart> Matthews, Brander, 1852-1929</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8789,9 +8525,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/the-early-years</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8806,7 +8539,6 @@
     <name>
       <namePart>Boston Symphony Orchestra</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8833,9 +8565,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/music-committee</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8850,7 +8579,6 @@
     <name>
       <namePart>Boston Symphony Orchestra</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8875,11 +8603,7 @@
     <originInfo>
       <dateCreated>1902</dateCreated>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8915,11 +8639,7 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8933,7 +8653,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8959,11 +8678,7 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8977,7 +8692,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9003,11 +8717,7 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9021,7 +8731,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9047,11 +8756,7 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9065,7 +8770,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9096,9 +8800,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9116,7 +8817,6 @@
     <name>
       <namePart> Columbia University. Department of Music</namePart>
     </name>
-    <subject/>
     <abstract>Who's who in the cast</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -9148,9 +8848,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9168,7 +8865,6 @@
     <name>
       <namePart>Columbia University. Department of Music</namePart>
     </name>
-    <subject/>
     <abstract>Cast and production staff.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -9200,9 +8896,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9220,7 +8913,6 @@
     <name>
       <namePart> Columbia University. Department of Music</namePart>
     </name>
-    <subject/>
     <abstract>Program for an opera by Gertrude Stein and Virgil Thomson</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -9252,9 +8944,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9272,7 +8961,6 @@
     <name>
       <namePart> Columbia University. Department of Music</namePart>
     </name>
-    <subject/>
     <abstract>Program for an opera by Gertrude Stein and Virgil Thomson</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -9299,11 +8987,7 @@
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9317,7 +9001,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9343,11 +9026,7 @@
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9361,7 +9040,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9387,11 +9065,7 @@
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9405,7 +9079,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9431,11 +9104,7 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9449,7 +9118,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9475,11 +9143,7 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9493,7 +9157,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9519,11 +9182,7 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9537,7 +9196,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9563,11 +9221,7 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9581,7 +9235,6 @@
     <name>
       <namePart>Columbia University. Columbia Theater Associates</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9607,11 +9260,7 @@
       <dateCreated>17,18,19 December 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
-    </location>
+    <location/>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9625,7 +9274,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9656,9 +9304,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9673,7 +9318,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9704,9 +9348,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9721,7 +9362,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9752,9 +9392,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9769,7 +9406,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9800,9 +9436,6 @@
     </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -9817,7 +9450,6 @@
     <name>
       <namePart>Columbia University. Department of Music </namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9863,7 +9495,6 @@
     <name>
       <namePart>Sun (New York, N.Y.)</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9910,7 +9541,6 @@
     <name>
       <namePart>Columbia University. Philharmonic Society</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -9957,7 +9587,6 @@
     <name>
       <namePart>Columbia University. Philharmonic Society</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10004,7 +9633,6 @@
     <name>
       <namePart>Columbia University. Philharmonic Society</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10051,7 +9679,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10097,7 +9724,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10143,7 +9769,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10291,7 +9916,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10447,7 +10071,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10497,7 +10120,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10542,7 +10164,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10587,7 +10208,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10632,7 +10252,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -10677,7 +10296,6 @@
     <name>
       <namePart>Columbia University</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

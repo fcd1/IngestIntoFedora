@@ -19,9 +19,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-3</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -144,9 +141,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -206,9 +200,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-3</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -329,9 +320,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -444,9 +432,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -816,9 +801,6 @@
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -867,9 +849,6 @@
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1106,9 +1085,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1347,9 +1323,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1405,9 +1378,6 @@
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1768,9 +1738,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-2</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2029,9 +1996,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-2</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2259,9 +2223,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-3</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2884,7 +2845,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <name>
       <namePart>St. Paul's Infant School (London, England)</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -2975,9 +2935,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -3445,9 +3402,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -3501,9 +3455,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -3621,9 +3572,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -3678,9 +3626,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4039,9 +3984,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4061,7 +4003,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <name>
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4512,9 +4453,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4569,9 +4507,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4864,9 +4799,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4923,9 +4855,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-5</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5098,9 +5027,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5487,7 +5413,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_115_001.tif</note>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5585,9 +5510,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5822,9 +5744,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-3</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6305,9 +6224,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6449,7 +6365,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_118_001.tif</note>
     <note>PLMPTN_118_002.tif</note>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -6848,9 +6763,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6965,9 +6877,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7103,7 +7012,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_116_001.tif</note>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
@@ -7257,9 +7165,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7403,7 +7308,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <name>
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -7497,9 +7401,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-1</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7986,9 +7887,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-4</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8167,9 +8065,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8622,7 +8517,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <name>
       <namePart>Platearus, Petrus, 16th cent.</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
@@ -8676,7 +8570,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>PLMPTN_114_001.tif</note>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8708,9 +8601,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-3</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8791,7 +8681,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </titleInfo>
     </relatedItem>
     <note>PLMPTN_081_001.tif</note>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8822,9 +8711,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8847,7 +8733,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <name>
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

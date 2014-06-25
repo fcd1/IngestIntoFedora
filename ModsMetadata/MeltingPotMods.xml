@@ -131,9 +131,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/introduction</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -189,9 +186,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -250,9 +244,6 @@
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -266,7 +257,6 @@
     <name>
       <namePart>Comedy Theatre (Organization : New York, N.Y.)</namePart>
     </name>
-    <subject/>
     <abstract>Program for the play The Melting Pot, written by Israel Zangwill and performed at the Comedy Theatre.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -334,7 +324,6 @@
     <name>
       <namePart>Ginsburg, Mirra</namePart>
     </name>
-    <subject/>
     <abstract>Isaac Bashevis Singer often signed his journalistic fiction "Isaac Warshawsky"
 
 
@@ -373,9 +362,6 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ginsberg</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -389,7 +375,6 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     <name>
       <namePart>Ginsberg, Allen, 1926-1997</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -423,9 +408,6 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ginsberg</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -439,7 +421,6 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     <name>
       <namePart>Ginsberg, Allen, 1926-1997</namePart>
     </name>
-    <subject/>
     <abstract>Poem dedicated to Allen Ginsberg's mother, Naomi Ginsberg.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -472,9 +453,6 @@ Typescript of Mirra Ginsburg's translation of Isaac Singer's essay, with correct
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ginsberg</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -540,9 +518,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/abzug</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -595,9 +570,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/zukofsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -702,9 +674,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/shaw</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -814,9 +783,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/heller</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -868,9 +834,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/westsidestory</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -926,9 +889,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -982,9 +942,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1036,9 +993,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1094,9 +1048,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1204,9 +1155,6 @@ Gift of Allen Ginsberg, 1993</note>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/adler</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1586,7 +1534,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>New York Times Company</namePart>
     </name>
-    <subject/>
     <abstract>Newspaper article clipping about the election of Simon Lissim, professor of art at City College at the time, to vice-president of the Royal Society of Arts of England in 1960.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1704,7 +1651,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -1732,9 +1678,6 @@ Gift of Allen Ginsberg, 1993</note>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1758,7 +1701,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>Gottschalk, Fruma, 1900-1995</namePart>
     </name>
-    <subject/>
     <abstract>Verso of an illustration of smocking animals in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk, illustrated by Simon Lissim.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1787,9 +1729,6 @@ Gift of Allen Ginsberg, 1993</note>
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1813,7 +1752,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>Gottschalk, Fruma, 1900-1995</namePart>
     </name>
-    <subject/>
     <abstract>Verso of an illustration of big, blue and white in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk, illustrated by Simon Lissim.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1871,7 +1809,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>Gottschalk, Fruma, 1900-1995</namePart>
     </name>
-    <subject/>
     <abstract>Illustration of a fool in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk, illustrated by Simon Lissim.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1929,7 +1866,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>Gottschalk, Fruma, 1900-1995</namePart>
     </name>
-    <subject/>
     <abstract>Illustration of a horseman in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -1987,7 +1923,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>Gottschalk, Fruma, 1900-1995</namePart>
     </name>
-    <subject/>
     <abstract>Illustration of the barber in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2048,7 +1983,6 @@ Gift of Allen Ginsberg, 1993</note>
     <name>
       <namePart>New York (N.Y.). Board of Education</namePart>
     </name>
-    <subject/>
     <abstract>"An exhibition of designs made in connection with the in-service course 'Decorative and Applied Art' given by Simon Lissim under the auspices of the Board of Superintendents of the Public Schools of the City of New York"
 
 
@@ -2109,7 +2043,6 @@ Held at the Board of Education of New York City.</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>"Exhibition of Individually Lighted Gouaches and Decorative Arts by Simon Lissim at the Galleries of Rudolf Wendel, 730 Fifth Avenue"</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2167,7 +2100,6 @@ Held at the Board of Education of New York City.</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>Exhibition of "Simon Lissim's exquisite designs on Lenox vases and platters".
 
 
@@ -2229,7 +2161,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>Cover is artwork by Simon Lissim</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2712,7 +2643,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>France. Ministère de la guerre. Seine-Central</namePart>
     </name>
-    <subject/>
     <abstract>Centre de Démobilisation du Canton d'Eauze form of Simon Lissim</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2829,7 +2759,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>Print of a drawing by Mikhail Larionov of man in costume, sent to Simon Lissim. Writing in Russian at bottom of print gives date, message to Lissim.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2886,7 +2815,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>Costume design for "The Happiness of Being Rich" in Maeterlinck's l'Oiseau Bleu</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2944,7 +2872,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>Print of a stage drawing, created in 1914 by Aleksandr Benois, sent from the artist to Simon Lissim with an inscription at the bottom.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -3060,7 +2987,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -3234,7 +3160,6 @@ Held at Georg Jensen Inc., Fifth Avenue at 53rd Street, New York City</abstract>
     <name>
       <namePart>Lissim, Simon, 1900-1981</namePart>
     </name>
-    <subject/>
     <abstract>Printed reproduction of porcelain design.
 
 
@@ -3357,7 +3282,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <name>
       <namePart>Grand Palais des Champs Elysées</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -3531,7 +3455,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <name>
       <namePart>Greece. Consulate (Kiev, Ukraine)</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -3591,7 +3514,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <name>
       <namePart>Norway. Consulate (Kiev, Ukraine)</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
@@ -4021,9 +3943,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4075,9 +3994,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4183,9 +4099,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4245,9 +4158,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4305,9 +4215,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4369,9 +4276,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4420,9 +4324,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4473,9 +4374,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/jolson</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4528,9 +4426,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/jolson</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4582,9 +4477,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/jolson</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4639,9 +4531,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4665,7 +4554,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <name>
       <namePart>Simon, Richard L. (Richard Leo), 1899-1960</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4697,9 +4585,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4722,7 +4607,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <name>
       <namePart>Simon, Richard L. (Richard Leo), 1899-1960</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4755,9 +4639,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4781,7 +4662,6 @@ In 1924 Lissim started to work for porcelain factories in Sèvres and Limoges p
     <name>
       <namePart>Berlin, Irving, 1888-1989</namePart>
     </name>
-    <subject/>
     <abstract>“Alexander’s Ragtime Band is the real father of all ragtime, all jazz, all swing, and everything that is best in my collection of songs.” – Richard L. Simon
 
 
@@ -4818,9 +4698,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4843,7 +4720,6 @@ Sheet music.</abstract>
     <name>
       <namePart>Berlin, Irving, 1888-1989</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -4876,9 +4752,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4902,7 +4775,6 @@ Sheet music.</abstract>
     <name>
       <namePart>Berlin, Irving, 1888-1989</namePart>
     </name>
-    <subject/>
     <abstract>Sheet music of the American “unofficial national anthem.”</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4935,9 +4807,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4987,9 +4856,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5039,9 +4905,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5065,7 +4928,6 @@ Sheet music.</abstract>
     <name>
       <namePart>Howard, Jane, 1935-</namePart>
     </name>
-    <subject/>
     <abstract>In April 1963, a Broadway musical entitled Sophie opened with Libi Staiger in the title role, based on Sophie’s early life until 1922. It closed after eight performances.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5099,9 +4961,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5127,7 +4986,6 @@ Sheet music.</abstract>
     <name>
       <namePart>Pollack, Lew, 1895-1946</namePart>
     </name>
-    <subject/>
     <abstract>Score of My Yiddishe Momme</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5161,9 +5019,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5218,9 +5073,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5280,9 +5132,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5334,9 +5183,6 @@ Sheet music.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5394,9 +5240,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -5412,7 +5255,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
       </titleInfo>
     </relatedItem>
     <note>original filename: 4_01_01.tif</note>
-    <subject/>
     <abstract>Thalia Theatre, 46 Bowery, New York, on the West Side of the Bowery Just Below Canal Street</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5473,7 +5315,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <name>
       <namePart>Ginsburg, Mirra</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5534,7 +5375,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <name>
       <namePart>Ginsburg, Mirra</namePart>
     </name>
-    <subject/>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -5715,7 +5555,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <name>
       <namePart>Ginsburg, Mirra</namePart>
     </name>
-    <subject/>
     <abstract>In his letter to Mirra Ginsburg sent from Peredelkino and dated September 12, 1965, Kornei Chukovskii writes: “My dear friend, I know your name quite well. I have read in your translations Taibele and her Demon, Big and Little, The Fast Gimpel and would not hesitate to rank you as I rank such masters of translation as my beloved Saul Bellow, the translator of Gimpel the Fool. Of course, I understand how excruciating it is to translate Isaac Bashevis Singer but in your translation I can sense an unattainable original. I haven’t finished reading your translation yet but I really liked it. There is not a gram of hack-work, as often happen with American translators (Guerney, Babette Deutsch and others).  You are not a craftsman, you are an artist.”</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5839,7 +5678,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <name>
       <namePart>Bulgakova, E. S. (Elena Sergeevna)</namePart>
     </name>
-    <subject/>
     <abstract>Mirra Ginsburg in her letter to Elena Bulgakova expresses her admiration for Mikhail Bulgakov’s writings and describes the situation with regard to the translation and publication of his works in English.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -5973,7 +5811,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <name>
       <namePart>Rosenthal, Raymond</namePart>
     </name>
-    <subject/>
     <abstract>Noonday number 3, including Sunset, a play by Isaak Babel, and Notes on Surrealism by Theodor W. Adorno. Sunset was translated by Mirra Ginsburg and Raymond Rosenthal. Cover includes extra note with reviews on Sunset printed on it.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6087,7 +5924,6 @@ Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstrac
     <name>
       <namePart>Ginsburg, Mirra</namePart>
     </name>
-    <subject/>
     <abstract>List of authors translated by Mirra Ginsburg
 
 
@@ -6531,9 +6367,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6555,7 +6388,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <name>
       <namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</namePart>
     </name>
-    <subject/>
     <abstract>Telegram from Dubinsky, on behalf of unions in New York City and area, asking then Governor Herbert Lehman to run for United States Senator.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6588,9 +6420,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6612,7 +6441,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <name>
       <namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</namePart>
     </name>
-    <subject/>
     <abstract>Letter from Lehman to Dubinsky about Lehman's possible appointment to the United Nations Social and Economic Council.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6645,9 +6473,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6701,9 +6526,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/fighters</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6755,9 +6577,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6777,7 +6596,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <name>
       <namePart>American ORT Federation</namePart>
     </name>
-    <subject/>
     <abstract>Program for the Music Festival of Allied Nations, a charity concert that supported the Organization for Rehabilitation through Training (ORT).</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -6810,9 +6628,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6867,9 +6682,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7010,7 +6822,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <name>
       <namePart>Rossiĭskai︠a︡ sot︠s︡ial-demokraticheskai︠a︡ rabochai︠a︡ partii︠a︡</namePart>
     </name>
-    <subject/>
     <abstract>This resolution reflects the situation of disagreements and splits within the party.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7067,7 +6878,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <name>
       <namePart>Rossiĭskai︠a︡ sot︠s︡ial-demokraticheskai︠a︡ rabochai︠a︡ partii︠a︡</namePart>
     </name>
-    <subject/>
     <abstract>Notification about а closed meeting of the New York Group of the Russian Social Democratic Labor Party.   
 
 Тhe notification gives the place and time of the meeting, announces the agenda, and expresses the wish that everybody would come on time.</abstract>
@@ -7129,7 +6939,6 @@ A distinguished translator from Russian and Yiddish, an active member of profess
     <name>
       <namePart>Peskin, M.</namePart>
     </name>
-    <subject/>
     <abstract>Propositions introduced to the Executive Committee of the New York Group, RSDRP, by Comrade M. Peskin.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7373,9 +7182,6 @@ The photo was taken in Zurich in 1916, the note was written in New York on Febru
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7397,7 +7203,6 @@ The photo was taken in Zurich in 1916, the note was written in New York on Febru
     <name>
       <namePart>Steffens, Lincoln, 1866-1936</namePart>
     </name>
-    <subject/>
     <abstract>In 1919, the United States was caught up in hysteria over a network of communist operatives. “Red Emma,” as she was called, was declared a subversive alien and in December, along with Alexander Berkman and 247 others, was deported to Soviet Russia. Her stay there was brief. It did not take her long to realize that the Bolsheviks were neither lovers of freedom nor partisans of workers' control. What had been created there was a massive dictatorship.
 
 
@@ -7434,9 +7239,6 @@ She left Russia in 1922 and remained active, moving from country to country. She
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7490,9 +7292,6 @@ She left Russia in 1922 and remained active, moving from country to country. She
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7510,7 +7309,6 @@ She left Russia in 1922 and remained active, moving from country to country. She
     <name>
       <namePart>Havel, Hippolyte</namePart>
     </name>
-    <subject/>
     <abstract>Anarchism and other essays, by Emma Goldman, with biographic sketch by Hippolyte Havel</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -7576,7 +7374,6 @@ She left Russia in 1922 and remained active, moving from country to country. She
     <name>
       <namePart>Goldman, Emma, 1869-1940</namePart>
     </name>
-    <subject/>
     <abstract>Rafail Abramovich (Rein), born in Dvinsk, Russia 1880, died in New York 1963. One of the leaders of the Menshevik fraction of the Russian Social Democratic Labor Party and Yiddish and Russian journalist. In 1918, he narrowly escaped the death sentence in Russia. He left Russia for Berlin in 1920 and later emigrated to the USA.
 
 
@@ -7613,9 +7410,6 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7668,9 +7462,6 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7723,9 +7514,6 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7776,9 +7564,6 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7831,9 +7616,6 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7887,9 +7669,6 @@ Correspondence between Rafail Abramovich and Emma Goldman concerns the mysteriou
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7953,9 +7732,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7977,7 +7753,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <name>
       <namePart>Goldman, Emma, 1869-1940</namePart>
     </name>
-    <subject/>
     <abstract>Poem on birth control, written by Fred A. Pease in Mother Earth magazine.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8010,9 +7785,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8034,7 +7806,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <name>
       <namePart>Kenton, Edna, 1876-1954</namePart>
     </name>
-    <subject/>
     <abstract>Emma Goldman wrote to Edna Kenton to ask for help advertising a series of lectures at the Berkley Theatre.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8068,9 +7839,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/fighters</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -8205,7 +7973,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     </relatedItem>
     <note>original filename: 1_03_01.tif</note>
     <note>original filename: 1_03_02.tif</note>
-    <subject/>
     <abstract>Postcard with photograph of young man in soldier's suit; back of postcard has writing in English and Russian.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8261,7 +8028,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <note>original filename: 1_12_01.tif</note>
     <note>original filename: 1_12_02.tif</note>
     <note>original filename: 1_12_03.tif</note>
-    <subject/>
     <abstract>Second issue of the satirical Yiddish journal Der Shlang (The Snake) published in the small Ukrainian shtetl of Berdichev (cover page, pages 15-16, and back page are on display)</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8320,7 +8086,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <name>
       <namePart>Dmitrii, Archbishop of Kherson and Odessa</namePart>
     </name>
-    <subject/>
     <abstract>"Appeal to Christians of Odessa" by Dmitrii, Archbishop of Kherson and Odessa, to save thousands of Jews wrongly accused of various acts.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8379,7 +8144,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <note>original filename: 1_10_02.tif</note>
     <note>original filename: 1_10_03.tif</note>
     <note>original filename: 1_10_04.tif</note>
-    <subject/>
     <abstract>The anonymous author of the article describes the uprising on the battleship Potemkin and a riot in the city of Odessa in 1905, for which he blames the Jews.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8436,7 +8200,6 @@ Published in Mother Earth, volume XII, number 5.</abstract>
     <name>
       <namePart>Cyril and Methodius Fraternity in Uman</namePart>
     </name>
-    <subject/>
     <abstract>Appeal of the Cyril and Methodius Fraternity in Uman, Ukraine. Large numbers of pogroms were registered in the small Uman, where women and children were killed and wounded. This appeal from the members of the Cyril and Methodius Fraternity calls for common sense and Christian virtues to stop violence against Jews.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8675,7 +8438,6 @@ The Protocols of the Elders of Zion is the infamous Russian literary hoax publis
     <name>
       <namePart>Mili︠u︡kov, P. N. (Pavel Nikolaevich), 1859-1943</namePart>
     </name>
-    <subject/>
     <abstract>A vicious anti-Jewish propaganda letter accusing the entire Jewish community of ritual murders and collaboration with evil. Letter addressed to Pavel Miliukov.</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8740,7 +8502,6 @@ The Protocols of the Elders of Zion is the infamous Russian literary hoax publis
     <name>
       <namePart>Mili︠u︡kov, P. N. (Pavel Nikolaevich), 1859-1943</namePart>
     </name>
-    <subject/>
     <abstract>Petition, with signatures, addressed to Pavel Miliukov and signed by Jewish officers and soldiers who had already served in various military campaigns. They opposed the law prohibiting Jews from serving in the Army. 
 
 
@@ -8803,7 +8564,6 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     <name>
       <namePart>Mili︠u︡kov, P. N. (Pavel Nikolaevich), 1859-1943</namePart>
     </name>
-    <subject/>
     <abstract>Petition demanding that Jews be prohibited from serving in the Army.
 
 
@@ -9037,9 +8797,6 @@ Pavel Miliukov (1859-1943) was one of the founders of the liberal Kadet (Constit
     </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
