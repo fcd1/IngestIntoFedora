@@ -10,6 +10,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-10-19 </dateCreated>
       <dateCreated>October 19, 1996</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -51,6 +52,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1930</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1952</dateCreated>
       <dateCreated>between 1930 and 1952?</dateCreated>
     </originInfo>
     <location>
@@ -92,6 +95,8 @@
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1951</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1990</dateCreated>
       <dateCreated>After 1951</dateCreated>
     </originInfo>
     <location>
@@ -127,6 +132,7 @@
       <form>books</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
       <dateCreated>1912</dateCreated>
       <publisher>A.P. Schmidt</publisher>
       <place>
@@ -171,6 +177,7 @@
       <form>paintings</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1979</dateCreated>
       <dateCreated>1979</dateCreated>
     </originInfo>
     <location>
@@ -207,6 +214,7 @@
       <form>illustrations</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996</dateCreated>
       <dateCreated>1996</dateCreated>
     </originInfo>
     <location>
@@ -247,6 +255,7 @@
       <form>ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1937</dateCreated>
       <dateCreated>ca. 1937</dateCreated>
     </originInfo>
     <location>
@@ -293,6 +302,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1959</dateCreated>
       <dateCreated>1959</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -333,6 +343,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1959</dateCreated>
       <dateCreated>1959</dateCreated>
     </originInfo>
     <location>
@@ -368,6 +379,7 @@
       <form>clippings</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1938-11-05 </dateCreated>
       <dateCreated>1938 November 5</dateCreated>
     </originInfo>
     <location>
@@ -414,6 +426,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1914</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1921</dateCreated>
       <dateCreated>between 1914 and 1921</dateCreated>
       <place>
         <placeTerm type="text">Dresden</placeTerm>
@@ -456,6 +470,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-10-19 </dateCreated>
       <dateCreated>1996 October 19</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -494,6 +509,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-10-19 </dateCreated>
       <dateCreated>1996 October 19</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -532,6 +548,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-10-19 </dateCreated>
       <dateCreated>1996 October 19</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -570,6 +587,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1997-09-25 </dateCreated>
       <dateCreated>September 25, 1997</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -611,6 +629,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955-09-26 </dateCreated>
       <dateCreated>1955</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -653,6 +672,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955-09-26 </dateCreated>
       <dateCreated>1955</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -695,6 +715,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955-09-26 </dateCreated>
       <dateCreated>1955</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -737,6 +758,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955-09-26 </dateCreated>
       <dateCreated>1955</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -779,6 +801,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955-09-26 </dateCreated>
       <dateCreated>1955 September 26</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -821,6 +844,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -865,6 +889,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -909,6 +934,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -953,6 +979,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -997,6 +1024,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1041,6 +1069,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1085,6 +1114,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896</dateCreated>
       <dateCreated>1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1129,6 +1159,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1938</dateCreated>
       <dateCreated>1938</dateCreated>
     </originInfo>
     <location>
@@ -1173,6 +1204,7 @@
       <form>illustrations</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1910</dateCreated>
       <dateCreated>ca. 1910</dateCreated>
     </originInfo>
     <location>
@@ -1211,6 +1243,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1955-09-26 </dateCreated>
       <dateCreated>1955 September 26</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1253,6 +1286,7 @@
       <form>music</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1942</dateCreated>
       <dateCreated>ca. 1942</dateCreated>
     </originInfo>
     <location>
@@ -1294,6 +1328,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1899</dateCreated>
       <dateCreated>1899</dateCreated>
     </originInfo>
     <location>
@@ -1330,6 +1365,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-10-19 </dateCreated>
       <dateCreated>October 19, 1996</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1368,6 +1404,7 @@
       <form>pamphlets</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1977</dateCreated>
       <dateCreated>1977</dateCreated>
     </originInfo>
     <location>
@@ -1407,6 +1444,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1948</dateCreated>
       <dateCreated>Spring 1948</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1451,7 +1489,10 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
       <form>photographs</form>
     </physicalDescription>
-    <originInfo/>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1953</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1980</dateCreated>
+    </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/howard-shanet</url>
       <holdingSimple>
@@ -1490,6 +1531,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1883</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1965</dateCreated>
       <dateCreated>No date</dateCreated>
     </originInfo>
     <location>
@@ -1527,6 +1570,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1951</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1959</dateCreated>
       <dateCreated>circa 1950s</dateCreated>
     </originInfo>
     <location>
@@ -1565,6 +1610,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1959</dateCreated>
       <dateCreated>1959</dateCreated>
     </originInfo>
     <location>
@@ -1606,6 +1652,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1959</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1990</dateCreated>
       <dateCreated>After 1959</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1645,7 +1693,10 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
       <form>photographs</form>
     </physicalDescription>
-    <originInfo/>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1910</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1953</dateCreated>
+    </originInfo>
     <location>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/mason</url>
       <holdingSimple>
@@ -1681,6 +1732,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1893</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1969</dateCreated>
       <dateCreated>No date</dateCreated>
     </originInfo>
     <location>
@@ -1720,6 +1773,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1926</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1962</dateCreated>
       <dateCreated>between 1926 and 1962?</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -1760,6 +1815,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1902</dateCreated>
       <dateCreated>1902</dateCreated>
     </originInfo>
     <location>
@@ -1801,6 +1857,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1923</dateCreated>
       <dateCreated>circa 1923</dateCreated>
     </originInfo>
     <location>
@@ -1835,6 +1892,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1967</dateCreated>
       <dateCreated>circa 1967</dateCreated>
       <publisher>Martinus Nijhoff</publisher>
       <place>
@@ -1879,6 +1937,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940</dateCreated>
       <dateCreated>1940</dateCreated>
     </originInfo>
     <location>
@@ -1919,6 +1978,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1958</dateCreated>
       <dateCreated>1958</dateCreated>
     </originInfo>
     <location>
@@ -1961,6 +2021,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1948-05 </dateCreated>
       <dateCreated>May, 1948</dateCreated>
     </originInfo>
     <location>
@@ -2002,6 +2063,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1890</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1910</dateCreated>
       <dateCreated>No date</dateCreated>
     </originInfo>
     <location>
@@ -2043,6 +2106,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1997</dateCreated>
       <dateCreated>1997</dateCreated>
     </originInfo>
     <location>
@@ -2078,6 +2142,8 @@
       <form>music</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1891</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1895</dateCreated>
       <dateCreated>between 1891 and 1895</dateCreated>
     </originInfo>
     <location>
@@ -2118,6 +2184,7 @@
       <form>objects</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1904</dateCreated>
       <dateCreated>circa 1904</dateCreated>
     </originInfo>
     <location>
@@ -2159,6 +2226,7 @@
       <form>objects</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1904</dateCreated>
       <dateCreated>circa 1904</dateCreated>
     </originInfo>
     <location>
@@ -2195,6 +2263,7 @@
       <form>objects</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1904</dateCreated>
       <dateCreated>circa 1904</dateCreated>
     </originInfo>
     <location>
@@ -2236,6 +2305,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1994-12-09 </dateCreated>
       <dateCreated>9-Dec-94</dateCreated>
     </originInfo>
     <location>
@@ -2282,6 +2352,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1994-12-09 </dateCreated>
       <dateCreated>9-Dec-94</dateCreated>
     </originInfo>
     <location>
@@ -2326,6 +2397,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-04-15</dateCreated>
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
@@ -2370,6 +2442,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-04-15</dateCreated>
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
@@ -2414,6 +2487,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-04-15</dateCreated>
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
@@ -2455,6 +2529,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-04-15</dateCreated>
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
@@ -2499,6 +2574,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1934</dateCreated>
       <dateCreated>1934</dateCreated>
       <publisher>Columbia University Press</publisher>
       <place>
@@ -2547,6 +2623,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1902</dateCreated>
       <publisher>Outlook Company</publisher>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -2599,6 +2676,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1902</dateCreated>
       <dateCreated>circa 1902</dateCreated>
       <publisher>Outlook Company</publisher>
       <place>
@@ -2652,6 +2730,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1902</dateCreated>
       <dateCreated>circa 1902</dateCreated>
       <publisher>Outlook Company</publisher>
       <place>
@@ -2705,6 +2784,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1902</dateCreated>
       <dateCreated>circa 1902</dateCreated>
       <publisher>Outlook Company</publisher>
       <place>
@@ -2758,6 +2838,7 @@
       <form>periodicals</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1918-07 </dateCreated>
       <dateCreated>July, 1918</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -2802,6 +2883,7 @@
       <form>periodicals</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-02-10 </dateCreated>
       <dateCreated>10-Feb-40</dateCreated>
       <publisher>Musical America</publisher>
     </originInfo>
@@ -2853,6 +2935,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1932</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1970</dateCreated>
       <dateCreated>after 1932</dateCreated>
     </originInfo>
     <location>
@@ -2899,6 +2983,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1901</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1991</dateCreated>
       <publisher>Conway Studios</publisher>
     </originInfo>
     <location>
@@ -2944,6 +3030,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -2991,6 +3078,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3038,6 +3126,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3085,6 +3174,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3132,6 +3222,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3179,6 +3270,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3226,6 +3318,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3273,6 +3366,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3320,6 +3414,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3367,6 +3462,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3414,6 +3510,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3461,6 +3558,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3508,6 +3606,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3555,6 +3654,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>20-Nov-96</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3602,6 +3702,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1996-11-20 </dateCreated>
       <dateCreated>November 20, 1996</dateCreated>
       <place>
         <placeTerm type="text">New York, New York</placeTerm>
@@ -3654,6 +3755,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1962-05-17 </dateCreated>
       <dateCreated>17-May-62</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3701,6 +3803,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1962-05-17 </dateCreated>
       <dateCreated>17-May-62</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3748,6 +3851,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1962-05-17 </dateCreated>
       <dateCreated>17-May-62</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3795,6 +3899,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1957</dateCreated>
       <dateCreated>1957?</dateCreated>
     </originInfo>
     <location>
@@ -3841,6 +3946,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1947</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1965</dateCreated>
       <dateCreated>between 1947 and 1965?</dateCreated>
     </originInfo>
     <location>
@@ -3884,6 +3991,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1949</dateCreated>
       <dateCreated>circa 1949</dateCreated>
       <publisher>Associated Music Publishers</publisher>
     </originInfo>
@@ -3931,6 +4039,7 @@
       <form>posters</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1969-04-16 </dateCreated>
       <dateCreated>16-Apr-69</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -3981,6 +4090,7 @@
       <form>posters</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1969-03-19 </dateCreated>
       <dateCreated>19-Mar-69</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -4031,6 +4141,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4080,6 +4192,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4129,6 +4243,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4179,6 +4295,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4229,6 +4347,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4279,6 +4399,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4329,6 +4451,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4379,6 +4503,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4429,6 +4555,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4479,6 +4607,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4529,6 +4659,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1945-05-12</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1945-05-14</dateCreated>
       <dateCreated>May 12, 13, 14, 1945</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4579,6 +4711,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1986-12-04 </dateCreated>
       <dateCreated>4-Dec-86</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -4625,6 +4758,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1986-12-04 </dateCreated>
       <dateCreated>4-Dec-86</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -4671,6 +4805,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1975-04-15 </dateCreated>
       <dateCreated>15-Apr-75</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -4717,6 +4852,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1973-04-29 </dateCreated>
       <dateCreated>29-Apr-73</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4770,6 +4906,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1973-04-29 </dateCreated>
       <dateCreated>29-Apr-73</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4823,6 +4960,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1973-04-29 </dateCreated>
       <dateCreated>29-Apr-73</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4876,6 +5014,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1973-04-29 </dateCreated>
       <dateCreated>29-Apr-73</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -4929,6 +5068,7 @@
       <form>clippings</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-17 </dateCreated>
       <dateCreated>17-Sep-88</dateCreated>
     </originInfo>
     <location>
@@ -4980,6 +5120,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-15 </dateCreated>
       <dateCreated>15-Sep-88</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5027,6 +5168,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-15 </dateCreated>
       <dateCreated>15-Sep-88</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5074,6 +5216,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-15 </dateCreated>
       <dateCreated>15-Sep-88</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5121,6 +5264,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-15 </dateCreated>
       <dateCreated>15-Sep-88</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5168,6 +5312,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-15 </dateCreated>
       <dateCreated>15-Sep-88</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5215,6 +5360,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1988-09-15 </dateCreated>
       <dateCreated>15-Sep-88</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5262,6 +5408,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1940</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1949</dateCreated>
       <dateCreated>ca. 1940s</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5311,6 +5459,8 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1940</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1949</dateCreated>
       <dateCreated>ca. 1940s</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -5360,6 +5510,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5415,6 +5566,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5470,6 +5622,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5525,6 +5678,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5580,6 +5734,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5635,6 +5790,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5690,6 +5846,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5745,6 +5902,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5800,6 +5958,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5855,6 +6014,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5910,6 +6070,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -5965,6 +6126,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6020,6 +6182,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6075,6 +6238,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10 </dateCreated>
       <dateCreated>October, 1940</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6130,6 +6294,7 @@
       <form>clippings</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1928-03-04 </dateCreated>
       <dateCreated>4-Mar-28</dateCreated>
       <publisher>New York Herald Tribune</publisher>
     </originInfo>
@@ -6182,6 +6347,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1940</dateCreated>
       <dateCreated>circa 1940</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -6231,6 +6397,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1939-05-28 </dateCreated>
       <dateCreated>28-May-39</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -6277,6 +6444,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1939-05-28 </dateCreated>
       <dateCreated>28-May-39</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -6323,6 +6491,8 @@
       <form>maps</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1946</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1957</dateCreated>
       <dateCreated>before 1958</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6372,6 +6542,7 @@
       <form>periodicals</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1993</dateCreated>
       <dateCreated>Winter 1993</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -6413,6 +6584,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6463,6 +6635,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6513,6 +6686,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6563,6 +6737,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -6610,6 +6785,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6660,6 +6836,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6713,6 +6890,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6762,6 +6940,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1956</dateCreated>
       <dateCreated>1956</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6811,6 +6990,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1920</dateCreated>
       <dateCreated>1920</dateCreated>
       <dateCreated>1920</dateCreated>
       <publisher>Columbia University</publisher>
@@ -6895,6 +7075,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-05-07 </dateCreated>
       <dateCreated>7-May-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6945,6 +7126,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -6993,6 +7175,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7043,6 +7226,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7093,6 +7277,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7143,6 +7328,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7193,6 +7379,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7242,6 +7429,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7290,6 +7478,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7339,6 +7528,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1914-03-21 </dateCreated>
       <dateCreated>21-Mar-14</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7388,6 +7578,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1911-05 </dateCreated>
       <dateCreated>May, 1911</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7432,6 +7623,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1918</dateCreated>
       <dateCreated>circa 1918</dateCreated>
     </originInfo>
     <location>
@@ -7477,6 +7669,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1917</dateCreated>
       <dateCreated>circa 1917</dateCreated>
     </originInfo>
     <location>
@@ -7522,6 +7715,7 @@
       <form>illustrations</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904-12 </dateCreated>
       <dateCreated>December, 1904</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -7577,6 +7771,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904</dateCreated>
       <dateCreated>Spring, 1904</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7625,6 +7820,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904</dateCreated>
       <dateCreated>Spring, 1904</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7674,6 +7870,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904</dateCreated>
       <dateCreated>Spring, 1904</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7723,6 +7920,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904</dateCreated>
       <dateCreated>Spring, 1904</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7771,6 +7969,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904</dateCreated>
       <dateCreated>Spring, 1904</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -7818,6 +8017,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1922</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1923</dateCreated>
       <dateCreated>1922-1923</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -7863,6 +8064,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1896</dateCreated>
       <dateCreated>circa 1896</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -7911,6 +8113,7 @@
       <form>periodicals</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1952-02 </dateCreated>
       <dateCreated>Feb-52</dateCreated>
     </originInfo>
     <location>
@@ -7955,6 +8158,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1925</dateCreated>
       <dateCreated>circa 1925</dateCreated>
     </originInfo>
     <location>
@@ -7996,6 +8200,7 @@
       <form>prints</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1915</dateCreated>
       <dateCreated>1915?</dateCreated>
     </originInfo>
     <location/>
@@ -8034,6 +8239,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1928</dateCreated>
       <dateCreated>circa 1928</dateCreated>
     </originInfo>
     <location>
@@ -8075,6 +8281,7 @@
       <form>books</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
       <dateCreated>1912</dateCreated>
       <publisher>A.P. Schmidt</publisher>
       <place>
@@ -8119,6 +8326,7 @@
       <form>books</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
       <dateCreated>1912</dateCreated>
       <publisher>A.P. Schmidt</publisher>
       <place>
@@ -8163,6 +8371,7 @@
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904-05-30 </dateCreated>
       <dateCreated>30-May-04</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -8209,6 +8418,7 @@
       <form>music</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1901</dateCreated>
       <dateCreated>ca. 1901</dateCreated>
       <publisher>Arthur P. Schmidt</publisher>
       <place>
@@ -8256,6 +8466,7 @@
       <form>music</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1901</dateCreated>
       <dateCreated>ca. 1901</dateCreated>
       <publisher>Arthur P. Schmidt</publisher>
       <place>
@@ -8303,6 +8514,7 @@
       <form>music</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1901</dateCreated>
       <dateCreated>ca. 1901</dateCreated>
       <publisher>Arthur P. Schmidt</publisher>
       <place>
@@ -8350,6 +8562,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1898-01-10 </dateCreated>
       <dateCreated>10 January 1898</dateCreated>
     </originInfo>
     <location>
@@ -8390,6 +8603,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1898-01-10 </dateCreated>
       <dateCreated>10 January 1898</dateCreated>
     </originInfo>
     <location>
@@ -8431,6 +8645,7 @@
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1897-01-19 </dateCreated>
       <dateCreated>19 January 1897</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -8475,6 +8690,7 @@
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1897-01-19 </dateCreated>
       <dateCreated>19 January 1897</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -8521,6 +8737,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896-01-23 </dateCreated>
       <dateCreated>23 January 1896</dateCreated>
     </originInfo>
     <location>
@@ -8561,6 +8778,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1896-01-23 </dateCreated>
       <dateCreated>23 January 1896</dateCreated>
     </originInfo>
     <location>
@@ -8601,6 +8819,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1902</dateCreated>
       <dateCreated>1902</dateCreated>
     </originInfo>
     <location/>
@@ -8636,6 +8855,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1948-05-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1948-05-08</dateCreated>
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -8675,6 +8896,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1948-05-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1948-05-08</dateCreated>
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -8714,6 +8937,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1948-05-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1948-05-08</dateCreated>
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -8753,6 +8978,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1948-05-05</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1948-05-08</dateCreated>
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -8792,6 +9019,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1947-05-07</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1947-05-10</dateCreated>
       <dateCreated>7-10 May 1947</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -8840,6 +9069,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1947-05-07</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1947-05-10</dateCreated>
       <dateCreated>7-10 May 1947</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -8888,6 +9119,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1947-05-07</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1947-05-10</dateCreated>
       <dateCreated>7-10 May 1947</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -8936,6 +9169,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1947-05-07</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1947-05-10</dateCreated>
       <dateCreated>7-10 May 1947</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -8984,6 +9219,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1946-05-08</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1946-05-11</dateCreated>
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9023,6 +9260,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1946-05-08</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1946-05-11</dateCreated>
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9062,6 +9301,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1946-05-08</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1946-05-11</dateCreated>
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9101,6 +9342,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1941-05-05 </dateCreated>
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9140,6 +9382,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1941-05-05 </dateCreated>
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9179,6 +9422,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1941-05-05 </dateCreated>
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9218,6 +9462,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1941-05-05 </dateCreated>
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9257,6 +9502,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1946-12-17</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1946-12-19</dateCreated>
       <dateCreated>17,18,19 December 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9296,6 +9543,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1946-12-17</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1946-12-19</dateCreated>
       <dateCreated>17,18,19 December 1946</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -9340,6 +9589,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1946-12-17</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1946-12-19</dateCreated>
       <dateCreated>17,18,19 December 1946</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -9384,6 +9635,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1946-08-14 </dateCreated>
       <dateCreated>14-Aug-46</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -9428,6 +9680,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1946-08-14 </dateCreated>
       <dateCreated>14-Aug-46</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -9472,6 +9725,7 @@
       <form>clippings</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1909-11-25 </dateCreated>
       <dateCreated>25 Nov. 1909</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9517,6 +9771,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904-03-03 </dateCreated>
       <dateCreated>3-Mar-04</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9563,6 +9818,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904-03-03 </dateCreated>
       <dateCreated>3-Mar-04</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9609,6 +9865,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1904-03-03 </dateCreated>
       <dateCreated>3-Mar-04</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9655,6 +9912,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1894-04-02 </dateCreated>
       <dateCreated>2 April 1894</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9701,6 +9959,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1894-04-02 </dateCreated>
       <dateCreated>2 April 1894</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9746,6 +10005,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1894</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1895</dateCreated>
       <dateCreated>1894-95</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
@@ -9791,6 +10052,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1924-01 </dateCreated>
       <dateCreated>circa January 1924</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -9845,6 +10107,7 @@
       <form>postcards</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1902</dateCreated>
       <dateCreated>1902</dateCreated>
     </originInfo>
     <location>
@@ -9893,6 +10156,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1901-06 </dateCreated>
       <dateCreated>June 1901</dateCreated>
     </originInfo>
     <location>
@@ -9938,6 +10202,7 @@
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1898</dateCreated>
       <dateCreated>1898</dateCreated>
       <place>
         <placeTerm type="text">New York</placeTerm>
@@ -9992,6 +10257,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1938-04-28 </dateCreated>
       <dateCreated>28-Apr-38</dateCreated>
       <publisher>New York Herald Tribune</publisher>
       <place>
@@ -10044,6 +10310,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1938-04-27 </dateCreated>
       <dateCreated>27-Apr-38</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -10093,6 +10360,7 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1938-04-27 </dateCreated>
       <dateCreated>27-Apr-38</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -10142,6 +10410,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1897</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1898</dateCreated>
       <dateCreated>1897-98</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -10186,6 +10456,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1897</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1898</dateCreated>
       <dateCreated>1897-98</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -10230,6 +10502,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1897</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1898</dateCreated>
       <dateCreated>1897-98</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
@@ -10274,6 +10548,8 @@
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1897</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1898</dateCreated>
       <dateCreated>1897-98</dateCreated>
       <publisher>Columbia University</publisher>
       <place>
