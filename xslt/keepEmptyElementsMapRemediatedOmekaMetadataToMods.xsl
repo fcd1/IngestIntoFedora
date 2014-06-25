@@ -128,21 +128,11 @@
   <!-- we will create just one <subject> to contain all the subelements. -->
   <!-- Contains <topic>, <???> -->
   <xsl:template name="Subject">
-    <!-- fcd1, 06/25/14: add following so we only create wrapper element it there are -->
-    <!-- subelements to wrap. If we don't check, an empty <subject/> will be created -->
-    <xsl:if test="(*[starts-with(name(), 'item_-_DublinCore_-_Subject')]/. != '')
-		  or
-		  (*[starts-with(name(), 'item_-_AdditionalItemMetadata_-_TemporalCoverage')]/. != '')
-		  or
-		  (*[starts-with(name(), 'item_-_AdditionalItemMetadata_-_SpatialCoverage')]/. != '')
-		  or
-		  (*[starts-with(name(), 'item_-_DublinCore_-_Coverage')]/. != '')">
-      <subject>
-	<xsl:call-template name="Topic"/>
-	<xsl:call-template name="Temporal"/>
-	<xsl:call-template name="Geographic"/>
-      </subject>
-    </xsl:if>
+    <subject>
+      <xsl:call-template name="Topic"/>
+      <xsl:call-template name="Temporal"/>
+      <xsl:call-template name="Geographic"/>
+    </subject>
   </xsl:template>
   
   <!-- fcd1, 04/23/14: MODS <form> -->
@@ -321,16 +311,10 @@
   <!-- fcd1, 04/23/14: contains <shelfLocator> -->
   <!-- fcd1, 04/23/14: contains <subLocation> -->
   <xsl:template name="HoldingSimpleCopyInformation">
-    <!-- fcd1, 06/25/14: add following so we only create wrapper element it there are -->
-    <!-- subelements to wrap. If we don't check, an empty <copyInformation/> will be created -->
-    <xsl:if test="(item_-_MODS_-_Subrepository/. != '')
-		  or 
-		  (item_-_MODS_-_ShelfLocation/. !='')">
-      <holdingSimple><copyInformation>
-	  <xsl:call-template name="SubLocation"/>
-	  <xsl:call-template name="ShelfLocator"/>
-      </copyInformation></holdingSimple>
-    </xsl:if>
+    <holdingSimple><copyInformation>
+      <xsl:call-template name="SubLocation"/>
+      <xsl:call-template name="ShelfLocator"/>
+    </copyInformation></holdingSimple>
   </xsl:template>
 
   <!-- fcd1, 04/24/14: MODS <url>, -->
