@@ -28,6 +28,7 @@
       <xsl:call-template name="Language"/>
       <xsl:call-template name="RecordInfo"/>
       <xsl:call-template name="AccessCondition"/>
+      <xsl:call-template name="Genre"/>
     </mods>
   </xsl:template>
   
@@ -499,6 +500,15 @@
     <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Rights')]">
       <xsl:if test=" . != '' ">
 	<accessCondition><xsl:value-of select="."/></accessCondition>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+
+  <!-- fcd1, 06/25/14: MODS <genre> -->
+  <xsl:template name="Genre">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Type')]">
+      <xsl:if test=" . != '' ">
+	<genre><xsl:value-of select="."/></genre>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
