@@ -6,7 +6,7 @@
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-10-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -47,7 +47,7 @@
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1930</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1952</item_-_MODS_-_KeyDate_-_End>
@@ -90,7 +90,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1951</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1990</item_-_MODS_-_KeyDate_-_End>
@@ -131,7 +131,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1912</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -172,7 +172,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Art Properties, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NyNyCAP</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NyNyCAP</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1979</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -213,7 +213,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName></item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code></MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code></item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -254,7 +254,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1937</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -295,7 +295,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1959</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -336,7 +336,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1959</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -377,7 +377,7 @@ Historical Photographs</item_-_MODS_-_Subrepository_1>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1938-11-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -422,7 +422,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Non-Columbia Institution</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>non-cul</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>non-cul</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1921</item_-_MODS_-_KeyDate_-_End>
@@ -463,7 +463,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-10-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -504,7 +504,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-10-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -545,7 +545,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-10-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -586,7 +586,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1997-09-25 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -627,7 +627,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1955-09-26 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -668,7 +668,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1955-09-26 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -709,7 +709,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1955-09-26 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -750,7 +750,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1955-09-26 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -791,7 +791,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1955-09-26 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -832,7 +832,7 @@ Herzog</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -877,7 +877,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -922,7 +922,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -967,7 +967,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1012,7 +1012,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1057,7 +1057,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1102,7 +1102,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1147,7 +1147,7 @@ Ludlow</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1938</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1192,7 +1192,7 @@ Edward Alexander MacDowell</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1910</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1237,7 +1237,7 @@ MacDowell, Edward Alexander</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1955-09-26 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1278,7 +1278,7 @@ MacDowell, Edward Alexander</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1942</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1319,7 +1319,7 @@ MacDowell, Edward Alexander</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Non-Columbia Institution</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>non-cul</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>non-cul</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1899</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1360,7 +1360,7 @@ MacDowell, Edward Alexander</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-10-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1401,7 +1401,7 @@ MacDowell, Edward Alexander</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1977</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1448,7 +1448,7 @@ Box 240, Folder 4 Glee Club Ephemera</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1948</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1491,7 +1491,7 @@ Box 31, Folder 2 Music Department</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>questionable</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1953</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1980</item_-_MODS_-_KeyDate_-_End>
@@ -1534,7 +1534,7 @@ Box 31, Folder 2 Music Department</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1883</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1965</item_-_MODS_-_KeyDate_-_End>
@@ -1577,7 +1577,7 @@ Box 31, Folder 2 Music Department</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1951</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1959</item_-_MODS_-_KeyDate_-_End>
@@ -1620,7 +1620,7 @@ Box 31, Folder 4 Electronic Music </item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1959</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1661,7 +1661,7 @@ Box 31, Folder 4 Electronic Music </item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1959</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1990</item_-_MODS_-_KeyDate_-_End>
@@ -1704,7 +1704,7 @@ Box 31, Folder 4 Electronic Music </item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1910</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1953</item_-_MODS_-_KeyDate_-_End>
@@ -1747,7 +1747,7 @@ Box 31, Folder 2 Music Department</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1893</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1969</item_-_MODS_-_KeyDate_-_End>
@@ -1790,7 +1790,7 @@ Box 86 Moore, Douglas</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1926</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1962</item_-_MODS_-_KeyDate_-_End>
@@ -1833,7 +1833,7 @@ Box 86 Moore, Douglas</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1874,7 +1874,7 @@ Box 86 Moore, Douglas</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1923</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1917,7 +1917,7 @@ Box 101 Rodgers, Richard</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1967</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -1960,7 +1960,7 @@ Box 22 Folder 16, Bartok, Bela</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2003,7 +2003,7 @@ Bartok, Bela</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1958</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2046,7 +2046,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1948-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2089,7 +2089,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1890</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1910</item_-_MODS_-_KeyDate_-_End>
@@ -2130,7 +2130,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1997</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2171,7 +2171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1891</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1895</item_-_MODS_-_KeyDate_-_End>
@@ -2211,7 +2211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2251,7 +2251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2291,7 +2291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2331,7 +2331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1994-12-09 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2371,7 +2371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1994-12-09 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2411,7 +2411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-04-15</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2451,7 +2451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-04-15</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2491,7 +2491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-04-15</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2531,7 +2531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-04-15</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2571,7 +2571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1934</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2611,7 +2611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2651,7 +2651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2691,7 +2691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2731,7 +2731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2771,7 +2771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1918-07 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2811,7 +2811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-02-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2851,7 +2851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1932</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1970</item_-_MODS_-_KeyDate_-_End>
@@ -2891,7 +2891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1901</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1991</item_-_MODS_-_KeyDate_-_End>
@@ -2931,7 +2931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -2971,7 +2971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3011,7 +3011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3051,7 +3051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3091,7 +3091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3131,7 +3131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3171,7 +3171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3211,7 +3211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3251,7 +3251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3291,7 +3291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3331,7 +3331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3371,7 +3371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3411,7 +3411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3451,7 +3451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3491,7 +3491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1996-11-20 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3531,7 +3531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1962-05-17 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3571,7 +3571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1962-05-17 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3611,7 +3611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1962-05-17 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3651,7 +3651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>questionable</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1957</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3691,7 +3691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1947</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1965</item_-_MODS_-_KeyDate_-_End>
@@ -3731,7 +3731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1949</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3771,7 +3771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1969-04-16 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3811,7 +3811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1969-03-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -3851,7 +3851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -3891,7 +3891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -3931,7 +3931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -3971,7 +3971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4011,7 +4011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4051,7 +4051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4091,7 +4091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4131,7 +4131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4171,7 +4171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4211,7 +4211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4251,7 +4251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1945-05-12</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1945-05-14</item_-_MODS_-_KeyDate_-_End>
@@ -4291,7 +4291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1986-12-04 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4331,7 +4331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1986-12-04 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4371,7 +4371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1975-04-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4411,7 +4411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1973-04-29 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4451,7 +4451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1973-04-29 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4491,7 +4491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1973-04-29 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4531,7 +4531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1973-04-29 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4571,7 +4571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-17 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4611,7 +4611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4651,7 +4651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4691,7 +4691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4731,7 +4731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4771,7 +4771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4811,7 +4811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1988-09-15 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4851,7 +4851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1949</item_-_MODS_-_KeyDate_-_End>
@@ -4891,7 +4891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1949</item_-_MODS_-_KeyDate_-_End>
@@ -4931,7 +4931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -4971,7 +4971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5011,7 +5011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5051,7 +5051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5091,7 +5091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5131,7 +5131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5171,7 +5171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5211,7 +5211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5251,7 +5251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5291,7 +5291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5331,7 +5331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5371,7 +5371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5411,7 +5411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5451,7 +5451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5491,7 +5491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1928-03-04 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5531,7 +5531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1940</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5571,7 +5571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1939-05-28 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5611,7 +5611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1939-05-28 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5651,7 +5651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1957</item_-_MODS_-_KeyDate_-_End>
@@ -5691,7 +5691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1993</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5731,7 +5731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5771,7 +5771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5811,7 +5811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5851,7 +5851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5891,7 +5891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5931,7 +5931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -5971,7 +5971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6011,7 +6011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1956</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6051,7 +6051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1920</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6091,7 +6091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start></item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6131,7 +6131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-05-07 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6171,7 +6171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6211,7 +6211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6251,7 +6251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6291,7 +6291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6331,7 +6331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6371,7 +6371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6411,7 +6411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6451,7 +6451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6491,7 +6491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1914-03-21 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6531,7 +6531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1911-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6571,7 +6571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1918</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6611,7 +6611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1917</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6651,7 +6651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904-12 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6691,7 +6691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6731,7 +6731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6771,7 +6771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6811,7 +6811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6851,7 +6851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6891,7 +6891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1922</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1923</item_-_MODS_-_KeyDate_-_End>
@@ -6931,7 +6931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -6971,7 +6971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Gabe M. Weiner Music &amp; Arts Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NyNyCMA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NyNyCMA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1952-02 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7011,7 +7011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1925</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7051,7 +7051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1915</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7091,7 +7091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1928</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7131,7 +7131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1912</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7171,7 +7171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1912</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7211,7 +7211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904-05-30 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7251,7 +7251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1901</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7291,7 +7291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1901</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7331,7 +7331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>approximate</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1901</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7371,7 +7371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1898-01-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7411,7 +7411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1898-01-10 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7451,7 +7451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1897-01-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7491,7 +7491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1897-01-19 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7531,7 +7531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896-01-23 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7571,7 +7571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1896-01-23 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7611,7 +7611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>Rare Book &amp; Manuscript Library, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-RB</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-RB</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -7651,7 +7651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1948-05-05</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1948-05-08</item_-_MODS_-_KeyDate_-_End>
@@ -7691,7 +7691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1948-05-05</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1948-05-08</item_-_MODS_-_KeyDate_-_End>
@@ -7731,7 +7731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1948-05-05</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1948-05-08</item_-_MODS_-_KeyDate_-_End>
@@ -7771,7 +7771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1948-05-05</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1948-05-08</item_-_MODS_-_KeyDate_-_End>
@@ -7811,7 +7811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1947-05-07</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1947-05-10</item_-_MODS_-_KeyDate_-_End>
@@ -7851,7 +7851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1947-05-07</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1947-05-10</item_-_MODS_-_KeyDate_-_End>
@@ -7891,7 +7891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1947-05-07</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1947-05-10</item_-_MODS_-_KeyDate_-_End>
@@ -7931,7 +7931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1947-05-07</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1947-05-10</item_-_MODS_-_KeyDate_-_End>
@@ -7971,7 +7971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-05-08</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1946-05-11</item_-_MODS_-_KeyDate_-_End>
@@ -8011,7 +8011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-05-08</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1946-05-11</item_-_MODS_-_KeyDate_-_End>
@@ -8051,7 +8051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-05-08</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1946-05-11</item_-_MODS_-_KeyDate_-_End>
@@ -8091,7 +8091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1941-05-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8131,7 +8131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1941-05-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8171,7 +8171,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1941-05-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8211,7 +8211,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1941-05-05 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8251,7 +8251,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-12-17</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1946-12-19</item_-_MODS_-_KeyDate_-_End>
@@ -8291,7 +8291,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-12-17</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1946-12-19</item_-_MODS_-_KeyDate_-_End>
@@ -8331,7 +8331,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-12-17</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1946-12-19</item_-_MODS_-_KeyDate_-_End>
@@ -8371,7 +8371,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-08-14 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8411,7 +8411,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1946-08-14 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8451,7 +8451,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1909-11-25 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8491,7 +8491,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904-03-03 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8531,7 +8531,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904-03-03 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8571,7 +8571,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1904-03-03 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8611,7 +8611,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1894-04-02 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8651,7 +8651,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1894-04-02 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8691,7 +8691,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1894</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1895</item_-_MODS_-_KeyDate_-_End>
@@ -8731,7 +8731,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1924-01 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8771,7 +8771,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1902</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8811,7 +8811,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1901-06 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8851,7 +8851,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1898</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8891,7 +8891,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1938-04-28 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8931,7 +8931,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1938-04-27 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -8971,7 +8971,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1938-04-27 </item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
@@ -9011,7 +9011,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1897</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1898</item_-_MODS_-_KeyDate_-_End>
@@ -9051,7 +9051,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1897</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1898</item_-_MODS_-_KeyDate_-_End>
@@ -9091,7 +9091,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1897</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1898</item_-_MODS_-_KeyDate_-_End>
@@ -9131,7 +9131,7 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
-        <MODS_Repository_Code>NNC-UA</MODS_Repository_Code>
+        <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
         <item_-_MODS_-_KeyDate_-_Single_Start>1897</item_-_MODS_-_KeyDate_-_Single_Start>
         <item_-_MODS_-_KeyDate_-_End>1898</item_-_MODS_-_KeyDate_-_End>
