@@ -17,6 +17,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/from-the-chair-of-the-centenni</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -57,6 +58,7 @@
       <dateCreated>between 1930 and 1952?</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-librarianship/librarians</url>
       <holdingSimple>
         <copyInformation>
@@ -100,6 +102,7 @@
       <dateCreated>After 1951</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/vladimir-ussachevsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -140,6 +143,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/macdowell-era</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -181,6 +185,7 @@
       <dateCreated>1979</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NyNyCAP</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/chairpersons/chairpersons</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -259,6 +264,7 @@
       <dateCreated>ca. 1937</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/music-humanities</url>
       <holdingSimple>
         <copyInformation>
@@ -309,6 +315,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/electronic-music-center</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -347,6 +354,7 @@
       <dateCreated>1959</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/electronic-music-center</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -383,6 +391,7 @@
       <dateCreated>1938 November 5</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ethnomusicology/center-for-ethnomusicology</url>
       <holdingSimple>
         <copyInformation>
@@ -434,6 +443,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">non-cul</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -477,6 +487,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/centennial-festivities</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -516,6 +527,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/centennial-festivities</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -555,6 +567,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/centennial-festivities</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -594,6 +607,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-library-milestones/music---arts-library</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -636,6 +650,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -679,6 +694,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -722,6 +738,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -765,6 +782,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -808,6 +826,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -851,6 +870,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -896,6 +916,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -941,6 +962,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -986,6 +1008,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -1031,6 +1054,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -1076,6 +1100,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -1121,6 +1146,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/ludlow-gift</url>
       <holdingSimple>
         <copyInformation>
@@ -1163,6 +1189,7 @@
       <dateCreated>1938</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/chairpersons/chairpersons</url>
       <holdingSimple>
         <copyInformation>
@@ -1208,6 +1235,7 @@
       <dateCreated>ca. 1910</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/epilogue/macdowell-professorship</url>
       <holdingSimple>
         <copyInformation>
@@ -1250,6 +1278,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok-memorial</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1290,6 +1319,7 @@
       <dateCreated>ca. 1942</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ethnomusicology/bela-bartok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1332,6 +1362,7 @@
       <dateCreated>1899</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">non-cul</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1372,6 +1403,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/the-centennial-celebrations/from-the-chair</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1408,6 +1440,7 @@
       <dateCreated>1977</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject File Series XIX Student Life Fine and Performing Arts Box 240, Folder 4 Glee Club Ephemera</shelfLocator>
@@ -1451,6 +1484,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
       <holdingSimple>
         <copyInformation>
@@ -1494,6 +1528,7 @@
       <dateCreated encoding="w3cdtf" point="end">1980</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/howard-shanet</url>
       <holdingSimple>
         <copyInformation>
@@ -1536,6 +1571,7 @@
       <dateCreated>No date</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/composers</url>
       <holdingSimple>
         <copyInformation>
@@ -1575,6 +1611,7 @@
       <dateCreated>circa 1950s</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/vladimir-ussachevsky</url>
       <holdingSimple>
         <copyInformation>
@@ -1614,6 +1651,7 @@
       <dateCreated>1959</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/electronic-music-center</url>
       <holdingSimple>
         <copyInformation>
@@ -1660,6 +1698,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/electronic-and-computer-music/more-recent-work</url>
       <holdingSimple>
         <copyInformation>
@@ -1698,6 +1737,7 @@
       <dateCreated encoding="w3cdtf" point="end">1953</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/mason</url>
       <holdingSimple>
         <copyInformation>
@@ -1737,6 +1777,7 @@
       <dateCreated>No date</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Photographs Box 86 Moore, Douglas</shelfLocator>
@@ -1781,6 +1822,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/chairpersons/chairpersons</url>
       <holdingSimple>
         <copyInformation>
@@ -1819,6 +1861,7 @@
       <dateCreated>1902</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/edward-macdowell</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1861,6 +1904,7 @@
       <dateCreated>circa 1923</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/hammerstein--hart--and-rogers</url>
       <holdingSimple>
         <copyInformation>
@@ -1900,6 +1944,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ethnomusicology/bela-bartok</url>
       <holdingSimple>
         <copyInformation>
@@ -1941,6 +1986,7 @@
       <dateCreated>1940</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/bela-bartok</url>
       <holdingSimple>
         <copyInformation>
@@ -1982,6 +2028,7 @@
       <dateCreated>1958</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/conductors-award</url>
       <holdingSimple>
         <copyInformation>
@@ -2025,6 +2072,7 @@
       <dateCreated>May, 1948</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/conductors-award</url>
       <holdingSimple>
         <copyInformation>
@@ -2068,6 +2116,7 @@
       <dateCreated>No date</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/alice-m-ditson</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2110,6 +2159,7 @@
       <dateCreated>1997</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/chapel-music</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2147,6 +2197,7 @@
       <dateCreated>between 1891 and 1895</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/indian-suite</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2188,6 +2239,7 @@
       <dateCreated>circa 1904</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/online-catalog/mm-introduction</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2230,6 +2282,7 @@
       <dateCreated>circa 1904</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/online-catalog/mm-introduction</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2267,6 +2320,7 @@
       <dateCreated>circa 1904</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/online-catalog/mm-introduction</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2309,6 +2363,7 @@
       <dateCreated>9-Dec-94</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/chapel-music</url>
       <holdingSimple>
         <copyInformation>
@@ -2356,6 +2411,7 @@
       <dateCreated>9-Dec-94</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Office of Public Affairs Negatives Box 100, St. Paul's Chapel - Candlelight Concert Christmas 1994, neg. 30</shelfLocator>
@@ -2401,6 +2457,7 @@
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Office of Public Affairs Negatives Box 98, Miller Theater - Columbia Orchestra, neg. 36</shelfLocator>
@@ -2446,6 +2503,7 @@
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Office of Public Affairs Negatives Box 98, Miller Theater - Columbia Orchestra, neg. 29</shelfLocator>
@@ -2491,6 +2549,7 @@
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Office of Public Affairs Negatives Box 98, Miller Theater - Columbia Orchestra, neg. 27</shelfLocator>
@@ -2533,6 +2592,7 @@
       <dateCreated>15-Apr-96</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Office of Public Affairs Negatives Box 98, Miller Theater - Columbia Orchestra, neg. 26</shelfLocator>
@@ -2582,6 +2642,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/music-as-a-college-study</url>
       <holdingSimple>
         <copyInformation>
@@ -2630,6 +2691,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/daniel-gregory-mason</url>
       <holdingSimple>
         <copyInformation>
@@ -2684,6 +2746,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/daniel-gregory-mason</url>
       <holdingSimple>
         <copyInformation>
@@ -2738,6 +2801,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/daniel-gregory-mason</url>
       <holdingSimple>
         <copyInformation>
@@ -2792,6 +2856,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/daniel-gregory-mason</url>
       <holdingSimple>
         <copyInformation>
@@ -2846,6 +2911,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/undergraduate-curriculum/music-as-a-college-study</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2888,6 +2954,7 @@
       <publisher>Musical America</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/historical-musicology/paul-henry-lang</url>
       <holdingSimple>
         <copyInformation>
@@ -2940,6 +3007,7 @@
       <dateCreated>after 1932</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/historical-musicology/paul-henry-lang</url>
       <holdingSimple>
         <copyInformation>
@@ -2988,6 +3056,7 @@
       <publisher>Conway Studios</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Portraits Lang</shelfLocator>
@@ -3035,6 +3104,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening-part-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3083,6 +3153,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening-part-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3131,6 +3202,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening-part-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3179,6 +3251,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening-part-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3227,6 +3300,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening-part-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3275,6 +3349,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening-part-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3323,6 +3398,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3371,6 +3447,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3419,6 +3496,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3467,6 +3545,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3515,6 +3594,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3563,6 +3643,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3611,6 +3692,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3659,6 +3741,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3709,6 +3792,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/otto-luening</url>
       <holdingSimple>
         <copyInformation>
@@ -3760,6 +3844,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/douglas-moore</url>
       <holdingSimple>
         <copyInformation>
@@ -3808,6 +3893,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/douglas-moore</url>
       <holdingSimple>
         <copyInformation>
@@ -3856,6 +3942,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/douglas-moore</url>
       <holdingSimple>
         <copyInformation>
@@ -3903,6 +3990,7 @@
       <dateCreated>1957?</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/composers</url>
       <holdingSimple>
         <copyInformation>
@@ -3951,6 +4039,7 @@
       <dateCreated>between 1947 and 1965?</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/composers</url>
       <holdingSimple>
         <copyInformation>
@@ -3996,6 +4085,7 @@
       <publisher>Associated Music Publishers</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/composers</url>
       <holdingSimple>
         <copyInformation>
@@ -4044,6 +4134,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/performers-committee</url>
       <holdingSimple>
         <copyInformation>
@@ -4095,6 +4186,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/performers-committee</url>
       <holdingSimple>
         <copyInformation>
@@ -4150,6 +4242,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 130 f.10</shelfLocator>
@@ -4201,6 +4294,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 130 f.10</shelfLocator>
@@ -4252,6 +4346,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4304,6 +4399,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4356,6 +4452,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4408,6 +4505,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4460,6 +4558,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4512,6 +4611,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4564,6 +4664,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4616,6 +4717,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4668,6 +4770,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ditson-fund/concerts-and-festivals</url>
       <holdingSimple>
         <copyInformation>
@@ -4716,6 +4819,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 307 f.4</shelfLocator>
@@ -4763,6 +4867,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 307 f.4</shelfLocator>
@@ -4810,6 +4915,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 307 f.4</shelfLocator>
@@ -4860,6 +4966,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/university-orchestra-and-barna</url>
       <holdingSimple>
         <copyInformation>
@@ -4914,6 +5021,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/university-orchestra-and-barna</url>
       <holdingSimple>
         <copyInformation>
@@ -4968,6 +5076,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/university-orchestra-and-barna</url>
       <holdingSimple>
         <copyInformation>
@@ -5022,6 +5131,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/university-orchestra-and-barna</url>
       <holdingSimple>
         <copyInformation>
@@ -5072,6 +5182,7 @@
       <dateCreated>17-Sep-88</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5125,6 +5236,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5173,6 +5285,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5221,6 +5334,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5269,6 +5383,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5317,6 +5432,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5365,6 +5481,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance-current/miller-theater</url>
       <holdingSimple>
         <copyInformation>
@@ -5414,6 +5531,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Photograph Collection-SASL-Performing Groups-Opera Workshop, Evangeline MS 197</shelfLocator>
@@ -5465,6 +5583,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical PhototgraphCollection-SASL-Performing Groups-Opera Workshop, Misc. MS 197</shelfLocator>
@@ -5518,6 +5637,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5574,6 +5694,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5630,6 +5751,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5686,6 +5808,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5742,6 +5865,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5798,6 +5922,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5854,6 +5979,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5910,6 +6036,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -5966,6 +6093,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -6022,6 +6150,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -6078,6 +6207,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -6134,6 +6264,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -6190,6 +6321,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -6246,6 +6378,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/smith-article</url>
       <holdingSimple>
         <copyInformation>
@@ -6299,6 +6432,7 @@
       <publisher>New York Herald Tribune</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/brander-matthews-hall</url>
       <holdingSimple>
         <copyInformation>
@@ -6352,6 +6486,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/brander-matthews-hall</url>
       <holdingSimple>
         <copyInformation>
@@ -6402,6 +6537,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/middle-years</url>
       <holdingSimple>
         <copyInformation>
@@ -6449,6 +6585,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/middle-years</url>
       <holdingSimple>
         <copyInformation>
@@ -6500,6 +6637,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/middle-years</url>
       <holdingSimple>
         <copyInformation>
@@ -6547,6 +6685,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6592,6 +6731,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6643,6 +6783,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6694,6 +6835,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6742,6 +6884,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6793,6 +6936,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6844,6 +6988,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6898,6 +7043,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6948,6 +7094,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/alexander-hamilton-medal</url>
       <holdingSimple>
         <copyInformation>
@@ -6999,6 +7146,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/hammerstein--hart--and-rogers</url>
       <holdingSimple>
         <copyInformation>
@@ -7037,6 +7185,7 @@
     </physicalDescription>
     <originInfo/>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Photograph Collection-Portraits-Dittler Box 31</shelfLocator>
@@ -7083,6 +7232,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7134,6 +7284,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 240 f.3</shelfLocator>
@@ -7183,6 +7334,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7234,6 +7386,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7285,6 +7438,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7336,6 +7490,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7387,6 +7542,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 240 f.3</shelfLocator>
@@ -7437,6 +7593,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 240 f.3</shelfLocator>
@@ -7486,6 +7643,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7536,6 +7694,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
       <holdingSimple>
         <copyInformation>
@@ -7586,6 +7745,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/glee-and-mandolin-clubs</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7627,6 +7787,7 @@
       <dateCreated>circa 1918</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/hammerstein--hart--and-rogers</url>
       <holdingSimple>
         <copyInformation>
@@ -7673,6 +7834,7 @@
       <dateCreated>circa 1917</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/hammerstein--hart--and-rogers</url>
       <holdingSimple>
         <copyInformation>
@@ -7723,6 +7885,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/st--paul-s-chapel</url>
       <holdingSimple>
         <copyInformation>
@@ -7778,6 +7941,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/theatricals</url>
       <holdingSimple>
         <copyInformation>
@@ -7827,6 +7991,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/theatricals</url>
       <holdingSimple>
         <copyInformation>
@@ -7877,6 +8042,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/theatricals</url>
       <holdingSimple>
         <copyInformation>
@@ -7927,6 +8093,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/theatricals</url>
       <holdingSimple>
         <copyInformation>
@@ -7974,6 +8141,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/theatricals</url>
       <holdingSimple>
         <copyInformation>
@@ -8023,6 +8191,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Varsity Show Records, Box 1, F. 10</shelfLocator>
@@ -8071,6 +8240,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/the-early-years</url>
       <holdingSimple>
         <copyInformation>
@@ -8117,6 +8287,7 @@
       <dateCreated>Feb-52</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NyNyCMA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/composition/composers</url>
       <holdingSimple>
         <copyInformation>
@@ -8162,6 +8333,7 @@
       <dateCreated>circa 1925</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner-collection</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8203,7 +8375,9 @@
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1915</dateCreated>
       <dateCreated>1915?</dateCreated>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8243,6 +8417,7 @@
       <dateCreated>circa 1928</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner-collection</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8289,6 +8464,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/lectures</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8334,6 +8510,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/lectures</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8378,6 +8555,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-chair</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8426,6 +8604,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/compositions</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8474,6 +8653,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/compositions</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8522,6 +8702,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/compositions</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8566,6 +8747,7 @@
       <dateCreated>10 January 1898</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/performances</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8607,6 +8789,7 @@
       <dateCreated>10 January 1898</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/performances</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8651,7 +8834,9 @@
         <placeTerm type="text">New York</placeTerm>
       </place>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8697,6 +8882,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-chair</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8741,6 +8927,7 @@
       <dateCreated>23 January 1896</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/the-early-years</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8782,6 +8969,7 @@
       <dateCreated>23 January 1896</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/beginnings/music-committee</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8822,7 +9010,9 @@
       <dateCreated encoding="w3cdtf" keyDate="yes">1902</dateCreated>
       <dateCreated>1902</dateCreated>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8860,7 +9050,9 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8901,7 +9093,9 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8942,7 +9136,9 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -8983,7 +9179,9 @@
       <dateCreated>5-8 May 1948</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9028,6 +9226,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9078,6 +9277,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9128,6 +9328,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9178,6 +9379,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/columbia-theater-associates</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9224,7 +9426,9 @@
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9265,7 +9469,9 @@
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9306,7 +9512,9 @@
       <dateCreated>8-11 May 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9346,7 +9554,9 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9386,7 +9596,9 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9426,7 +9638,9 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9466,7 +9680,9 @@
       <dateCreated>5-May-41</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9507,7 +9723,9 @@
       <dateCreated>17,18,19 December 1946</dateCreated>
       <publisher>Columbia University</publisher>
     </originInfo>
-    <location/>
+    <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
+    </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
         <title>Music at Columbia: The First 100 Years</title>
@@ -9552,6 +9770,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9598,6 +9817,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9643,6 +9863,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9688,6 +9909,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -9730,6 +9952,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files 11</shelfLocator>
@@ -9776,6 +9999,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/philharmonic-society</url>
       <holdingSimple>
         <copyInformation>
@@ -9823,6 +10047,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/philharmonic-society</url>
       <holdingSimple>
         <copyInformation>
@@ -9870,6 +10095,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/philharmonic-society</url>
       <holdingSimple>
         <copyInformation>
@@ -9917,6 +10143,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music-performance--the-early-y/the-early-years</url>
       <holdingSimple>
         <copyInformation>
@@ -9964,6 +10191,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 244, f.1</shelfLocator>
@@ -10011,6 +10239,7 @@
       <publisher>Columbia University</publisher>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Historical Subject Files Box 238, f.5</shelfLocator>
@@ -10059,6 +10288,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
       <holdingSimple>
         <copyInformation>
@@ -10111,6 +10341,7 @@
       <dateCreated>1902</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
       <holdingSimple>
         <copyInformation>
@@ -10160,6 +10391,7 @@
       <dateCreated>June 1901</dateCreated>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
       <holdingSimple>
         <copyInformation>
@@ -10209,6 +10441,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
       <holdingSimple>
         <copyInformation>
@@ -10265,6 +10498,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/commemorative-exhibit</url>
       <holdingSimple>
         <copyInformation>
@@ -10318,6 +10552,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/commemorative-exhibit</url>
       <holdingSimple>
         <copyInformation>
@@ -10368,6 +10603,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/commemorative-exhibit</url>
       <holdingSimple>
         <copyInformation>
@@ -10419,6 +10655,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-of-music</url>
       <holdingSimple>
         <copyInformation>
@@ -10465,6 +10702,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-of-music</url>
       <holdingSimple>
         <copyInformation>
@@ -10511,6 +10749,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-of-music</url>
       <holdingSimple>
         <copyInformation>
@@ -10557,6 +10796,7 @@
       </place>
     </originInfo>
     <location>
+      <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/macdowell-era/department-of-music</url>
       <holdingSimple>
         <copyInformation>
