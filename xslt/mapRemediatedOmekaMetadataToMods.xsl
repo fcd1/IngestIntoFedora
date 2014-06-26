@@ -417,7 +417,7 @@
       </xsl:if>
     </xsl:for-each>
     <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
-    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka_')]">
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
       <xsl:if test=" . != '' ">
 	<!-- fcd1, 04/25/14: assume content already contains "original filename: " -->
 	<!-- which is the case for the Frances Perkins remediated data -->
