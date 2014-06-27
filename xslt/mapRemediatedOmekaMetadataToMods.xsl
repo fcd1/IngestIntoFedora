@@ -399,6 +399,13 @@
 	</relatedItem>
       </xsl:if>
     </xsl:for-each>
+    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Relation')]">
+      <xsl:if test=" . != '' ">
+	<relatedItem>
+	  <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
+	</relatedItem>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
   
   <!-- fcd1, 03/26/14: MODS <note> -->
