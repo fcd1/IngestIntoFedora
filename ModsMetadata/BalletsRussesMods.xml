@@ -1424,10 +1424,12 @@
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1905</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
       <dateCreated>between 1905 and 1920</dateCreated>
-      <dateCreated>Berlin</dateCreated>
       <publisher>Verl. Herm. Leiser</publisher>
       <place>
         <placeTerm type="text">Paris</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Berlin</placeTerm>
       </place>
     </originInfo>
     <location>
