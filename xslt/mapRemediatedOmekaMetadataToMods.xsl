@@ -464,6 +464,9 @@
   <!-- fcd1, 05/27/14: handle case where no item_-_ItemType exists, or it was empty -->
   <!-- Note: to output the complete contents of a variable that may contains a node and children nodes, -->
   <!-- use copy-of, not value-of -->
+  <!-- fcd1, 07/01/14: Add code to check if content contains "Original Format:" or -->
+  <!-- "Physical Dimensions:". If it does, just use "still image". Reason: the two cases -->
+  <!-- are handled in another mapping.-->
   <!-- Frances Perkins: all items contain a populated <item_-_ItemType>, with content either -->
   <!-- "Still Image" or "Document". So here, just lowercase the content and use it in a -->
   <!-- <typeOfResource> -->
@@ -474,7 +477,11 @@
   <xsl:template name="TypeOfResource">
     <xsl:variable name="givenTypeOfResource">
       <xsl:for-each select="*[starts-with(name(), 'item_-_ItemType')]">
-	<xsl:if test=" . != '' ">
+	<xsl:if test=" . != '' 
+		and
+		not(starts-with(., 'Original Format'))
+		and
+		not(starts-with(., 'Physical Dimensions:'))">
 	  <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
 	  <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
 	  <typeOfResource><xsl:value-of select="translate(.,$uppercase,$smallcase)"/></typeOfResource>
