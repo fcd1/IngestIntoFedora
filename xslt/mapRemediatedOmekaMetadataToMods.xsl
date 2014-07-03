@@ -324,7 +324,7 @@
   <xsl:template name="HoldingSimpleCopyInformation">
     <!-- fcd1, 06/25/14: add following so we only create wrapper element it there are -->
     <!-- subelements to wrap. If we don't check, an empty <copyInformation/> will be created -->
-    <xsl:if test="(item_-_MODS_-_Subrepository/. != '')
+    <xsl:if test="(*[starts-with(name(), 'item_-_MODS_-_Subrepository')]/. != '')
 		  or 
 		  (item_-_MODS_-_ShelfLocation/. !='')">
       <holdingSimple><copyInformation>
