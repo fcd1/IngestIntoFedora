@@ -551,10 +551,6 @@
     </xsl:for-each>
   </xsl:template>
 
-  <xsl:template name="PhysicalLocation">
-    <physicalLocation type="code" authority="marcorg"><xsl:value-of select="."/></physicalLocation>
-  </xsl:template>
-
   <!-- fcd1, 04/23/14: MODS <physicalLocation type="code"> -->
   <!-- fcd1, 03/24/14: Assumes metadata being process has been remediated and contains correct and valid code -->
   <xsl:template match="item_-_MODS_-_RepositoryName_-_code">
