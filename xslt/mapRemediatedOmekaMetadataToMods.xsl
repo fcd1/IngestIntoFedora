@@ -380,10 +380,24 @@
   <!-- Handles the collection name, as stored in Omeka, as well as -->
   <!-- as the project URL, and the MODS Collection field -->
   <!-- fcd1, 06/03/14: also handles the DC Source field -->
+  <!-- fcd1, 07/08/14: Note that the project URL may not be present -->
+  <!-- in the remediated metadata, so in that case need to generate it -->
   <xsl:template name="RelatedItem">
     <relatedItem displayLabel="Project" type="host">
       <xsl:apply-templates select="item_-_OmekaCollection"/>
-      <xsl:apply-templates select="project_URL"/>
+      <!-- fcd1, 07/08/14: In the remediated data for certain collections -->
+      <!-- the <project_URL> element is not included. Therefore, the code -->
+      <!-- needs to generate it. According to the CUL mapping specs -->
+      <!-- the content is the resolver URL as found in CLIO -->
+      <xsl:choose>
+	<xsl:when test="item_-_OmekaCollection = 'Music at Columbia: The First 100 Years'">
+          <location><url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9628664</url></location>
+	</xsl:when>
+	<xsl:otherwise>
+	  <!-- fcd1, 07/08/14: all other collections should have the <project_URL> element -->
+	  <xsl:apply-templates select="project_URL"/>
+	</xsl:otherwise>
+      </xsl:choose>
     </relatedItem>
     <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Collection')]">
       <xsl:if test=" . != '' ">
