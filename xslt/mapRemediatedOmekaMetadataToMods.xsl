@@ -553,11 +553,22 @@
 
   <!-- fcd1, 04/23/14: MODS <physicalLocation type="code"> -->
   <!-- fcd1, 03/24/14: Assumes metadata being process has been remediated and contains correct and valid code -->
+  <!-- fcd1, 07/08/14: since the Non-CUl repository code is an internal CUL code, do not include -->
+  <!-- the authority attribute in that case -->
   <xsl:template match="item_-_MODS_-_RepositoryName_-_code">
     <xsl:if test=" . != '' ">
-      <physicalLocation type="code" authority="marcorg">
-	<xsl:value-of select="."/>
-      </physicalLocation>
+      <xsl:choose>
+	<xsl:when test=". = 'Non-CUL' ">
+	  <physicalLocation type="code">
+	    <xsl:value-of select="."/>
+	  </physicalLocation>
+	</xsl:when>
+	<xsl:otherwise>
+	  <physicalLocation type="code" authority="marcorg">
+	    <xsl:value-of select="."/>
+	  </physicalLocation>
+	</xsl:otherwise>
+      </xsl:choose>
     </xsl:if>
   </xsl:template>
 
