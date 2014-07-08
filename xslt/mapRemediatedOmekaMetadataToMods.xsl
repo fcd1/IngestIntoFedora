@@ -559,12 +559,12 @@
     <xsl:if test=" . != '' ">
       <xsl:choose>
 	<xsl:when test=". = 'Non-CUL' ">
-	  <physicalLocation type="code">
+	  <physicalLocation>
 	    <xsl:value-of select="."/>
 	  </physicalLocation>
 	</xsl:when>
 	<xsl:otherwise>
-	  <physicalLocation type="code" authority="marcorg">
+	  <physicalLocation authority="marcorg">
 	    <xsl:value-of select="."/>
 	  </physicalLocation>
 	</xsl:otherwise>
