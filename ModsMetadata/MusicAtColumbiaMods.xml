@@ -7784,7 +7784,10 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
       <form>photographs</form>
     </physicalDescription>
-    <originInfo/>
+    <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1920</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1950</dateCreated>
+    </originInfo>
     <location>
       <physicalLocation type="code" authority="marcorg">NNC-UA</physicalLocation>
       <holdingSimple>
