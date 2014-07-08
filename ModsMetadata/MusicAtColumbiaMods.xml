@@ -488,7 +488,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">Non-CUL</physicalLocation>
+      <physicalLocation type="code">Non-CUL</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1491,7 +1491,7 @@
       <dateCreated>1899</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">Non-CUL</physicalLocation>
+      <physicalLocation type="code">Non-CUL</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/finding-a-home/morningside-campus</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
