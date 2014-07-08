@@ -6088,13 +6088,13 @@ Box 15, Folder 13, Ditson Awards</item_-_MODS_-_ShelfLocation>
     <row>
         <item_-_public>1</item_-_public>
         <item_-_itemId>6392</item_-_itemId>
-        <item_-_MODS_-_TypeofDate></item_-_MODS_-_TypeofDate>
+        <item_-_MODS_-_TypeofDate>inferred</item_-_MODS_-_TypeofDate>
         <item_-_MODS_-_DigitalOrigin>reformatted digital</item_-_MODS_-_DigitalOrigin>
         <item_-_MODS_-_RepositoryName>University Archives, Columbia University</item_-_MODS_-_RepositoryName>
         <item_-_MODS_-_RepositoryName_-_code>NNC-UA</item_-_MODS_-_RepositoryName_-_code>
         <item_-_MODS_-_LanguageofCataloging>eng</item_-_MODS_-_LanguageofCataloging>
-        <item_-_MODS_-_KeyDate_-_Single_Start></item_-_MODS_-_KeyDate_-_Single_Start>
-        <item_-_MODS_-_KeyDate_-_End></item_-_MODS_-_KeyDate_-_End>
+        <item_-_MODS_-_KeyDate_-_Single_Start>1920</item_-_MODS_-_KeyDate_-_Single_Start>
+        <item_-_MODS_-_KeyDate_-_End>1950</item_-_MODS_-_KeyDate_-_End>
         <item_-_MODS_-_FormGenre>photographs</item_-_MODS_-_FormGenre>
         <item_-_MODS_-_ShelfLocation>Historical  Photograph Collection-Portraits-Dittler Box 31</item_-_MODS_-_ShelfLocation>
         <item_-_MODS_-_Collection>Historical Photograph Collection</item_-_MODS_-_Collection>
