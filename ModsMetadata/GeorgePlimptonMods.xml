@@ -17,7 +17,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-3</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -80,7 +80,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -139,7 +139,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -198,7 +198,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-3</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -255,7 +255,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -318,7 +318,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -372,7 +372,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -430,7 +430,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -492,7 +492,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -555,7 +555,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -615,7 +615,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -676,7 +676,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -741,7 +741,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/reich/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -800,7 +800,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -848,7 +848,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -904,7 +904,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -963,7 +963,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -1022,7 +1022,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -1083,7 +1083,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1141,7 +1141,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -1201,7 +1201,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -1262,7 +1262,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -1321,7 +1321,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1377,7 +1377,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1433,7 +1433,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/encyclopedias/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -1501,7 +1501,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -1561,7 +1561,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Plimpton 511 1630 W72</shelfLocator>
@@ -1619,7 +1619,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -1678,7 +1678,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/slavery/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -1736,7 +1736,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-2</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1794,7 +1794,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -1873,7 +1873,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1930</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/slavery/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -1933,7 +1933,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -1993,7 +1993,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-2</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2040,7 +2040,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1926</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -2105,7 +2105,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -2167,7 +2167,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -2220,7 +2220,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Feb. 2, 1901</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-3</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2278,7 +2278,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -2339,7 +2339,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -2397,7 +2397,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -2457,7 +2457,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/slavery/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -2523,7 +2523,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>A091 1892 G431</shelfLocator>
@@ -2582,7 +2582,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -2641,7 +2641,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Plimpton MS 040i</shelfLocator>
@@ -2696,7 +2696,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -2759,7 +2759,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -2818,7 +2818,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -2875,7 +2875,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -2932,7 +2932,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1870s?</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -2987,7 +2987,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3047,7 +3047,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3106,7 +3106,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3165,7 +3165,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -3220,7 +3220,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>April 24, 1926</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -3282,7 +3282,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/encyclopedias/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -3342,7 +3342,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -3399,7 +3399,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>ca. 1890's</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -3452,7 +3452,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Jan. 11, 1917</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-4</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -3510,7 +3510,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3569,7 +3569,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -3623,7 +3623,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -3680,7 +3680,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -3741,7 +3741,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -3800,7 +3800,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3858,7 +3858,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -3923,7 +3923,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -3981,7 +3981,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Early 20th century?</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4033,7 +4033,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -4092,7 +4092,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -4153,7 +4153,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -4212,7 +4212,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -4279,7 +4279,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -4335,7 +4335,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -4394,7 +4394,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -4450,7 +4450,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1890s</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4504,7 +4504,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Sept. 6, 1991</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4563,7 +4563,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/reich/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -4622,7 +4622,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -4681,7 +4681,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -4740,7 +4740,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/primers/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -4796,7 +4796,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4852,7 +4852,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-5</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4909,7 +4909,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/encyclopedias/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -4971,7 +4971,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>15th to 18th centuries</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -5024,7 +5024,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1937</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5081,7 +5081,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>First third of 20th century?</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -5140,7 +5140,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -5205,7 +5205,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -5272,7 +5272,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/primers/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -5329,7 +5329,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/reich/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -5389,7 +5389,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -5445,7 +5445,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -5507,7 +5507,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5565,7 +5565,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -5627,7 +5627,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -5682,7 +5682,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1563</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Plimpton MS 209</shelfLocator>
@@ -5741,7 +5741,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-3</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5796,7 +5796,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -5856,7 +5856,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -5919,7 +5919,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -5979,7 +5979,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -6039,7 +6039,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -6098,7 +6098,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -6158,7 +6158,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-5</url>
       <holdingSimple>
         <copyInformation>
@@ -6221,7 +6221,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6276,7 +6276,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -6340,7 +6340,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -6395,7 +6395,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -6460,7 +6460,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -6519,7 +6519,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -6580,7 +6580,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -6640,7 +6640,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -6698,7 +6698,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -6760,7 +6760,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6816,7 +6816,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -6875,7 +6875,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -6927,7 +6927,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -6988,7 +6988,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -7041,7 +7041,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -7101,7 +7101,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -7162,7 +7162,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1930</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7219,7 +7219,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -7282,7 +7282,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -7336,7 +7336,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -7398,7 +7398,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-1</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7457,7 +7457,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -7521,7 +7521,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -7583,7 +7583,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -7643,7 +7643,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -7704,7 +7704,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -7763,7 +7763,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -7822,7 +7822,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/encyclopedias/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -7884,7 +7884,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-4</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7941,7 +7941,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -8000,7 +8000,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -8062,7 +8062,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8122,7 +8122,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -8190,7 +8190,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -8250,7 +8250,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-quadrivium/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -8309,7 +8309,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-2</url>
       <holdingSimple>
         <copyInformation>
@@ -8366,7 +8366,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
       <holdingSimple>
         <copyInformation>
@@ -8426,7 +8426,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -8490,7 +8490,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/primers/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -8546,7 +8546,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
@@ -8598,7 +8598,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-3</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -8653,7 +8653,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1900</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
       <holdingSimple>
         <copyInformation>
@@ -8709,7 +8709,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>

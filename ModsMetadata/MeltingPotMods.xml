@@ -15,7 +15,7 @@
       <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/background</url>
       <holdingSimple>
         <copyInformation>
@@ -72,7 +72,7 @@
       <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/background</url>
       <holdingSimple>
         <copyInformation>
@@ -129,7 +129,7 @@
       <dateCreated>Between 1950 and 1990</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/introduction</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -184,7 +184,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -242,7 +242,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -288,7 +288,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ibsinger</url>
       <holdingSimple>
         <copyInformation>
@@ -356,7 +356,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ginsberg</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -402,7 +402,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ginsberg</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -447,7 +447,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ginsberg</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -512,7 +512,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/abzug</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -564,7 +564,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/zukofsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -609,7 +609,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1902 and 1909</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/street-scenes</url>
       <holdingSimple>
         <copyInformation>
@@ -668,7 +668,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/shaw</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -717,7 +717,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1902 and 1909</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/street-scenes</url>
       <holdingSimple>
         <copyInformation>
@@ -777,7 +777,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/heller</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -828,7 +828,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/westsidestory</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -883,7 +883,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -936,7 +936,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>circa 1942</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -987,7 +987,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>circa 1942</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1042,7 +1042,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/ira_gershwin</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1095,7 +1095,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>circa 1905</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/street-scenes</url>
       <holdingSimple>
         <copyInformation>
@@ -1149,7 +1149,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1920 and 1950</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/adler</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -1199,7 +1199,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1905</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/street-scenes</url>
       <holdingSimple>
         <copyInformation>
@@ -1255,7 +1255,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/royalsociety</url>
       <holdingSimple>
         <copyInformation>
@@ -1320,7 +1320,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/royalsociety</url>
       <holdingSimple>
         <copyInformation>
@@ -1379,7 +1379,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/royalsociety</url>
       <holdingSimple>
         <copyInformation>
@@ -1439,7 +1439,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/royalsociety</url>
       <holdingSimple>
         <copyInformation>
@@ -1499,7 +1499,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/royalsociety</url>
       <holdingSimple>
         <copyInformation>
@@ -1560,7 +1560,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/royalsociety</url>
       <holdingSimple>
         <copyInformation>
@@ -1621,7 +1621,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/aids</url>
       <holdingSimple>
         <copyInformation>
@@ -1673,7 +1673,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1724,7 +1724,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -1775,7 +1775,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/illustrations</url>
       <holdingSimple>
         <copyInformation>
@@ -1832,7 +1832,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/illustrations</url>
       <holdingSimple>
         <copyInformation>
@@ -1889,7 +1889,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1946</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/illustrations</url>
       <holdingSimple>
         <copyInformation>
@@ -1950,7 +1950,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/invitations</url>
       <holdingSimple>
         <copyInformation>
@@ -2009,7 +2009,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/invitations</url>
       <holdingSimple>
         <copyInformation>
@@ -2066,7 +2066,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/invitations</url>
       <holdingSimple>
         <copyInformation>
@@ -2123,7 +2123,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/invitations</url>
       <holdingSimple>
         <copyInformation>
@@ -2177,7 +2177,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1941 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/cards</url>
       <holdingSimple>
         <copyInformation>
@@ -2234,7 +2234,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1946 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/cards</url>
       <holdingSimple>
         <copyInformation>
@@ -2294,7 +2294,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/certificate</url>
       <holdingSimple>
         <copyInformation>
@@ -2354,7 +2354,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/lydenberg</url>
       <holdingSimple>
         <copyInformation>
@@ -2415,7 +2415,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/lydenberg</url>
       <holdingSimple>
         <copyInformation>
@@ -2480,7 +2480,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/demobilisation</url>
       <holdingSimple>
         <copyInformation>
@@ -2542,7 +2542,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/demobilisation</url>
       <holdingSimple>
         <copyInformation>
@@ -2597,7 +2597,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/demobilisation</url>
       <holdingSimple>
         <copyInformation>
@@ -2657,7 +2657,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/ids</url>
       <holdingSimple>
         <copyInformation>
@@ -2714,7 +2714,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>October 17, 1922</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/larionov</url>
       <holdingSimple>
         <copyInformation>
@@ -2773,7 +2773,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/costume</url>
       <holdingSimple>
         <copyInformation>
@@ -2827,7 +2827,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1926</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/benois</url>
       <holdingSimple>
         <copyInformation>
@@ -2886,7 +2886,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/artshow</url>
       <holdingSimple>
         <copyInformation>
@@ -2945,7 +2945,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/paravent</url>
       <holdingSimple>
         <copyInformation>
@@ -3000,7 +3000,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/artshow</url>
       <holdingSimple>
         <copyInformation>
@@ -3059,7 +3059,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/artshow</url>
       <holdingSimple>
         <copyInformation>
@@ -3118,7 +3118,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/paravent</url>
       <holdingSimple>
         <copyInformation>
@@ -3174,7 +3174,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/artshow</url>
       <holdingSimple>
         <copyInformation>
@@ -3233,7 +3233,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/ids</url>
       <holdingSimple>
         <copyInformation>
@@ -3291,7 +3291,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/ids</url>
       <holdingSimple>
         <copyInformation>
@@ -3349,7 +3349,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/ids</url>
       <holdingSimple>
         <copyInformation>
@@ -3408,7 +3408,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/passports</url>
       <holdingSimple>
         <copyInformation>
@@ -3467,7 +3467,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/passports</url>
       <holdingSimple>
         <copyInformation>
@@ -3524,7 +3524,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/memoirs</url>
       <holdingSimple>
         <copyInformation>
@@ -3581,7 +3581,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/memoirs</url>
       <holdingSimple>
         <copyInformation>
@@ -3638,7 +3638,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/memoirs</url>
       <holdingSimple>
         <copyInformation>
@@ -3695,7 +3695,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/memoirs</url>
       <holdingSimple>
         <copyInformation>
@@ -3752,7 +3752,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/memoirs</url>
       <holdingSimple>
         <copyInformation>
@@ -3809,7 +3809,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/memoirs</url>
       <holdingSimple>
         <copyInformation>
@@ -3866,7 +3866,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1960 and 1981</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/artists</url>
       <holdingSimple>
         <copyInformation>
@@ -3921,7 +3921,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -3972,7 +3972,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1907 and 1938</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4025,7 +4025,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1950 and 1974</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
       <holdingSimple>
         <copyInformation>
@@ -4078,7 +4078,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4137,7 +4137,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -4193,7 +4193,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4254,7 +4254,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1939-1940</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4302,7 +4302,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1939-1940</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4352,7 +4352,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/jolson</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4404,7 +4404,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>Between 1950 and 1990</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/jolson</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4455,7 +4455,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1927</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/jolson</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4509,7 +4509,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4563,7 +4563,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4617,7 +4617,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4672,7 +4672,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4726,7 +4726,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4781,7 +4781,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4830,7 +4830,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated encoding="w3cdtf" keyDate="yes">1960-03-10</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4879,7 +4879,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4935,7 +4935,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -4993,7 +4993,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5047,7 +5047,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5106,7 +5106,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5157,7 +5157,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5212,7 +5212,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -5260,7 +5260,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ibsinger</url>
       <holdingSimple>
         <copyInformation>
@@ -5318,7 +5318,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ibsinger</url>
       <holdingSimple>
         <copyInformation>
@@ -5378,7 +5378,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ibsinger</url>
       <holdingSimple>
         <copyInformation>
@@ -5434,7 +5434,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/chukovskii_letter</url>
       <holdingSimple>
         <copyInformation>
@@ -5498,7 +5498,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/chukovskii_letter</url>
       <holdingSimple>
         <copyInformation>
@@ -5559,7 +5559,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_fatal_eggs</url>
       <holdingSimple>
         <copyInformation>
@@ -5622,7 +5622,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_fatal_eggs</url>
       <holdingSimple>
         <copyInformation>
@@ -5684,7 +5684,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_fatal_eggs</url>
       <holdingSimple>
         <copyInformation>
@@ -5745,7 +5745,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/babel</url>
       <holdingSimple>
         <copyInformation>
@@ -5813,7 +5813,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>Between 1914 and 1940</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/babel</url>
       <holdingSimple>
         <copyInformation>
@@ -5872,7 +5872,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_translations</url>
       <holdingSimple>
         <copyInformation>
@@ -5925,7 +5925,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>November 3, 1973</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_ata</url>
       <holdingSimple>
         <copyInformation>
@@ -5981,7 +5981,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>November 3, 1973</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_ata</url>
       <holdingSimple>
         <copyInformation>
@@ -6037,7 +6037,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>November 3, 1973</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_ata</url>
       <holdingSimple>
         <copyInformation>
@@ -6097,7 +6097,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/ginsburg_autobiography</url>
       <holdingSimple>
         <copyInformation>
@@ -6153,7 +6153,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>Between 1925 and 1927</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/joseph_ginsburg</url>
       <holdingSimple>
         <copyInformation>
@@ -6217,7 +6217,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/joseph_ginsburg</url>
       <holdingSimple>
         <copyInformation>
@@ -6275,7 +6275,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/writers</url>
       <holdingSimple>
         <copyInformation>
@@ -6331,7 +6331,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6384,7 +6384,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6437,7 +6437,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6490,7 +6490,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>1936</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/fighters</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6541,7 +6541,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6592,7 +6592,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6646,7 +6646,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>Between 1934 and 1952</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -6700,7 +6700,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
       <holdingSimple>
         <copyInformation>
@@ -6762,7 +6762,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
       <holdingSimple>
         <copyInformation>
@@ -6818,7 +6818,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
       <holdingSimple>
         <copyInformation>
@@ -6874,7 +6874,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
       <holdingSimple>
         <copyInformation>
@@ -6933,7 +6933,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
       <holdingSimple>
         <copyInformation>
@@ -6995,7 +6995,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>May 1, 1951</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
       <holdingSimple>
         <copyInformation>
@@ -7067,7 +7067,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/fighters</url>
       <holdingSimple>
         <copyInformation>
@@ -7132,7 +7132,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7186,7 +7186,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7238,7 +7238,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7288,7 +7288,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
       <holdingSimple>
         <copyInformation>
@@ -7353,7 +7353,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7406,7 +7406,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7459,7 +7459,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7510,7 +7510,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7563,7 +7563,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -7616,7 +7616,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7675,7 +7675,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7728,7 +7728,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7782,7 +7782,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/fighters</url>
     </location>
     <relatedItem displayLabel="Project" type="host">
@@ -7838,7 +7838,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/army</url>
       <holdingSimple>
         <copyInformation>
@@ -7895,7 +7895,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/army</url>
       <holdingSimple>
         <copyInformation>
@@ -7949,7 +7949,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/introduction</url>
       <holdingSimple>
         <copyInformation>
@@ -8006,7 +8006,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/pogroms</url>
       <holdingSimple>
         <copyInformation>
@@ -8064,7 +8064,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/pogroms</url>
       <holdingSimple>
         <copyInformation>
@@ -8120,7 +8120,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/pogroms</url>
       <holdingSimple>
         <copyInformation>
@@ -8175,7 +8175,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/soiuz_russkago_naroda</url>
       <holdingSimple>
         <copyInformation>
@@ -8234,7 +8234,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/pogroms</url>
       <holdingSimple>
         <copyInformation>
@@ -8296,7 +8296,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/protocols_zion</url>
       <holdingSimple>
         <copyInformation>
@@ -8353,7 +8353,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>Between 1910 and 1920</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/pogroms</url>
       <holdingSimple>
         <copyInformation>
@@ -8413,7 +8413,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/army</url>
       <holdingSimple>
         <copyInformation>
@@ -8474,7 +8474,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/army</url>
       <holdingSimple>
         <copyInformation>
@@ -8536,7 +8536,7 @@ Gift of Allen Ginsberg, 1993</note>
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/soiuz_russkago_naroda</url>
       <holdingSimple>
         <copyInformation>
@@ -8598,7 +8598,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1911 and 1929</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/koshko</url>
       <holdingSimple>
         <copyInformation>
@@ -8668,7 +8668,7 @@ Gift of Allen Ginsberg, 1993</note>
       <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/background</url>
       <holdingSimple>
         <copyInformation>
@@ -8729,7 +8729,7 @@ Gift of Allen Ginsberg, 1993</note>
       <publisher>No place, no date</publisher>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>

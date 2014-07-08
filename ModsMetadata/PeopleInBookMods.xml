@@ -21,7 +21,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g363</url>
       <holdingSimple>
         <copyInformation>
@@ -74,7 +74,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
       <holdingSimple>
         <copyInformation>
@@ -128,7 +128,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_se5</url>
       <holdingSimple>
         <copyInformation>
@@ -185,7 +185,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_se5</url>
       <holdingSimple>
         <copyInformation>
@@ -241,7 +241,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r112</url>
       <holdingSimple>
         <copyInformation>
@@ -297,7 +297,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r112</url>
       <holdingSimple>
         <copyInformation>
@@ -353,7 +353,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r112</url>
       <holdingSimple>
         <copyInformation>
@@ -409,7 +409,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r112</url>
       <holdingSimple>
         <copyInformation>
@@ -466,7 +466,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_v836</url>
       <holdingSimple>
         <copyInformation>
@@ -523,7 +523,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r11</url>
       <holdingSimple>
         <copyInformation>
@@ -580,7 +580,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r11</url>
       <holdingSimple>
         <copyInformation>
@@ -633,7 +633,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 L9763</shelfLocator>
@@ -686,7 +686,7 @@
       <dateCreated>15th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 Se34</shelfLocator>
@@ -742,7 +742,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 N19</shelfLocator>
@@ -795,7 +795,7 @@
       <dateCreated>17th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 N14</shelfLocator>
@@ -851,7 +851,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 M6845</shelfLocator>
@@ -904,7 +904,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 M582</shelfLocator>
@@ -957,7 +957,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 M28</shelfLocator>
@@ -1010,7 +1010,7 @@
       <dateCreated>17th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 M11</shelfLocator>
@@ -1062,7 +1062,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 H16</shelfLocator>
@@ -1117,7 +1117,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 H16</shelfLocator>
@@ -1170,7 +1170,7 @@
       <dateCreated>15th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 C73</shelfLocator>
@@ -1220,7 +1220,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 B4796 (green box)</shelfLocator>
@@ -1269,7 +1269,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 B479</shelfLocator>
@@ -1318,7 +1318,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 B476</shelfLocator>
@@ -1374,7 +1374,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 B47</shelfLocator>
@@ -1423,7 +1423,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Spinoza 193 Sp4 FH135</shelfLocator>
@@ -1473,7 +1473,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_se3</url>
       <holdingSimple>
         <copyInformation>
@@ -1524,7 +1524,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_se3</url>
       <holdingSimple>
         <copyInformation>
@@ -1578,7 +1578,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_m52</url>
       <holdingSimple>
         <copyInformation>
@@ -1632,7 +1632,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_l9738</url>
       <holdingSimple>
         <copyInformation>
@@ -1686,7 +1686,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_l893</url>
       <holdingSimple>
         <copyInformation>
@@ -1740,7 +1740,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_l892</url>
       <holdingSimple>
         <copyInformation>
@@ -1796,7 +1796,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_k14</url>
       <holdingSimple>
         <copyInformation>
@@ -1847,7 +1847,7 @@
       <dateCreated>17th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_h33</url>
       <holdingSimple>
         <copyInformation>
@@ -1903,7 +1903,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_k14</url>
       <holdingSimple>
         <copyInformation>
@@ -1954,7 +1954,7 @@
       <dateCreated>17th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_h33</url>
       <holdingSimple>
         <copyInformation>
@@ -2010,7 +2010,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g363</url>
       <holdingSimple>
         <copyInformation>
@@ -2066,7 +2066,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g363</url>
       <holdingSimple>
         <copyInformation>
@@ -2122,7 +2122,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g363</url>
       <holdingSimple>
         <copyInformation>
@@ -2176,7 +2176,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g15</url>
       <holdingSimple>
         <copyInformation>
@@ -2232,7 +2232,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_c81</url>
       <holdingSimple>
         <copyInformation>
@@ -2288,7 +2288,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_c81</url>
       <holdingSimple>
         <copyInformation>
@@ -2344,7 +2344,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_c81</url>
       <holdingSimple>
         <copyInformation>
@@ -2400,7 +2400,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_c81</url>
       <holdingSimple>
         <copyInformation>
@@ -2451,7 +2451,7 @@
       <dateCreated>17th century?</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_19_p41</url>
       <holdingSimple>
         <copyInformation>
@@ -2505,7 +2505,7 @@
       <dateCreated>16th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_t142</url>
       <holdingSimple>
         <copyInformation>
@@ -2561,7 +2561,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_so2</url>
       <holdingSimple>
         <copyInformation>
@@ -2618,7 +2618,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_r66</url>
       <holdingSimple>
         <copyInformation>
@@ -2674,7 +2674,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_m5863</url>
       <holdingSimple>
         <copyInformation>
@@ -2731,7 +2731,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_j51</url>
       <holdingSimple>
         <copyInformation>
@@ -2785,7 +2785,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_j51</url>
       <holdingSimple>
         <copyInformation>
@@ -2839,7 +2839,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_j51</url>
       <holdingSimple>
         <copyInformation>
@@ -2890,7 +2890,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_az8</url>
       <holdingSimple>
         <copyInformation>
@@ -2943,7 +2943,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x86_c12</url>
       <holdingSimple>
         <copyInformation>
@@ -2993,7 +2993,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x86_c12</url>
       <holdingSimple>
         <copyInformation>
@@ -3043,7 +3043,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x86_c12</url>
       <holdingSimple>
         <copyInformation>
@@ -3093,7 +3093,7 @@
       <dateCreated>1781</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_19_p41</url>
       <holdingSimple>
         <copyInformation>
@@ -3146,7 +3146,7 @@
       <dateCreated>1781</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_19_p41</url>
       <holdingSimple>
         <copyInformation>
@@ -3202,7 +3202,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j544</url>
       <holdingSimple>
         <copyInformation>
@@ -3255,7 +3255,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_j6</url>
       <holdingSimple>
         <copyInformation>
@@ -3311,7 +3311,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_j6</url>
       <holdingSimple>
         <copyInformation>
@@ -3367,7 +3367,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_sh354</url>
       <holdingSimple>
         <copyInformation>
@@ -3420,7 +3420,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_sa7</url>
       <holdingSimple>
         <copyInformation>
@@ -3477,7 +3477,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j7496</url>
       <holdingSimple>
         <copyInformation>
@@ -3530,7 +3530,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_k512</url>
       <holdingSimple>
         <copyInformation>
@@ -3584,7 +3584,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j7496</url>
       <holdingSimple>
         <copyInformation>
@@ -3635,7 +3635,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_7492</url>
       <holdingSimple>
         <copyInformation>
@@ -3689,7 +3689,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j73825</url>
       <holdingSimple>
         <copyInformation>
@@ -3743,7 +3743,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j73825</url>
       <holdingSimple>
         <copyInformation>
@@ -3797,7 +3797,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j725</url>
       <holdingSimple>
         <copyInformation>
@@ -3851,7 +3851,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j725</url>
       <holdingSimple>
         <copyInformation>
@@ -3905,7 +3905,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j725</url>
       <holdingSimple>
         <copyInformation>
@@ -3959,7 +3959,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j725</url>
       <holdingSimple>
         <copyInformation>
@@ -4013,7 +4013,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j725</url>
       <holdingSimple>
         <copyInformation>
@@ -4063,7 +4063,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j71</url>
       <holdingSimple>
         <copyInformation>
@@ -4113,7 +4113,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j71</url>
       <holdingSimple>
         <copyInformation>
@@ -4163,7 +4163,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j71</url>
       <holdingSimple>
         <copyInformation>
@@ -4216,7 +4216,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j55</url>
       <holdingSimple>
         <copyInformation>
@@ -4270,7 +4270,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j522</url>
       <holdingSimple>
         <copyInformation>
@@ -4324,7 +4324,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j522</url>
       <holdingSimple>
         <copyInformation>
@@ -4378,7 +4378,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_d549</url>
       <holdingSimple>
         <copyInformation>
@@ -4432,7 +4432,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_p653</url>
       <holdingSimple>
         <copyInformation>
@@ -4486,7 +4486,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_p653</url>
       <holdingSimple>
         <copyInformation>
@@ -4537,7 +4537,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_m273</url>
       <holdingSimple>
         <copyInformation>
@@ -4591,7 +4591,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 J5169</shelfLocator>
@@ -4644,7 +4644,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 J5169</shelfLocator>
@@ -4696,7 +4696,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_h61</url>
       <holdingSimple>
         <copyInformation>
@@ -4746,7 +4746,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
       <holdingSimple>
         <copyInformation>
@@ -4796,7 +4796,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
       <holdingSimple>
         <copyInformation>
@@ -4846,7 +4846,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
       <holdingSimple>
         <copyInformation>
@@ -4896,7 +4896,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
       <holdingSimple>
         <copyInformation>
@@ -4947,7 +4947,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m841</url>
       <holdingSimple>
         <copyInformation>
@@ -5001,7 +5001,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m841</url>
       <holdingSimple>
         <copyInformation>
@@ -5058,7 +5058,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m81</url>
       <holdingSimple>
         <copyInformation>
@@ -5115,7 +5115,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m6858</url>
       <holdingSimple>
         <copyInformation>
@@ -5168,7 +5168,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_l571</url>
       <holdingSimple>
         <copyInformation>
@@ -5224,7 +5224,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_l571</url>
       <holdingSimple>
         <copyInformation>
@@ -5281,7 +5281,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_k314</url>
       <holdingSimple>
         <copyInformation>
@@ -5335,7 +5335,7 @@
       <dateCreated>17th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_k13</url>
       <holdingSimple>
         <copyInformation>
@@ -5391,7 +5391,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_h62</url>
       <holdingSimple>
         <copyInformation>
@@ -5445,7 +5445,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_f84</url>
       <holdingSimple>
         <copyInformation>
@@ -5502,7 +5502,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_f84</url>
       <holdingSimple>
         <copyInformation>
@@ -5559,7 +5559,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_ab8</url>
       <holdingSimple>
         <copyInformation>
@@ -5612,7 +5612,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/western_ms_41f</url>
       <holdingSimple>
         <copyInformation>
@@ -5663,7 +5663,7 @@
       <dateCreated>17th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/smith_heb_11</url>
       <holdingSimple>
         <copyInformation>
@@ -5716,7 +5716,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893c_j55_v25</url>
       <holdingSimple>
         <copyInformation>
@@ -5769,7 +5769,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893c_j55_v25</url>
       <holdingSimple>
         <copyInformation>
@@ -5822,7 +5822,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_z8_v3_n3</url>
       <holdingSimple>
         <copyInformation>
@@ -5875,7 +5875,7 @@
       <dateCreated>1824</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_t71</url>
       <holdingSimple>
         <copyInformation>
@@ -5925,7 +5925,7 @@
       <dateCreated>1824</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_t71</url>
       <holdingSimple>
         <copyInformation>
@@ -5975,7 +5975,7 @@
       <dateCreated>1824</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_t71</url>
       <holdingSimple>
         <copyInformation>
@@ -6025,7 +6025,7 @@
       <dateCreated>1824</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_t71</url>
       <holdingSimple>
         <copyInformation>
@@ -6079,7 +6079,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_sh63</url>
       <holdingSimple>
         <copyInformation>
@@ -6132,7 +6132,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_se32</url>
       <holdingSimple>
         <copyInformation>
@@ -6188,7 +6188,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_se32</url>
       <holdingSimple>
         <copyInformation>
@@ -6244,7 +6244,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_m5844</url>
       <holdingSimple>
         <copyInformation>
@@ -6297,7 +6297,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_l55</url>
       <holdingSimple>
         <copyInformation>
@@ -6353,7 +6353,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_k519997</url>
       <holdingSimple>
         <copyInformation>
@@ -6406,7 +6406,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_k51991</url>
       <holdingSimple>
         <copyInformation>
@@ -6459,7 +6459,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_k516</url>
       <holdingSimple>
         <copyInformation>
@@ -6512,7 +6512,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_k14_4</url>
       <holdingSimple>
         <copyInformation>
@@ -6565,7 +6565,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_j559</url>
       <holdingSimple>
         <copyInformation>
@@ -6622,7 +6622,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_j554</url>
       <holdingSimple>
         <copyInformation>
@@ -6676,7 +6676,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_j554</url>
       <holdingSimple>
         <copyInformation>
@@ -6729,7 +6729,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_j5395</url>
       <holdingSimple>
         <copyInformation>
@@ -6783,7 +6783,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_1n_z6_v1</url>
       <holdingSimple>
         <copyInformation>
@@ -6837,7 +6837,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_se36</url>
       <holdingSimple>
         <copyInformation>
@@ -6891,7 +6891,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_se36</url>
       <holdingSimple>
         <copyInformation>
@@ -6945,7 +6945,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_se36</url>
       <holdingSimple>
         <copyInformation>
@@ -6998,7 +6998,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/karaites/x893_m68</url>
       <holdingSimple>
         <copyInformation>
@@ -7052,7 +7052,7 @@
       <dateCreated>13th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_m2816</url>
       <holdingSimple>
         <copyInformation>
@@ -7108,7 +7108,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_l979</url>
       <holdingSimple>
         <copyInformation>
@@ -7164,7 +7164,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_l979</url>
       <holdingSimple>
         <copyInformation>
@@ -7218,7 +7218,7 @@
       <dateCreated>15th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_im6</url>
       <holdingSimple>
         <copyInformation>
@@ -7271,7 +7271,7 @@
       <dateCreated>1860</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/karaites/x893_h26</url>
       <holdingSimple>
         <copyInformation>
@@ -7324,7 +7324,7 @@
       <dateCreated>1469</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_h11</url>
       <holdingSimple>
         <copyInformation>
@@ -7377,7 +7377,7 @@
       <dateCreated>1469</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_h11</url>
       <holdingSimple>
         <copyInformation>
@@ -7433,7 +7433,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/karaites/x893_f51</url>
       <holdingSimple>
         <copyInformation>
@@ -7489,7 +7489,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/karaites/x893_b4776</url>
       <holdingSimple>
         <copyInformation>
@@ -7543,7 +7543,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_al352</url>
       <holdingSimple>
         <copyInformation>
@@ -7597,7 +7597,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_al352</url>
       <holdingSimple>
         <copyInformation>
@@ -7654,7 +7654,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/doctors/x893_r62</url>
       <holdingSimple>
         <copyInformation>
@@ -7708,7 +7708,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/doctors/x893_m56</url>
       <holdingSimple>
         <copyInformation>
@@ -7765,7 +7765,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/x893_is7</url>
       <holdingSimple>
         <copyInformation>
@@ -7822,7 +7822,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/x893_is7</url>
       <holdingSimple>
         <copyInformation>
@@ -7879,7 +7879,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/x893_h61</url>
       <holdingSimple>
         <copyInformation>
@@ -7936,7 +7936,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/x893_h61</url>
       <holdingSimple>
         <copyInformation>
@@ -7990,7 +7990,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/x893_as3</url>
       <holdingSimple>
         <copyInformation>
@@ -8044,7 +8044,7 @@
       <dateCreated>19th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/smith_heb_11</url>
       <holdingSimple>
         <copyInformation>
@@ -8095,7 +8095,7 @@
       <dateCreated>19th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Smith Hebrew 11</shelfLocator>
@@ -8143,7 +8143,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/goff_t89g</url>
       <holdingSimple>
         <copyInformation>
@@ -8195,7 +8195,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>Goff T89b</shelfLocator>
@@ -8247,7 +8247,7 @@
       <dateCreated>19th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_2_m85</url>
       <holdingSimple>
         <copyInformation>
@@ -8297,7 +8297,7 @@
       <dateCreated>1636</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m88</url>
       <holdingSimple>
         <copyInformation>
@@ -8350,7 +8350,7 @@
       <dateCreated>1636</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m88</url>
       <holdingSimple>
         <copyInformation>
@@ -8403,7 +8403,7 @@
       <dateCreated>1636</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m88</url>
       <holdingSimple>
         <copyInformation>
@@ -8457,7 +8457,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m28</url>
       <holdingSimple>
         <copyInformation>
@@ -8510,7 +8510,7 @@
       <dateCreated>1636</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m88</url>
       <holdingSimple>
         <copyInformation>
@@ -8567,7 +8567,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_sh1</url>
       <holdingSimple>
         <copyInformation>
@@ -8624,7 +8624,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_r732</url>
       <holdingSimple>
         <copyInformation>
@@ -8681,7 +8681,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_r732</url>
       <holdingSimple>
         <copyInformation>
@@ -8738,7 +8738,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_r73</url>
       <holdingSimple>
         <copyInformation>
@@ -8795,7 +8795,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_r73</url>
       <holdingSimple>
         <copyInformation>
@@ -8852,7 +8852,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_p95</url>
       <holdingSimple>
         <copyInformation>
@@ -8906,7 +8906,7 @@
       <dateCreated>15th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_ar432</url>
       <holdingSimple>
         <copyInformation>
@@ -8963,7 +8963,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_p95</url>
       <holdingSimple>
         <copyInformation>
@@ -9013,7 +9013,7 @@
       <dateCreated>probably between 1641 and 1707</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x86_ab7</url>
       <holdingSimple>
         <copyInformation>
@@ -9063,7 +9063,7 @@
       <dateCreated>probably between 1641 and 1707</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x86_ab7</url>
       <holdingSimple>
         <copyInformation>
@@ -9120,7 +9120,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
           <shelfLocator>X893 An1</shelfLocator>
@@ -9173,7 +9173,7 @@
       <dateCreated>10th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_1n_z6_v4</url>
       <holdingSimple>
         <copyInformation>
@@ -9224,7 +9224,7 @@
       <dateCreated>12th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_1_bc_so4</url>
       <holdingSimple>
         <copyInformation>
@@ -9278,7 +9278,7 @@
       <dateCreated>15th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_1_bc_p434</url>
       <holdingSimple>
         <copyInformation>
@@ -9328,7 +9328,7 @@
       <dateCreated>1654</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_t72</url>
       <holdingSimple>
         <copyInformation>
@@ -9384,7 +9384,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_t141</url>
       <holdingSimple>
         <copyInformation>
@@ -9438,7 +9438,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_l56</url>
       <holdingSimple>
         <copyInformation>
@@ -9492,7 +9492,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_j152</url>
       <holdingSimple>
         <copyInformation>
@@ -9548,7 +9548,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_d54</url>
       <holdingSimple>
         <copyInformation>
@@ -9604,7 +9604,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_d54</url>
       <holdingSimple>
         <copyInformation>
@@ -9660,7 +9660,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_c21</url>
       <holdingSimple>
         <copyInformation>
@@ -9712,7 +9712,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_ab71</url>
       <holdingSimple>
         <copyInformation>
@@ -9764,7 +9764,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_ab71</url>
       <holdingSimple>
         <copyInformation>
@@ -9820,7 +9820,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_ab7</url>
       <holdingSimple>
         <copyInformation>
@@ -9876,7 +9876,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_ab7</url>
       <holdingSimple>
         <copyInformation>
@@ -9932,7 +9932,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_ab7</url>
       <holdingSimple>
         <copyInformation>
@@ -9986,7 +9986,7 @@
       <dateCreated>19th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_si7</url>
       <holdingSimple>
         <copyInformation>
@@ -10040,7 +10040,7 @@
       <dateCreated>16th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_sh4</url>
       <holdingSimple>
         <copyInformation>
@@ -10091,7 +10091,7 @@
       <dateCreated>16th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_sh4</url>
       <holdingSimple>
         <copyInformation>
@@ -10142,7 +10142,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_se35</url>
       <holdingSimple>
         <copyInformation>
@@ -10196,7 +10196,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_se35</url>
       <holdingSimple>
         <copyInformation>
@@ -10250,7 +10250,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_se35</url>
       <holdingSimple>
         <copyInformation>
@@ -10306,7 +10306,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_sa31</url>
       <holdingSimple>
         <copyInformation>
@@ -10359,7 +10359,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_j5</url>
       <holdingSimple>
         <copyInformation>
@@ -10409,7 +10409,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_j5</url>
       <holdingSimple>
         <copyInformation>
@@ -10460,7 +10460,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_h532</url>
       <holdingSimple>
         <copyInformation>
@@ -10514,7 +10514,7 @@
       <dateCreated>18th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_h532</url>
       <holdingSimple>
         <copyInformation>
@@ -10567,7 +10567,7 @@
       <dateCreated>1453</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_h111</url>
       <holdingSimple>
         <copyInformation>
@@ -10620,7 +10620,7 @@
       <dateCreated>1453</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_h111</url>
       <holdingSimple>
         <copyInformation>
@@ -10674,7 +10674,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_al1</url>
       <holdingSimple>
         <copyInformation>
@@ -10728,7 +10728,7 @@
       </place>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_al1</url>
       <holdingSimple>
         <copyInformation>
@@ -10778,7 +10778,7 @@
       <dateCreated>1928</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NNC-A</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/nyda_1963_002_01873</url>
       <holdingSimple>
         <copyInformation>
@@ -10825,7 +10825,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NyNyCBL</physicalLocation>
+      <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/burke_ms_74</url>
       <holdingSimple>
         <copyInformation>
@@ -10868,7 +10868,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NyNyCBL</physicalLocation>
+      <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/burke_ms_74</url>
       <holdingSimple>
         <copyInformation>
@@ -10911,7 +10911,7 @@
       <dateCreated>14th century</dateCreated>
     </originInfo>
     <location>
-      <physicalLocation type="code" authority="marcorg">NyNyCBL</physicalLocation>
+      <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/burke_ms_74</url>
       <holdingSimple>
         <copyInformation>
