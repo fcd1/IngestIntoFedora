@@ -428,7 +428,12 @@
       <!-- fcd1, 04/25/14: Do not process an item_-_MODS_-_Notes that -->
       <!-- contains "Original filename", since we are getting the origina -->
       <!-- filename from item_-_OriginalFileLoadedIntoOmeka_ -->
-      <xsl:if test=" . != '' and not(contains(.,'Original filename:'))">
+      <!-- fcd1, 07/10/14: add code to make the test case-insensitive -->
+      <xsl:variable name="lowercase" select="'aefgilmnor'" />
+      <xsl:variable name="uppercase" select="'AEFGILMNOR'" />
+      <xsl:if test=" . != ''
+		    and
+		    not(contains(translate(.,$uppercase,$lowercase),'original filename:'))">
 	<note><xsl:value-of select="."/></note>
       </xsl:if>
     </xsl:for-each>
