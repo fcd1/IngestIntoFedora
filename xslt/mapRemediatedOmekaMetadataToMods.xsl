@@ -393,6 +393,9 @@
 	<xsl:when test="item_-_OmekaCollection = 'Music at Columbia: The First 100 Years'">
           <location><url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9628664</url></location>
 	</xsl:when>
+	<xsl:when test="item_-_OmekaCollection = 'The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries'">
+          <location><url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url></location>
+	</xsl:when>
 	<xsl:otherwise>
 	  <!-- fcd1, 07/08/14: all other collections should have the <project_URL> element -->
 	  <xsl:apply-templates select="project_URL"/>
