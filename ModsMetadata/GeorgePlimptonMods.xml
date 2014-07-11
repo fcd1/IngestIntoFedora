@@ -1785,6 +1785,8 @@
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
       <form>manuscripts</form>
+      <form>book</form>
+      <extent>21 x 16 cm</extent>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1726-02-22</dateCreated>
