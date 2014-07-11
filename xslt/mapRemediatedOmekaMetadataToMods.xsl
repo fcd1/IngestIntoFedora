@@ -162,10 +162,15 @@
 
   <!-- fcd1, 03/26/14: MODS <physicalDescription>, not repeatable -->
   <!-- fcd1, 03/26/14: contains <form>, <digitalOrigin> -->
+  <!-- fcd1, 07/11/14: add call to template handling Original Format -->
+  <!-- and Physical Dimension instances in George Plimpton -->
   <xsl:template name="PhysicalDescription">
     <physicalDescription>
       <xsl:call-template name="DigitalOrigin"/>
       <xsl:call-template name="Form"/>
+      <xsl:if test="contains(item_-_OmekaCollection,'George Arthur Plimpton')">
+	<xsl:call-template name="GeorgePlimptonSpecific"/>
+      </xsl:if>
     </physicalDescription>
   </xsl:template>
   
@@ -580,5 +585,17 @@
     </xsl:if>
   </xsl:template>
 
+  <xsl:template name="GeorgePlimptonSpecific">
+    <xsl:for-each select="Plimpton_item_-_ItemType_1">
+      <xsl:if test=" . != '' ">
+	<form><xsl:value-of select="substring-after(.,'Original Format: ')"/></form>
+      </xsl:if>
+    </xsl:for-each>
+    <xsl:for-each select="Plimpton_item_-_ItemType_2">
+      <xsl:if test=" . != '' ">
+	<extent><xsl:value-of select="substring-after(.,'Physical Dimensions: ')"/></extent>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
 
 </xsl:stylesheet>
