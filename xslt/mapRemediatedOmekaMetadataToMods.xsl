@@ -32,17 +32,37 @@
     </mods>
   </xsl:template>
   
-  <xsl:template match="*[starts-with(name(), 'item_-_DublinCore_-_Title')]">
+  <xsl:template match="item_-_DublinCore_-_Title">
     <titleInfo><title><xsl:value-of select="."/></title></titleInfo>
+  </xsl:template>
+
+  <xsl:template name="DC_Title_2">
+      <xsl:if test="item_-_DublinCore_-_Title_2/. != '' ">
+	<!-- fcd1, 07/22/14: type attribute is required per CUL-specs for -->
+	<!-- a "secondary" title -->
+	<xsl:choose>
+	  <xsl:when test="item_-_DublinCore_-_Title_2_-_Attribute/. = ''">
+	    <xsl:message terminate="yes">
+	      ---- !!!! ---- ERROR: No attribute for secondary title ---- !!!! ----
+	    </xsl:message>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <titleInfo>
+	      <xsl:attribute name="type"><xsl:value-of select="item_-_DublinCore_-_Title_2_-_Attribute/."/></xsl:attribute>
+	      <title><xsl:value-of select="item_-_DublinCore_-_Title_2/."/>
+	      </title>
+	    </titleInfo>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:if>
   </xsl:template>
   
   <!-- fcd1, 03/26/14: MODS <titleInfo><title> -->
   <xsl:template name="TitleInfo">
-    <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Title')]">
-      <xsl:if test=" . != '' ">
-	<titleInfo><title><xsl:value-of select="."/></title></titleInfo>
-      </xsl:if>
-    </xsl:for-each>
+    <!-- fcd1, 07/22/14: section which handles main title -->
+    <xsl:apply-templates select="item_-_DublinCore_-_Title"/>
+    <!-- fcd1, 07/22/14: section which handles secondary title(s) -->
+    <xsl:call-template name="DC_Title_2"/>
   </xsl:template>
 
   <!-- fcd1, 03/26/14: MODS <digitalOrigin> -->
