@@ -454,8 +454,6 @@
     <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
     <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
       <xsl:if test=" . != '' ">
-	<!-- fcd1, 07/22/14: removed to see if prefix "original filename: " is present -->
-	<!-- All remediated metadata should have it, so no need to check -->
 	<note><xsl:value-of select="."/></note>
       </xsl:if>
     </xsl:for-each>
