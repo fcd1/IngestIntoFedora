@@ -450,6 +450,32 @@
     </xsl:for-each>
   </xsl:template>
   
+  <!-- fcd1, 07/22/14: Customized template for the Frances Perkins collection -->
+  <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka_FrancesPerkins">
+    <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
+      <xsl:if test=" . != '' ">
+	<xsl:variable name="francesperkinsprefix"
+		      select="'original filename: perkins_'"/>
+	<xsl:choose>
+	  <xsl:when test="starts-with(.,$francesperkinsprefix)">
+	    <xsl:variable name="filenamewithoutprefix"
+			  select="concat('original filename: ', substring-after(.,$francesperkinsprefix))"/>
+	    <xsl:variable name="filenamewithtiffsuffix"
+			  select="concat(substring-before($filenamewithoutprefix,'.jpg'),'.tif')"/>
+	    <note><xsl:value-of select="$filenamewithtiffsuffix"/></note>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:variable name="filenamewithoutprefix" select="."/>
+	    <xsl:variable name="filenamewithtiffsuffix"
+			  select="concat(substring-before($filenamewithoutprefix,'.jpg'),'.tif')"/>
+	    <note><xsl:value-of select="$filenamewithtiffsuffix"/></note>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+
   <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka">
     <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
     <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
@@ -479,7 +505,14 @@
 	<note type="ownership"><xsl:value-of select="."/></note>
       </xsl:if>
     </xsl:for-each>
-    <xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka"/>
+    <xsl:choose>
+      <xsl:when test="contains(item_-_OmekaCollection,'Frances Perkins: The Woman Behind the New Deal')">
+	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_FrancesPerkins"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka"/>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <abstract> -->
