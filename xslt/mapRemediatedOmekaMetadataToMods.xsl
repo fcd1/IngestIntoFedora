@@ -450,6 +450,27 @@
     </xsl:for-each>
   </xsl:template>
   
+  <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka">
+    <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
+      <xsl:if test=" . != '' ">
+	<!-- fcd1, 07/02/14: it is possible that the content for this element in the -->
+	<!-- remediated metadata does not contain the string "original filename :" -->
+	<!-- This was the case for the George Plimpton remediated metadata. -->
+	<!-- Some collections do contain the string, such the Frances Perkins remediated data -->
+	<!-- So check for existence of string, and if needed, add it to the content -->
+	<xsl:choose>
+	  <xsl:when test="starts-with(.,'original filename:')">
+	    <note><xsl:value-of select="."/></note>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <note>original filename: <xsl:value-of select="."/></note>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+
   <!-- fcd1, 03/26/14: MODS <note> -->
   <xsl:template name="Note">
     <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_Notes')]">
@@ -470,24 +491,7 @@
 	<note type="ownership"><xsl:value-of select="."/></note>
       </xsl:if>
     </xsl:for-each>
-    <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
-    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
-      <xsl:if test=" . != '' ">
-	<!-- fcd1, 07/02/14: it is possible that the content for this element in the -->
-	<!-- remediated metadata does not contain the string "original filename :" -->
-	<!-- This was the case for the George Plimpton remediated metadata. -->
-	<!-- Some collections do contain the string, such the Frances Perkins remediated data -->
-	<!-- So check for existence of string, and if needed, add it to the content -->
-	<xsl:choose>
-	  <xsl:when test="starts-with(.,'original filename:')">
-	    <note><xsl:value-of select="."/></note>
-	  </xsl:when>
-	  <xsl:otherwise>
-	    <note>original filename: <xsl:value-of select="."/></note>
-	  </xsl:otherwise>
-	</xsl:choose>
-      </xsl:if>
-    </xsl:for-each>
+    <xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka"/>
   </xsl:template>
 
   <!-- fcd1, 04/23/14: MODS <abstract> -->
