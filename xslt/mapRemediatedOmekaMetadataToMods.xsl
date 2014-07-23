@@ -476,6 +476,38 @@
     </xsl:for-each>
   </xsl:template>
 
+  <!-- fcd1, 07/22/14: Customized template for the George Plimpton collection -->
+  <!-- fcd1, 07/23/14: in fstore, all files are of the form PLMPTN_096_001.tif -->
+  <!-- However, in Omeka, the filenames may have a lowercase prefix, i.e plmptn_031_001.jpg -->
+  <!-- Code will uppercase these. -->
+  <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka_GeorgePlimpton">
+    <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
+      <xsl:if test=" . != '' ">
+	<xsl:variable name="georgeplimptonlowercaseprefix"
+		      select="'original filename: plmptn_'"/>
+	<xsl:variable name="georgeplimptonuppercaseprefix"
+		      select="'original filename: PLMPTN_'"/>
+	<xsl:choose>
+	  <xsl:when test="starts-with(.,$georgeplimptonlowercaseprefix)">
+	    <xsl:variable name="filenamecorrectcase"
+			  select="concat($georgeplimptonuppercaseprefix,
+				  substring-after(.,$georgeplimptonlowercaseprefix))"/>
+	    <xsl:variable name="filenamewithtiffsuffix"
+			  select="concat(substring-before($filenamecorrectcase,'.jpg'),'.tif')"/>
+	    <note><xsl:value-of select="$filenamewithtiffsuffix"/></note>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:variable name="filenamecorrectcase" select="."/>
+	    <xsl:variable name="filenamewithtiffsuffix"
+			  select="concat(substring-before($filenamecorrectcase,'.jpg'),'.tif')"/>
+	    <note><xsl:value-of select="$filenamewithtiffsuffix"/></note>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+
   <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka">
     <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
     <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
@@ -508,6 +540,9 @@
     <xsl:choose>
       <xsl:when test="contains(item_-_OmekaCollection,'Frances Perkins: The Woman Behind the New Deal')">
 	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_FrancesPerkins"/>
+      </xsl:when>
+      <xsl:when test="contains(item_-_OmekaCollection,'George Arthur Plimpton')">
+	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_GeorgePlimpton"/>
       </xsl:when>
       <xsl:otherwise>
 	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka"/>
