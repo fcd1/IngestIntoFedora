@@ -544,7 +544,7 @@
     <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
     <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
       <xsl:if test=" . != '' ">
-	<note><xsl:value-of select="."/></note>
+	<note><xsl:value-of select="concat(substring-before(.,'.jpg'),'.tif')"/></note>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
