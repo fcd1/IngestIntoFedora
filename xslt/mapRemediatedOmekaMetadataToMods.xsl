@@ -540,6 +540,77 @@
     </xsl:for-each>
   </xsl:template>
 
+  <!-- fcd1, 07/25/14: template for filenames with different prefixes between -->
+  <!-- the JPEG filename used in Omeka and the filename of the PDCD-generated TIFF in fstore -->
+  <!-- ** Frances Perkins: Omeka file may have prefix: perkins_090074225.jpg in Omeka, -->
+  <!-- 090074225.tif in fstore -->
+  <!-- ** Ballets Russes: ballet_russe_07-10-01.jpg  in Omeka and -->
+  <!-- 07-10-01.jpg  in fstore -->
+  <!-- ** Plimpon: all files are of the form PLMPTN_096_001.tif in fstore-->
+  <!-- However, in Omeka, the filenames may have a lowercase prefix, i.e plmptn_031_001.jpg -->
+  <!-- For all collections, the code will remove/normalize the prefix, as well as replace -->
+  <!-- the .jpg with .tif -->
+  <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka_normalize_prefix">
+
+    <!-- fcd1, 07/25/14: Set the Omeka prefix -->
+    <xsl:variable name="omeka_prefix">
+      <xsl:choose>
+	<xsl:when test="contains(item_-_OmekaCollection,'Frances Perkins: The Woman Behind the New Deal')">
+	  <xsl:value-of select="'original filename: perkins_'"/>
+	</xsl:when>
+	<xsl:when test="contains(item_-_OmekaCollection,'George Arthur Plimpton')">
+	  <xsl:value-of select="'original filename: plmptn_'"/>
+	</xsl:when>
+	<xsl:when test="contains(item_-_OmekaCollection,'Sergei Diaghilev and Beyond: Les Ballets Russes')">
+	  <xsl:value-of select="'original filename: ballet_russe_'"/>
+	</xsl:when>
+	<xsl:otherwise>
+	  <xsl:value-of select="'original filename: '"/>
+	</xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+
+    <!-- fcd1, 07/25/14: Set the PDCD prefix -->
+    <xsl:variable name="pdcd_prefix">
+      <xsl:choose>
+	<xsl:when test="contains(item_-_OmekaCollection,'Frances Perkins: The Woman Behind the New Deal')">
+	  <xsl:value-of select="'original filename: '"/>
+	</xsl:when>
+	<xsl:when test="contains(item_-_OmekaCollection,'George Arthur Plimpton')">
+	  <xsl:value-of select="'original filename: PLMPTN_'"/>
+	</xsl:when>
+	<xsl:when test="contains(item_-_OmekaCollection,'Sergei Diaghilev and Beyond: Les Ballets Russes')">
+	  <xsl:value-of select="'original filename: '"/>
+	</xsl:when>
+	<xsl:otherwise>
+	  <xsl:value-of select="'original filename: '"/>
+	</xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+
+    <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
+    <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
+      <xsl:if test=" . != '' ">
+	<xsl:choose>
+	  <xsl:when test="starts-with(.,$omeka_prefix)">
+	    <xsl:variable name="tifffilename"
+			  select="concat($pdcd_prefix,
+				  substring-after(.,$omeka_prefix))"/>
+	    <xsl:variable name="filenamewithtiffsuffix"
+			  select="concat(substring-before($tifffilename,'.jpg'),'.tif')"/>
+	    <note><xsl:value-of select="$filenamewithtiffsuffix"/></note>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:variable name="tifffilename" select="."/>
+	    <xsl:variable name="filenamewithtiffsuffix"
+			  select="concat(substring-before($tifffilename,'.jpg'),'.tif')"/>
+	    <note><xsl:value-of select="$filenamewithtiffsuffix"/></note>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+
   <xsl:template name="Omeka_OriginalFileLoadedIntoOmeka">
     <!-- fcd1, 04/25/14: spoke to Eric, he prefers one <note> element per filename -->
     <xsl:for-each select="*[starts-with(name(), 'item_-_OriginalFileLoadedIntoOmeka')]">
@@ -571,13 +642,13 @@
     </xsl:for-each>
     <xsl:choose>
       <xsl:when test="contains(item_-_OmekaCollection,'Frances Perkins: The Woman Behind the New Deal')">
-	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_FrancesPerkins"/>
+	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_normalize_prefix"/>
       </xsl:when>
       <xsl:when test="contains(item_-_OmekaCollection,'George Arthur Plimpton')">
-	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_GeorgePlimpton"/>
+	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_normalize_prefix"/>
       </xsl:when>
       <xsl:when test="contains(item_-_OmekaCollection,'Sergei Diaghilev and Beyond: Les Ballets Russes')">
-	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_BalletsRusses"/>
+	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka_normalize_prefix"/>
       </xsl:when>
       <xsl:otherwise>
 	<xsl:call-template name="Omeka_OriginalFileLoadedIntoOmeka"/>
