@@ -705,7 +705,14 @@
     </xsl:for-each>
     <xsl:for-each select="*[starts-with(name(), 'item_-_DublinCore_-_Identifier')]">
       <xsl:if test=" . != '' ">
-	<identifier><xsl:value-of select="."/></identifier>
+	<xsl:if test=" not(starts-with(.,'CLIO_')) ">
+	  <xsl:message terminate="yes">
+	    ---- !!!! ---- ERROR: Expecting CLIO number in DC Identifier, did not get one! ---- !!!! ----
+	    <xsl:text>Value is: </xsl:text><xsl:value-of select="."/>
+	    <xsl:text> for Omeka item </xsl:text><xsl:value-of select="../item_-_itemId/."/>
+	  </xsl:message>
+	</xsl:if>
+	<identifier type="CLIO"><xsl:value-of select="."/></identifier>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
