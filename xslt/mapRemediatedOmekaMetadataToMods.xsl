@@ -178,6 +178,21 @@
 	  <form><xsl:value-of select="."/></form>
 	</xsl:if>
       </xsl:for-each>
+      <!-- fcd1, 08/04/14 -->
+      <!-- for <item_-_ItemType_-_text>, need to remove "Original Format: " -->
+      <!-- which may appear at the start of its content -->
+      <xsl:for-each select="*[starts-with(name(), 'item_-_ItemType_-_text')]">
+	<xsl:if test=" . != '' ">
+	  <xsl:choose>
+	    <xsl:when test="starts-with(.,'Original Format: ')">
+	      <form><xsl:value-of select="substring-after(.,'Original Format: ')"/></form>
+	    </xsl:when>
+	    <xsl:otherwise>
+	      <form><xsl:value-of select="."/></form>
+	    </xsl:otherwise>
+	  </xsl:choose>
+	</xsl:if>
+      </xsl:for-each>
   </xsl:template>
 
   <!-- fcd1, 08/04/14: MODS <extent> -->
