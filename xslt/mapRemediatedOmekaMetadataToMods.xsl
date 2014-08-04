@@ -180,6 +180,15 @@
       </xsl:for-each>
   </xsl:template>
 
+  <!-- fcd1, 08/04/14: MODS <extent> -->
+  <xsl:template name="Extent">
+      <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_PhysicalDescription')]">
+	<xsl:if test=" . != '' ">
+	  <extent><xsl:value-of select="."/></extent>
+	</xsl:if>
+      </xsl:for-each>
+  </xsl:template>
+
   <!-- fcd1, 03/26/14: MODS <physicalDescription>, not repeatable -->
   <!-- fcd1, 03/26/14: contains <form>, <digitalOrigin> -->
   <!-- fcd1, 07/11/14: add call to template handling Original Format -->
@@ -187,6 +196,7 @@
   <xsl:template name="PhysicalDescription">
     <physicalDescription>
       <xsl:call-template name="DigitalOrigin"/>
+      <xsl:call-template name="Extent"/>
       <xsl:call-template name="Form"/>
       <xsl:if test="contains(item_-_OmekaCollection,'George Arthur Plimpton')">
 	<xsl:call-template name="GeorgePlimptonSpecific"/>
