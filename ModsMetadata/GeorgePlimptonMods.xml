@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods>
-    <identifier type="local">omeka_000001</identifier>
+    <identifier type="omeka">omeka_000001</identifier>
     <titleInfo>
-      <title>Letter to George Arthur Plimpton regarding honorary degree, March 4, 1929</title>
+      <title>Letter to George Arthur Plimpton regarding honorary degree, March 4, 1929. Pages 1-2, envelope</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages, 1 envelope</extent>
+      <extent>3 images</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -59,16 +61,18 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000002</identifier>
-    <identifier>CLIO id: 2451401</identifier>
+    <identifier type="omeka">omeka_000002</identifier>
+    <identifier type="CLIO">CLIO_2451401</identifier>
     <titleInfo>
-      <title>Of the Advancement and Proficience of Learning, or, the Partitions of Sciences</title>
+      <title>Of the Advancement and Proficience of Learning, or, the Partitions of Sciences. Preliminary page, title page.</title>
     </titleInfo>
-    <titleInfo>
-      <title>Partitions of Sciences</title>
+    <titleInfo type="alternative">
+      <title>Partitions of Sciences. Preliminary page, title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -76,7 +80,7 @@
       <dateCreated>1640</dateCreated>
       <publisher>Printed by Leon. Lichfield for Robert Young &amp; Edward Forrest</publisher>
       <place>
-        <placeTerm type="text">Oxford</placeTerm>
+        <placeTerm type="text">Oxford (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -122,20 +126,21 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000003</identifier>
+    <identifier type="omeka">omeka_000003</identifier>
     <titleInfo>
       <title>Telegram to George Arthur Plimpton, October 22, 1922</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
-      <form>telegraphs</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1922-03-04</dateCreated>
       <dateCreated>Oct. 22, 1922</dateCreated>
       <place>
-        <placeTerm type="text">Washington, D.C.</placeTerm>
+        <placeTerm type="text">Washington (D.C.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -179,14 +184,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000004</identifier>
+    <identifier type="omeka">omeka_000004</identifier>
     <titleInfo>
       <title>Wellesley College Library Bookplate</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
-      <form>bookplates</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1895</dateCreated>
@@ -194,7 +200,7 @@
       <dateCreated>circa 1900</dateCreated>
       <publisher>Wellesley College Library</publisher>
       <place>
-        <placeTerm type="text">Wellesley, Mass.</placeTerm>
+        <placeTerm type="text">Wellesley (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -238,12 +244,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000005</identifier>
+    <identifier type="omeka">omeka_000005</identifier>
     <titleInfo>
-      <title>Rhetorica ad Herennium</title>
+      <title>Rhetorica ad Herennium. Page 2 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -251,7 +259,7 @@
       <dateCreated encoding="w3cdtf" point="end">1470</dateCreated>
       <dateCreated>Mid 15th century</dateCreated>
       <place>
-        <placeTerm type="text">Verona, Italy</placeTerm>
+        <placeTerm type="text">Verona (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -282,7 +290,7 @@
       <namePart>Pseudo-Cicero</namePart>
     </name>
     <name>
-      <namePart>Feliciano, Felice, 15th cent.</namePart>
+      <namePart>Feliciano, Felice, active 15th century</namePart>
     </name>
     <subject>
       <topic>Rhetoric</topic>
@@ -300,21 +308,22 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000006</identifier>
+    <identifier type="omeka">omeka_000006</identifier>
     <titleInfo>
       <title>Amherst Class of 1876</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1932</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1934</dateCreated>
       <dateCreated>circa 1933</dateCreated>
       <place>
-        <placeTerm type="text">Amherst, Mass.</placeTerm>
+        <placeTerm type="text">Amherst (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -355,12 +364,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000007</identifier>
+    <identifier type="omeka">omeka_000007</identifier>
     <titleInfo>
-      <title>Liber mahometi de Algebra</title>
+      <title>Liber mahometi de Algebra. Page 73 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -396,7 +407,7 @@
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_040_001.tif</note>
     <name>
-      <namePart>Khuwārizmī, Muḥammad ibn Mūsá, fl. 813-846</namePart>
+      <namePart>Khuwārizmī, Muḥammad ibn Mūsá, active 813-846</namePart>
     </name>
     <subject>
       <topic>Mathematics</topic>
@@ -414,12 +425,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000008</identifier>
+    <identifier type="omeka">omeka_000008</identifier>
     <titleInfo>
       <title>Letter to George A. Plimpton, April 3, 1902</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>4 pages</extent>
+      <extent>4 images</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -473,13 +486,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000009</identifier>
-    <identifier>CLIO id: 1623605</identifier>
+    <identifier type="omeka">omeka_000009</identifier>
+    <identifier type="CLIO">CLIO_1623605</identifier>
     <titleInfo>
-      <title>Computus cum Commento</title>
+      <title>Computus cum Commento. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -488,7 +503,7 @@
       <dateCreated>circa 1490</dateCreated>
       <publisher>Lienhart Ysenhut</publisher>
       <place>
-        <placeTerm type="text">Basel</placeTerm>
+        <placeTerm type="text">Basel (Switzerland)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -534,16 +549,18 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000010</identifier>
-    <identifier>CLIO id: 1982310</identifier>
+    <identifier type="omeka">omeka_000010</identifier>
+    <identifier type="CLIO">CLIO_1982310</identifier>
     <titleInfo>
-      <title>Arts Glory, or, The Pen-Mans Treasury</title>
+      <title>Arts Glory, or, The Pen-Mans Treasury. Preliminary page, title page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Pen-Mans Treasury</title>
+    <titleInfo type="alternative">
+      <title>Pen-Mans Treasury. Preliminary page, title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -551,7 +568,7 @@
       <dateCreated>1666</dateCreated>
       <publisher>Printed for, and are to be sold by John Overton</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -597,13 +614,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000011</identifier>
-    <identifier>CLIO id: 1905301</identifier>
+    <identifier type="omeka">omeka_000011</identifier>
+    <identifier type="CLIO">CLIO_1905301</identifier>
     <titleInfo>
-      <title>Gaskell’s Complete Compendium of Elegant Writing</title>
+      <title>Gaskell’s Complete Compendium of Elegant Writing. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -611,7 +630,7 @@
       <dateCreated>1876</dateCreated>
       <publisher>Published at [Gaskell’s Bryant &amp; Stratton] College</publisher>
       <place>
-        <placeTerm type="text">Manchester, N. H.</placeTerm>
+        <placeTerm type="text">Manchester (N.H.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -640,7 +659,7 @@
     <note>original filename: PLMPTN_077_001.tif</note>
     <note>original filename: PLMPTN_077_002.tif</note>
     <name>
-      <namePart>Gaskell, G. A. (George A.), b. 1844</namePart>
+      <namePart>Gaskell, G. A. (George A.), 1844-</namePart>
     </name>
     <subject>
       <topic>Penmanship</topic>
@@ -658,12 +677,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000013</identifier>
+    <identifier type="omeka">omeka_000013</identifier>
     <titleInfo>
-      <title>Gramaticall Cards, Comprising the Generall Rules of Lilley’s Gramer</title>
+      <title>Gramaticall Cards, Comprising the Generall Rules of Lilley’s Gramer. 1 of clubs front, 2 of spades front, 5 of spades front, Queen of diamonds front, King of hearts front, Use card front</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>6 cards</extent>
+      <extent>1 image</extent>
       <form>playing cards</form>
     </physicalDescription>
     <originInfo>
@@ -672,7 +693,7 @@
       <dateCreated>Circa 1700</dateCreated>
       <publisher>Sold by John Lenthall Stationer</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -723,13 +744,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000014</identifier>
-    <identifier>CLIO id: 2428665</identifier>
+    <identifier type="omeka">omeka_000014</identifier>
+    <identifier type="CLIO">CLIO_2428665</identifier>
     <titleInfo>
-      <title>Margarita Philosophica</title>
+      <title>Margarita Philosophica. Preliminary page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -737,7 +760,7 @@
       <dateCreated>1503</dateCreated>
       <publisher>Chalchographatum primiciali hac pressura Friburgi p[er] ioanne[m] Schottu[m] Argen[toraci]</publisher>
       <place>
-        <placeTerm type="text">Freiburg im Breisgau</placeTerm>
+        <placeTerm type="text">Freiburg im Breisgau (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -765,7 +788,7 @@
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_014_001.tif</note>
     <name>
-      <namePart>Reisch, Gregor, d. 1525</namePart>
+      <namePart>Reisch, Gregor, -1525</namePart>
     </name>
     <subject>
       <topic>Encyclopedias and dictionaries, Latin</topic>
@@ -783,12 +806,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000015</identifier>
+    <identifier type="omeka">omeka_000015</identifier>
     <titleInfo>
       <title>Lewis Farm</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
@@ -796,7 +821,7 @@
       <dateCreated encoding="w3cdtf" point="end">1925</dateCreated>
       <dateCreated>Early 20th century?</dateCreated>
       <place>
-        <placeTerm type="text">Walpole, Massachusetts</placeTerm>
+        <placeTerm type="text">Walpole (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -832,12 +857,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000016</identifier>
+    <identifier type="omeka">omeka_000016</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, August 18th, 1926</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -849,6 +876,11 @@
     </originInfo>
     <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation>
+          <shelfLocator>A091 1926 M78 (laid in)</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -863,10 +895,9 @@
         <title>George A. Plimpton Papers</title>
       </titleInfo>
     </relatedItem>
-    <note>A091 1926 M78 (laid in)</note>
     <note>original filename: PLMPTN_079_001.tif</note>
     <name>
-      <namePart>Moore, Francis M. ǂq (Francis Marion), b. 1846</namePart>
+      <namePart>Moore, Francis M. (Francis Marion), 1846-</namePart>
     </name>
     <name>
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
@@ -887,12 +918,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000017</identifier>
+    <identifier type="omeka">omeka_000017</identifier>
     <titleInfo>
-      <title>De Institutione Musica</title>
+      <title>De Institutione Musica. Page 6? recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -928,7 +961,7 @@
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_042_001.tif</note>
     <name>
-      <namePart>Boethius, d. 524</namePart>
+      <namePart>Boethius, -524</namePart>
     </name>
     <subject>
       <topic>Music theory</topic>
@@ -946,12 +979,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000018</identifier>
+    <identifier type="omeka">omeka_000018</identifier>
     <titleInfo>
-      <title>Latin Grammar</title>
+      <title>Latin Grammar. Page 1? recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -959,7 +994,7 @@
       <dateCreated encoding="w3cdtf" point="end">1469</dateCreated>
       <dateCreated>In or after 1467</dateCreated>
       <place>
-        <placeTerm type="text">Florence, Italy</placeTerm>
+        <placeTerm type="text">Florence (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1002,15 +1037,17 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000019</identifier>
+    <identifier type="omeka">omeka_000019</identifier>
     <titleInfo>
-      <title>Orbis sensualium pictus</title>
+      <title>Orbis sensualium pictus. Pages 186-187</title>
     </titleInfo>
-    <titleInfo>
-      <title>Commenius’s Visible World</title>
+    <titleInfo type="translated">
+      <title>Commenius’s Visible World. Pages 186-187</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages 186-187</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1018,7 +1055,7 @@
       <dateCreated>1672</dateCreated>
       <publisher>Printed by T. R. for S. Mearne, Book-binder</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1067,12 +1104,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000020</identifier>
+    <identifier type="omeka">omeka_000020</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, Dec. 16, 1935</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -1123,13 +1162,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000022</identifier>
-    <identifier>CLIO id: 6196599</identifier>
+    <identifier type="omeka">omeka_000022</identifier>
+    <identifier type="CLIO">CLIO_6196599</identifier>
     <titleInfo>
-      <title>Boke Named the Governour</title>
+      <title>Boke Named the Governour. Title page, page 25</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page, page 25</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1137,7 +1178,7 @@
       <dateCreated>1557</dateCreated>
       <publisher>Thomas Marsh</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1184,12 +1225,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000023</identifier>
+    <identifier type="omeka">omeka_000023</identifier>
     <titleInfo>
-      <title>American Geography: or, A View of the Present Situation of the United States of America. Containing Astronomical Geography. Geographical Definitions. Discovery, and General Description of America</title>
+      <title>American Geography: or, A View of the Present Situation of the United States of America. Containing Astronomical Geography. Geographical Definitions. Discovery, and General Description of America. Title Page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1243,13 +1286,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000024</identifier>
-    <identifier>CLIO id: 1623592</identifier>
+    <identifier type="omeka">omeka_000024</identifier>
+    <identifier type="CLIO">CLIO_1623592</identifier>
     <titleInfo>
-      <title>Algorithmus Integrorum cum Probis Annexis</title>
+      <title>Algorithmus Integrorum cum Probis Annexis. Page 5 verso - page 6 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1258,7 +1303,7 @@
       <dateCreated>circa 1490-1495</dateCreated>
       <publisher>Martin Landsberg</publisher>
       <place>
-        <placeTerm type="text">Leipzig</placeTerm>
+        <placeTerm type="text">Leipzig (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1286,7 +1331,7 @@
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_033_001.tif</note>
     <name>
-      <namePart>Widmann, Johannes, ca. 1460-ca. 1500?</namePart>
+      <namePart>Widmann, Johannes, approximately 1460-approximately 1500</namePart>
     </name>
     <subject>
       <topic>Mathematics</topic>
@@ -1304,14 +1349,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000025</identifier>
+    <identifier type="omeka">omeka_000025</identifier>
     <titleInfo>
       <title>Telegram to George Arthur Plimpton, 9 January 1917</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
-      <form>telegraphs</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1917-01-09</dateCreated>
@@ -1361,19 +1407,21 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000026</identifier>
+    <identifier type="omeka">omeka_000026</identifier>
     <titleInfo>
       <title>Autograph letter by George Washington, signed, to Nicholas Pike</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1786-06-29</dateCreated>
       <dateCreated>June 20, 1786</dateCreated>
       <place>
-        <placeTerm type="text">Mount Vernon</placeTerm>
+        <placeTerm type="text">Mount Vernon (Va.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1416,12 +1464,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000027</identifier>
+    <identifier type="omeka">omeka_000027</identifier>
     <titleInfo>
       <title>Chronique Universelle</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page (scroll)</extent>
+      <extent>10 images</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -1481,15 +1531,17 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000028</identifier>
+    <identifier type="omeka">omeka_000028</identifier>
     <titleInfo>
-      <title>Sententiarum Libri IV</title>
+      <title>Sententiarum Libri IV. Page 1 recto</title>
     </titleInfo>
-    <titleInfo>
-      <title>Sententiae</title>
+    <titleInfo type="alternative">
+      <title>Sententiae. Page 1 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -1525,7 +1577,7 @@
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_010_001.tif</note>
     <name>
-      <namePart>Peter Lombard, Bishop of Paris, ca. 1100-1160</namePart>
+      <namePart>Peter Lombard, Bishop of Paris, approximately 1100-1160</namePart>
     </name>
     <subject>
       <topic>Catholic Church</topic>
@@ -1543,13 +1595,15 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000029</identifier>
-    <identifier>CLIO id: 1367030</identifier>
+    <identifier type="omeka">omeka_000029</identifier>
+    <identifier type="CLIO">CLIO_1367030</identifier>
     <titleInfo>
-      <title>Arithmetiqve made easie</title>
+      <title>Arithmetiqve made easie. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1557,7 +1611,7 @@
       <dateCreated>1630</dateCreated>
       <publisher>Printed for Phil. Stephens and Chr. Meredith</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1581,7 +1635,6 @@
         <title>Plimpton</title>
       </titleInfo>
     </relatedItem>
-    <note>MS 511 1630</note>
     <note>original filename: PLMPTN_087_001.tif</note>
     <name>
       <namePart>Wingate, Edmund, 1596-1656</namePart>
@@ -1602,12 +1655,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000030</identifier>
+    <identifier type="omeka">omeka_000030</identifier>
     <titleInfo>
-      <title>Rudiments of Latin Prosody</title>
+      <title>Rudiments of Latin Prosody. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1615,7 +1670,7 @@
       <dateCreated>1760</dateCreated>
       <publisher>Printed and sold by Benjamin Mecom</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1661,12 +1716,14 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000031</identifier>
+    <identifier type="omeka">omeka_000031</identifier>
     <titleInfo>
-      <title>Account book of slave trading expedition, 1791-1792</title>
+      <title>Account book of slave trading expedition, 1791-1792. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -1720,19 +1777,21 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000032</identifier>
+    <identifier type="omeka">omeka_000032</identifier>
     <titleInfo>
       <title>Letter to George A. Plimpton regarding new building and collection</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1930-08-08</dateCreated>
       <dateCreated>Aug. 8, 1930</dateCreated>
       <place>
-        <placeTerm type="text">Southampton, New York</placeTerm>
+        <placeTerm type="text">Southampton (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1775,18 +1834,24 @@
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000033</identifier>
+    <identifier type="omeka">omeka_000033</identifier>
     <titleInfo>
-      <title>Risālah fī al-ʻamal bi'l-asṭurlāb</title>
+      <title>Risālah fī al-ʻamal bi'l-asṭurlāb. 2 unnumbered pages</title>
     </titleInfo>
-    <titleInfo>
-      <title>Treatise concerning the use of the astrolabe</title>
+    <titleInfo type="translated">
+      <title>Treatise concerning the use of the astrolabe. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>the treatise is written on laid paper with visible regular chainlines, but the flyleaves are machine-made wove paper
+
+rubrication
+
+diagrams
+
+binding is not contemporary with the textblock</extent>
       <form>manuscripts</form>
       <form>book</form>
-      <extent>21 x 16 cm</extent>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1726-02-22</dateCreated>
@@ -1858,15 +1923,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000034</identifier>
+    <identifier type="omeka">omeka_000034</identifier>
     <titleInfo>
-      <title>Introduction to the facsimile of of the John Johnston account book</title>
+      <title>Introduction to the facsimile of of the John Johnston account book. Page 1</title>
     </titleInfo>
-    <titleInfo>
-      <title>Slavery is as old as mankind …</title>
+    <titleInfo type="alternative">
+      <title>Slavery is as old as mankind. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -1917,13 +1984,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000035</identifier>
-    <identifier>CLIO id: 1079623</identifier>
+    <identifier type="omeka">omeka_000035</identifier>
+    <identifier type="CLIO">CLIO_1079623</identifier>
     <titleInfo>
-      <title>Quadripartitum</title>
+      <title>Quadripartitum. Page 1 verso - page 2 recto.</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -1931,7 +2000,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>January 15, 1484</dateCreated>
       <publisher>Erhard Ratdolt</publisher>
       <place>
-        <placeTerm type="text">Venice</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -1959,7 +2028,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_037_001.tif</note>
     <name>
-      <namePart>Ptolemy, 2nd cent.</namePart>
+      <namePart>Ptolemy, active 2nd century</namePart>
     </name>
     <subject>
       <topic>Astrology, Greek</topic>
@@ -1977,13 +2046,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000036</identifier>
-    <identifier>CLIO id: 3402156</identifier>
+    <identifier type="omeka">omeka_000036</identifier>
+    <identifier type="CLIO">CLIO_3402156</identifier>
     <titleInfo>
-      <title>Bibliotheca Columbiana, Number 4, August 1937</title>
+      <title>Bibliotheca Columbiana: Number 4, August 1937. Cover page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page 1</extent>
+      <extent>1 image</extent>
       <form>periodicals</form>
     </physicalDescription>
     <originInfo>
@@ -1997,6 +2068,11 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-2</url>
+      <holdingSimple>
+        <copyInformation>
+          <shelfLocator>Plimpton Coll File Folder</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
     </location>
     <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -2006,7 +2082,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
       </location>
     </relatedItem>
-    <note>Plimpton Coll File Folder</note>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_119_001.tif</note>
     <name>
@@ -2028,12 +2103,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000037</identifier>
+    <identifier type="omeka">omeka_000037</identifier>
     <titleInfo>
-      <title>Fifty Years as a Publisher</title>
+      <title>Fifty Years as a Publisher. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -2046,7 +2123,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-1</url>
       <holdingSimple>
         <copyInformation>
-          <shelfLocator>Old Box 37</shelfLocator>
+          <shelfLocator>Plimpton Papers Old Box 37</shelfLocator>
         </copyInformation>
       </holdingSimple>
     </location>
@@ -2061,11 +2138,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
-      </titleInfo>
-    </relatedItem>
-    <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton Papers Old Box 37</title>
       </titleInfo>
     </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
@@ -2089,13 +2161,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000038</identifier>
-    <identifier>CLIO id: 5551593</identifier>
+    <identifier type="omeka">omeka_000038</identifier>
+    <identifier type="CLIO">CLIO_5551593</identifier>
     <titleInfo>
-      <title>Elements of Geometrie of the most auncient philosopher Euclide of Megara</title>
+      <title>Elements of Geometrie of the most auncient philosopher Euclide of Megara. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2103,7 +2177,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1570</dateCreated>
       <publisher>John Daye</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2134,7 +2208,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Euclid</namePart>
     </name>
     <name>
-      <namePart>Billingsley, Henry, Sir, d. 1606</namePart>
+      <namePart>Billingsley, Henry, Sir, -1606</namePart>
     </name>
     <subject>
       <topic>Geometry</topic>
@@ -2152,12 +2226,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000040</identifier>
+    <identifier type="omeka">omeka_000040</identifier>
     <titleInfo>
-      <title>Student Notes on Aristotle’s Logical Works</title>
+      <title>Student Notes on Aristotle’s Logical Works. Page 98</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page 98</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -2165,7 +2241,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1649</dateCreated>
       <dateCreated>First half of the 17th century</dateCreated>
       <place>
-        <placeTerm type="text">Douai, France</placeTerm>
+        <placeTerm type="text">Douai (France)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2190,7 +2266,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton</title>
       </titleInfo>
     </relatedItem>
-    <note>MS 022</note>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_025_001.tif</note>
     <subject>
@@ -2209,12 +2284,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000041</identifier>
+    <identifier type="omeka">omeka_000041</identifier>
     <titleInfo>
       <title>Letter to Caroline Hazard</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -2262,13 +2339,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000042</identifier>
-    <identifier>CLIO id: 384621</identifier>
+    <identifier type="omeka">omeka_000042</identifier>
+    <identifier type="CLIO">CLIO_384621</identifier>
     <titleInfo>
-      <title>Education of Chaucer Illustrated from the Schoolbooks in Use in His Time</title>
+      <title>Education of Chaucer Illustrated from the Schoolbooks in Use in His Time. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2276,7 +2355,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1935</dateCreated>
       <publisher>Oxford University Press</publisher>
       <place>
-        <placeTerm type="text">London and New York</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2306,7 +2388,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
     </name>
     <subject>
-      <topic>Chaucer, Geoffrey, d. 1400</topic>
+      <topic>Chaucer, Geoffrey, -1400</topic>
     </subject>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -2321,15 +2403,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000043</identifier>
+    <identifier type="omeka">omeka_000043</identifier>
     <titleInfo>
-      <title>Oranda tensetsu</title>
+      <title>Oranda tensetsu. 2 unnumbered pages</title>
     </titleInfo>
-    <titleInfo>
-      <title>Dutch astronomy explained</title>
+    <titleInfo type="translated">
+      <title>Dutch astronomy explained. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2337,7 +2421,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>8th year of Kansei</dateCreated>
       <publisher>Shunparo</publisher>
       <place>
-        <placeTerm type="text">Tokyo</placeTerm>
+        <placeTerm type="text">Tokyo (Japan)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2383,12 +2467,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000044</identifier>
+    <identifier type="omeka">omeka_000044</identifier>
     <titleInfo>
       <title>Arithmetic Exercises from Manuscript Sum Book</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -2441,13 +2527,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000045</identifier>
-    <identifier>CLIO id: 5535825</identifier>
+    <identifier type="omeka">omeka_000045</identifier>
+    <identifier type="CLIO">CLIO_5535825</identifier>
     <titleInfo>
-      <title>Journal of an African Slaver, 1789-1792</title>
+      <title>Journal of an African Slaver, 1789-1792. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2455,7 +2543,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1930</dateCreated>
       <publisher>American Antiquarian Society</publisher>
       <place>
-        <placeTerm type="text">Worcester, Mass.</placeTerm>
+        <placeTerm type="text">Worcester (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2504,16 +2592,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000046</identifier>
-    <identifier>CLIO id: 1930859</identifier>
+    <identifier type="omeka">omeka_000046</identifier>
+    <identifier type="CLIO">CLIO_1930859</identifier>
     <titleInfo>
-      <title>Ginn &amp; Company's writing books</title>
+      <title>Ginn &amp; Company's writing books. Front cover</title>
     </titleInfo>
-    <titleInfo>
-      <title>Writing books</title>
+    <titleInfo type="alternative">
+      <title>Writing books. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2521,7 +2611,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1892</dateCreated>
       <publisher>Ginn and Company</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2565,13 +2655,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000047</identifier>
-    <identifier>CLIO id: 1637759</identifier>
+    <identifier type="omeka">omeka_000047</identifier>
+    <identifier type="CLIO">CLIO_1637759</identifier>
     <titleInfo>
-      <title>Ars Grammatica</title>
+      <title>Ars Grammatica. Page a2 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2580,7 +2672,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1475</dateCreated>
       <publisher>Nicholas Jenson</publisher>
       <place>
-        <placeTerm type="text">[Venice]</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2608,7 +2700,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_017_001.tif</note>
     <name>
-      <namePart>Diomedes, grammarian, 4th cent.</namePart>
+      <namePart>Diomedes (Grammarian), active 4th century</namePart>
     </name>
     <subject>
       <topic>Latin language--Grammar</topic>
@@ -2626,12 +2718,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000048</identifier>
+    <identifier type="omeka">omeka_000048</identifier>
     <titleInfo>
-      <title>Gradual</title>
+      <title>Gradual. Unnumbered page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -2639,7 +2733,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1375</dateCreated>
       <dateCreated>Mid 14th century</dateCreated>
       <place>
-        <placeTerm type="text">Siena, Italy</placeTerm>
+        <placeTerm type="text">Siena (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2681,12 +2775,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000050</identifier>
+    <identifier type="omeka">omeka_000050</identifier>
     <titleInfo>
-      <title>David Eugene Smith</title>
+      <title>David Eugene Smith. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -2694,7 +2790,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1927</dateCreated>
       <dateCreated>circa 1926</dateCreated>
       <place>
-        <placeTerm type="text">New York, N.Y.?</placeTerm>
+        <placeTerm type="text">New York (N.Y.)?</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2743,13 +2839,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000051</identifier>
-    <identifier>CLIO id: 6182028</identifier>
+    <identifier type="omeka">omeka_000051</identifier>
+    <identifier type="CLIO">CLIO_6182028</identifier>
     <titleInfo>
-      <title>Strictures on the Modern System of Female Education</title>
+      <title>Strictures on the Modern System of Female Education. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2757,7 +2855,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1806</dateCreated>
       <publisher>Printed for T. Cadell and W. Davis</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2803,20 +2901,21 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000052</identifier>
+    <identifier type="omeka">omeka_000052</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 hornbook</extent>
+      <extent>1 image</extent>
       <form>objects</form>
-      <form>hornbooks</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1792</dateCreated>
       <dateCreated>1729</dateCreated>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2859,13 +2958,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000053</identifier>
-    <identifier>CLIO id: 1623900</identifier>
+    <identifier type="omeka">omeka_000053</identifier>
+    <identifier type="CLIO">CLIO_1623900</identifier>
     <titleInfo>
-      <title>De Institutione Arithmetica</title>
+      <title>De Institutione Arithmetica. Page c1 verso - page c2 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2873,7 +2974,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>May 20, 1488</dateCreated>
       <publisher>Erhard Ratdolt</publisher>
       <place>
-        <placeTerm type="text">Augsburg</placeTerm>
+        <placeTerm type="text">Augsburg (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -2901,7 +3002,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_036_001.tif</note>
     <name>
-      <namePart>Boethius, d. 524</namePart>
+      <namePart>Boethius, -524</namePart>
     </name>
     <subject>
       <topic>Arithmetic</topic>
@@ -2919,14 +3020,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000054</identifier>
+    <identifier type="omeka">omeka_000054</identifier>
     <titleInfo>
       <title>Portrait of George Arthur Plimptom as YounGerman Man</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1870</dateCreated>
@@ -2971,13 +3073,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000056</identifier>
-    <identifier>CLIO id: 6196727</identifier>
+    <identifier type="omeka">omeka_000056</identifier>
+    <identifier type="CLIO">CLIO_6196727</identifier>
     <titleInfo>
-      <title>Learned Maid, or Whether a Maid may be a Scholar?</title>
+      <title>Learned Maid, or Whether a Maid may be a Scholar. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -2985,7 +3089,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1659</dateCreated>
       <publisher>Printed by Johon Redmayne</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3031,13 +3135,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000057</identifier>
-    <identifier>CLIO id: 6183070</identifier>
+    <identifier type="omeka">omeka_000057</identifier>
+    <identifier type="CLIO">CLIO_6183070</identifier>
     <titleInfo>
-      <title>Universal Penman</title>
+      <title>Universal Penman. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page 30</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -3045,7 +3151,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1741</dateCreated>
       <publisher>Printed for the Author</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3091,12 +3197,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000058</identifier>
+    <identifier type="omeka">omeka_000058</identifier>
     <titleInfo>
-      <title>Grammatica Latina Philippi Melanchthonis</title>
+      <title>Grammatica Latina Philippi Melanchthonis. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -3150,12 +3258,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000059</identifier>
+    <identifier type="omeka">omeka_000059</identifier>
     <titleInfo>
-      <title>Vindication of the Rights of Women</title>
+      <title>Vindication of the Rights of Women. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -3163,7 +3273,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1792</dateCreated>
       <publisher>Printed for J. Johnson</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3209,12 +3319,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000060</identifier>
+    <identifier type="omeka">omeka_000060</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, April 24, 1926</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -3267,12 +3379,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000061</identifier>
+    <identifier type="omeka">omeka_000061</identifier>
     <titleInfo>
-      <title>Etymologiarum Libri</title>
+      <title>Etymologiarum Libri. Page 109 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -3280,7 +3394,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1199</dateCreated>
       <dateCreated>End of the 12th century</dateCreated>
       <place>
-        <placeTerm type="text">Possibly Italy</placeTerm>
+        <placeTerm type="text">Italy?</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3308,7 +3422,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_002_001.tif</note>
     <name>
-      <namePart>Isidore, of Seville, Saint, d. 636</namePart>
+      <namePart>Isidore, of Seville, Saint, -636</namePart>
     </name>
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
@@ -3326,12 +3440,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000062</identifier>
+    <identifier type="omeka">omeka_000062</identifier>
     <titleInfo>
-      <title>Ars Minor, fragment</title>
+      <title>Ars Minor. Fragment</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -3340,7 +3456,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>ca. 1458-1460</dateCreated>
       <publisher>Albrecht Pfister</publisher>
       <place>
-        <placeTerm type="text">Bamberg</placeTerm>
+        <placeTerm type="text">Bamberg (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3387,12 +3503,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000063</identifier>
+    <identifier type="omeka">omeka_000063</identifier>
     <titleInfo>
       <title>Photograph of Frances T.P. and George A. Plimpton</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
     </physicalDescription>
     <originInfo>
@@ -3441,12 +3559,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000064</identifier>
+    <identifier type="omeka">omeka_000064</identifier>
     <titleInfo>
-      <title>Letter To The Independent, 11 January 1917 (carbon)</title>
+      <title>Letter To The Independent, 11 January 1917 (carbon). Front</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -3494,13 +3614,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000066</identifier>
-    <identifier>CLIO id: 6204041</identifier>
+    <identifier type="omeka">omeka_000066</identifier>
+    <identifier type="CLIO">CLIO_6204041</identifier>
     <titleInfo>
-      <title>Familiarium Colloquiorum Formulae, in Graciam Juventutis Recognite ab Erasmo Roterdamo</title>
+      <title>Familiarium Colloquiorum Formulae, in Graciam Juventutis Recognite ab Erasmo Roterdamo. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -3508,7 +3630,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1520</dateCreated>
       <publisher>V. Schumann</publisher>
       <place>
-        <placeTerm type="text">Leipzig</placeTerm>
+        <placeTerm type="text">Leipzig (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3536,7 +3658,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_045_001.tif</note>
     <name>
-      <namePart>Erasmus, Desiderius, d. 1536</namePart>
+      <namePart>Erasmus, Desiderius, -1536</namePart>
     </name>
     <subject>
       <topic>Dialogues, Latin</topic>
@@ -3554,20 +3676,21 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000067</identifier>
+    <identifier type="omeka">omeka_000067</identifier>
     <titleInfo>
       <title>Thanksgiving 1934</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1934-11</dateCreated>
       <dateCreated>Nov. 1934</dateCreated>
       <place>
-        <placeTerm type="text">Walpole, Massachusetts</placeTerm>
+        <placeTerm type="text">Walpole (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3609,19 +3732,21 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000068</identifier>
+    <identifier type="omeka">omeka_000068</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton regarding  Friends of the Library</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1928-06-28</dateCreated>
       <dateCreated>June 28, 1928</dateCreated>
       <place>
-        <placeTerm type="text">Southampton, L.I.</placeTerm>
+        <placeTerm type="text">Southampton (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3665,12 +3790,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000069</identifier>
+    <identifier type="omeka">omeka_000069</identifier>
     <titleInfo>
-      <title>De Sphaera Mundi</title>
+      <title>De Sphaera Mundi. Page 32 verso - page 33 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -3678,7 +3805,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1499</dateCreated>
       <dateCreated>End of the 15th century</dateCreated>
       <place>
-        <placeTerm type="text">Low Countries</placeTerm>
+        <placeTerm type="text">Benelux countries</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3706,7 +3833,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_001_001.tif</note>
     <name>
-      <namePart>Sacro Bosco, Joannes de, fl. 1230</namePart>
+      <namePart>Sacro Bosco, Joannes de, active 1230</namePart>
     </name>
     <subject>
       <topic>Astronomy</topic>
@@ -3724,22 +3851,24 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000070</identifier>
+    <identifier type="omeka">omeka_000070</identifier>
     <titleInfo>
-      <title>Nichomachean Ethics, Politics</title>
+      <title>Nichomachean Ethics, Politics. Page 3 recto</title>
     </titleInfo>
-    <titleInfo>
-      <title>Ethica</title>
+    <titleInfo type="alternative">
+      <title>Ethica. Page 3 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1393</dateCreated>
       <dateCreated>1393</dateCreated>
       <place>
-        <placeTerm type="text">Lombardy, Italy</placeTerm>
+        <placeTerm type="text">Lombardy (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3785,12 +3914,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000072</identifier>
+    <identifier type="omeka">omeka_000072</identifier>
     <titleInfo>
-      <title>Elementa</title>
+      <title>Elementa. Page 1 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -3844,19 +3975,21 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000073</identifier>
+    <identifier type="omeka">omeka_000073</identifier>
     <titleInfo>
-      <title>Letter to Francis T. P. Plimpton, August 17, 1904</title>
+      <title>Letter to Francis T. P. Plimpton, August 17, 1904. Letter and envelope front</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages, 1 envelope</extent>
+      <extent>3 images</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1904-08-17</dateCreated>
       <dateCreated>Aug. 17, 1904</dateCreated>
       <place>
-        <placeTerm type="text">Harrisburg, Pennsylvania</placeTerm>
+        <placeTerm type="text">Harrisburg (Pa.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3864,7 +3997,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-2</url>
       <holdingSimple>
         <copyInformation>
-          <shelfLocator>Plimpton Family Papers</shelfLocator>
+          <shelfLocator>Box 3, Folder 12, Series I.3</shelfLocator>
         </copyInformation>
       </holdingSimple>
     </location>
@@ -3881,7 +4014,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton Family Papers</title>
       </titleInfo>
     </relatedItem>
-    <note>Box 3, Folder 12, Series I.3</note>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_158_001.tif</note>
     <note>original filename: PLMPTN_158_002.tif</note>
@@ -3908,12 +4040,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000074</identifier>
+    <identifier type="omeka">omeka_000074</identifier>
     <titleInfo>
-      <title>Course of Elementary Reading in Science and Literature</title>
+      <title>Course of Elementary Reading in Science and Literature. Page 6-7</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages 6-7</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -3921,7 +4055,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1857</dateCreated>
       <publisher>Oliver &amp; Boyd</publisher>
       <place>
-        <placeTerm type="text">Edinburgh</placeTerm>
+        <placeTerm type="text">Edinburgh (Scotland)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -3968,14 +4102,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000075</identifier>
+    <identifier type="omeka">omeka_000075</identifier>
     <titleInfo>
       <title>Bookplate of George Arthur Plimpton</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
-      <form>bookplates</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1900</dateCreated>
@@ -4017,13 +4152,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000076</identifier>
-    <identifier>CLIO id: 6766017</identifier>
+    <identifier type="omeka">omeka_000076</identifier>
+    <identifier type="CLIO">CLIO_6766017</identifier>
     <titleInfo>
-      <title>Writing Tables with a Kalender for xxiiii. yeeres, with sundry necessarye rules</title>
+      <title>Writing Tables with a Kalender for xxiiii. yeeres, with sundry necessarye rules. Cover, last page, endleaf</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages, cover</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -4031,7 +4168,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1583</dateCreated>
       <publisher>Franke Adams</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -4075,13 +4212,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000077</identifier>
-    <identifier>CLIO id: 1637767</identifier>
+    <identifier type="omeka">omeka_000077</identifier>
+    <identifier type="CLIO">CLIO_1637767</identifier>
     <titleInfo>
-      <title>Ars Minor</title>
+      <title>Ars Minor. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -4090,7 +4229,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1502</dateCreated>
       <publisher>Johann SchönsperGerman</publisher>
       <place>
-        <placeTerm type="text">Augsburg</placeTerm>
+        <placeTerm type="text">Augsburg (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -4136,13 +4275,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000078</identifier>
-    <identifier>CLIO id: 6196507</identifier>
+    <identifier type="omeka">omeka_000078</identifier>
+    <identifier type="CLIO">CLIO_6196507</identifier>
     <titleInfo>
-      <title>New Dictionary of the Terms Ancient and Modern of the Canting Crew in its several tribes, of gypsies, beggars, thieves, cheats, &amp;c.</title>
+      <title>New Dictionary of the Terms Ancient and Modern of the Canting Crew in its several tribes, of gypsies, beggars, thieves, cheats, &amp;c. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -4151,7 +4292,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Bookseller’s notes indicate 19th century reprint, in boards, with paper label dated 1690</dateCreated>
       <publisher>Printed for W. Hawes, P. Gilbourne, and W. Davis</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -4197,12 +4338,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000079</identifier>
+    <identifier type="omeka">omeka_000079</identifier>
     <titleInfo>
-      <title>Summa Arismetice</title>
+      <title>Summa Arismetice. Page 137 verso - page 138 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages [137]-138</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4235,11 +4378,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton</title>
       </titleInfo>
     </relatedItem>
-    <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton MS 211</title>
-      </titleInfo>
-    </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_043_001.tif</note>
     <name>
@@ -4261,15 +4399,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000080</identifier>
+    <identifier type="omeka">omeka_000080</identifier>
     <titleInfo>
-      <title>Description of and Instructions for the Operation of an Astronomical Clock with an Armillary Sphere</title>
+      <title>Description of and Instructions for the Operation of an Astronomical Clock with an Armillary Sphere. 1 unnumbered fold-out page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Instructions for operating an astronomical clock with an armillary sphere</title>
+    <titleInfo type="alternative">
+      <title>Instructions for operating an astronomical clock with an armillary sphere. 1 unnumbered fold-out page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4320,12 +4460,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000081</identifier>
+    <identifier type="omeka">omeka_000081</identifier>
     <titleInfo>
-      <title>De Verborum Copia</title>
+      <title>De Verborum Copia. Page 44 verso - page 45 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages [44]-45</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4379,12 +4521,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000082</identifier>
+    <identifier type="omeka">omeka_000082</identifier>
     <titleInfo>
-      <title>Short Introduction of Grammar Generally to be used: Compiled and set forth for the bringing up of all those that intend to attain to the knowledge of the Latine tongue</title>
+      <title>Short Introduction of Grammar Generally to be used: Compiled and set forth for the bringing up of all those that intend to attain to the knowledge of the Latine tongue. 1 unnumbered page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -4392,7 +4536,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1638</dateCreated>
       <publisher>Printed by Thomas Buck and RoGerman Daniel</publisher>
       <place>
-        <placeTerm type="text">Cambridge</placeTerm>
+        <placeTerm type="text">Cambridge (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -4438,12 +4582,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000084</identifier>
+    <identifier type="omeka">omeka_000084</identifier>
     <titleInfo>
-      <title>Speech at Wellesley Club</title>
+      <title>Speech at Wellesley Club. Front</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4492,14 +4638,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000085</identifier>
+    <identifier type="omeka">omeka_000085</identifier>
     <titleInfo>
       <title>Ruth and Calvin Plimpton 50th wedding anniversary</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1991-09-06</dateCreated>
@@ -4522,7 +4669,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton Family Papers</title>
       </titleInfo>
     </relatedItem>
-    <note>Plimpton Photos Extended Family</note>
+    <note>Plimpton Family, photos, extended family</note>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_159_001.tif</note>
     <name>
@@ -4547,13 +4694,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000086</identifier>
-    <identifier>CLIO id: 2428598</identifier>
+    <identifier type="omeka">omeka_000086</identifier>
+    <identifier type="CLIO">CLIO_2428598</identifier>
     <titleInfo>
-      <title>Aepitoma Omnis Phylosophiae, Alias, Margarita Phylosophica</title>
+      <title>Aepitoma Omnis Phylosophiae, Alias, Margarita Phylosophica. 1 unnumbered page verso</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4561,7 +4710,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1504</dateCreated>
       <publisher>Per Ioanne[m] GruninGerman Ciue[m] Arge[n]tinu[m]</publisher>
       <place>
-        <placeTerm type="text">Strasbourg</placeTerm>
+        <placeTerm type="text">Strasbourg (France)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -4589,7 +4738,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_015_001.tif</note>
     <name>
-      <namePart>Reisch, Gregor, d. 1525</namePart>
+      <namePart>Reisch, Gregor, -1525</namePart>
     </name>
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
@@ -4607,12 +4756,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000087</identifier>
+    <identifier type="omeka">omeka_000087</identifier>
     <titleInfo>
-      <title>Commentarius in Ciceronis pro Milone</title>
+      <title>Commentarius in Ciceronis pro Milone. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4651,7 +4802,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Cicero, Marcus Tullius</namePart>
     </name>
     <subject>
-      <topic>Milo, Titus Annius, d. 48 B.C</topic>
+      <topic>Milo, Titus Annius, -48 B.C.</topic>
     </subject>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -4666,12 +4817,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000089</identifier>
+    <identifier type="omeka">omeka_000089</identifier>
     <titleInfo>
-      <title>Geometrical Practical Treatize Named Pantometria</title>
+      <title>Geometrical Practical Treatize Named Pantometria. Pages 42-43</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages 42-43</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -4679,7 +4832,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1591</dateCreated>
       <publisher>Printed by Abell Jeffes</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -4707,7 +4860,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_083_001.tif</note>
     <name>
-      <namePart>Digges, Leonard, d. ca. 1559</namePart>
+      <namePart>Digges, Leonard, -approximately 1559</namePart>
     </name>
     <subject>
       <topic>Geometry</topic>
@@ -4725,12 +4878,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000090</identifier>
+    <identifier type="omeka">omeka_000090</identifier>
     <titleInfo>
-      <title>Child’s Primer</title>
+      <title>Child’s Primer. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4781,12 +4936,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000091</identifier>
+    <identifier type="omeka">omeka_000091</identifier>
     <titleInfo>
-      <title>Friends of the Library of Columbia University</title>
+      <title>Friends of the Library of Columbia University. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>4 pages</extent>
+      <extent>4 images</extent>
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
@@ -4838,12 +4995,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000092</identifier>
+    <identifier type="omeka">omeka_000092</identifier>
     <titleInfo>
-      <title>Letter to George A. Plimpton, November 12, 1924</title>
+      <title>Letter to George A. Plimpton, November 12, 1924. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
     <originInfo>
@@ -4894,12 +5053,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000093</identifier>
+    <identifier type="omeka">omeka_000093</identifier>
     <titleInfo>
-      <title>De Proprietatibus Rerum</title>
+      <title>De Proprietatibus Rerum. Page 9 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1  page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -4935,10 +5096,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_012_001.tif</note>
     <name>
-      <namePart>Bartholomaeus,  Anglicus,  13th cent.</namePart>
+      <namePart>Bartholomaeus, Anglicus, active 13th century</namePart>
     </name>
     <name>
-      <namePart>Trevisa, John, d. 1402</namePart>
+      <namePart>Trevisa, John, -1402</namePart>
     </name>
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
@@ -4956,15 +5117,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000094</identifier>
+    <identifier type="omeka">omeka_000094</identifier>
     <titleInfo>
-      <title>Kitab al-Mutawassitat</title>
+      <title>Kitab al-Mutawassitat. 2 unknown pages</title>
     </titleInfo>
-    <titleInfo>
-      <title>Book of "The Middle Books"</title>
+    <titleInfo type="translated">
+      <title>Book of "The Middle Books". 2 unknown pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -5012,14 +5175,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000095</identifier>
+    <identifier type="omeka">omeka_000095</identifier>
     <titleInfo>
       <title>Photo of Pauline Ames and Francis T.P. Plimpton and children, 1937</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1937</dateCreated>
@@ -5066,15 +5230,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000096</identifier>
+    <identifier type="omeka">omeka_000096</identifier>
     <titleInfo>
-      <title>On Collecting</title>
+      <title>On Collecting. 1 unnumbered page</title>
     </titleInfo>
-    <titleInfo>
-      <title>It has been my pleasure</title>
+    <titleInfo type="alternative">
+      <title>It has been my pleasure. 1 unnumbered page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -5125,12 +5291,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000097</identifier>
+    <identifier type="omeka">omeka_000097</identifier>
     <titleInfo>
-      <title>Very fruteful and pleasant boke called the Instruction of a christen woman</title>
+      <title>Very fruteful and pleasant boke called the Instruction of a christen woman. Preliminary page verso, first page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5138,7 +5306,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1557</dateCreated>
       <publisher>Henry Wykes</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5187,15 +5355,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000099</identifier>
+    <identifier type="omeka">omeka_000099</identifier>
     <titleInfo>
-      <title>American Instructor: or, Young Man’s Best Companion</title>
+      <title>American Instructor: or, Young Man’s Best Companion. 1 unnumbered page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Young man's best companion</title>
+    <titleInfo type="alternative">
+      <title>Young man's best companion. 1 unnumbered page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5203,7 +5373,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1748</dateCreated>
       <publisher>Printed by B. Franklin and D. Hall</publisher>
       <place>
-        <placeTerm type="text">Philadelphia</placeTerm>
+        <placeTerm type="text">Philadelphia (Pa.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5228,11 +5398,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton</title>
       </titleInfo>
     </relatedItem>
-    <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton A375 1748 F53 copy 1</title>
-      </titleInfo>
-    </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_070_001.tif</note>
     <name>
@@ -5254,15 +5419,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000100</identifier>
+    <identifier type="omeka">omeka_000100</identifier>
     <titleInfo>
-      <title>Abecedarium</title>
+      <title>Abecedarium. Page 1 recto</title>
     </titleInfo>
-    <titleInfo>
-      <title>Child's primer</title>
+    <titleInfo type="translated">
+      <title>Child's primer. Page 1 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -5313,13 +5480,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000102</identifier>
-    <identifier>CLIO id: 2428025</identifier>
+    <identifier type="omeka">omeka_000102</identifier>
+    <identifier type="CLIO">CLIO_2428025</identifier>
     <titleInfo>
-      <title>Margarita Philosophica</title>
+      <title>Margarita Philosophica. Unnumbered page verso</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -5355,7 +5524,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_029_001.tif</note>
     <name>
-      <namePart>Reisch, Gregor, d. 1525</namePart>
+      <namePart>Reisch, Gregor, -1525</namePart>
     </name>
     <subject>
       <topic>Encyclopedias and dictionaries</topic>
@@ -5373,14 +5542,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000103</identifier>
+    <identifier type="omeka">omeka_000103</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 hornbook</extent>
+      <extent>1 image</extent>
       <form>objects</form>
-      <form>hornbooks</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1600</dateCreated>
@@ -5427,15 +5597,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000104</identifier>
+    <identifier type="omeka">omeka_000104</identifier>
     <titleInfo>
-      <title>Tunaikeion, or, Nine Bookes of Various History Concerning Women</title>
+      <title>Tunaikeion, or, Nine Bookes of Various History Concerning Women. Title page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Nine Bookes of Various History Concerning Women</title>
+    <titleInfo type="alternative">
+      <title>Nine Bookes of Various History Concerning Women. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5443,7 +5615,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1624</dateCreated>
       <publisher>Printed by Adam Islip</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5471,7 +5643,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_131_001.tif</note>
     <name>
-      <namePart>Heywood, Thomas, d. 1641</namePart>
+      <namePart>Heywood, Thomas, approximately 1574-1641</namePart>
     </name>
     <subject>
       <topic>Women</topic>
@@ -5489,15 +5661,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000105</identifier>
+    <identifier type="omeka">omeka_000105</identifier>
     <titleInfo>
-      <title>English language exhibition</title>
+      <title>English language exhibition. Front</title>
     </titleInfo>
-    <titleInfo>
-      <title>Notice of exhibit English language</title>
+    <titleInfo type="alternative">
+      <title>Notice of exhibit English language. Front</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
@@ -5549,13 +5723,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000106</identifier>
-    <identifier>CLIO id: 1834578</identifier>
+    <identifier type="omeka">omeka_000106</identifier>
+    <identifier type="CLIO">CLIO_1834578</identifier>
     <titleInfo>
-      <title>Dean’s Recently Improved Analytical Guide, to the Art of Penmanship</title>
+      <title>Dean’s Recently Improved Analytical Guide, to the Art of Penmanship. 1 unnumbered page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5563,7 +5739,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1808</dateCreated>
       <publisher>Published for the Author, and sold by Hopkins &amp; Bayard</publisher>
       <place>
-        <placeTerm type="text">New-York</placeTerm>
+        <placeTerm type="text">New York</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5609,15 +5785,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000107</identifier>
+    <identifier type="omeka">omeka_000107</identifier>
     <titleInfo>
-      <title>Fonotipic instructur, or, Furst rediu buc for adults hw hav nevur ben tot tw red</title>
+      <title>Fonotipic instructur, or, Furst rediu buc for adults hw hav nevur ben tot tw red. Front cover</title>
     </titleInfo>
-    <titleInfo>
-      <title>Furst rediu buc for adults hw hav nevur ben tot tw red</title>
+    <titleInfo type="alternative">
+      <title>Furst rediu buc for adults hw hav nevur ben tot tw red. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5671,17 +5849,20 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000108</identifier>
+    <identifier type="omeka">omeka_000108</identifier>
     <titleInfo>
-      <title>Rechenbüchlein</title>
+      <title>Rechenbüchlein. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1492</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1563</dateCreated>
+      <dateCreated>1492-1563</dateCreated>
     </originInfo>
     <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
@@ -5724,22 +5905,24 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000109</identifier>
+    <identifier type="omeka">omeka_000109</identifier>
     <titleInfo>
       <title>Writing exercise</title>
     </titleInfo>
-    <titleInfo>
-      <title>Je fais chaque jour…</title>
+    <titleInfo type="alternative">
+      <title>Je fais chaque jour</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1761-09-02</dateCreated>
       <dateCreated>September 2, 1761</dateCreated>
       <place>
-        <placeTerm type="text">Vienna</placeTerm>
+        <placeTerm type="text">Vienna (Austria)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5780,13 +5963,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000110</identifier>
-    <identifier>CLIO id: 1638085</identifier>
+    <identifier type="omeka">omeka_000110</identifier>
+    <identifier type="CLIO">CLIO_1638085</identifier>
     <titleInfo>
-      <title>Compendio de lo Abaco</title>
+      <title>Compendio de lo Abaco. Page 1 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5794,7 +5979,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>September 28, 1492</dateCreated>
       <publisher>Nicolaus de Benedictis and Jacobinus Suigus</publisher>
       <place>
-        <placeTerm type="text">Turin</placeTerm>
+        <placeTerm type="text">Turin (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5840,13 +6025,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000111</identifier>
-    <identifier>CLIO id: 6182997</identifier>
+    <identifier type="omeka">omeka_000111</identifier>
+    <identifier type="CLIO">CLIO_6182997</identifier>
     <titleInfo>
-      <title>Booke Containing Divers Sortes of Hands, as well the English as French Secretarie with the Italian, Roman, Chancelry &amp; Court Hands</title>
+      <title>Booke Containing Divers Sortes of Hands, as well the English as French Secretarie with the Italian, Roman, Chancelry &amp; Court Hands. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5854,7 +6041,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1570</dateCreated>
       <publisher>Imprinted by Thomas Vautrouillier</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5903,13 +6090,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000112</identifier>
-    <identifier>CLIO id: 1828250</identifier>
+    <identifier type="omeka">omeka_000112</identifier>
+    <identifier type="CLIO">CLIO_1828250</identifier>
     <titleInfo>
-      <title>Penmanship, or, The Beauties of Writing Exemplified in a Variety of Specimens, Practical and Ornamental</title>
+      <title>Penmanship, or, The Beauties of Writing Exemplified in a Variety of Specimens, Practical and Ornamental. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5917,7 +6106,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1822</dateCreated>
       <publisher>Annin &amp; Smith</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -5963,13 +6152,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000113</identifier>
-    <identifier>CLIO id: 1808875</identifier>
+    <identifier type="omeka">omeka_000113</identifier>
+    <identifier type="CLIO">CLIO_1808875</identifier>
     <titleInfo>
-      <title>Handwriting for the broad-edge pen : a teachers' manual</title>
+      <title>Handwriting for the broad-edge pen : a teachers' manual. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -5977,7 +6168,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1926</dateCreated>
       <publisher>Ginn &amp; Company</publisher>
       <place>
-        <placeTerm type="text">Boston, New York</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6005,7 +6199,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_078_001.tif</note>
     <name>
-      <namePart>Moore, Francis M. ǂq (Francis Marion), b. 1846</namePart>
+      <namePart>Moore, Francis M. (Francis Marion), 1846-</namePart>
     </name>
     <subject>
       <topic>Penmanship</topic>
@@ -6023,13 +6217,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000114</identifier>
-    <identifier>CLIO id: 6183006</identifier>
+    <identifier type="omeka">omeka_000114</identifier>
+    <identifier type="CLIO">CLIO_6183006</identifier>
     <titleInfo>
-      <title>Directions for Writing. Set Forth for the Benefit of Poore Schollers</title>
+      <title>Directions for Writing. Set Forth for the Benefit of Poore Schollers. 1 unnumbered page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6037,7 +6233,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1656</dateCreated>
       <publisher>Printed for J. Stafford</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6083,12 +6279,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000115</identifier>
+    <identifier type="omeka">omeka_000115</identifier>
     <titleInfo>
-      <title>Trattato d’Aritmetica Mercantile</title>
+      <title>Trattato d’Aritmetica Mercantile. Page 155 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -6096,7 +6294,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1575</dateCreated>
       <dateCreated>Mid 16th century</dateCreated>
       <place>
-        <placeTerm type="text">Florence, Italy</placeTerm>
+        <placeTerm type="text">Florence (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6139,16 +6337,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000117</identifier>
-    <identifier>CLIO id: 1848589</identifier>
+    <identifier type="omeka">omeka_000117</identifier>
+    <identifier type="CLIO">CLIO_1848589</identifier>
     <titleInfo>
-      <title>Spencerian key to practical penmanship</title>
+      <title>Spencerian key to practical penmanship. Front cover</title>
     </titleInfo>
-    <titleInfo>
-      <title>Spencerian key</title>
+    <titleInfo type="alternative">
+      <title>Spencerian key. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover, title page</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6203,15 +6403,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000118</identifier>
+    <identifier type="omeka">omeka_000118</identifier>
     <titleInfo>
-      <title>Bust of Shakespeare</title>
+      <title>Bust of Shakespeare. Front</title>
     </titleInfo>
-    <titleInfo>
-      <title>Shakespeare bust</title>
+    <titleInfo type="alternative">
+      <title>Shakespeare bust. Front</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 sculpture</extent>
+      <extent>1 image</extent>
       <form>objects</form>
     </physicalDescription>
     <originInfo>
@@ -6257,16 +6459,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000119</identifier>
-    <identifier>CLIO id: 5529316</identifier>
+    <identifier type="omeka">omeka_000119</identifier>
+    <identifier type="CLIO">CLIO_5529316</identifier>
     <titleInfo>
-      <title>Rara arithmetica : a catalogue of the arithmetics written before the year MDCI</title>
+      <title>Rara arithmetica : a catalogue of the arithmetics written before the year MDCI. Front cover, title page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Rara arithmetica, volume I</title>
+    <titleInfo type="alternative">
+      <title>Rara arithmetica: Volume I. Front cover, title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover, title page</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6274,7 +6478,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1908</dateCreated>
       <publisher>Ginn and Co.</publisher>
       <place>
-        <placeTerm type="text">Boston and New York</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6321,17 +6528,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000121</identifier>
+    <identifier type="omeka">omeka_000121</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
-    <titleInfo>
-      <title>Plimpton item 118</title>
+    <titleInfo type="alternative">
+      <title>Hornbook no. 16</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 hornbook, 2 sides</extent>
+      <extent>2 images</extent>
       <form>objects</form>
-      <form>hornbooks</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1800</dateCreated>
@@ -6346,7 +6554,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/hornbooks/page-1</url>
       <holdingSimple>
         <copyInformation>
-          <shelfLocator>Hornbook No. 16</shelfLocator>
+          <shelfLocator>Plimpton item 118</shelfLocator>
         </copyInformation>
       </holdingSimple>
     </location>
@@ -6379,13 +6587,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000123</identifier>
-    <identifier>CLIO id: 3402156</identifier>
+    <identifier type="omeka">omeka_000123</identifier>
+    <identifier type="CLIO">CLIO_3402156</identifier>
     <titleInfo>
-      <title>Bibliotheca Columbiana, Number 1, April 1933</title>
+      <title>Bibliotheca Columbiana: Number 1, April 1933</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages [1-12], 1 page</extent>
+      <extent>13 images</extent>
       <form>periodicals</form>
     </physicalDescription>
     <originInfo>
@@ -6445,12 +6655,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000124</identifier>
+    <identifier type="omeka">omeka_000124</identifier>
     <titleInfo>
-      <title>Rudiments of Conchology</title>
+      <title>Rudiments of Conchology. Preliminary page, title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>frontispiece, title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6458,7 +6670,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1826</dateCreated>
       <publisher>Printed for Harvey and Darton</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6504,12 +6716,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000125</identifier>
+    <identifier type="omeka">omeka_000125</identifier>
     <titleInfo>
-      <title>American Preceptor; being a new Selection of Lessons for Reading and Speaking. Designed for the use of schools</title>
+      <title>American Preceptor; being a new Selection of Lessons for Reading and Speaking. Designed for the use of schools. Title page, pages 90-91</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page, pages 90-91</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6517,7 +6731,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1797</dateCreated>
       <publisher>Printed by Manning and Loring for the Author</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6564,13 +6778,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000126</identifier>
-    <identifier>CLIO id: 6196599</identifier>
+    <identifier type="omeka">omeka_000126</identifier>
+    <identifier type="CLIO">CLIO_6196599</identifier>
     <titleInfo>
-      <title>Boke Named the Governour</title>
+      <title>Boke Named the Governour. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6578,7 +6794,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1557</dateCreated>
       <publisher>Thomas Marsh</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6624,13 +6840,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000127</identifier>
-    <identifier>CLIO id: 4587434</identifier>
+    <identifier type="omeka">omeka_000127</identifier>
+    <identifier type="CLIO">CLIO_4587434</identifier>
     <titleInfo>
-      <title>Education of Shakespeare:  Illustrated from the Schoolbooks in Use in his Time</title>
+      <title>Education of Shakespeare:  Illustrated from the Schoolbooks in Use in his Time. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6638,7 +6856,10 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1933</dateCreated>
       <publisher>Oxford University Press</publisher>
       <place>
-        <placeTerm type="text">London &amp; New York</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6683,12 +6904,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000128</identifier>
+    <identifier type="omeka">omeka_000128</identifier>
     <titleInfo>
-      <title>Guillelmi Lilij Angli Rudimenta</title>
+      <title>Guillelmi Lilij Angli Rudimenta. 1 unnumbered page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6696,7 +6919,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1525?</dateCreated>
       <publisher>Peter Treveris</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6742,15 +6965,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000129</identifier>
+    <identifier type="omeka">omeka_000129</identifier>
     <titleInfo>
-      <title>Education of Women: Earliest Period, c. 300-1450</title>
+      <title>Education of Women: Earliest Period, circa 300-1450. Page 1</title>
     </titleInfo>
-    <titleInfo>
-      <title>Education of women--five parts</title>
+    <titleInfo type="alternative">
+      <title>Education of women--five parts. Page 1</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -6778,7 +7003,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton Family Papers</title>
       </titleInfo>
     </relatedItem>
-    <note>Plimpton Papers</note>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_110_001.tif</note>
     <name>
@@ -6800,13 +7024,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000130</identifier>
-    <identifier>CLIO id: 6182617</identifier>
+    <identifier type="omeka">omeka_000130</identifier>
+    <identifier type="CLIO">CLIO_6182617</identifier>
     <titleInfo>
-      <title>Principles of Musik, in Singing and Setting : vvith the Two-Fold Use Therof, Ecclesiasticall and Civil</title>
+      <title>Principles of Musik, in Singing and Setting : vvith the Two-Fold Use Therof, Ecclesiasticall and Civil. Page 92 verso - page 93 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page [92]-93</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -6814,7 +7040,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1636</dateCreated>
       <publisher>Printed by Iohn Haviland, for the Author</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6842,7 +7068,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_050_001.tif</note>
     <name>
-      <namePart>Butler, Charles, d. 1647</namePart>
+      <namePart>Butler, Charles, -1647</namePart>
     </name>
     <subject>
       <topic>Music theory</topic>
@@ -6860,12 +7086,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000131</identifier>
+    <identifier type="omeka">omeka_000131</identifier>
     <titleInfo>
       <title>Lewis Farm Letterhead</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
@@ -6873,7 +7101,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="w3cdtf" point="end">1949</dateCreated>
       <dateCreated>First half of 20th century?</dateCreated>
       <place>
-        <placeTerm type="text">Walpole, Massachusetts</placeTerm>
+        <placeTerm type="text">Walpole (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -6912,12 +7140,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000132</identifier>
+    <identifier type="omeka">omeka_000132</identifier>
     <titleInfo>
-      <title>De Constructione</title>
+      <title>De Constructione. Page 1 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -6953,7 +7183,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_009_001.tif</note>
     <name>
-      <namePart>Priscian, fl. ca. 500-530</namePart>
+      <namePart>Priscian, active approximately 500-530</namePart>
     </name>
     <subject>
       <topic>Latin language--Grammar</topic>
@@ -6971,14 +7201,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000133</identifier>
+    <identifier type="omeka">omeka_000133</identifier>
     <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 hornbook</extent>
+      <extent>1 image</extent>
       <form>objects</form>
-      <form>hornbooks</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1600</dateCreated>
@@ -7026,12 +7257,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000134</identifier>
+    <identifier type="omeka">omeka_000134</identifier>
     <titleInfo>
-      <title>Dictionaire des Halles, ou,  Extrait du Dictionnaire de l’Academie Françoise</title>
+      <title>Dictionaire des Halles, ou,  Extrait du Dictionnaire de l’Academie Françoise. Page 1 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -7067,7 +7300,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_062_001.tif</note>
     <name>
-      <namePart>Artaud, fl. 1696-1700</namePart>
+      <namePart>Artaud, active 1696-1700</namePart>
     </name>
     <subject>
       <topic>French language--Slang</topic>
@@ -7085,13 +7318,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000135</identifier>
-    <identifier>CLIO id: 1079741</identifier>
+    <identifier type="omeka">omeka_000135</identifier>
+    <identifier type="CLIO">CLIO_1079741</identifier>
     <titleInfo>
-      <title>Myrrour of the Worlde</title>
+      <title>Myrrour of the Worlde. 2 unnumbered pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -7099,7 +7334,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1481</dateCreated>
       <publisher>William Caxton</publisher>
       <place>
-        <placeTerm type="text">Westminster</placeTerm>
+        <placeTerm type="text">Westminster (London, England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7128,7 +7363,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note>original filename: PLMPTN_027_001.tif</note>
     <note>original filename: PLMPTN_027_002.tif</note>
     <name>
-      <namePart>Caxton, William,  ca. 1422-1491 or 2</namePart>
+      <namePart>Caxton, William, approximately 1422-1491 or 1492</namePart>
     </name>
     <subject>
       <topic>Earth</topic>
@@ -7146,17 +7381,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000136</identifier>
+    <identifier type="omeka">omeka_000136</identifier>
     <titleInfo>
       <title>Portrait of George Arthur Plimpton as older man</title>
     </titleInfo>
-    <titleInfo>
+    <titleInfo type="alternative">
       <title>George Arthur Plimpton</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1930</dateCreated>
@@ -7200,16 +7436,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000138</identifier>
-    <identifier>CLIO id: 6182023</identifier>
+    <identifier type="omeka">omeka_000138</identifier>
+    <identifier type="CLIO">CLIO_6182023</identifier>
     <titleInfo>
-      <title>Plan for the Conduct of Female Education in Boarding Schools</title>
+      <title>Plan for the Conduct of Female Education in Boarding Schools. Preliminary page, title page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Female education</title>
+    <titleInfo type="alternative">
+      <title>Female education. Preliminary page, title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>frontispiece, title page</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -7264,15 +7502,16 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000140</identifier>
-    <identifier>CLIO id: 3387765</identifier>
+    <identifier type="omeka">omeka_000140</identifier>
+    <identifier type="CLIO">CLIO_3387765</identifier>
     <titleInfo>
-      <title>Marks of Merit, Together with an article on Hornbooks and their use in America</title>
+      <title>Marks of Merit, Together with an article on Hornbooks and their use in America. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
-      <form>hornbooks</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1916</dateCreated>
@@ -7280,7 +7519,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1916</dateCreated>
       <publisher>Ginn &amp; Company</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7322,19 +7561,21 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000141</identifier>
+    <identifier type="omeka">omeka_000141</identifier>
     <titleInfo>
-      <title>Penmanship</title>
+      <title>Penmanship. Cover page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1835-12-16</dateCreated>
       <dateCreated>Dec. 16, 1835</dateCreated>
       <place>
-        <placeTerm type="text">Walpole, Massachusetts</placeTerm>
+        <placeTerm type="text">Walpole (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7380,15 +7621,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000142</identifier>
+    <identifier type="omeka">omeka_000142</identifier>
     <titleInfo>
       <title>Announcement of Education of Chaucer</title>
     </titleInfo>
-    <titleInfo>
+    <titleInfo type="alternative">
       <title>Education of Chaucer, the opinion of an outstanding authority</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>3 pages</extent>
+      <extent>3 images</extent>
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
@@ -7443,12 +7686,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000143</identifier>
+    <identifier type="omeka">omeka_000143</identifier>
     <titleInfo>
-      <title>Commentaries on Aristotle</title>
+      <title>Commentaries on Aristotle. Primus section, first page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -7503,23 +7748,25 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000144</identifier>
-    <identifier>CLIO id: 4079845</identifier>
+    <identifier type="omeka">omeka_000144</identifier>
+    <identifier type="CLIO">CLIO_4079845</identifier>
     <titleInfo>
-      <title>Processional</title>
+      <title>Processional. 1 unnumbered page recto</title>
     </titleInfo>
-    <titleInfo>
-      <title>Processional Manuscript book on parchment</title>
+    <titleInfo type="alternative">
+      <title>Processional Manuscript book on parchment. 1 unnumbered page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>music</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1351</dateCreated>
       <dateCreated>1351</dateCreated>
       <place>
-        <placeTerm type="text">Flanders</placeTerm>
+        <placeTerm type="text">Flanders (Belgium)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7568,13 +7815,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000145</identifier>
-    <identifier>CLIO id: 6191099</identifier>
+    <identifier type="omeka">omeka_000145</identifier>
+    <identifier type="CLIO">CLIO_6191099</identifier>
     <titleInfo>
-      <title>Operina di Ludouico Vicentino</title>
+      <title>Operina di Ludouico Vicentino. Title page verso</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -7627,13 +7876,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000146</identifier>
-    <identifier>CLIO id: 1638076</identifier>
+    <identifier type="omeka">omeka_000146</identifier>
+    <identifier type="CLIO">CLIO_1638076</identifier>
     <titleInfo>
-      <title>Sententiarum Libri IV</title>
+      <title>Sententiarum Libri IV. Page II recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page II</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -7641,7 +7892,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>March 10, 1477</dateCreated>
       <publisher>Vindelinus de Spira</publisher>
       <place>
-        <placeTerm type="text">Venice</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7669,7 +7920,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_044_001.tif</note>
     <name>
-      <namePart>Peter Lombard, Bishop of Paris, ca. 1100-1160</namePart>
+      <namePart>Peter Lombard, Bishop of Paris, approximately 1100-1160</namePart>
     </name>
     <subject>
       <topic>Theology</topic>
@@ -7687,22 +7938,24 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000147</identifier>
+    <identifier type="omeka">omeka_000147</identifier>
     <titleInfo>
-      <title>Gruenndtlich Formular manncherley Art Lateinischer unnd Teutscher Handschrifften</title>
+      <title>Gruenndtlich Formular manncherley Art Lateinischer unnd Teutscher Handschrifften. 1 unnumbered page recto</title>
     </titleInfo>
-    <titleInfo>
-      <title>Calligraphy Manuscript book on paper and on parchment</title>
+    <titleInfo type="translated">
+      <title>Calligraphy Manuscript book on paper and on parchment. 1 unnumbered page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1550</dateCreated>
       <dateCreated>1550</dateCreated>
       <place>
-        <placeTerm type="text">Nuremberg</placeTerm>
+        <placeTerm type="text">Nuremberg (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7748,12 +8001,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000148</identifier>
+    <identifier type="omeka">omeka_000148</identifier>
     <titleInfo>
-      <title>Latin Grammar</title>
+      <title>Latin Grammar. Page 82 verso - page 83 recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -7789,7 +8044,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_035_001.tif</note>
     <name>
-      <namePart>Priscian, fl. ca. 500-530</namePart>
+      <namePart>Priscian, active approximately 500-530</namePart>
     </name>
     <subject>
       <topic>Latin language--Grammar</topic>
@@ -7807,12 +8062,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000149</identifier>
+    <identifier type="omeka">omeka_000149</identifier>
     <titleInfo>
-      <title>Trésor</title>
+      <title>Trésor. Page VIII verso - page IX recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -7866,15 +8123,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000150</identifier>
+    <identifier type="omeka">omeka_000150</identifier>
     <titleInfo>
-      <title>De Rhetorica Seu de Arte Dicendi Libri Tres, Graecolat</title>
+      <title>De Rhetorica Seu de Arte Dicendi Libri Tres, Graecolat. 2 unknown pages</title>
     </titleInfo>
-    <titleInfo>
-      <title>Aristotelous Technēs rhētorikēs biblia tria</title>
+    <titleInfo type="translated">
+      <title>Aristotelous Technēs rhētorikēs biblia tria. 2 unknown pages</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -7882,7 +8141,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1619</dateCreated>
       <publisher>Edward Griffin</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7923,15 +8182,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000152</identifier>
+    <identifier type="omeka">omeka_000152</identifier>
     <titleInfo>
-      <title>Atlas des Enfans, ou, Nouvelle Méthode pour Apprendre la Géographie</title>
+      <title>Atlas des Enfans, ou, Nouvelle Méthode pour Apprendre la Géographie. Preliminary page, title page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Nouvelle Méthode pour Apprendre la Géographie</title>
+    <titleInfo type="alternative">
+      <title>Nouvelle Méthode pour Apprendre la Géographie. Preliminary page, title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>frontispiece, title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -7939,7 +8200,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1790</dateCreated>
       <publisher>Jean-Marie Bruyset</publisher>
       <place>
-        <placeTerm type="text">Lyon</placeTerm>
+        <placeTerm type="text">Lyon (France)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -7984,13 +8245,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000153</identifier>
-    <identifier>CLIO id: 1638086</identifier>
+    <identifier type="omeka">omeka_000153</identifier>
+    <identifier type="CLIO">CLIO_1638086</identifier>
     <titleInfo>
-      <title>De Educatione Puerorum ad Regem Bohemiae Ladislaum</title>
+      <title>De Educatione Puerorum ad Regem Bohemiae Ladislaum. 1 unnumbered page recto</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -7998,7 +8261,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>circa 1470</dateCreated>
       <publisher>Ulrich Zel</publisher>
       <place>
-        <placeTerm type="text">Cologne</placeTerm>
+        <placeTerm type="text">Cologne (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8047,12 +8310,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000154</identifier>
+    <identifier type="omeka">omeka_000154</identifier>
     <titleInfo>
       <title>This office will be closed…on account of the death of Mrs. George A. Plimpton</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
@@ -8060,7 +8325,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Dec. 1900</dateCreated>
       <publisher>Ginn and Company</publisher>
       <place>
-        <placeTerm type="text">Boston?</placeTerm>
+        <placeTerm type="text">Boston (Mass.)?</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8104,15 +8369,17 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000155</identifier>
+    <identifier type="omeka">omeka_000155</identifier>
     <titleInfo>
-      <title>Young Lady's Accidence, or, A short and easy introduction to English grammar</title>
+      <title>Young Lady's Accidence, or, A short and easy introduction to English grammar. Title page</title>
     </titleInfo>
-    <titleInfo>
-      <title>Short and easy introduction to English grammar</title>
+    <titleInfo type="alternative">
+      <title>Short and easy introduction to English grammar. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -8120,7 +8387,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1792</dateCreated>
       <publisher>I. Thomas and E. T. Andrews</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8145,11 +8412,6 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Plimpton</title>
       </titleInfo>
     </relatedItem>
-    <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton A424 1792 B52</title>
-      </titleInfo>
-    </relatedItem>
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_128_001.tif</note>
     <name>
@@ -8171,16 +8433,18 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000156</identifier>
-    <identifier>CLIO id: 1808636</identifier>
+    <identifier type="omeka">omeka_000156</identifier>
+    <identifier type="CLIO">CLIO_1808636</identifier>
     <titleInfo>
-      <title>American Penman, Comprising the Art of Writing, Plain and Ornamental</title>
+      <title>American Penman, Comprising the Art of Writing, Plain and Ornamental. Front cover</title>
     </titleInfo>
-    <titleInfo>
-      <title>Huntington's American penman</title>
+    <titleInfo type="alternative">
+      <title>Huntington's American penman. Front cover</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -8188,7 +8452,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>1824</dateCreated>
       <publisher>E. Huntington</publisher>
       <place>
-        <placeTerm type="text">Hartford, Conn.</placeTerm>
+        <placeTerm type="text">Hartford (Conn.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8234,13 +8498,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000157</identifier>
-    <identifier>CLIO id: 1079995</identifier>
+    <identifier type="omeka">omeka_000157</identifier>
+    <identifier type="CLIO">CLIO_1079995</identifier>
     <titleInfo>
-      <title>Elementa Geometriae</title>
+      <title>Elementa Geometriae. First page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
     <originInfo>
@@ -8248,7 +8514,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>May 25, 1482</dateCreated>
       <publisher>Erhard Ratdolt</publisher>
       <place>
-        <placeTerm type="text">Venice</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8294,12 +8560,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000158</identifier>
+    <identifier type="omeka">omeka_000158</identifier>
     <titleInfo>
       <title>Cuneiform tablet</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 cuneiform tablet</extent>
+      <extent>1 image</extent>
       <form>objects</form>
     </physicalDescription>
     <originInfo>
@@ -8307,7 +8575,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated encoding="iso8601" point="end">-1761</dateCreated>
       <dateCreated>circa 1820-1762 BCE</dateCreated>
       <place>
-        <placeTerm type="text">Larsa (Tell Senkereh), Iraq</placeTerm>
+        <placeTerm type="text">Larsa (Extinct city)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8350,13 +8618,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000159</identifier>
-    <identifier>CLIO id: 3188778</identifier>
+    <identifier type="omeka">omeka_000159</identifier>
+    <identifier type="CLIO">CLIO_3188778</identifier>
     <titleInfo>
       <title>Cherokee alphabet</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
     <originInfo>
@@ -8410,13 +8680,15 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000160</identifier>
-    <identifier>CLIO id: 1623898</identifier>
+    <identifier type="omeka">omeka_000160</identifier>
+    <identifier type="CLIO">CLIO_1623898</identifier>
     <titleInfo>
-      <title>De Disciplina Scholarium</title>
+      <title>De Disciplina Scholarium. 1 unnumbered page verso</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
@@ -8424,7 +8696,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <dateCreated>Feb. 1, 1491</dateCreated>
       <publisher>Printer of the 1483 Jordanus de Quedlinburg (Georg Husner)</publisher>
       <place>
-        <placeTerm type="text">Strasbourg</placeTerm>
+        <placeTerm type="text">Strasbourg (France)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8455,7 +8727,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
       <namePart>Pseudo-Boethius</namePart>
     </name>
     <name>
-      <namePart>Thomas, de Cantimpré, ca. 1200-ca. 1270</namePart>
+      <namePart>Thomas, de Cantimpré, approximately 1200-approximately 1270</namePart>
     </name>
     <subject>
       <topic>Education</topic>
@@ -8473,22 +8745,23 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000161</identifier>
-    <identifier>CLIO id: 3036072</identifier>
+    <identifier type="omeka">omeka_000161</identifier>
+    <identifier type="CLIO">CLIO_3036072</identifier>
     <titleInfo>
-      <title>Tabvlae Abcdariae Pveriles</title>
+      <title>Tabvlae Abcdariae Pveriles. Title page</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
-      <form>primers</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1544</dateCreated>
       <dateCreated>circa 1544</dateCreated>
       <publisher>Valentin Babst</publisher>
       <place>
-        <placeTerm type="text">Leipzig</placeTerm>
+        <placeTerm type="text">Leipzig (Germany)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8516,7 +8789,7 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     <note type="ownership">Gift of George Arthur Plimpton</note>
     <note>original filename: PLMPTN_056_001.tif</note>
     <name>
-      <namePart>Platearus, Petrus, 16th cent.</namePart>
+      <namePart>Platearus, Petrus, active 16th century</namePart>
     </name>
     <typeOfResource>still image</typeOfResource>
     <language>
@@ -8531,12 +8804,14 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000162</identifier>
+    <identifier type="omeka">omeka_000162</identifier>
     <titleInfo>
       <title>Hornbook mould</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 hornbook mould</extent>
+      <extent>1 image</extent>
       <form>objects</form>
     </physicalDescription>
     <originInfo>
@@ -8584,19 +8859,21 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000173</identifier>
+    <identifier type="omeka">omeka_000173</identifier>
     <titleInfo>
       <title>Honorary Degree given to George A. Plimpton</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1929-06-05</dateCreated>
       <dateCreated>June 5, 1929</dateCreated>
       <place>
-        <placeTerm type="text">New York, NY</placeTerm>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
     </originInfo>
     <location>
@@ -8639,20 +8916,23 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_000176</identifier>
+    <identifier type="omeka">omeka_000176</identifier>
     <titleInfo>
       <title>George A. Plimpton's astrolabe</title>
     </titleInfo>
-    <titleInfo>
+    <titleInfo type="alternative">
       <title>Mr. Plimpton's astrolabe</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 astrolabe</extent>
+      <extent>1 image</extent>
       <form>objects</form>
     </physicalDescription>
     <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1800</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1900</dateCreated>
+      <dateCreated>1800-1900</dateCreated>
     </originInfo>
     <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
@@ -8676,12 +8956,8 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
         <title>Smith Instruments</title>
       </titleInfo>
     </relatedItem>
-    <relatedItem type="original">
-      <titleInfo>
-        <title>Astrolabe</title>
-      </titleInfo>
-    </relatedItem>
     <note>original filename: PLMPTN_081_001.tif</note>
+    <abstract>Astrolabe</abstract>
     <typeOfResource>still image</typeOfResource>
     <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -8695,12 +8971,13 @@ D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Librar
     </recordInfo>
   </mods>
   <mods>
-    <identifier type="local">omeka_006135</identifier>
+    <identifier type="omeka">omeka_006135</identifier>
     <titleInfo>
       <title>Letter to George Arthur Plimpton, May 8, 1933</title>
     </titleInfo>
     <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
       <form>manuscripts</form>
     </physicalDescription>
     <originInfo>
