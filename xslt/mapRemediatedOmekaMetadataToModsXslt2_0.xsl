@@ -179,7 +179,7 @@
   
   <!-- fcd1, 04/23/14: MODS <form> -->
   <xsl:template name="Form">
-      <xsl:for-each select="*[starts-with(name(), 'item_-_MODS_-_FormGenre')]">
+      <xsl:for-each select="*[matches(name(),'item_-_MODS_-_FormGenre(|_\d)$')]">
 	<xsl:if test=" . != '' ">
 	  <form><xsl:value-of select="."/></form>
 	</xsl:if>
