@@ -15,7 +15,7 @@
   <xsl:template name="identifier">
     <xsl:if test="@type='local'">
       <xsl:text>&#10;</xsl:text>
-      <xsl:value-of select="concat('koreanoutbreak_',concat(.,'.xml'))"/>
+      <xsl:value-of select="concat('averyephemera_',concat(.,'.xml'))"/>
       <xsl:text>,</xsl:text>
       <xsl:apply-templates select="../note">
 	<xsl:with-param name="endofline">
